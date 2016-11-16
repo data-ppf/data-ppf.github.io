@@ -2,7 +2,7 @@
 % matt jones & chris wiggins
 % Nov 16 2016
 
------
+
 
 # The class
 

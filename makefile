@@ -7,4 +7,14 @@ index.html: ppf.md
 clean:
 	rm index.html
 
+www:
+	open http://data-ppf.github.io
 
+open: index.html
+	open index.html
+
+edit:
+	vi ppf.md
+
+git: index.html
+	git pull origin master;git commit -a ;git push origin master
