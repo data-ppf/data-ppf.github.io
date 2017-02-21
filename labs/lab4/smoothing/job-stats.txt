@@ -1,0 +1,1032 @@
+   1  Albanian nun, missionary
+   1  Argentine political leader
+   1  Argentine revolutionary
+   1  Australian nurse
+   1  Australian opera singer
+   1  Australian political leader
+   1  Austrian author, poet
+   1  Austrian composer
+   1  Austrian composer, conductor
+   1  Austrian journalist, critic, playwright, poet
+   1  Austrian philosopher
+   1  Austrian pianist, teacher
+   1  Austrian psychiatrist
+   1  Austrian psychoanalyst
+   1  Austrian ruler
+   1  Belgian dramatist, author
+   1  Bengali poet, novelist, composer
+   1  British actress
+   1  British military and political leader
+   1  British philosopher
+   1  British statesman
+   1  Brtitish historian, philosopher
+   1  Canadian actress
+   1  Canadian artist, writer
+   1  Canadian author
+   1  Canadian author, educator, economist, humorist
+   1  Canadian educator, author
+   1  Canadian jurist, author
+   1  Canadian literary critic, educator
+   1  Canadian philosopher, author
+   1  Canadian physician
+   1  Canadian poet, author
+   1  Chilean poet, diplomat, Marxist
+   1  Cuban poet, patriot
+   1  Danish astronomer
+   1  Danish philosopher, writer
+   1  Danish physicist
+   1  Dutch artist
+   1  Dutch biologist
+   1  Dutch evangelist
+   1  Dutch lawyer, writer
+   1  Dutch philosopher
+   1  Engish economist, write
+   1  English African novelist
+   1  English Mathematician, astronomer
+   1  English actor, director, biographer
+   1  English actor, director, composer
+   1  English actor, director, playwright
+   1  English actor, producer, director
+   1  English actor, theater manager
+   1  English actor, theater manager, dramatist
+   1  English actress, sculptor
+   1  English antiquarian, writer
+   1  English archbishop, philogist, poet
+   1  English art critic
+   1  English art historian, author
+   1  English artist
+   1  English author, critic
+   1  English author, historian, statesman, poet
+   1  English author, painter
+   1  English author, scholar
+   1  English aviator
+   1  English biographer, critic
+   1  English biologist
+   1  English biologist, essayist
+   1  English bishop
+   1  English bishop, moral philosopher, satirist
+   1  English bishop, theologian
+   1  English chemist
+   1  English chemist, political theorist, clergyman
+   1  English classical scholar
+   1  English clergyman
+   1  English clergyman, author
+   1  English clergyman, essayist
+   1  English clergyman, poet, hymn writer
+   1  English clergyman, writer
+   1  English colonizer
+   1  English comedian
+   1  English comedienne
+   1  English composer
+   1  English conductor
+   1  English courtier, statesman
+   1  English craftsman, poet
+   1  English detective story writer
+   1  English diarist, naval administrator
+   1  English diplomat, author
+   1  English director
+   1  English divine
+   1  English dramatist, actor, author
+   1  English dramatist, architect
+   1  English dramatist, author
+   1  English dramatist, critic
+   1  English dramatist, songwriter
+   1  English dramatist, translator, poet
+   1  English dramatist, writer
+   1  English economist, editor, critic, analyst
+   1  English economist, journalist, educator
+   1  English economist, philosopher
+   1  English economist, reformer
+   1  English educator
+   1  English essayist, author
+   1  English essayist, caricaturist, parodist
+   1  English essayist, novelist, journalist, poet
+   1  English filmmaker
+   1  English government official
+   1  English historian, mathematician
+   1  English historian, novelist, essayist
+   1  English historian, philosopher
+   1  English historian, writer
+   1  English humanist , statesman
+   1  English humorist
+   1  English humorist, children's author
+   1  English humorist, playwright, journalist
+   1  English humorous writer
+   1  English intellectual, conversationalist
+   1  English journalist, author
+   1  English journalist, editor, author
+   1  English journalist, editor, writer
+   1  English journalist, novelist
+   1  English journalist, politician, historian
+   1  English judge, politician
+   1  English jurist
+   1  English jurist, scholar
+   1  English labour party leader
+   1  English lexicographer, critic
+   1  English minister
+   1  English naturalist
+   1  English naturalist, author
+   1  English naturalist, banker, statesman
+   1  English naturalist, philosopher
+   1  English naval officer
+   1  English navigator, historian, courtier
+   1  English novelist, critic, dramatist
+   1  English novelist, critic, man of letters
+   1  English novelist, dramatist
+   1  English novelist, humorist
+   1  English novelist, playwright
+   1  English novelist, playwright, dramatist
+   1  English novelist, playwright, religioius leader
+   1  English novelist, poet, critic, teacher
+   1  English novelist, poet, playwright
+   1  English novelist, poet, writer
+   1  English novelist, scholar
+   1  English novelist, scientist, government official
+   1  English novelist, social critic
+   1  English novelist, writer
+   1  English nurse, reformer
+   1  English painter, poet
+   1  English philosopher, critic, dramatist, scientist
+   1  English philosopher, economist, jurist
+   1  English philosopher, statesman, essayist
+   1  English photographer
+   1  English physician, poet
+   1  English physician, writer
+   1  English physicist
+   1  English physicist, chemist
+   1  English playwright, actor, composer, director
+   1  English playwright, poet
+   1  English playwright, poet, actor
+   1  English playwright, screen writer
+   1  English poet, activist
+   1  English poet, artist, visionary
+   1  English poet, author, librarian
+   1  English poet, composer, physician
+   1  English poet, critic, biographer
+   1  English poet, critic, editor
+   1  English poet, critic, essayist
+   1  English poet, dramatist, critic
+   1  English poet, dramatist, essayist
+   1  English poet, editor
+   1  English poet, essayist, playwright
+   1  English poet, gardener, collector
+   1  English poet, landscape painter
+   1  English poet, religious leader
+   1  English poet, soldier, author
+   1  English political author
+   1  English political leader
+   1  English political philosopher
+   1  English politican
+   1  English politician, businessman, social reformer
+   1  English politician, man of letters
+   1  English politician, orator
+   1  English politician, physician, author
+   1  English prelate, writer
+   1  English priest, theologian, poet
+   1  English prime minister
+   1  English psychiatrist
+   1  English psychologist
+   1  English publisher, statesman
+   1  English religious leader
+   1  English religious leader, author
+   1  English religious leader, prelate, writer
+   1  English ruler
+   1  English scholar, explorer
+   1  English scholar, poet
+   1  English scholar, preacher
+   1  English scholar, writer, clergyman
+   1  English scientist, explorer
+   1  English sculptor, engraver, author
+   1  English singer
+   1  English singer, songwriter, musician
+   1  English social reformer, philanthropist
+   1  English social reformer, writer
+   1  English socialite, writer
+   1  English soldier, author
+   1  English soldier, statesman
+   1  English sportsman, writer
+   1  English statesman, financier
+   1  English statesman, novelist
+   1  English statesman, orator
+   1  English stateswoman
+   1  English theatre critic
+   1  English traveler, author
+   1  English traveler, linguist
+   1  English writer, essayist
+   1  English writer, women's rights activist
+   1  English zoologist
+   1  Ethiopian political leader
+   1  French actor, singer
+   1  French artist, author
+   1  French artist, painter
+   1  French author, dramatist
+   1  French author, journalist
+   1  French biographer, novelist, essayist
+   1  French biologist, writer
+   1  French chemist, bacteriologist
+   1  French cleric
+   1  French conductor, educator
+   1  French critic
+   1  French dancer, singer, entertainer
+   1  French diplomat, writer
+   1  French dramatist, novelist, diplomat
+   1  French dramatist, poet
+   1  French dramatist, poet, actor
+   1  French dramatist, screenwriter
+   1  French editor, philosopher
+   1  French essayist, courtier
+   1  French essayist, moralist
+   1  French fashion designer
+   1  French field marshal
+   1  French filmmaker, dramatist, actor
+   1  French financier
+   1  French intellectual
+   1  French journalist, epigrammatist
+   1  French journalist, playwright, aphorist
+   1  French lawyer, political philosopher
+   1  French librarian, writer
+   1  French literary poet, critic
+   1  French man of letters
+   1  French mathematician
+   1  French mathematician, physicist, theologian
+   1  French monk, poet
+   1  French moralist, essayist
+   1  French naval officer, explorer
+   1  French novelist, art historian, public official
+   1  French novelist, critic
+   1  French novelist, dramatist, essayist
+   1  French novelist, essayist
+   1  French novelist, essayist, poet, playwright
+   1  French novelist, poet
+   1  French novelist, poet, playwright, philosopher
+   1  French novelist, polemical writer
+   1  French painter, designer
+   1  French painter, illustrator, designer, editor
+   1  French painter, sculptor, designer
+   1  French painter, sculptor, printmaker
+   1  French philosopher, author
+   1  French philosopher, historian, scholar
+   1  French philosopher, mathematician, scientist
+   1  French philosopher, novelist, dramatist
+   1  French philosopher, paleontologist
+   1  French philosopher, poet
+   1  French philosopher, poet, novelist, playwright
+   1  French philosopher, writer
+   1  French physiologist
+   1  French playwright
+   1  French playwright, novelist, journalist, lawyer
+   1  French poet, adventurer
+   1  French poet, critic
+   1  French poet, critic, translator
+   1  French poet, essayist, critic, editor
+   1  French poet, historian
+   1  French poet, historian, political philosopher
+   1  French poet, novelist, director
+   1  French politician
+   1  French president, politician, military leader
+   1  French revolutionary leader, orator
+   1  French ruler
+   1  French scientist, historian, politician
+   1  French sculptor
+   1  French social reformer, author
+   1  French society figure, courtesan
+   1  French sociologist
+   1  French soldier, emperor
+   1  French statesman
+   1  French statesman, bank director, teacher
+   1  French theologian, author
+   1  French theologian, ecclesiastical statesman
+   1  French theologian, musician, medical missionary
+   1  French writer, consort
+   1  Genoese propagandist, revolutionary
+   1  German architect
+   1  German artist
+   1  German astronomer
+   1  German composer, organist
+   1  German critic, writer
+   1  German dramatist, poet
+   1  German dramatist, poet, historian
+   1  German man of letters, aesthetician
+   1  German novelist
+   1  German novelist, humorist
+   1  German opera composer
+   1  German opera singer
+   1  German philosopher, dramatist, critic
+   1  German philosopher, poet
+   1  German physicist, writer
+   1  German poet
+   1  German poet, critic
+   1  German religious reformer
+   1  German scholar, philosopher, diplomat, educator
+   1  German socialist leader, philosopher
+   1  German theologian
+   1  German writer
+   1  Ghanian political leader
+   1  Greek shipping magnate
+   1  Greek writer
+   1  Hungarian children's writer, illustrator
+   1  Indian government official
+   1  Indian physician, sage
+   1  Iranian religious leader
+   1  Irish author, art critic
+   1  Irish author, journalist
+   1  Irish author, poet, dramatist
+   1  Irish dramatist, author
+   1  Irish dramatist, parliamentary orator
+   1  Irish novelist
+   1  Irish novelist, poet, playwright
+   1  Irish playwright
+   1  Irish playwright, novelist
+   1  Irish poet
+   1  Irish poet, dramatist
+   1  Irish poet, editor
+   1  Israeli political leader
+   1  Italian actress
+   1  Italian architect, philospher, poet
+   1  Italian author
+   1  Italian conductor
+   1  Italian criminologist, physician, educator
+   1  Italian educator, reformer
+   1  Italian explorer
+   1  Italian film director
+   1  Italian intellectual, politician
+   1  Italian opera composer
+   1  Italian painter, sculptor, architect, engineer
+   1  Italian painter, sculptor, architect, poet
+   1  Italian philosopher
+   1  Italian philosopher, statesman, writer
+   1  Italian physicist, astronomer
+   1  Italian playwright
+   1  Italian poet, critic, novelist, translator
+   1  Italian poet, writer, dramatist
+   1  Italian political leader
+   1  Italian theologian, philosopher
+   1  Jamaican political leader
+   1  Japanese warrior, strategist
+   1  Jewish philosopher, jurist, physician
+   1  Mexican film director
+   1  New Zealander author
+   1  Norwegian novelist
+   1  Norweigan poet, dramatist
+   1  Persian poet
+   1  Persian poet, mathematician, astronomer
+   1  Polish German socialist, writer
+   1  Polish aphorist, poet, satirist
+   1  Polish astronomer
+   1  Polish ruler
+   1  Prussian military leader, author
+   1  Roman emperorer, ruler
+   1  Roman religious leader
+   1  Russian actor, director
+   1  Russian anarchist
+   1  Russian author
+   1  Russian author, translator, theosophist
+   1  Russian ballerina
+   1  Russian choreographer
+   1  Russian communist leader
+   1  Russian communist leader, author
+   1  Russian communist revolutionary
+   1  Russian composer
+   1  Russian empress
+   1  Russian novelist
+   1  Russian novelist, philosopher
+   1  Russian novelist, poet
+   1  Russian physiologist
+   1  Same as Edgar Watson Howe?????
+   1  Scotish poet
+   1  Scottish author, government official
+   1  Scottish author, physician
+   1  Scottish author, poet, essayist, critic
+   1  Scottish clergyman, naturalist
+   1  Scottish comedian
+   1  Scottish dramatist, novelist
+   1  Scottish economist
+   1  Scottish essayist, historian
+   1  Scottish journalist
+   1  Scottish lawyer, biographer
+   1  Scottish missionary, explorer
+   1  Scottish novelist, poet, historian, biographer
+   1  Scottish philosopher, historian
+   1  Scottish poet, dramatist
+   1  Scottish poet, essayist
+   1  Scottish poet, journalist
+   1  Scottish theologian, religious leader
+   1  Scottish writer
+   1  South African golfer
+   1  Soviet Georgian poet
+   1  Spanish dramatist, poet
+   1  Spanish educator, philosopher, author
+   1  Spanish mystic, poet
+   1  Spanish novelist, dramatist, poet
+   1  Spanish painter, printmaker
+   1  Spanish painter, sculptor
+   1  Spanish philosopher
+   1  Spanish philosopher, writer
+   1  Spanish poet, dramatist
+   1  Swedish botanist
+   1  Swedish chemist, inventor, philanthropist
+   1  Swedish diplomat, political economist
+   1  Swedish ruler
+   1  Swedish writer, feminist
+   1  Swiss architect, city planner
+   1  Swiss author
+   1  Swiss dramatist, author
+   1  Swiss novelist
+   1  Swiss painter
+   1  Swiss psychologist, psychiatrist
+   1  Swiss theologian
+   1  Swiss theologian, author
+   1  Swiss writer
+   1  U.S. comedian, actor
+   1  U.S. culinary expert, author
+   1  U.S. humorist, author
+   1  U.S. lawyer
+   1  U.S. painter, sculptor, photographer
+   1  US 23rd president
+   1  US Blues singer
+   1  US Rhythm and Blues singer
+   1  US Supreme Court Justice
+   1  US abolitionist, editor
+   1  US abolitionist, feminist, clergy
+   1  US abolitionist, women's rights advocate
+   1  US activist, Underground Railroad organizer
+   1  US activist, social worker
+   1  US actor, director
+   1  US actor, director, producer, writer
+   1  US actor, lecturer, humorist
+   1  US actor, producer, business executive
+   1  US actor, singer, dancer
+   1  US actress, TV personality
+   1  US actress, author
+   1  US actress, dancer
+   1  US actress, opera singer, politician
+   1  US actress, philanthropist
+   1  US actress, singer
+   1  US actress, writer
+   1  US advertising executive
+   1  US advertising executive, copywriter
+   1  US anarchist
+   1  US anthropologist
+   1  US anthropologist, author
+   1  US anthropologist, educator, author
+   1  US antislavery lecturer, novelist, playwright
+   1  US architect
+   1  US architect, author
+   1  US architect, writer
+   1  US army general
+   1  US art historian
+   1  US artist, collagist
+   1  US astronomer
+   1  US astronomer, educator
+   1  US astronomer, inventor, poet
+   1  US athlete, scholar, actor, singer
+   1  US author, advertising executive
+   1  US author, critic
+   1  US author, dramatist
+   1  US author, educator
+   1  US author, essayist
+   1  US author, journalist, critic
+   1  US author, lawyer
+   1  US author, lecturer
+   1  US author, naturalist
+   1  US author, poet, educator
+   1  US author, poet, journalist, humorist
+   1  US author, political relative
+   1  US author, publisher
+   1  US author, socialite, celebrity relative
+   1  US author, teacher
+   1  US auto executive
+   1  US auto manufacturer
+   1  US aviator
+   1  US aviatrix
+   1  US ballet authority, impresario, writer
+   1  US bandleader, songwriter
+   1  US baseball pitcher
+   1  US baseball player, manager, executive
+   1  US baseball player, sportscaster
+   1  US basketball coach, sportscaster
+   1  US biographer, essayist
+   1  US biologist, writer
+   1  US blues singer
+   1  US blues singer, songwriter
+   1  US businessman, restaurateur
+   1  US businessman, statesman
+   1  US cartoonist, musical revue writer
+   1  US chef, author
+   1  US chemist
+   1  US chemist, ecologist
+   1  US chemist, educator
+   1  US children's author
+   1  US circus owner
+   1  US civil rights activist
+   1  US civil rights leader, clergyman
+   1  US clergy, author
+   1  US clergyman, educator, author
+   1  US college administrator
+   1  US columnist
+   1  US comedian, satirist, author
+   1  US comedian, vaudeville juggler
+   1  US comic actress
+   1  US composer, conductor
+   1  US composer, conductor, music critic
+   1  US composer, lyricist
+   1  US composer, musician, actor
+   1  US composer, poet, essayist, painter, pianist
+   1  US composer, singer
+   1  US confederate army general
+   1  US congressman
+   1  US cosmetician, executive, philanthropist
+   1  US cosmetics executive
+   1  US costume designer
+   1  US country singer
+   1  US critic, essayist
+   1  US critic, essayist, poet
+   1  US critic, lecturer
+   1  US critic, poet, novelist
+   1  US critic, social reformer, writer
+   1  US dancer
+   1  US dancer, actor
+   1  US dancer, choreographer
+   1  US dentist
+   1  US diarist, writer
+   1  US diplomat
+   1  US diplomat, congresswoman
+   1  US diplomat, educator
+   1  US diplomat, politician, lawyer
+   1  US drama critic, journalist
+   1  US dramatist, author, politician, diplomat
+   1  US dramatist, journalist
+   1  US dramatist, lyricist, composer
+   1  US economist, journalist
+   1  US economist, lecturer, author, feminist
+   1  US economist, social scientist
+   1  US editor, critic
+   1  US editor, essayist
+   1  US editor, humanitarian, women's rights advocate
+   1  US editor, novelist, essayist
+   1  US editor, poet
+   1  US editor, publisher
+   1  US editor, satirist
+   1  US editor, writer
+   1  US educator, actor
+   1  US educator, administrator
+   1  US educator, author
+   1  US educator, author, critic
+   1  US educator, clergyman
+   1  US educator, diarist
+   1  US educator, diplomat
+   1  US educator, feminist
+   1  US educator, feminist, writer
+   1  US educator, government official
+   1  US educator, historian
+   1  US educator, journalist
+   1  US educator, lecturer, psychologist
+   1  US educator, musician, novelist
+   1  US educator, novelist, poet
+   1  US educator, poet
+   1  US educator, poet, critic
+   1  US educator, politician
+   1  US educator, social reformer
+   1  US educator, theologian
+   1  US educator, university president
+   1  US electrical engineer, government official
+   1  US encyclopedia editor, essayist
+   1  US engineer, inventor
+   1  US essayist, poet, naturalist
+   1  US evangelist
+   1  US evangelist, reformer, suffragist, author
+   1  US fashion editor
+   1  US film director, actor
+   1  US financier
+   1  US financier, diplomat
+   1  US financier, philanthropist
+   1  US first lady, social reformer
+   1  US folk painter
+   1  US folksinger, songwriter, balladeer
+   1  US footbal coach
+   1  US forester, conservationist
+   1  US frontiersman, soldier, politician
+   1  US gangster
+   1  US golfer, teacher
+   1  US gospel singer
+   1  US graphic artist
+   1  US historian, abolitionist
+   1  US historian, editor
+   1  US historian, educator, essayist, critic
+   1  US historian, writer
+   1  US humanitarian
+   1  US humorist, essayist, novelist
+   1  US humorist, playwright
+   1  US industrialist, philanthropist
+   1  US inventor
+   1  US inventor, aviation pioneer
+   1  US jazz musician, composer
+   1  US jazz musician, composer, bandleader
+   1  US jazz pianist, composer
+   1  US jazz trumpeter, musician, composer, bandleader
+   1  US journalist, actress
+   1  US journalist, author, humorist
+   1  US journalist, author, poet
+   1  US journalist, biographer
+   1  US journalist, broadcaster
+   1  US journalist, cartoonist
+   1  US journalist, columnist, author
+   1  US journalist, dramatist, literary editor
+   1  US journalist, editor, author
+   1  US journalist, finance expert
+   1  US journalist, news commentator
+   1  US journalist, pamphleteer, author
+   1  US journalist, poet, dramatist, humorist
+   1  US journalist, publisher
+   1  US journalist, social reformer
+   1  US journalist, social reformer, lecturer
+   1  US judge, politician
+   1  US landscape photographer, conservationist
+   1  US lawyer, businessman
+   1  US lawyer, educator
+   1  US lawyer, historian
+   1  US lawyer, orator
+   1  US lawyer, orator, statesman
+   1  US lawyer, politican
+   1  US lawyer, politician
+   1  US lawyer, statesman
+   1  US lecturer, author
+   1  US legislator, minister
+   1  US lexicographer, educator
+   1  US librarian, writer
+   1  US literary critic, cultural historian
+   1  US literary critic, teacher
+   1  US lyric poet, critic
+   1  US lyricist, musical comedy author
+   1  US madam
+   1  US management consultant, statistician, educator
+   1  US manufacturer
+   1  US manufacturer, aviator, producer
+   1  US martial arts expert, actor
+   1  US mathematician
+   1  US mayor, lawyer
+   1  US merchant
+   1  US microbiologist
+   1  US military leader, mathematician, educator
+   1  US minister
+   1  US minister, theologian, author
+   1  US moralist, author, clergyman
+   1  US movie, producer
+   1  US musician
+   1  US musician, bandleader
+   1  US musician, blues & rock guitarist
+   1  US musician, instrumentalist
+   1  US musician, singer
+   1  US naturalist, conservationist, writer, critic.
+   1  US naturalist, plant breeder
+   1  US naturalist, writer
+   1  US naval officer
+   1  US newscaster
+   1  US newscaster, correspondent, journalist
+   1  US newscaster, correspondent, journalist, author
+   1  US newspaper columnist
+   1  US newspaper editor, reformer
+   1  US newspaper editor, writer
+   1  US newspaper publisher
+   1  US newspaperman, author, editor, publisher
+   1  US newspaperman, editor, poet
+   1  US nonfiction writer
+   1  US novelist, banker
+   1  US novelist, critic
+   1  US novelist, critic, actor
+   1  US novelist, dramatist
+   1  US novelist, educator
+   1  US novelist, essayist
+   1  US novelist, humorist, cartoonist
+   1  US novelist, journalist, river pilot
+   1  US novelist, lawyer
+   1  US novelist, physician
+   1  US novelist, playwright, screenwriter
+   1  US novelist, poet, critic, teacher
+   1  US novelist, poet, essayist
+   1  US novelist, poet, illustrator, dramatist
+   1  US nurse, first mother
+   1  US nurse, social reformer
+   1  US nutritionist, author
+   1  US oil magnate, philanthropist
+   1  US oil man
+   1  US opera singer
+   1  US orator, statesman
+   1  US pastor
+   1  US philosopher, author, educator, poet
+   1  US philosopher, educator
+   1  US philosopher, educator, writer
+   1  US philosopher, pamphleteer
+   1  US philosopher, poet, essayist
+   1  US philosopher, psychologist
+   1  US philosopher, scientist, logician
+   1  US physician, activist, novelist
+   1  US physician, congressman
+   1  US physician, humorist
+   1  US pianist, composer
+   1  US playwright, actress, director
+   1  US playwright, author
+   1  US playwright, novelist
+   1  US poet, artist
+   1  US poet, biographer
+   1  US poet, children's author
+   1  US poet, clergy, educator
+   1  US poet, critic, editor, diplomat
+   1  US poet, critic, educator
+   1  US poet, critic, lecturer
+   1  US poet, critic, translator
+   1  US poet, diplomat, anthologist
+   1  US poet, dramatist, critic
+   1  US poet, editor, social reformer
+   1  US poet, essayist
+   1  US poet, essayist, scholar
+   1  US poet, feminist
+   1  US poet, lecturer
+   1  US poet, novelist, critic
+   1  US poet, pacifist
+   1  US poet, playwright
+   1  US poet, playwright, teacher, public official
+   1  US poet, social worker
+   1  US political activist, civil rights leader
+   1  US political columnist, educator
+   1  US political, religious leader
+   1  US politican
+   1  US politican, pastor
+   1  US politician, abolitionist
+   1  US politician, administrator
+   1  US politician, conservationist
+   1  US politician, jurist
+   1  US politician, lawyer, teacher
+   1  US politician, pharmacist
+   1  US president (11th)
+   1  US president (14th)
+   1  US president (15th)
+   1  US president (18th)
+   1  US president (19th)
+   1  US president (1st), soldier, surveyor, farmer
+   1  US president (21st)
+   1  US president (22nd, 24th)
+   1  US president (25th)
+   1  US president (26th)
+   1  US president (27th )
+   1  US president (29th)
+   1  US president (2nd)
+   1  US president (30th), lawyer
+   1  US president (31st), engineer
+   1  US president (32nd)
+   1  US president (33rd), politician
+   1  US president (36th)
+   1  US president (37th), author
+   1  US president (4th), political theorist
+   1  US president (5th)
+   1  US president (6th)
+   1  US president (7th), soldier, lawyer, planter
+   1  US president, educator, architect, inventor
+   1  US president, lawyer
+   1  US president, lay preacher
+   1  US president, military leader
+   1  US president, political scientist, educator
+   1  US president, politician
+   1  US producer
+   1  US psychoanalyst, author
+   1  US psychoanalyst, philosopher
+   1  US psychoanalyst, writer
+   1  US psychologist, author
+   1  US psychologist, philosopher
+   1  US publisher
+   1  US publisher, author
+   1  US publisher, editor
+   1  US radio broadcaster, journalist
+   1  US reformer
+   1  US religious and civil rights leader
+   1  US religious leader, activist
+   1  US religious leader, evangelist
+   1  US religious leader, writer
+   1  US revivalist, baseball player
+   1  US revolutionary, statesman
+   1  US scholar, university president, politician
+   1  US screenwriter, dramatist, author
+   1  US screenwriter, novelist, dramatist
+   1  US sculptor
+   1  US sculptor, painter
+   1  US singer, bandleader
+   1  US singer, guitarist, philosopher, actor
+   1  US singing comedienne
+   1  US social activist
+   1  US social economist
+   1  US social reformer, civil rights leader
+   1  US social reformer, feminist
+   1  US social reformer, lawyer
+   1  US social reformer, lecturer
+   1  US social reformer, suffragist
+   1  US social worker, suffragist
+   1  US socialist, social reformer
+   1  US socialite
+   1  US sociologist, educator
+   1  US sports columnist, author
+   1  US sportswoman, golfer
+   1  US statesman
+   1  US statesman, author
+   1  US statesman, diplomat, inventor, printer
+   1  US statistician, columnist
+   1  US suffragist
+   1  US suffragist, feminist
+   1  US suffragist, politician
+   1  US supreme court justice, ambassador
+   1  US supreme court justice, writer
+   1  US surgeon, biologist
+   1  US teacher
+   1  US teacher, philosopher, reformer
+   1  US teacher, writer
+   1  US tennis player, AIDS spokesperson
+   1  US theologian, author
+   1  US theologian, pastor, scholar
+   1  US university administrator, baseball executive
+   1  US university administrator, diplomat
+   1  US urban planner, historian
+   1  US war hero, airline executive
+   1  US writer, TV hostess, columnist
+   1  US writer, TV personality
+   1  US writer, adventurer
+   1  US writer, celebrity relative
+   1  US writer, critic
+   1  US writer, educator
+   1  US writer, educator, philosopher
+   1  US writer, journalist, critic, educator
+   1  US writer, lecturer
+   1  US writer, novelist, playwright
+   1  US writer, philosopher, longshoreman
+   1  US writer, poet, humorist
+   1  US writer, poet, journalist
+   1  US writer, social reformer
+   1  US writer, suffragist
+   1  Welsh actor
+   1  Welsh author, dramatist
+   1  Welsh philosopher, mathematician, essayist
+   1  Welsh poet, writer
+   2  Australian novelist
+   2  British royalty
+   2  English actress
+   2  English author, poet
+   2  English children's author
+   2  English essayist, critic
+   2  English golfer
+   2  English lawyer
+   2  English mathematician, philosopher
+   2  English novelist, critic
+   2  English novelist, letter writer
+   2  English poet, critic
+   2  English poet, diplomat
+   2  English poet, novelist
+   2  English poet, writer
+   2  English preacher
+   2  English sculptor
+   2  English suffragist
+   2  English writer, poet
+   2  French actress
+   2  French diarist
+   2  French dramatist, author
+   2  German composer
+   2  German physicist
+   2  German poet, dramatist
+   2  German statesman
+   2  Indian philosopher
+   2  Indian political leader
+   2  Irish author
+   2  Italian composer
+   2  Japanese religious leader
+   2  Russian political leader
+   2  Scottish author
+   2  South African novelist
+   2  Swedish actress
+   2  US abolitionist
+   2  US actress, comedienne
+   2  US army officer
+   2  US artist, author
+   2  US author, illustrator
+   2  US author, journalist
+   2  US baseball player
+   2  US baseball player, manager
+   2  US broadcast journalist
+   2  US business executive
+   2  US clergyman, abolitionist
+   2  US clergyman, author
+   2  US composer
+   2  US director
+   2  US dramatist, author
+   2  US educator, university dean
+   2  US educator, writer
+   2  US entertainer
+   2  US essayist
+   2  US etiquette authority
+   2  US humorist
+   2  US industrialist
+   2  US jazz singer
+   2  US journalist, humorist
+   2  US labor organizer
+   2  US lawyer
+   2  US novelist, editor
+   2  US novelist, journalist
+   2  US novelist, playwright
+   2  US novelist, writer
+   2  US philosopher
+   2  US physicist
+   2  US playwright
+   2  US poet, editor
+   2  US poet, educator
+   2  US poet, journalist
+   2  US poet, novelist
+   2  US poet, writer
+   2  US poet, writer, editor
+   2  US psychiatrist
+   2  US psychoanalyst
+   2  US science fiction writer
+   2  US singer, actress
+   2  US sociologist
+   2  US statesman, orator
+   2  US surgeon
+   3  British ruler
+   3  English author, dramatist
+   3  English critic, author
+   3  English economist
+   3  English historian
+   3  English philosopher
+   3  English poet, essayist
+   3  English politician
+   3  French composer
+   3  French dramatist
+   3  French novelist
+   3  French philosopher
+   3  French writer
+   3  Italian poet
+   3  Italian religious leader
+   3  Scottish novelist
+   3  Scottish poet
+   3  US actor, comedian
+   3  US author, editor
+   3  US businessman
+   3  US cartoonist
+   3  US civil rights leader
+   3  US clergyman
+   3  US comedian, actor
+   3  US comedienne
+   3  US dramatist
+   3  US editor
+   3  US golfer
+   3  US historian
+   3  US historian, author
+   3  US journalist, editor
+   3  US jurist
+   3  US novelist, poet
+   3  US photographer
+   3  US poet, author
+   3  US political activist
+   3  US political leader
+   3  US politician, lawyer
+   3  US singer, songwriter
+   3  US track athlete
+   4  English dramatist, poet
+   4  English physician
+   4  English poet, dramatist
+   4  English writer
+   4  French artist
+   4  French painter
+   4  German political leader
+   4  US activist
+   4  US critic, author
+   4  US government official
+   4  US painter
+   4  US physician, author
+   5 
+   5  English novelist, poet
+   5  English playwright
+   5  English statesman, author
+   5  French poet
+   5  US actor
+   5  US author, poet
+   5  US boxer
+   5  US comedian
+   5  US first lady
+   5  US journalist, writer
+   5  US singer, actor
+   5  US social reformer
+   6  English dramatist
+   6  German philosopher
+   6  US journalist, author
+   7  French author
+   7  US journalist
+   7  US politician
+   7  US singer
+   7  US supreme court justice
+   8  English statesman
+   8  US educator
+   9  US religious leader
+  10  US football coach
+  12  US writer
+  16  English author
+  20  US poet
+  21  US actress
+  25  English novelist
+  26  US author
+  28  US novelist
+  32  English poet

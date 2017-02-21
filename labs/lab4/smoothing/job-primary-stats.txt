@@ -1,0 +1,538 @@
+   1  Albanian nun
+   1  Argentine political leader
+   1  Argentine revolutionary
+   1  Australian nurse
+   1  Australian opera singer
+   1  Australian political leader
+   1  Austrian author
+   1  Austrian journalist
+   1  Austrian philosopher
+   1  Austrian pianist
+   1  Austrian psychiatrist
+   1  Austrian psychoanalyst
+   1  Austrian ruler
+   1  Belgian dramatist
+   1  Bengali poet
+   1  British actress
+   1  British military and political leader
+   1  British philosopher
+   1  British statesman
+   1  Brtitish historian
+   1  Canadian actress
+   1  Canadian artist
+   1  Canadian educator
+   1  Canadian jurist
+   1  Canadian literary critic
+   1  Canadian philosopher
+   1  Canadian physician
+   1  Canadian poet
+   1  Chilean poet
+   1  Cuban poet
+   1  Danish astronomer
+   1  Danish philosopher
+   1  Danish physicist
+   1  Dutch artist
+   1  Dutch biologist
+   1  Dutch evangelist
+   1  Dutch lawyer
+   1  Dutch philosopher
+   1  Engish economist
+   1  English African novelist
+   1  English Mathematician
+   1  English antiquarian
+   1  English archbishop
+   1  English art critic
+   1  English art historian
+   1  English artist
+   1  English aviator
+   1  English biographer
+   1  English classical scholar
+   1  English colonizer
+   1  English comedian
+   1  English comedienne
+   1  English composer
+   1  English conductor
+   1  English courtier
+   1  English craftsman
+   1  English detective story writer
+   1  English diarist
+   1  English diplomat
+   1  English director
+   1  English divine
+   1  English educator
+   1  English filmmaker
+   1  English government official
+   1  English humanist 
+   1  English humorous writer
+   1  English intellectual
+   1  English judge
+   1  English labour party leader
+   1  English lexicographer
+   1  English minister
+   1  English naval officer
+   1  English navigator
+   1  English nurse
+   1  English painter
+   1  English photographer
+   1  English political author
+   1  English political leader
+   1  English political philosopher
+   1  English politican
+   1  English prelate
+   1  English priest
+   1  English prime minister
+   1  English psychiatrist
+   1  English psychologist
+   1  English publisher
+   1  English ruler
+   1  English scientist
+   1  English socialite
+   1  English sportsman
+   1  English stateswoman
+   1  English theatre critic
+   1  English zoologist
+   1  Ethiopian political leader
+   1  French actor
+   1  French biographer
+   1  French biologist
+   1  French chemist
+   1  French cleric
+   1  French conductor
+   1  French critic
+   1  French dancer
+   1  French diplomat
+   1  French editor
+   1  French fashion designer
+   1  French field marshal
+   1  French filmmaker
+   1  French financier
+   1  French intellectual
+   1  French lawyer
+   1  French librarian
+   1  French literary poet
+   1  French man of letters
+   1  French monk
+   1  French moralist
+   1  French naval officer
+   1  French physiologist
+   1  French politician
+   1  French president
+   1  French revolutionary leader
+   1  French ruler
+   1  French scientist
+   1  French sculptor
+   1  French social reformer
+   1  French society figure
+   1  French sociologist
+   1  French soldier
+   1  Genoese propagandist
+   1  German architect
+   1  German artist
+   1  German astronomer
+   1  German critic
+   1  German man of letters
+   1  German opera composer
+   1  German opera singer
+   1  German religious reformer
+   1  German scholar
+   1  German socialist leader
+   1  German theologian
+   1  German writer
+   1  Ghanian political leader
+   1  Greek shipping magnate
+   1  Greek writer
+   1  Hungarian children's writer
+   1  Indian government official
+   1  Indian physician
+   1  Iranian religious leader
+   1  Israeli political leader
+   1  Italian actress
+   1  Italian architect
+   1  Italian author
+   1  Italian conductor
+   1  Italian criminologist
+   1  Italian educator
+   1  Italian explorer
+   1  Italian film director
+   1  Italian intellectual
+   1  Italian opera composer
+   1  Italian physicist
+   1  Italian playwright
+   1  Italian political leader
+   1  Italian theologian
+   1  Jamaican political leader
+   1  Japanese warrior
+   1  Jewish philosopher
+   1  Mexican film director
+   1  New Zealander author
+   1  Norwegian novelist
+   1  Norweigan poet
+   1  Polish German socialist
+   1  Polish aphorist
+   1  Polish astronomer
+   1  Polish ruler
+   1  Prussian military leader
+   1  Roman emperorer
+   1  Roman religious leader
+   1  Russian actor
+   1  Russian anarchist
+   1  Russian ballerina
+   1  Russian choreographer
+   1  Russian communist revolutionary
+   1  Russian composer
+   1  Russian empress
+   1  Russian physiologist
+   1  Same as Edgar Watson Howe?????
+   1  Scotish poet
+   1  Scottish clergyman
+   1  Scottish comedian
+   1  Scottish dramatist
+   1  Scottish economist
+   1  Scottish essayist
+   1  Scottish journalist
+   1  Scottish lawyer
+   1  Scottish missionary
+   1  Scottish philosopher
+   1  Scottish theologian
+   1  Scottish writer
+   1  South African golfer
+   1  Soviet Georgian poet
+   1  Spanish dramatist
+   1  Spanish educator
+   1  Spanish mystic
+   1  Spanish novelist
+   1  Spanish poet
+   1  Swedish botanist
+   1  Swedish chemist
+   1  Swedish diplomat
+   1  Swedish ruler
+   1  Swedish writer
+   1  Swiss architect
+   1  Swiss author
+   1  Swiss dramatist
+   1  Swiss novelist
+   1  Swiss painter
+   1  Swiss psychologist
+   1  Swiss writer
+   1  U.S. comedian
+   1  U.S. culinary expert
+   1  U.S. humorist
+   1  U.S. lawyer
+   1  U.S. painter
+   1  US 23rd president
+   1  US Blues singer
+   1  US Rhythm and Blues singer
+   1  US Supreme Court Justice
+   1  US anarchist
+   1  US antislavery lecturer
+   1  US army general
+   1  US art historian
+   1  US athlete
+   1  US auto executive
+   1  US auto manufacturer
+   1  US aviator
+   1  US aviatrix
+   1  US ballet authority
+   1  US bandleader
+   1  US baseball pitcher
+   1  US basketball coach
+   1  US biographer
+   1  US biologist
+   1  US chef
+   1  US children's author
+   1  US circus owner
+   1  US civil rights activist
+   1  US clergy
+   1  US college administrator
+   1  US columnist
+   1  US comic actress
+   1  US confederate army general
+   1  US congressman
+   1  US cosmetician
+   1  US cosmetics executive
+   1  US costume designer
+   1  US country singer
+   1  US dentist
+   1  US diarist
+   1  US drama critic
+   1  US electrical engineer
+   1  US encyclopedia editor
+   1  US engineer
+   1  US fashion editor
+   1  US film director
+   1  US folk painter
+   1  US folksinger
+   1  US footbal coach
+   1  US forester
+   1  US frontiersman
+   1  US gangster
+   1  US gospel singer
+   1  US graphic artist
+   1  US humanitarian
+   1  US jazz pianist
+   1  US jazz trumpeter
+   1  US judge
+   1  US landscape photographer
+   1  US lecturer
+   1  US legislator
+   1  US lexicographer
+   1  US librarian
+   1  US lyric poet
+   1  US lyricist
+   1  US madam
+   1  US management consultant
+   1  US martial arts expert
+   1  US mathematician
+   1  US mayor
+   1  US merchant
+   1  US microbiologist
+   1  US military leader
+   1  US moralist
+   1  US movie
+   1  US naval officer
+   1  US newspaper columnist
+   1  US newspaper publisher
+   1  US nonfiction writer
+   1  US nutritionist
+   1  US oil magnate
+   1  US oil man
+   1  US opera singer
+   1  US orator
+   1  US pastor
+   1  US pianist
+   1  US political
+   1  US political columnist
+   1  US president (11th)
+   1  US president (14th)
+   1  US president (15th)
+   1  US president (18th)
+   1  US president (19th)
+   1  US president (1st)
+   1  US president (21st)
+   1  US president (22nd
+   1  US president (25th)
+   1  US president (26th)
+   1  US president (27th )
+   1  US president (29th)
+   1  US president (2nd)
+   1  US president (30th)
+   1  US president (31st)
+   1  US president (32nd)
+   1  US president (33rd)
+   1  US president (36th)
+   1  US president (37th)
+   1  US president (4th)
+   1  US president (5th)
+   1  US president (6th)
+   1  US president (7th)
+   1  US producer
+   1  US radio broadcaster
+   1  US reformer
+   1  US religious and civil rights leader
+   1  US revivalist
+   1  US revolutionary
+   1  US scholar
+   1  US singing comedienne
+   1  US social activist
+   1  US social economist
+   1  US social worker
+   1  US socialist
+   1  US socialite
+   1  US sports columnist
+   1  US sportswoman
+   1  US statistician
+   1  US tennis player
+   1  US urban planner
+   1  US war hero
+   1  Welsh actor
+   1  Welsh author
+   1  Welsh philosopher
+   1  Welsh poet
+   2  Australian novelist
+   2  Austrian composer
+   2  British royalty
+   2  Canadian author
+   2  English biologist
+   2  English chemist
+   2  English children's author
+   2  English golfer
+   2  English jurist
+   2  English lawyer
+   2  English mathematician
+   2  English physicist
+   2  English preacher
+   2  English singer
+   2  English social reformer
+   2  English soldier
+   2  English suffragist
+   2  English traveler
+   2  French actress
+   2  French diarist
+   2  French essayist
+   2  French journalist
+   2  French mathematician
+   2  French playwright
+   2  French statesman
+   2  German dramatist
+   2  German novelist
+   2  German statesman
+   2  Indian philosopher
+   2  Indian political leader
+   2  Irish dramatist
+   2  Irish novelist
+   2  Irish playwright
+   2  Italian composer
+   2  Italian painter
+   2  Italian philosopher
+   2  Japanese religious leader
+   2  Persian poet
+   2  Russian author
+   2  Russian communist leader
+   2  Russian political leader
+   2  South African novelist
+   2  Spanish painter
+   2  Spanish philosopher
+   2  Swedish actress
+   2  Swiss theologian
+   2  US advertising executive
+   2  US army officer
+   2  US blues singer
+   2  US broadcast journalist
+   2  US business executive
+   2  US director
+   2  US entertainer
+   2  US etiquette authority
+   2  US evangelist
+   2  US inventor
+   2  US jazz musician
+   2  US jazz singer
+   2  US labor organizer
+   2  US literary critic
+   2  US manufacturer
+   2  US minister
+   2  US newspaper editor
+   2  US newspaperman
+   2  US nurse
+   2  US physicist
+   2  US politican
+   2  US psychiatrist
+   2  US psychologist
+   2  US science fiction writer
+   2  US screenwriter
+   2  US sculptor
+   2  US theologian
+   2  US university administrator
+   3  British ruler
+   3  English actress
+   3  English bishop
+   3  English critic
+   3  English humorist
+   3  English religious leader
+   3  English sculptor
+   3  French composer
+   3  French theologian
+   3  German composer
+   3  German physicist
+   3  Irish poet
+   3  Italian religious leader
+   3  Russian novelist
+   3  US anthropologist
+   3  US architect
+   3  US artist
+   3  US astronomer
+   3  US chemist
+   3  US comedienne
+   3  US dancer
+   3  US economist
+   3  US essayist
+   3  US financier
+   3  US industrialist
+   3  US jurist
+   3  US naturalist
+   3  US newscaster
+   3  US photographer
+   3  US political leader
+   3  US publisher
+   3  US sociologist
+   3  US suffragist
+   3  US surgeon
+   3  US teacher
+   3  US track athlete
+   4  English naturalist
+   4  English scholar
+   4  French writer
+   4  German poet
+   4  German political leader
+   4  Scottish novelist
+   4  US cartoonist
+   4  US civil rights leader
+   4  US diplomat
+   4  US golfer
+   4  US government official
+   4  US humorist
+   4  US painter
+   4  US political activist
+   5 
+   5  English clergyman
+   5  English essayist
+   5  English journalist
+   5  Irish author
+   5  Italian poet
+   5  Scottish author
+   5  US abolitionist
+   5  US boxer
+   5  US businessman
+   5  US musician
+   5  US playwright
+   5  US psychoanalyst
+   5  US statesman
+   6  English actor
+   6  English philosopher
+   6  English physician
+   6  French artist
+   6  Scottish poet
+   6  US activist
+   6  US baseball player
+   6  US first lady
+   6  US president
+   7  English economist
+   7  English historian
+   7  English politician
+   7  US physician
+   8  English writer
+   8  French painter
+   8  German philosopher
+   8  US clergyman
+   8  US composer
+   8  US dramatist
+   9  English playwright
+   9  French author
+   9  French dramatist
+   9  US critic
+   9  US philosopher
+   9  US supreme court justice
+  10  US comedian
+  10  US football coach
+  10  US historian
+  10  US lawyer
+  10  US social reformer
+  11  French novelist
+  11  French philosopher
+  11  US editor
+  12  French poet
+  12  US religious leader
+  13  US actor
+  16  English statesman
+  16  US politician
+  17  English dramatist
+  19  US singer
+  25  English author
+  27  US writer
+  30  US actress
+  33  US educator
+  39  US journalist
+  48  English novelist
+  53  US author
+  53  US novelist
+  55  US poet
+  62  English poet
