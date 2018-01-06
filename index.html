@@ -12,6 +12,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+<!--GOOG-->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112049789-1"></script>
 
   <script>
@@ -21,6 +22,37 @@
   
     gtag('config', 'UA-112049789-1');
   </script>
+<!--/GOOG-->
+
+<!--FB-->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '520551528318708', {
+    em: email_var,
+    fn: fname_var,
+    ln: lname_var,
+    ph: pnum_var,
+    ge: gender_var,
+    db: dob_var,
+    ct: city_var,
+    st: state_var,
+    zp: zip_var,
+  });
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=520551528318708&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!--/FB-->
 
   </head>
   <body>
@@ -49,7 +81,7 @@
 <a href="http://www.columbia.edu/~chw2/">chris wiggins</a></li>
           <li>TA: 
 <a href="http://aaronplasek.com/">Aaron L Plasek</a></li>
-          <li>time: MW 08:40-09:55</p>, 203 Mathematics Building</li>
+          <li>time: MW 08:40-09:55, 203 Mathematics Building</li>
         </ul>
 </p>
 
