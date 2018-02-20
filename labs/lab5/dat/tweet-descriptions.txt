@@ -1,0 +1,28 @@
+
+# pol_accounts.csv
+-----------------
+id - user id for twitter account (integer)
+screen_name - screen name of twitter account e.g. realDonaldTrump
+description - user's self entered twitter description
+location - user's self entered location
+created_at - timestamp for when account was created
+latest_followers_count - latest number of accounts following this user
+latest_following_count - latest number of accounts this user is following
+latest_status_count - number of tweets this account has sent
+array_agg - array of human supplied tags for this user
+
+
+
+# pol_tweets.csv
+-----------------
+id - twitter's id for this tweet
+user_id - twitter's numeric id (not screen name) for the user who sent this tweet
+created_at - timestamp of tweet
+tweet_text - contents of tweet
+hashtag_entities - array of hashtags in tweet (if exists)
+url_entities - array of links in tweet (if exists)
+user_entities - array of twitter user ids (not screen names) mentioned in tweet (if exists)
+favorites_count - number of favorites for this tweet
+retweet_count - number of retweets of this tweet
+quoted_status_id - id of tweet quoted in this tweet (if exists)
+in_reply_to_status_id - id of tweet this tweet is replying to (if exists)
