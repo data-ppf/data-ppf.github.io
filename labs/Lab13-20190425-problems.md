@@ -1,5 +1,6 @@
 Part 1:
-in-class presentation of lecture on NSA history
+
+[in-class presentation of lecture on NSA history](https://github.com/data-ppf/data-ppf.github.io/blob/master/doc/Lab13_NSA.pdf)
 
 
 Part 2:
