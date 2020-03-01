@@ -1,0 +1,2211 @@
+Chapter 8 (U) Courage and Chaos: SIGINT and the Computer Revolution
+
+\(U) It Wasn\'t Safe at the Cutting Edge
+
+\(U) Well before the plans for Goldberg and Sled had matured, OP-20-G,
+joined a bit later by SIS, started a great adventure. They became part
+of what many see as one of the most important technological revolutions
+in history. The SIGINT agencies became active players in the attempt to
+make a technical fantasy come true - to build a universal machine. \"G\"
+and the SIS, along with several other military and civilian agencies,
+became prime movers in the early stages of the computer revolution.
+Establishing that historic foothold was not easy for either SIGINT
+group.
+
+\(U) An idea had emerged and became somewhat formalized outside of the
+intelligence community by 1945. It was going to be possible to have a
+high-speed electronic computer that could mimic any mathematical or
+logical process. With a rapidly changeable program, it had the potential
+to be a machine for every purpose, from calculation to machine control.
+The key to the machine\'s flexibility was its simplicity. It was to have
+very, very few hardwired functions, perhaps just the four basic
+arithmetic ones, and a few that allowed the movement of data between the
+input-output components, memory, and the single central processor. That
+and the organization of the machine around the binary system would, it
+was hoped, make it relatively inexpensive and allow it to become a
+massproduced product. With one piece of hardware that could be made to
+imitate any machine through an inexpensive and easily changed set of
+instructions, the new computer had a great future. It would replace all
+other calculation and, perhaps, data processing devices.
+
+\(U) The ideas for the universal computer that began to take definite
+shape in England and the United States in 1946 were very appealing. As
+soon
+
+as they heard of them, mathematicians and engineers within \"G\" and the
+SIS pleaded with their superiors to make programmed computers part of
+the SIGINT arsenal. They were persuasive. By 1947 both agencies had
+committed themselves to acquiring general-purpose \"computers.\"
+
+\(U) Neither agency realized what traumas they would have to go through
+to obtain them, however. Especially in the case of the SIS, the postwar
+experience was as anxiety-filled as the trials that Hooper and Wenger
+had gone through in the mid-1930s when they sought Vannevar Bush\'s
+help.
+
+\(U) Because Wenger had been able to set up a semicaptive engineering
+corporation in 1946, OP20-G had an easier time than the army did. But
+even \"G\" and its Engineering Research Associates had some very tough
+moments trying to make the new computer come to life.
+
+\(U) That had not been foreseen in 1946. After learning of the
+possibilities of the new architecture, each agency had expected that
+outsiders would provide all that was needed. That was naive. The SIGINT
+agencies soon found it necessary to do much, much more than they
+anticipated. Because of the chaos that marked the development of the
+computer industry in the postwar era, both had to create their own
+machines.
+
+\(U) An Idea Differed
+
+\(U) In 1945 while the ambitious Goldberg\'s technology, if not its
+architecture, shifted with the appearance of technical innovations, and
+while machines like O\'Malley were being constructed for immediate
+problems, another and more adventuresome project began at \"G.\"1
+
+I UP bblKKH/COMINTJmEL USA, AU&, LAN OBR AND NZU/XI
+
+
+
+
+\(U) Duenna and the other \"electronic\" machines of the last two years
+of the war, combined with the knowledge of what other computer projects
+in the nation were attempting, gave the \"M\" group some ideas about a
+general-purpose computer. It was to be one much more flexible than
+Bush\'s older Rockefeller Analyzer or even his purely electronic Rapid
+Arithmetic Machine.
+
+\(U) When they had a few moments for reflection in 1944 and 1945,
+Engstrom and others in \"M\" speculated about what they could accomplish
+if they could find a large and fast memory, such as the vastly improved
+versions of the delay lines they were already experimenting with, to add
+to an electronic processor. While RCA\'s Jan Rachman\'s new idea for an
+all-electronic computer was rejected as almost \"screwball,\" \"M\'s\"
+men kept thinking about the future. If a large memory with a speed that
+came close to that of the electronic processor could be found, then they
+thought a general-purpose computer was a possibility.
+
+\(U) But unless there was a high-speed memory, electronic processors
+would have to remain as special-purpose devices. Until the software
+could keep up with the speed of the processor, there was little need for
+electronics. If an electronic computer depended upon tape readers or the
+like for its directions, it could be no faster than the slow mechanical
+components.
+
+\(U) The input speeds of the best tape and card readers of the era were
+orders less than electronic processors. That limitation was compounded
+by the serial nature of both technologies. It was impractical to ask
+tape and card systems to back up to previous positions and repeat the
+reading of data or \"instructions.\" A universal computer needed a
+memory that could support \"go to\" commands because tapes and cards
+could not fulfill that need.
+
+(TO// 3D The limitations imposed by the absence of high-speed memory
+were one of the reasons why the Sled architecture seemed so appealing.
+With special \"boxes\" hooked together through plugboard programs,
+processing was not dependent upon the nonexistent memory. The absence of
+memory was also one of the reasons why IBM and other business machines
+manufacturers confined their postwar electronic offerings to limited and
+special-purpose attachments, such as multipliers and dividers that
+hooked onto tabulators.2
+
+\(U) In 1945, any engineer who thought about moving further than the
+Aiken-IBM combination of motors, shafts, and tape readers, or the Moore
+School\'s set ofENIAC special-purpose boxes \"programmed\" through
+resetting huge electrical cables, had to have a great deal of faith. He
+had to believe that some technological hints would soon become viable
+and affordable hardware. There were some indications that such dreams
+might come true. But in 1945-6 they were just indications.
+
+\(U) Some thought that delay lines, tubes filled with chemicals, could be
+reengineered to serve as memories. The young experts at the University
+of Pennsylvania who were building the ENIAC felt they could convince
+delay lines from radar sets to behave well enough to hold programs as
+well as the data needed for immediate processing. That was a courageous
+commitment because those \"acoustic\" delay lines were very
+temperamental. It was very difficult to regulate the timing of the
+pulses that flowed through them. Slight changes in ambient temperature
+caused serious distortions. Also, it was difficult to monitor the
+behavior of the crystals that sensed the data \"pulses\" at each end of
+the tube. Even when all the technical difficulties were eliminated, a
+fundamental problem remained. The tubes could hold only a few \"bits.\"
+
+\(U) There were some other memory possibilities being discussed at the
+end of the war. One
+
+
+
+
+
+was to use a variation of the emerging television technology to store
+and recover \"dots\" of information on an oscilloscope-like screen. If
+it could be made to work, it would be an ultra-fast memory. A computer
+would not have to \"wait\" until the information it needed cycled past a
+sensing station. It would run at electronic speeds and would allow
+parallel data transmission.3
+
+\(U) There were more esoteric ideas for powerful memories, such as RCA\'s
+Selectron and the use of magnetics, but they were even less ready than
+the other alternatives.
+
+f6} Although the engineers at OP-20-G knew of the technological limits,
+they could not pass up a chance to at least survey universal computer
+options. John Howard formalized some of the ideas in a June 1945
+memorandum; then, along with the \"G\" mathematician, C. B. Tompkins,
+toured all the East Coast computer projects looking for more ideas.4 But
+little came of their trips. \"G\" was too busy to explore other than
+cryptanalytic machines. That remained true for several months after the
+war ended. Its workload even prevented \*G\" from sending a
+representative to one of the earliest postwar computer meetings.
+
+\(U) When Howard Engstrom received an invitation to participate in a
+major navy symposium on computers, he replied that \"G\" had done little
+of the type of work that was to be discussed and that he and his crew
+were too busy to attend.
+
+\(U) The urge to explore the possibilities of a general-purpose computer
+continued. But little could be achieved. \"G\" found it difficult to
+acquire connections to the outsiders, especially the academics, who
+seemed to be taking the first major steps towards creating the modern
+computer. \"G\'s\" old scholarly friend and go-between, Vannevar Bush,
+had stepped back from OP-20-G when the war broke out and did not try to
+reestablish the 1930s relationship. That left \"G\" without a
+prestigious outside scientist who could
+
+provide the critical endorsements speculative projects needed.
+
+\(U) Bush also decided not to return to MIT. He remained in Washington,
+acting as something of an academic elder statesman and high-level
+science policy maker until his retirement. Among his many contributions,
+he gave advice on the future of science in the military. In addition,
+Bush was frequently called upon to make recommendations concerning the
+integration of the nation\'s intelligence services. His role as a
+science advisor to President Eisenhower also played an important part in
+SIGINT mechanization in the 1950s.5
+
+\(U) Bush stayed at quite a distance from the computer developments of
+the postwar era. He also stayed away from OP-20-G, except for a few
+courtesy visits that Joseph Wenger arranged. One reason for Bush\'s
+arm\'s length relationship was a very heated argument with the Bureau of
+Ships about the Comparator. Soon after the war the bureau decided that
+it should be protected by patents. Bush was sent all the necessary
+paperwork to sign. He did so, but only after the deepest protests to the
+navy about revealing precious secrets and about imposing upon him.6
+
+\(U) OP-20-G had lost another friend. Stanford C. Hooper was in
+semiretirement. He was now old and ill, and he had to spend much time in
+Florida. He was acting as a consultant to several small electronics
+firms, including ERA, however. He still had the ear of many Washington
+influentials, but he could no longer aggressively fight to link OP-20-G,
+the scientific establishment, and the large corporations. In fact, he
+had become a bit soured on the corporations and acidemia. He had come to
+favor small private companies as the only guarantor of innovation and
+responsiveness.
+
+\(U) Meanwhile, the other part of OP-20-G\'s old university-computer
+connection, Bush\'s \"boys,\" had migrated to the \"captive\"
+corporation, ERA. Howard, Coombs, and Steinhardt were
+
+
+
+
+
+keeping up with computer developments, but ERA\'s first contracts and
+the imperative to develop a \"cryptanalytic\" machine kept them too busy
+to act as computer innovators. As a result, their 1945 general-purpose
+computer aspirations languished until mid-1946.
+
+\(U) Then, \"G\" developed a new and energetic computer champion. At the
+same time, it found someone with great enough scientific status to
+validate its request to acquire something which, in the mid-1940s,
+seemed more fanciful than Bush\'s 1930s machine.
+
+\(U) Goodbye Dr. Bush, Hello Professor von Neumann
+
+\(U) Just as the Goldberg project was launched in St. Paul and as
+Wenger\'s own research group was deciding whether or not to have someone
+build an electronic Super Bombe, one oP\'G\'s\" mathematicians, James T.
+Pendergrass, enrolled in a summer institute on the programmable, digital
+electronic computer.7
+
+\(U) His inclusion in the Philadelphia meeting was almost an
+afterthought. Apparently \"G\" had not been asked to send someone until
+a few weeks before the Moore School Lectures began. Pendergrass had
+intended to spend much of the summer on vacation, but when his boss,
+Howard Campaigne, called him, he found it impossible to refuse the
+assignment. He rushed to the University of Pennsylvania and immediately
+began sending reports to Campaigne.
+
+\(U) Howard Campaigne was one ofthose bright young men who had been
+brought into \"G\" early in the war. Like his friend, Joe Eachus, he
+spent much time in England.8 And like Eachus he became deeply involved
+with the RAM program. Deciding not to go to ERA he became a civilian
+scientist within \"G.\" He helped shape and direct \"G\'s\" postwar
+research agenda. By 1946 he was one of Joseph Wenger\'s right-hand men
+and was respected enough to be allowed to act as a repre
+
+sentative of \"G\" to the outside world. That was what caused him to
+attend an important Navy Department conference in spring 1946.
+
+\(U) The conference was on the nature of large-scale computers. The major
+address was given by the man who would soon equal or exceed Vannevar
+Bush\'s status in the scientific-political realm, John von Neumann.9
+
+\(U) John von Neumann was perhaps the most famous of the new applied
+mathematicians. He had migrated from Europe in the 1930s to join the
+likes of Albert Einstein at America\'s only true research institute, a
+place where scholars set their own agendas, von Neumann became one of
+the \"scientifically anointed\" at the Institute for Advanced Study at
+Princeton.
+
+\(U) The first rumblings of war led the Institute and von Neumann to move
+far beyond their abstract academic origins. During World War II, von
+Neumann made important contributions to the atomic bomb project. As a
+result of that involvement, he became entangled in the ENIAC computer
+effort at the University of Pennsylvania.
+
+\(U) The University of Pennsylvania\'s World War II contract with Army
+Ordnance for the ENIAC had come almost by chance, just as the NDRC ended
+its computer program, and as firms such as RCA rejected pleas to turn
+their hardpressed engineers to computer projects. Ordnance was in need
+of a way to speed the calculation of firing tables. With no other
+alternative, the army accepted the proposal of two young engineers at
+the Moore School. They promised to build an electronic version of
+Bush\'s great Differential Analyser. Fortunately for the history of
+computers, John Mauchly and Presper Eckert were given a great deal of
+freedom and time. Their much delayed postwar delivery of the relatively
+special-purpose ENIAC was not treated as a sign of failure, and their
+plan for a programmable
+
+
+
+
+
+universal electronic computer was quickly funded.
+
+\(U) With the help of John von Neumann, they started the project (EDVAC)
+and began seminars that attracted the pre- and postwar generations of
+computer builders.10 von Neumann\'s stature in the scientific and
+military communities had grown so much that his presence gave the Moore
+School\'s computer efforts the highest credibility. While working on the
+design of what is regarded as the first true universal computer, the
+EDVAC, the original leaders of the ENIAC project, Mauchly and Eckert,
+had become estranged from the university\'s administration and, to some
+degree, from John von Neumann.
+
+\(U) Von Neumann, whose importance increased in the postwar years, also
+became alienated from the University of Pennsylvania. He decided to
+found his own computer initiative. He was soon able to convince his old
+academic home, the Institute for Advanced Study (IAS) at Princeton, to
+accept several military and civilian grants and to create a center to
+house his attempt to design and build his own computer. His \"IAS\"
+machine was intended to serve the needs of applied mathematicians and
+physicists.
+
+\(U) Von Neumann did not confine himself to computer building. He became
+a major figure in Cold War science and policy. He advised all of the
+American leaders of the era, and he served on the most important
+science-related boards. He even became a good friend of OP-20-G and
+later NSA, serving on their expert panels. He gave them much technical
+and political advice throughout the 1940s and 1950s. His contributions
+included more than hints about new computer technologies. He frequently
+urged the SIGINT agencies to sponsor fundamental electronic research to
+be conducted by leading academics.\"
+
+\(U) While von Neumann was forging his Cold War reputation, the Moore
+School had begun its own machine, the EDVAC. Sponsored by Army
+
+Ordnance, EDVAC was to have the simplest of architecture. Although it
+was intended to be an operational machine for the Aberdeen Proving
+Grounds, it was also something of a testbed. A central goal of the
+project was to prove that a universal machine could be made to work and
+to do it quickly. Therefore, EDVAC was designed as simply as possible.
+
+\(U) EDVAC was a binary machine that depended upon a serial acoustic
+delay-line memory. That memory was to hold both programs and data. The
+acoustic technology limited the machine to about 1,000 words of fast
+memory. Technological limits also dictated much of the EDVAC\'s internal
+organization. Trying to avoid the problems caused by the high failure
+rate of vacuum tubes, EDVAC\'s internal structure was made as sparse as
+possible. It had just one-third the number of tubes used in the ENIAC.
+
+\(U) To keep the number of components at an absolute minimum, the machine
+had only a few built-in instructions. That was a wise decision. Each
+\"instruction\" demanded dozens of tubes and hundreds ofhandwired
+connections. And each increased the computer\'s cost and multiplied the
+probability that it would experience a failure well before any
+significant computational task could be completed.
+
+\(U) In addition to keeping the number of components to a minimum,
+EDVAC\'s designers limited the machine to the serial transmission and
+processing of data (one bit at a time). Serial processing also reduced
+the amount of failureprone electronics. But it carried the price of
+slower processing rates.
+
+\(U) EDVAC\'s designers made another tradeoff that favored simplicity
+over speed. The machine\'s operations were based on \"fixed clock\"
+timing. That meant that no matter how little time one operation took,
+succeeding work had to wait until the next clock pulse.
+
+
+
+
+
+\(U) EDVAC\'s planners tried to keep their task manageable by
+concentrating on building a machine for mathematicians. EDVAC was not
+intended to be a data processor. The EDVAC engineers did not try to
+solve the many problems involved in making input and output rates
+approach electronic speeds. Slow tape and card readers gave the machine
+its data, and its even more primal cardpunches and teletypewriters
+displayed results. Although one of the first computer programs written
+by the ENIAC-EDVAC group was for sorting, EDVAC\'s builders never
+pretended that it could replace tabulator equipment.
+
+\(U) While the EDVAC\'s designs were being set, the ENIAC\'s parents,
+Eckert and Mauchly, left the University of Pennsylvania and attempted to
+found and keep afloat their own for-profit computer company. After more
+than six years of anxiety and tragedy, they completed the UNIVAC
+computer.
+
+\(U) The UNIVAC was also a delay-line, fixedclock machine, but it went
+far beyond the EDVAC in terms of power and sophistication. One reason
+for that was the UNIVAC\'s attempt to become \"the\" new business
+machine, one to replace hundreds of tabulators. That called fcr the
+development of much-enhanced I/O technology. Anew data processing
+capability was to some extent achieved through the creation of magnetic
+tape systems, a development that helps explain why the first UNIVAC did
+not appear until 1951.
+
+\(U) The goal of building a computer to replace the tabulators led to a
+very historic decision by Eckert and Mauchly. Because they wanted to
+maximize the speed of data processing, which typically demanded little
+calculation on a great deal of information, they deviated from a purely
+binary representation of numbers within the UNIVAC. It had what was
+called at the time a \"decimal\" representation. Although UNIVAC used
+binary circuits, a decimal format was imposed to speed the input-output
+functions.
+
+\(U) Eckert and Mauchly\'s commercial computer aspirations, as well as
+John von Neumann\'s academic ones, were just emerging when the
+University of Pennsylvania decided to host its historic summer 1946
+Moore School conference. All those who had made contributions to
+computing during the war were invited to hear presentations by von
+Neumann and others who were outlining the computers of the future.
+
+\(U) A Summer in Philadelphia - an Exciting One
+
+\(U) It was probably Howard Campaigned attendance at an earlier (May)
+navy symposium that made him aware of the Moore School conference. The
+Washington meeting was where he first made contact with von Neumann and
+where he realized that the general-purpose computer was going to be
+built, with or without OP-20-G. Campaigne decided that \"G\" should at
+least have a chance to be one of its sponsors.
+
+\(U) He hurriedly arranged for some funds and then called his assistant,
+James Pendergrass, asking him to attend the coming Philadelphia
+symposium. Campaigne was unable to tell him much about what was to take
+place in Philadelphia. As a result, much of what Pendergrass encountered
+surprised as well as thrilled him.
+
+\(U) During the Moore School\'s summer program, Pendergrass studied the
+designs ofthe ENIAC and those for the much more advanced EDVAC. He
+listened to the presentations ofthe other men who had begun to develop
+universal electronic machines.
+
+\(U) Coming from a physical sciences background and being an advocate for
+applied mathematics, Pendergrass was especially taken with John von
+Neumann\'s ideas, including his version of a programming language. When
+von Neumann outlined the concept for his new Institute for Advanced
+Study machine, Pendergrass became convinced that \"G\" had to have a von
+Neumann
+
+
+TOP 3C0RCTOCOMINT//RCL U3A, AU3, OAN ODR AND NZUX1
+
+
+lOMybCKblJJCUMINIJJkEL US/
+
+\\MD NZU/X1
+
+::: {style="width: 67.2156862745098%;"}
+:::
+
+(IJ) UNIV& C
+
+type of computer. He thought the von Neumann design was the best, the
+one that would be the first to appear in hardware, and the one most
+likely to be cloned by a manufacturer. Well before the Philadelphia
+conference was concluded, Pendergrass convinced Howard Campaigne that
+OP-20-G should have one of the \"new\" computers, specifically one with
+a von Neumann architecture.
+
+\(U) Pendergrass was not the only one who believed in the IAS design. The
+mathematical and applied physics community took it as the model for
+computers for the 1940s and early 1950s. The emerging von Neumann
+architecture was especially attractive to mathematicians because it
+promised to provide a much faster and more precise computer than other
+designs of the era. It had the potential to be faster than the serial
+type of machines by factors in the hundreds. At least five IAS computers
+were copied in American universities and advanced research centers.
+
+\(U) The IAS machine was not going to send or process data bit by bit,
+nor was it going to make one operation wait for a \"clock.\" It was
+going to send data simultaneously and would initiate an
+
+operation as soon as the previous one finished. As or more important, it
+was not going to be based on the limited delay-line memory, von Neumann
+bet that RCA would keep to its pledge and develop the very advanced
+Selectron tube within a few months. The Selectron promised to be a fast
+memoiy that would maximize the potentials of electronic speed and
+parallel data-transmission and processing.
+
+\(U) To many in the computer field, however, von Neumann seemed too far
+ahead of the technology. He also appeared to be naive about how much of
+the complexity of his proposed machine could be mastered by his handful
+of engineers. His critics thought the EDVAC group was taking a more
+sensible course: creating a minimal and reliable computer that had a
+possibility of being completed on time.
+
+\(U) Given the ambitious nature of von Neumann\'s computer, Pendergrass
+and Campaigne sensed that it was not going to be easy to persuade \"G\"
+that scarce resources should be devoted to a machine that was not yet
+fully designed, let alone built. No one, in fact, could
+
+TOP SEGnETOOOM!NT/;n,EL UGA, AUG, OAN GBR AND NZU/X1
+
+
+
+
+predict when any of the new computers would be completed.
+
+\(U) Despite von Neumann\'s reputation and the accolades that the atomic
+energy community was awarding to the IAS design, Pendergrass and
+Campaigne knew they would have to prove that \"a\" machine could compete
+with al! the specialpurpose devices that were in place at \"G\" as well
+as those that were being planned. And they would have to show, without
+insulting anyone, that the new computer would be as good as or better
+than Goldberg, the perhaps-universal comparator. Pendergrass and
+Campaigne were in a situation quite analogous to Hooper\'s in the early
+1930s: How could they convince \"operational\" types that scientists had
+a better and practical grasp of the future?
+
+PES} Pendergrass got to work during the summer and continued on, with
+Howard Campaigne\'s enthusiastic help, through the remainder of the
+year. They composed two persuasive technical reports.12
+
+(TS} The first was sent to \"G\'s\" higher-ups in October, the second in
+December. A great deal of effort had gone into both reports to ensure
+they would convince the cryptanalysts that, like the proposed Sled, the
+von Neumann machine would end the horror of having to wait two years
+while a requested special machine was constructed.13 The reports did not
+refer to any particular experience, but Pendergrass knew that many in
+his audience had gone through the frustrations of World War II when
+almost all the RAMs (and the Bombes) had arrived too late.
+
+f¥S} In one of the classic statements in the history of computers,
+Pendergrass wrote: \"It is not meant that a computer would replace all
+the machines in Building \#4, nor is it meant that it could perform all
+the problems as fast as the existing special purpose machines. It is
+however, the author\'s contention that a computer could do everything
+that any analytic machine in Building
+
+\#4 can, and do a good percentage of these problems more rapidly.\"14
+
+(TS) The text of the report reflected both Pendergrass\' orientation and
+the nature of mid19408 computers. After explaining the logic of the von
+Neumann machine and admitting that it might be some time before any such
+computer would be available, he outlined what he thought was to be a
+standard programming language, one based on von Neumann\'s \"one
+address\" concept.13
+
+\(U) Von Neumann envisioned a machine that would be used for very precise
+calculation and little data processing. To speed calculating, it was to
+be a pure binary machine. To further improve performance, he had turned
+away from the original EDVAC idea of a four-address instruction. He had
+come to believe that the most efficient instruction format should
+include only one place to get or put data. That would allow, given the
+word size of the computer, more precise calculations without additional
+hardware.
+
+\(U) He argued that because his machine would be busy with much internal
+work, such as multiplication and division, it would be more efficient to
+have \"get\" and \"place\" addresses in separate statements. Only if a
+computer was to be used for much I/O and little calculation would a
+multi-address instruction be reasonable.
+
+\(U) Von Neumann also believed that his machine should have very few
+commands. The smaller the number of commands, the less internal
+circuitry that would be needed. Following his mandates, his engineers
+were able to reduce the number of components in the IAS machine. It had
+only two-thirds the number of tubes of the EDVAC. Von Neumann\'s
+mathematical focus also meant that he gave little thought to the I/O
+problem. What happened within the computer was more important to him
+than handling masses of data.
+
+
+
+
+
+(T9//gf) Pendergrass agreed with all of von Neumann\'s ideas, but in his
+reports he suggested that a few additions be made to von Neumann\'s set
+of minimal instructions. They were to be ones which, like multiplication
+and mod 2 commands, would be needed to meet special cryptanalytic needs.
+Especially important to him were those which would speed the analysis of
+baudot traffic.
+
+(=fi\$) The politically important parts of the Pendergrass reports were
+the sections in which he and Campaigne presented computer programs for
+major cryptanalytic attacks. Demonstrating how the machine would perform
+the attacks was critical if\'G\" was to be persuaded to invest in a
+computer. Of course, the reports reflected an implicit faith that
+programming would be much, much less of a problem than building a
+specialpurpose machine. No mention was made of how long it took to write
+the programs.
+
+(TS//SI) The first report included software programs for a Generalized
+Copperhead problem, a Four-Wheel Enigma Grenade Problem, and a Hagelin
+attack. The December report was intended to impress any holdouts. It
+contained programs to imitate two of the grand achievements of World War
+I, the Duenna and the Mercury. Asa concluding argument, the report
+showed how to end the great crypto-disappointments of the war years.
+There was a program that could imitate a cipher wheel. It showed that a
+general-purpose computer might act as an electronic Super Bombe.16
+
+\(U) Buy a Computer, Now
+
+(£} The reports made their point, at least with farsighted men like
+Joseph Wenger. He took action even before the Pendergrass-Campaigne
+report of December was completed. To reinforce Pendergrass\' arguments,
+he immediately arranged for ERA\'s John Howard to conduct a computer
+feasibility study and assigned Pendergrass to continue to survey the
+computer field.
+
+\(U) Pendergrass did not waste time. In November he informed \"G\" that
+many military and some civilian agencies were very interested in digital
+computers and that projects at the National Bureau of Standards and RCA
+(with the IAS) stood a good chance of producing machines by 1948. The
+IAS-RCA project, he thought, had the best design and best chance of
+success.17
+
+\(U) After attending another major computer conclave at Harvard in
+January, Pendergrass forwarded a new survey of America\'s and Britain\'s
+computer ambitions. He cited the emergence of more computer projects,
+most of which were supported by government agencies. The navy\'s Bureau
+of Ordnance and the ONR, he showed, had already established quite a
+foothold, as had Army Ordnance. Even the Census Bureau had become
+involved.18 Among the six active projects19 (the one under John V.
+Atanasoff had just been cancelled by the Naval Ordnance Laboratoiy), the
+IAS computer, Pendergrass reported, continued to be the best option. It
+remained much closer to completion than the proposed Whirlwind at MIT,
+and it was more suited to cryptanalytic work than the upcoming
+UNIVACortheEDVAC.
+
+\(U) The only nonpositive things that Pendergrass had to say about the
+Princeton efforts were that he had discovered that RCA and Princeton did
+not have a formal agreement binding the corporation to build a computer
+and that its valuable Selectron was still in the \"uncertain\" category.
+Neither seemed critical to Pendergrass, however. He expected a working
+IAS machine by mid-1948. He assured \"G\" that if the Selectron were not
+perfected, an electrostatic memory, such as the one proposed byMFPs Jay
+Forrester, would serve as a fully acceptable substitute.
+
+fS-) Pendergrass\' surveys were read by Howard Campaigne, then sent to
+Joseph Wenger. Wenger trusted Pendergrass, and he believed that OP-20-G
+should gain a foothold in computers before one of the other branches of
+the navy
+
+
+
+
+
+established a monopoly. Without waiting for John Howard and C. B,
+Tompkins to submit their ERA report (it arrived in February 1947),
+Wenger made a commitment to acquire a von Neumann type of computer. \*°
+
+(Tg//8f) Even before a contract was let, plans were laid to use the new
+machine on major operational problems.21 \"G\" even put aside the idea
+of building an electronic Super Bombe, at least until the potentials of
+the new universal computer were explored.
+
+\(U) In January Wenger was so enthusiastic that he ordered his men to
+establish project \"Atlas,\" although he did not yet have the funds to
+design and acquire a machine. az The name \"Atlas\" was picked because a
+comic strip used it as a name for a \"mental giant,\" but a reference to
+raw courage would have been as appropriate. Wenger still had to gain
+formal approval for the \"G\" computer.
+
+(•S\^As Wenger struggled to find the money he needed, additional
+crypto-studies reinforced the initial enthusiasm, and went beyond it,
+perhaps raising expectation a bit too high: This opens tremendous
+possibilities in the field of clinical attack by speeding this attack up
+to the point where large volumes of traffic may be so processed. With
+sufficient skill in preparing the logical control, it seems possible
+that the machine may be made to perform any cryptanalytic operation now
+done by hand, which does not require intuition.\"23
+
+(■S} Wenger did everything he could to make sure the \"G\" computer
+proposal would be funded. He had Pendergrass assigned as a !iais3n to
+the Office of Naval Research. It was exploring computers and was
+intensely committed to furthering applied mathematics. With Pendergrass
+in touch with ONR\'s experts, they would be unlikely to block the \"G\"
+request on technical grounds. Other mathematicians in the agency were
+sent to important computer seminars: Eachus,
+
+Campaigne, Blois, Tordella, and others met with the \"greats\" of
+computer history, such as Alan Turing and M. V. Wilkes.
+
+dSfr The contacts and investigations soon started to pay off. \"G\" was
+gaining a reputation as one of \"the\" centers of computer expertise.
+Other development projects, such as Whirlwind at MIT, gladly shared
+design information.
+
+\(U) At least in terms of computer architecture, \"G\" was well
+integrated with high science. \"G\" became committed to the atomic
+scientists\' favored way of sending data within the machine: all the
+bits at one time in parallel, rather than one bit at a time (serial
+mode) as in the EDVAC. As important, \"G\" wanted Atlas to have a single
+memory, one to hold both data and instructions. That was in contrast to
+some architecture, such as those of Howard Aiken at Harvard, who thought
+separate memories, concurrent processing, and dozens of registers made
+for a more powerful computer.24 Without any hesitation, \"G\" favored a
+pure binary system for its computer. The idea that became embodied in
+the UNIVAC, that some decimal representation was more efficient was
+rejected.
+
+\(U) While his research crew defined Atlas, Wenger worked on the politics
+of acquisition. He convinced the CNO of the need for Atlas, gained an
+extremely high priority rating for it,25 and then sidestepped some
+serious objections from the Bureau of Ships.
+
+\(U) In response to hints there were already enough navy computer efforts
+and that long term research should be left toothers, Wenger informed the
+bureau that \"G\" needed to acquire a \"special analytical machine.\"
+The word \"special\" gave OP-20-G the opening it needed to avoid a
+worst-case situation in which it would be forced to wait for and accept
+a machine it might not want. It also gave \"G\" the chance to play a
+positive role in the emergence of the computer industry.26
+
+
+
+
+
+EO 3.3(h)(2) P.L. 86-36
+
+\(U) Well before authorization had been granted, \"G\" began a more
+detailed design and made evaluations of possible computer manufacturers.
+With all the other government agencies sponsoring research in the field
+and with the interest shown by several private companies, \"G\'s\"
+experts did not anticipate that a large investment would be required for
+the design or for the hardware. \"G\" still thought RCA would enter the
+market. The National Bureau of Standards also seemed ready to build a
+computer. Wenger expected to have Atlas at the Nebraska Avenue complex
+in approximately two years.27
+
+\(U) Whatever the options, Wenger wanted quick action. Even though a
+\"special\" machine had been approved and although Monogram funds were
+available, there was always the chance that the White House might decide
+that computers were a luxury. Even the \$100,000 to \$300,000 for the
+machine might be seen as too much for a peacetime intelligence agency.28
+
+\(U) Laying out the general specifications for Atlas was relatively
+painless. Pendergrass had done his technical homework, and his
+recommendations were only refined, not changed. Beginning in March 1947,
+when \"G\" decided to take more responsibility for designing its Atlas,
+Campaigne, Eachus, Pendergrass and many others at \"G\" began to meet to
+detail the functional characteristics of their newest \"analytical
+machine.\" They even began to write programs. The enthusiasm was so
+great that many worked nights and weekends on their problems.29
+
+■{S} \"G\" was to have a von Neumann computer, not asouped-up version of
+its older devices. Suggestions that Pendergrass\' original sketches be
+altered by adding special-purpose attachments were adamantly rejected,
+as were those recommendations that the machine have control switches and
+plugboards. Software, driving elemental circuits, was to be the only
+control mech
+
+{S}- But the number of commands built into the machine was to be
+expanded beyond von Neumann\'s original list, and Pendergrass\' early
+recommendations. By 1947 close to forty commands were in the design. The
+expansion was aimed at easing cryptanalytic processing, as had been the
+alteration in the fundamental word size in the machine to six digits.
+That would allow letters as well as numbers to be analyzed.
+
+(9} The additional commands were at the fundamental level of the
+machine. There were \\no suggestions that complex sequences to imitate
+entire processes be wired into Atlas. A series of multiplication
+commands and a divide instruction were included, however, as were shift
+commands and noncarry arithmetic capabilities\* Shifts were especially
+useful when rotor or wheel stepping was required.
+
+anism
+
+30
+
+Also, there were hopes that a random number generator could be devised.
+
+\(U) Campaigne, Eachus, and the others on the design team had bright
+hopes for Atlas. But there were limits to the aspirations. They accepted
+the fate that plagued the first computer generation: They did not
+attempt to write a compiler or a high-level language for the machine.
+The only treat the \"G\" group gave programmers was the luxury of
+writing in octal rather than binary notation. That provided some relief,
+but it did not allow a programmer to avoid specifying the location of
+memory addresses in \"absolute\" terms. There was no software to
+automatically keep track of where instructions or variables were
+located.
+
+\(U) Like the TAS computer, Atlas was to be centered about what the
+Princeton group considered \"the\" solution to the memory problem, the
+RCA Selectron tube. It would allow an electronicspeed mass memory,
+something needed to meet the potential of parallel data transmission and
+processing. Hopefully, the Selectrons would support a large memory. In
+1990s terms, Atlas was to have 64K. In terms of the longer word size of
+the
+
+TOP GEOnETV/GOMINTy/nCL UGA, AUG, OAN GBR AND NZU/X1
+
+
+
+Atlas, that was equal to 16,384 \"cells.\" That was orders greater than
+what was planned for EDVAC.3\'
+
+\(U) The Selectron was under development at RCA\'s research laboratory.
+Rachman\'s tube promised to be much more powerful than the other types
+of binary electrostatic storage devices that were under development. And
+it was expected momentarily. Although some at OP-20-G had treated many
+of Rachman\'s ideas as more than fanciful, because of his advanced work
+during the war, he had become an ally of von Neumann, and his work
+demanded respect.32
+
+\(U) The Selectron was a complex device, but it had a great advantage; it
+was small and fast. Its size was one of its great attractions because
+other high-speed memories of the period, such as delay lines or the
+Wilkes electrostatic tube,33 took a great amount of space.
+Unfortunately, the Selectron proved to be too complex.
+
+\(U) It was based upon the principle that \"an insulated
+secondary-electron emitter can be made to \'float\' at either of two
+stable positions\...\" Deceptively simple, the principle demanded much
+delicate hardware. Inside the three-byseven-inch tubes was a dielectric
+target that was divided up by sixty-four metal bars and sixty-five
+circular metal rings. They created 4,096 \"cells\" that were the storage
+areas. When the four walls of a cell were all more positive than some
+particular voltage, a \"bit\" was registered.
+
+\(U) To von Neumann\'s and \"G\'s\" great disappointment, all that was
+too much, even for the great Jan Rachman.34 By spring 1947 RCA had to
+admit that it might be some time before the Selectron was ready. That
+led to some technological soul searching in Princeton and Washington.
+The IAS put more effort into a television-like electrostatic memory and
+even explored the possibility of ultra-high-speed secondary memory based
+on magnetic wire wound on bicycle wheel drives.
+
+\(U) The news about the Selectron was only one indication that the
+computer revolution was going to take much longer than had been thought.
+RCA began to make it clear that it was pulling back from its hints of
+becoming a manufacturer, the National Bureau of Standards program had
+slowed to a crawl, and the probability that the exENIAC team, Eckert and
+Mauchly, could deliver their promised computer to the Census Bureau in
+time for the 1950 census sank to near zero.
+
+\(U) By spring 1947 Atlas was on its own. If \"G\" were to have its
+computer, it would have to take even more responsibility, perhaps even
+for a very expensive failure. And it would have to make a critical
+technological choice.
+
+\(U) Little Thanks for Tliat Memory
+
+\(U) In April 1947, after learning about the faltering industrial
+commitments and the Selectron\'s possible stillbirth, \"G\" made two
+very significant decisions. The first was to continue with the project
+and the acquisition of a computer despite the absence of an \"industry\"
+or even a university that seemed willing to build computers. The second
+decision was perhaps more dramatic.35
+
+(T0//3I) When it was learned that the Selectron would not be available,
+there was a critical meeting at \"G\'s\" Nebraska Avenue headquarters.
+Some of those in attendance thought that without the high-speed memory
+it would be senseless to continue more than very general design work.
+What use would Atlas\' electronic circuits be if the memory was a slow
+tape or similar device? Even looking for a manufacturer for Atlas did
+not make sense to them. There were a few suggestions that the entire
+project be put on hold.
+
+(TC//9F) Howard Campaigne, perhaps worried that such a decision would
+end chances of funding, put up a stubborn fight. He won half his battle:
+The work was not canceled. But his victory seemed to open the door to
+some dangerous
+
+
+
+
+
+possibilities. His recommendation to go with what had always been the
+\"fall back\" memory for Atlas and Goldberg,36 a magnetic drum, stood
+the chance of making Atlas and \"G\" look rather foolish. It could make
+Atlas very slow and perhaps very dumb.
+
+£Rj//flI) Drums were much faster than tapes or cards, but they delivered
+information at a rate of i/400th or less of delay lines. Some estimates
+of the period gave the Selectron and electrostatic memories a 1,000-fold
+advantage.37 If microfilm could have been made to be \"rewritable,\" it
+could also have made a drum look antiquated. Seventymillimeter microfilm
+held 12,000 bits per inch; drums had a density of from 100 to 200
+bits.38
+
+GBS-) Although \"G\'s\" RAM group realized that such a memory would slow
+the proposed machine manyfold, by a close vote its members decided that
+a drum would be acceptable. It seemed a much better choice than
+postponing the project and being left dependent on the whims of an
+almost nonexistent computer industry.
+
+-£BS} Campaigne and his associates realized they were taking a chance.
+There were hosts of mechanical as well as magnetic-electronic challenges
+to overcome. Whether the \"drums\" were long bars or three-foot
+\"wheels\" covered with magnetic tape or sprayed with a magnetic
+coating, the problems of milling, sensing heads, and drive motors
+remained unsolved. Even ERA with a head start on drum construction
+because of its connection to the earlier RAM projects, did not have a
+finished and sure technology in hand. \^
+
+(=F8\> \"G\" decided to take the risk. While the IAS group waited for
+the Selectron\'s development or the appearance of another electrostatic
+memory, \"G\" started to work on revised designs for a drum machine. It
+also began a search for someone to build the newly defined Atlas.40
+
+CfS) No serious consideration seems to have been given to having, as
+would many atomic ener
+
+gy research groups, a university take charge of final design and
+manufacture. And \"G\" did not spend much time investigating the few
+companies that seemed willing to build computers. Thus, soon after the
+critical April 1947 meeting, ERA was chosen even though \"G\" knew how
+busy the young firm was with its first contracts.
+
+\(8) There was some worry that Atlas might be a bit too much for the new
+company and that some emerging problems with magnetic drums might not be
+conquered. 41 But in August 1947 ERA was given a design contract. And it
+was informed that \"G\" wanted a machine soon. ERA was not to wait for
+the results of the several research projects OP-20-G and the SIS were
+sponsoring to develop multifunction and ultrahigh-speed tubes and new
+circuits. And there was no thought of delaying Atlas just because there
+were not yet any high-speed printers suitable for an electronic
+computer.42
+
+\(325) There were a growing number of reasons why \"G\" wanted ERA to
+quickly prove the worth of a universal machine for cryptanalysis. Just
+as ERA was put to work on the final designs, the Sled project with its
+special architecture was being launched with much support from the
+Bureau of Ships. In addition to having some competition, Atlas had to
+face another possible trauma; there were well-grounded rumors that the
+Monogram budget was to be cut severely so.41
+
+fFS} With a great deal of help from \"G\'s\" research group in
+Washington, ERA was able to develop an acceptable design within a few
+months. As requested, it matched the von Neumann concepts and was aimed
+at avoiding manufacturing problems. Some rather useful ideas were
+sacrificed to the needs of the production schedule. A second processor,
+which would check results, was not included, and the suggestion to
+develop a partitioned memoiy was dropped. Having as many as eight active
+\"accumulators\" was also regarded as too much of a luxury.
+
+
+
+
+TOP WPlHfninimmi-i nr. ..,,» m{ \^ flMp M7U/ri
+
+fES} In early spring 1948, in return for promises to use as much
+standard equipment as possible, ERA was awarded a construction contract.
+There was a caveat, however. ERA was more than encouraged to build Adas
+in a way that would allow the substitution of electrostatic (Selectron)
+storage if and when it became available.
+
+(T0//0I) ERA and \"G° were in a hurry. Adas was given an AA priority,
+ERA borrowed much from MITs Whirlwind project, and ERA gave Adas as much
+attention as possible even when it had to rush to complete some
+special-purpose machines to attack Russian targets.44
+
+(S\> While the engineers in St. Paul were working on Atlas, the
+mathematicians-turned-programmers in Washington built their own computer
+to prepare for Adas\' arrival. They wanted programs ready to help prove
+their electronic computer\'s operational value as soon as it was
+delivered. Constructed within four months out of relays and a small
+magnetic drum developed by ERA their Abel computer was a logical clone
+of
+
+Adas. It gave \"G\" more than a year\'s head start in training
+programmers and in writing some operational programs. Its drum was not
+large enough to perform all of Adas\' chores, and its relays were
+hundreds of times slower than ERA\'s circuits, but it came to be almost
+a \"pet\" of the research group \"
+
+45
+
+::: {style="width: 53.46922775382203%;"}
+:::
+
+P Atlas 1
+
+(•G-) Meanwhile, despite the growing pressures on ERA, it was able to
+work something of a computer miracle: Adas was delivered to the navy in
+early December 1950, fairly close to the anticipated delivery date. It
+had taken ERA less than two years to construct the machine, perhaps
+because so much time had been spent preparing for its production stage
+and because of ERA\'s experience building special-purpose machines, such
+as Goldberg. In fact, Adas was the thirteenth project for \"G.\"46
+
+(€T Most of the design goals were accomplished. That made Atlas one of
+the very first operational computers in the world. ERA also achieved
+another sort of computer first: Adas worked and worked well for ; a
+decade after it was sent to Washington. A very efficient testing and
+maintenance schedule allowed replacement of tubes before they caused an
+unexpected failure. That contributed to an almost unheard of 90 percent
+\"up-time\" (availability), which made ERA very proud and very anxious
+to transfer its new computer skills to the commercial marketplace.47 It
+was also proud that it could have built one of the most powerful of all
+the early computers using only 2,700 tubes and that its drum performed
+reliably-48 Asa result, ERA and its follow
+
+
+
+
+10\^ afcUKbl/ZlUMINlimfcL U&A, AU3, CAM ODR AMD HZU/X1
+
+lEO 3.3(h)(2) P.L. 86-36
+
+on companies became leaders in magnetic drum technology and gained a
+reputation as supercomputer builders.
+
+\(U) Saving a Reputation through Logic
+
+PR8} But all the original Atlas goals were not attained. The machine had
+cost perhaps three times the early postwar estimate; its delivery price
+was just short of \$1,000,000. 49 More importantly, the drum held less
+than one-third the amount of information that had been hoped for in
+1947. But ERA was able to rotate it at an extremely high speed. Partly
+by reducing its size from the dimensions of earlier drums (three feet in
+diameter) to twenty-five inches long and eight inches in diameter,
+Atlas\' drum was ten times as fast as the one installed on Goldberg.
+\"\" The increased speed helped, but it did not solve the memory access
+problem. The 1950 Adas began its life as a very slow machine because the
+program, as well as data, had to be read from the drum. There did not
+seem to be a viable technical save. Replacing the drum with the still
+expensive and irritable electrostatic or delay-line memories seemed
+impractical.
+
+-ffS) The programmers atOP-20-G were charged with finding the best
+solution they could. Perhaps to everyone\'s surprise, they came up with
+an answer that made Adas competitive with other computers of the time.
+
+i\^T The solution they devised was called \"interlacing.\" Combined with
+very careful programming, it increased Adas\' speed by a factor of more
+than 300. That meant that the drum-based Adas became approximately
+two-thirds as fast as a similar machine using the new magnetic core
+memory of the mid-1950s. In fact, Adas came close to being a match for
+the IAS machine.5\*The increase in Atlas\' speed came at a high cost to
+the early programmers, however.
+
+(S\^The trick they had to pull off was to place instructions around the
+drum in such an order
+
+that rotation time until the next expected instruction was minimized. At
+first, \\ a plugboard was used to accomplish the necessary scrambling of
+once-sequential locations. By 1951 an automatic \"dial\" system was
+installed that eliminated the need to replug a board for each program.
+Although the relocation of instructions was made automatic, programming
+was; not. To utilize the \"interlaced\" instruction, programs had to be
+drafted on large sheets ofp4per. The two-bythree-foot sheets allowed the
+programmers to keep track of where the instructions were located and
+allowed them to perform jtiming miracles so that the call for the
+instruction came when the drum was in the correct positions.52
+
+(T8\^-Despite the near agony of Adas programming, a wide range of
+statistical attacks was run on the machine. It proved Pendergrass\'
+point about flexibility although writing Adas\' programs, took much,
+much longer than had been imagined by him in 1946. Such fondly
+remembered programs as Bootstraps for the identification of nonrandom
+distributiqhs (roughness testing) and I \*\~
+
+analysis aids took
+
+enormous human effort.53
+
+\(U) The new programmers in Washington could not find any way to
+compensate for another of Atlas\' failings, however. Adas could not be
+coaxed into becoming a data processing computer. Its input-output
+capabilities were too limited. It brought data to its drum through a
+photoelectric papertape reader; an Electromatic typewriter and a tape
+punch handled its output. T\^eTwere no pathways for punch card machines
+nor for the just emerging magnetic tape drives.
+
+(\*ft\^ A severe limitation with many ramifications was Adas\' inability
+to put the input tapereader under program control. All the reader could
+do was load the drum. The paper tapes could not be used as a dynamic
+source of data.54
+
+fS4 Adas\' sparse I/O was a result of conscious design judgments, ones
+which mixed technologi
+
+top oconrn/ooMiNT/mBL uoa, auo» can obr amd nzu/xi
+
+
+
+
+cal possibilities with operational needs and with a strong dose of
+\"GM\'s\" goal of fulfilling Wenger\'s dream of \"mathematical\"
+cryptanalysis.
+
+(S\> When Atlas was being designed, the only new large-scale secondary
+memory media that seemed to have input potential was magnetic tape. But
+tape systems with the possibility of holding massive amounts of
+information remained in the development stage and were proving very
+stubborn. To wait for their maturation would have delayed Atlas\'
+construction; to attempt to anticipate what circuitry Adas needed to
+hook up to future systems would have been foolish.
+
+4\$) Attaching Atlas to an IBM card reader might have seemed attractive
+atone point, but there may have been questions about using that
+company\'s equipment in a competitor\'s system.
+
+tS\^In any case, \"G\" had decided by 1948 that energies would goto
+increasing Atlas\' internal processing power by adding additional
+\"instruction\" circuits. The expansion of the number of hardwired
+instructions was intended to encourage the use of
+Kmathematical\"cryptanalysis. The many binary multiplication and
+shifting instructions and the divide circuitry made Adas more expensive
+and harder to manufacture, but they speeded statistical testing by many
+factors.
+
+(S)-Those features seemed so attractive that despite the severe I/O
+limitations, a second Adas was ordered some six months before the first
+was shipped from St. Paul. Because the initial model absorbed the
+development cost, this Adas was priced at one-third of the original. At
+the same time, a new design cycle was begun. The Adas II, which in its
+civilian guise was called the 1103, was the machine that anchored the
+ERA group\'s computer building reputation, although its original price
+was \$1,250,000.w
+
+QtS//0f) For a time, however, it was thought that Adas III would be a
+data processor as well as
+
+a \"number cruncher.\" But Adas II could not overcome the earlier I/O
+limitations. When it was being designed, the Raytheon Company announced
+it was perfecting tape drives. ERA\'s engineers built a
+program-controlled I/O feature into the machine only to discover serious
+technical difficulties with the Raytheon magnetic tape systems. Despite
+a last-minute effort, eleven were delivered without a tape capability.56
+But its internal processing powers were much enhanced. Some
+electrostatic storage was added, the drum was improved, a two-address
+logic was introduced, the word size was increased, and several very
+useful basic instructions were added.
+
+\(U) All in all, \"G\" thought that its sometimes frustrating computer
+adventure had been worthwhile. The agency\'s advocates for
+general-purpose machines had made their point, and the work on Adas
+helped to establish ERA as a computer company. The Adas designs and
+designers would play an important part in the history of automation of
+communications intelligence.
+
+\(U) The relatively happy ending of the Adas project was not quite
+matched in the army\'s attempts to establish its place in the computer
+world.
+
+\(U) The Army\'s Problem
+
+4G) The SIS lost many of its engineers after the war, and it was unable
+to create its own ERA. In response, it planned to do some machine design
+in-house, go to contractors for details and components, and, when
+necessary, assemble its secret special-purpose devices itself. That
+seemed quite efficient, but the SIS was unable to follow that approach
+when it began its quest for its first general-purpose computer, a
+machine that took its name from another newspaper cartoon character,
+\"Abner.\" Although some have claimed the name was chosen because the
+modern computer without a program is a dumb machine, the selection of
+the name in 1949 may have been inspired by the nature of the search for
+a design and a
+
+
+I UP &ECRETOCOMIHT\<mEL USA, AU3, OAN ODR AMD NZU/XI
+
+
+
+manufacturer. The army\'s codebreakers had gone through a bizarre and
+agonizing odyssey during the previous three years. The experience was
+almost cosmic.57
+
+fj9) In 1945 there was a significant reduction in force at the SIS. But
+Solomon Kullback and Leo Rosen were able to retain enough personnel and
+funds to continue the old \"F\" branch - one with a fresh bureaucratic
+name and expanded powers.58 One of their first and most important
+decisions was to appoint one of their young proteges to head a new
+subsection. In January 1946 Samuel S. Snyder, who later became a major
+figure in the computer and information world, was asked to survey the
+wartime computer developments and then to turn his new RAM research
+group into a dynamic force. The group was to keep the agency informed
+about all the computer developments in the world and to act as an
+advocate for further automation within the agency.
+
+QB) Snyder and his coworkers, Mary Roseboro and William May, began by
+gathering and rewriting all the documentation that remained on the World
+War II machines at SIS. Soon they decided to expand the survey to
+include the devices OP
+
+::: {style="width: 36.94117647058823%;"}
+:::
+
+20-G had obtained. That turned their project into creating what became
+the irreplaceable \"Machine Aids to Cryptanalysis\" series.59
+
+■tfif Snyder did more than follow in-house developments. By mid-1947 he
+had visited the National Bureau of Standards and had made some contacts
+with those in academia and the commercial sector that had interests in
+computer development. But he got somewhat of a late start at his
+attempts to bring a computer to the agency.
+
+(S//ST) The SIS was at least a year or two behind OP-20-G\'s computer
+work. One reason was that someone like Snyder had not been selected to
+attend the Philadelphia computer symposium in mid-1946 that had so
+impressed Pendergrass. Instead, Kullback had sent a SIS engineer who had
+little or no mathematical or cryptanalytic experience. The man was not
+impressed with what he heard and did not report back to the SIS that a
+great technological and cryptanalytic opportunity had appeared.
+According to Snyder, the man did not even submit a report on the ENLAC
+and EDVAC designs.60
+
+(S//SI) Fortunately for the agency, Sam Snyder encountered Pendergrass\'
+report. Inspired, he began contacting others who were developing what
+later became known as \"computer science.\" Snyder became somewhat of a
+computer \"trekkie.\" He attended all the meetings, such as the famous
+one at the Aberdeen Proving Grounds, of the just forming Eastern
+Association for Computing Machinery.61 He learned of the vast data
+processing center at the Prudential Insurance Company (some 700 IBM
+machines) and the plans of one of its aggressive young executives to
+make the Prudential a center for electronic computer development and
+applications. That contact with E. C. Berkeley reinforced Snyder\'s
+rather philosophical view of the coming computer revolution. Berkeley
+was one of the first \"futurists\" in the computer field.62
+
+\(U) Samuel S. Snyder
+
+IUH fc\>blKbl»UJIVIINi;mEL U&A, AUS, LAN QBE AND NZU/XI
+
+
+
+
+TS/7\^JThere was a much more practical side to Snyder\'s trips around
+the East Coast. By at least mid-1947 the SIS decided that it would not
+let OP-20-G be the only one with an electronic general-purpose computer.
+Snyder was sent to all the companies and academic institutions that had
+indicated they were going to take the risk of building a computer. The
+only centers Snyder did not seem to visit were ERA, Harvard, and Western
+Electric. He skipped ERA because he already knew about its computer
+design and, perhaps, because from the beginning, the SIS did not want
+just a clone of the navy\'s computer. Nor did it want to become
+dependent on the navy\'s captive corporation.\" He bypassed Harvard,
+where Howard Aiken continued to build ordnance computers, because the
+unique Harvard architecture did not seem right for cryptanalytic work.
+The Western Electric postwar devices also seemed to be a bit \"old\" in
+terms of design and hardware.
+
+(0//0I) Snyder\'s trips were exciting; he was becoming a pioneer. He was
+able to see all that the fledgling UNIVAC group in Philadelphia was
+doing. He even spent time with Grace Hopper, who was becoming a legend
+in the computer world for her contributions to programming. While in
+Philadelphia, he also made contact with the EDVAC team. Then he headed
+for Princeton and the Institute for Advanced Study where Julian Bigelow
+was leading the group that was slowly making John von Neumann\'s concept
+turn into hardware. The Institute and Bigelow were impressive, but
+Snyder continued his search. Soon he was in Boston, where he found what
+he thought was the most promising of all the computer projects in the
+country. It was the one within Vannevar Bush\'s old company, Raytheon.
+Bush, however, had nothing to do with the project. In fact, many of its
+bright engineers had come out of the World War II computer projects run
+by Howard Aiken at Harvard.
+
+\(U) Snyder thought that Raytheon\'s R. M. Bloch, R. V. D. Campbell, and
+M. Ellis were doing the most exciting work in the country and were
+
+the most likely to be able to construct the type of computer the SIS
+needed.63 In addition to the design of its computer, Raytheon was
+attractive because it was the only large corporation in the country
+willing to subsidize computer development.
+
+\(U) The company was in a unique position. Raytheon had gone from a
+moderate size firm in the 1930s to become a major defense contractor
+during World War II. It was aggressively seeking new products and
+markets that would allow it to keep its position in the peacetime
+economy. That was in contrast, for example, to IBM, which was unwilling
+to endanger its major product lines by leaping into computers.
+
+(T8//8i) The small firms that were showing interest in computers were
+not viable alternatives for Snyder. Investing in them posed a risk for
+any purchaser. Even the one with the best reputation was showing signs
+that it was overreaching itself. UNWAC\'s Eckert and Mauchly wanted the
+SIS\'s work, but could not commit to building a machine that would suit
+the needs of cryptanalysis within a reasonable time. In addition, there
+may already have been security problems at the company.64
+
+(S3 That left Raytheon as almost the only option for the SIS. Then the
+proposed Raytheon machine received more acclaim. While Sam Snyder was
+making the rounds of the computer centers, his research group had been
+examining the designs of all the proposed computers and found that
+Raytheon\'s was to be a data processor, at least much more so than Atlas
+or any of the von Neumann machines, because it was a fouraddress device.
+In addition, although it was a serial processor, its speed would be more
+than adequate because it was to have a large and fast memory built of
+Selectrons. Although ERA had concluded that the Selectron might never
+appear and turned to the drums, the SIS bet that it would soon emerge
+from RCA\'s research laboratory.
+
+
+
+
+
+-fS) Talks were begun with Raytheon\'s management, and by fall 1947 the
+SIS group thought an advanced computer was about to be built for them.
+The early plans included more than just a fast memory. Raytheon promised
+to make its computer more of a data processor than any other by
+developing revolutionary magnetic tape and wire systems. They were to
+provide high-speed bulk input, and there were even hopes of devising
+high-speed output mechanisms. Perhaps as important, the SIS thought that
+Raytheon might deliver a machine before Atlas could be sent to
+Washington.
+
+\^ It wasn\'t too long before those hopes were dashed. Raytheon let the
+SIS know that because it had obtained a contract for a computer from
+another navy agency (through the NBS), it would beat least three years
+before a SIS computer could be completed. Although the company offered
+an attractive price, \$350,000, and indicated it would be able to
+provide the SIS with a machine that included their very promising
+plastic tape systems, they declared they would provide it on their
+schedule.
+
+-(SHThe SIS group hesitated before accepting the new offer, thinking
+that three years was much too long to wait. They had been very busy
+writing their own version of the Pendergrass report and had already
+written programs for the type of machine they desired. Those investments
+seemed too much to waste. But there was no alternative to Raytheon.
+
+£ES} When the SIS managers returned to the company, they were somewhat
+resigned to a long wait, although they planned to bargain over delivery
+schedules. As they started the negotiations, they received a shock. The
+company had reworked its estimate of the cost of a computer that met
+Snyder\'s needs. Raytheon now wanted so much more that the SIS turned
+the offer down without further bargaining.65
+
+\(U) Stratton\'s Dream Revisited
+
+\(U) In near desperation, Snyder went to the National Bureau of
+Standards. Standards had visions of becoming what Stratton had desired a
+generation before: the center for computer development in the nation.
+John Hamilton Curtiss, an applied mathematician with a Harvard degree
+and wartime navy experience, had been hired by the new crusading leader
+of the NBS, E. U. Condon, to accomplish that. By 1947 Condon had funds
+for computer development and was on the way to becoming an intermediary
+for all government agencies\' computer purchases. With a group of
+energetic engineers and mathematicians, the NBS guided, for example,
+developments atUNIVAC and Raytheon. It was doing much more. It was
+encouraging and coordinating the work of many contractors who were
+developing computer components, and it was making suggestions to
+builders to improve computer architecture.66
+
+\(U) But contact with the NBS did not lead to any immediate relief for
+Snyder. The best the NBS said it could do was to allow Snyder\'s group
+to attend the computer lectures it was conducting and to provide leads
+to new companies that might be willing to build a computer.
+
+\(U) It was mid-1948 and the SIS still did not have a final design or a
+contractor.
+
+(6} The SIS went in circles for a time, then came back to an earlier
+contact, the Reeves Instrument Corporation, a New York firm that was a
+leader in the analog computer business. It had just completed a very
+useful and pathbreaking electronic differential analyzer, the REAC. It
+had also gained some digital experience by helping the University of
+Pennsylvania with its computer projects. More importantly, it had let it
+be known that it was going into the digital computer business. To do so
+it had hired one of the most unusual men in the early computer business,
+
+top Gr.Gnr.T//ooMiNT//rcr.L uoa, auo, can odr and nzu/xi
+
+
+
+
+Samuel Lubkin, to supervise the design and construction of its proposed
+REVAC.
+
+c\$) Lubkin was an alumnus of the important University of Pennsylvania
+projects, and he wanted to build his own improved version of an EDVAC.
+His past experience and the preliminary design of the Reeves machine
+convinced the SIS\'s team to support Lubkin\'s design although he
+planned to use delay-line rather than faster Selectron memory.
+Abandoning the Selectron was difficult, but there was an attractive
+trade-off: Reeves was proposing to build its advanced version of the
+EDVAC within one year for a bargain price of \$150,000. 68 Although the
+Reeves machine would be serial and clock-based, it was to use four
+addresses; most importantly, it would beat Arlington Hall before the end
+of the decade.69
+
+GS) Serious talks were begun with Reeves in early summer 1948 and Snyder
+and his team felt vindicated.
+
+OES) Then chaos took hold again. Just as negotiations were begun, Reeves
+announced it was not going to branch out into digital computers
+
+70
+
+tS) Lubkin immediately left the company. At first Snyder thought that
+all was not lost. There seemed a chance that Lubkin could become an SIS
+employee. At least the design for his machine could be finished. Talks
+were held: then Lubkin decided he wanted to found his own computer
+company. For a moment it appeared that the SIS might have its own
+version of ERA That was a short-lived dream. Lubkin could not raise the
+necessary financing. Lubkin gave up and took a government job, but not
+with the SIS. He went with the National Bureau of Standards.
+
+\(U) There was no one left to build \"Abner.\" For the SIS there was no
+American computer industry. Then there were a few moments of relief when
+the NBS gave some indications that it might
+
+arrange for a computer for the agency. As happened so many times before,
+the hopes were defeated. The contractors the NBS was depending upon for
+the computers to be used at its important applied mathematics centers
+could not meet their schedules. They got so far behind that the NBS
+decided to build a machine for itself. That eliminated any chance that
+the SIS could get a machine within the near future. The NBS would be too
+busy arranging for its \"interim\" computers. Its work force had to
+concentrate on a machine to save the NBS\'s numerical centers, and its
+needs would keep available subcontractors busy.71
+
+{\$) Swallowing a great deal of pride, the SIS made another brief
+attempt to get Raytheon to reconsider. No deal could be struck. Then the
+SIS decided that it had only one alternative, unless it was to give up
+on the idea of being one of the first members of the world\'s \"computer
+club.\" No matter what the risk, it had to build its own machine. Snyder
+reasoned that since the SIS now had an engineering staff of some sixty
+men who had already had much electronics experience (as a result of
+their work in radar and other military electronics), there was a chance
+of success.
+
+\"TC-) But Snyder knew his group required help; it needed some
+experienced and skilled computer designers to flesh out the functional
+sketches being produced by the SIS engineers, such as Ray Bowman and
+Dwight Ashley. Again the SIS went to the National Bureau of Standards.
+Since Lubkin was there and since he had already put so much work into
+the design ofthe REVAC, it seemed reasonable to expect cooperation and a
+detail design within a short time. The NBS was reluctant to take on any
+more responsibilities, however. They had their own crisis to deal with.
+But after emphasizing that it was too busy to build a machine for the
+agency, in early fall 1948 the NBS offered to take on the design task
+for \$150,000.72 That seemed a bit too expensive. That was the amount
+that Reeves was to have charged for a delivered machine, but the SIS\'s
+options were limited. So, even though the NBS
+
+
+
+
+EO 3.3(h)(2) £.!\_. 86-36
+
+
+was indicating that it was going to provide the SIS only with something
+close to a copy of the very simplified delay-line SEAC, it was rushing
+to build for itself, the offer was accepted.73
+
+4S1 To prepare for the arrival of the design, a team of engineers was
+formed and programming classes were begun. Snyder felt that his ordeal
+was finally over. The project seemed about ready to contribute
+operational results; there was great enthusiasm. The new programmers
+went beyond their lessons and began to write routines to attack Soon the
+mathematicians
+
+\]
+
+at the SIS were swept up in the excitement over the about-to-appear
+computer. Dick Liebler and Hugh Gingerich even devised anew class of
+
+attacks
+
+ones that could be done
+
+only on a high-speed digital machine.74
+
+tS} Unfortunately, the plans did not come from the National Bureau of
+Standards on schedule. Its crew was so busy with the bureau\'s own
+computer problems and those of the contractors it was supervising for
+other government agencies, that all Snyder got from them were promises
+to hurry. The situation got worse when Lubkin decided that Standards was
+not for him. That complicated an already difficult situation because
+those who took over his tasks favored a much simpler machine than the
+SIS was expecting.75
+
+TSKThere were meetings, but they were disappointing. The NBS was willing
+to promise a design for only a very bare bones device. And they could
+not guarantee when those plans would be ready for the engineers and
+programmers who waited for them at Arlington Hall.
+
+(S//SI) Everyone at the SIS grew more frustrated. The frustration was
+compounded by growing ambitions. As the SIS engineers and programmers
+gained more experience, they thought of many ways to make \"Abner\" an
+effective cryptanalytic device.76 But it would have to be a much more
+complex machine than the one proposed by the NBS and a more intricate
+one than Atlas. It
+
+was also clear that Abner was going to cost the agency much more than
+had been imagined.
+
+\(U) So Much for Simplicity
+
+ITSffSi\^\'With young men like Ray Bowman in the lead, ideas were put
+forward to change Abner into something more like a Sled than a simple
+EDVAC. He and others showed how basic cryptanalytic functions could be
+turned into circuits that, they thought, should become an integral part
+of Abner. Some fifteen special \"instructions\" were drawn as circuit
+diagrams and were shown to the few men at the NBS who had security
+clearances.77Their reaction was not positive; they felt they were being
+asked to do much more than was initially agreed upon. And even when a
+compromise was suggested, that the special functions such as a
+two-message offset instruction be put into a separate box that the SIS
+would design and build, agreements could not be reached. Even such a
+box, the NBS engineers argued, would demand too many complex circuits in
+the main computer.78 There was a stand-off, a quiet one, but it was
+clear the two agencies had reached an impasse in late 1949.79
+
+\(U) Another critical decision had to be made. Should Abner be abandoned
+at least until the uncontrollable NBS decided to devote serious
+attention to it? Or, since the SIS and OP-20-G had been merged into the
+new Armed Forces Security Agency, should everyone be required to wait
+for the completion of the further advanced Atlas project? It did not
+take too long for the administrators to make a courageous decision. They
+allowed the Arlington Hall engineers to go ahead and design and build
+their own machine.
+
+\(U) That seemed a reasonable decision because so much agency effort had
+already gone into Abner and because the computer manufacturers,
+including IBM, continued to back away from taking contracts for
+machines. And the agency knew that smaller companies, such as
+Technitrol, could be counted on for components.
+
+
+
+
+
+They were already helping with the special-purpose machines the agency
+was considering.
+
+\(U) Abner\'s Not Quite Best Friend
+
+f©-The decision to build Abner received an unexpected justification in
+mid-1950. During the first months ofthe Korean War, when the American
+military was unable to show that it could effectively police the world,
+it was at least suspected that the American navy\'s callsigns were
+inadequate. New ones had to be generated to protect the fleet and its
+messages. There was a critical need to run \"involuntary matrices\" to
+ensure randomness. That was a demanding job and one that Solomon
+Kullback, the agency\'s research director, had given the highest
+priority.
+
+4\$) In summer 1950 a survey was made ofthe possibility of running the
+matrices on IBM tabulator equipment. The result was very disappointing.
+Then a suggestion was made that perhaps the relay analog ofthe
+soon-to-be-delivered Atlas could be used. Some ofthe mathematicians
+explored the possibility and then, perhaps prompted by Sam Snyder,
+looked at the possibility of using the NBS\'s new SEAC. It was the
+interim computer the NBS had decided to build on its own in 1948.
+Constructed in two years, it was a bare bones version ofthe EDVAC, but
+it worked.
+
+JJ&) Required to estimate whether or not it would be worthwhile to ask
+the NBS if SEAC could be used on the callsign problem, the SIS\'s
+programmers made pencil and paper calculations ofthe power of various
+alternatives.
+
+•&) Their estimates gave the following times for gaining a completed and
+satisfactory matrix.80
+
+ias
+
+By Hand By Relay ByArJ
+
+(Drum) 5 hours 4.5 hours 3 minutes
+
+(S\^ The results seemed unambiguous. The electronic machines were
+undoubtedly faster
+
+By Seac (Delay) 20 seconds
+
+than hand or relay process, and most importantly, the delay-line
+machines, such as SEAC, were orders faster than the ones with drum
+memory. That finding was support for Abner\'s cause and for the NBS\'s
+SEAC. As a result, Sam Snyder went to the National Bureau of Standards
+and gained permission to use the SEAC for the matrix problem.81
+Unfortunately, the first hands-on experience with an electronic computer
+was very disappointing. If there had not been so much invested in Abner,
+the experience with SEAC might have led to abandoning Abner.
+
+-QS) A program for computing the matrices on SEAC was written in some
+two months, not an easy task in the early 1950s. Then in September some
+SEAC run time was allocated to the agency - but on weekends and nights
+and at \$24.00 an hour, not an inconsiderable sum at the time. The
+expense had not been foreseen, nor had the SEAC\'s temper. SEAC soon
+taught the analysts that there was a vast difference between the
+theoretical internal speed of computers and their real operating time.
+
+C&) The first post-midnight session on SEAC took twelve very
+discouraging hours. Despite all the care that had been taken, the result
+had to be abandoned because of repeated machine errors. A few days later
+some 200 matrices were created, but then errors crept in again. After
+just two hours of successful runs, it was decided that a checking
+program should be written so that all results could be verified.
+
+\^g) The frustrations continued. In midSeptember, SEAC worked only four
+out of sixteen hours, and the results that were obtained were put into
+question because ofthe quirky behavior ofthe computer.
+
+S&) On September 19 SEAC did more than follow the laws of early computer
+technology (to rarely work); it committed a serious political blunder.
+The agency had reserved a precious twelve-hour chunk of time, between
+noon and
+
+
+TOP 9EGREWCOMIWT//RCL UQA, AUG, OAN OBR AND NZU/X1
+
+
+rop msmmasmmns: usa, auo, can odr and imm
+
+midnight, because some official had decided it was appropriate that the
+great secret of SEAC and the future Abner be revealed to the SIGINT
+community. Some twenty-five people were invited to watch the NBS\'s
+machine in action. Sam Snyder was in charge of running SEAC.
+
+\(S) Much to Snyder\'s embarrassment, of the entire twelve hours \"o
+hours were productive.\" He was so angry that he wrote in a report, \"In
+the future, when trouble with SEAC develops, no more attempts will be
+made by personnel of this Section to find the cause of the
+difficulty.\"82
+
+\(S) Despite the anger and the problems that continued to be encountered
+with SEAC runs, it was decided to keep the matrices that had been
+produced.
+
+\(U) Abner by Inertia
+
+f€£.While SEAC was refusing to give its best, the crew at Arlington Hall
+got to work building Abner, not telling the NBS exactly what they were
+
+doing. They worked so quickly and quietly that when the NBS
+representatives finally appeared at Arlington Hall with some sketches,
+they were shown, with much ceremony, the completed SIS design.83
+
+{6} That design had become very ambitious, going far beyond the NBS\'s
+SEAC.84 The basic EDVAC approach was maintained, but many special
+functions were included. Abner became much more of a crypto-computer
+than Atlas.
+
+69\) Three groups of special instructions were built into Abner. The
+first made encipher/decipher tasks easier. A programmer could call for
+addition without carrying and specify which number base, ranging from
+two to greater than thirty-two. Abner could very quickly run key against
+text, imitating many of the previous special-purpose machines. The
+second group of commands made Abner a more efficient processor of
+streams of data, allowing easy transfer of blocks of information and
+repetition of a series of instructions until a task was completed. The
+third
+
+::: {style="width: 67.26773814190513%;"}
+:::
+
+•4\^ Abner
+
+top or.onnv/ooM!NT//m:L uoa, auo, can odr and nzujxi
+
+
+
+
+group contained instructions that made Abner a powerful \"comparator.\"
+Using the one Swish instruction, a programmer could tell Abner to85
+
+Pass two variable length streams of five-bit characters from memory to
+the control of the analytic unit of the machine;
+
+Compare groups of varied sizes (one to sixtythree characters) for
+coincidences;
+
+Store the count in a specified location;
+
+Offset one data stream to prepare it for another round of coincidence
+testing.
+
+•fS} As significant for the evolution of the computer, there were
+courageous attempts to give Abner what most other computers of the time
+did not have, a range of powerful input and output devices. A big gamble
+was taken: the new plastic magnetic tapes could be made to function.
+Connections for six of the Raytheon drives were installed. A punched
+tape reader was attached as well. Not as exciting, but more important
+from an operational standpoint, an IBM collator was to be used for card
+input and a modified IBM card punch for output.86 There were many
+software developments. By the time Abner was completed in April 1952,
+the SIS programmers had written a wide range of operational routines.87
+
+\(U) Abner\'s Bad Temper
+
+fjS)-But it was some two years between the time the SIS engineers
+decided to detail their own Abner and its start-up as an operational
+machine. And its cost climbed to twice the original estimate of
+\$300,000. Even then, it was just, as one engineer put it, an
+\"experimental model.\"
+
+-(S) And it was almost as temperamental as SEAC. Its special functions
+made it a bit too complicated to maintain (it had 1,500 tubes and 25,000
+diodes), the PO devices and their interfaces had many troublesome
+moments, and the
+
+more than 100 delay lines needed constant finetuning.
+
+88
+
+\"\"(\$)• The limitations of the 1952 Abner were obvious. But its
+problems did not cause the SIS to abandon computers. A contract was let
+to have the Technitrol company in Philadelphia build a new version. It
+arrived in mid-1955, cost approximately \$1,000,000, and like Abner I,
+had an operational price tag of almost the same amount.
+
+-6S-) It was known in the 1940s that operators, cooling systems and
+repairs would make computers very expensive to maintain. But there was
+another cost that was not anticipated: programming. Abner I needed
+\$130,000 a year worth of programmer time plus additional amounts for
+special projects.89
+
+\"XS//SB Abner had another expense: a clone. In 1950 it was decided that
+Abner should have the same kind of relay-circuit cousin that had been
+quickly built to train Atlas\'s programmers. When the construction of
+\"Baker\" began, no one expected it to take two years to complete, nor
+to become the size of a room. Nor did anyone foresee that the relay
+version of Abner would be much less reliable than the new electronic
+machine. Baker proved so difficult that it never kept its promise to be
+an inexpensive training and program-debugging aid to Abner.90
+
+4S) Despite Baker\'s failings, many innovative programs were written for
+Abner. They spanned all cryptanalytic attacks as well as data processing
+tasks. The list of programs is impressive, especially when it is
+realized they were written in an era when programming was something of a
+black art. For many years programs had to be written in the o\'s and
+l\'s the computer recognized, and even when \"higher\" level languages
+appeared, programming and debugging were energy-draining and
+emotion-laden exercises.
+
+£KS) Abner was used to \"diarize\" as well as to analyze wired rotor
+systems. But perhaps its most
+
+
+
+
+
+useful program was Stethoscope. Written very early in the history of
+programming, it became a classic. Stethoscope very efficiently applied
+all the major statistical attacks against cipher text in unknown
+systems.91 The routines proved so valuable, and the potentials of
+expanding Stethoscope seemed so great, that a very courageous step was
+taken by the SIS programmers. They decided to write one of the very
+first compilers. Bill Cherry played a key role in the LULU project to
+create software that would allow programmers to very easily compose and
+correct programs that called many subroutines. With the help of LULU and
+its follow-on, Stethoscope became the much more powerful general
+cryptanalytic program, Supersteth.
+
+\(U) And Then Came \...
+
+(fS/ySE) It had taken many years and millions of dollars to prove that a
+universal computer could be a valuable statistical tool, however. And
+there were some critical moments when it seemed that a special
+architecture would be the wisest choice for the SIGINT agencies. In
+fact, one of the gravest crises in the history of American cryptanalysis
+shifted attention to such alternatives and highlighted the weaknesses of
+the new generalpurpose computers. \"Black Friday\" of 1948 saw a return
+to a faith in special-purpose devices; they seemed the only way to
+overcome Soviet systems that were making the Enigma and even Tunny look
+simple. But \"Black Friday\" also showed how far the computer had to go
+before it could replace the old reliable data processors, the
+tabulators.
+
+Notes
+
+i.(U) NSA, OP-20-G, J.T. Pendergrass, \"Cryptanalytic Use of High-Speed
+Digital Computing Machines,\" 1946. NSA, Samuel S. Snyder \"Influence of
+United States Cryptologic Organizations on the Digital Computer
+Industry,\" dates the beginning of Goldberg to 1947 perhaps on the basis
+of the contract for the machine rather than on the date of start of the
+explorations for a universal scanning machine.
+
+2\. (U) Interview with Philip J. Bochicchio, July 1994, On Rachman,
+(T0//0I) NSA CCH Series XII Z, and CCH Computer History Box, OP-20-G
+\"War Diary Reports: March 1,1943 - May 31,1948,\" August 1945.
+
+3\. (U) Anthony Ralston (ed.), Encyclopedia of Computer Science (New
+York: Van Norstrand Reinhold, 1976), 482, 1459.
+
+4-fe)-NSA CCH Series XII Zand XI K, Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979,1-2.
+
+5\. (U) On the postwar Selector project and its tie to Bush and \"G\'s\"
+ERA, see Colin Burke, Information and Secrecy: Vannevar Bush, Ultra, and
+the Other Memex (Metuchen, N. J.: The Scarecrow Press, 1994.) On Bush
+and Eisenhower, see Thomas Johnson, American Cryptology during the Cold
+War: Book I, Ft. George Meade, MD: NSA Center for Cryptologic History,
+1995.
+
+6\. (U) Colin Burke, Information and Secrecy: Vannevar Bush, Ultra, and
+the Other Memex, (Metuchen, N. J.: The Scarecrow Press, 1994), Ch. 14.
+
+7.(U) NSA OP-20-G, J.T. Pendergrass, \"Cryptanalytic Use of High-Speed
+Digital Computing Machines,\" 1946. (U) NSA, Samuel S. Snyder,
+\"Influence of United States Cryptologic Organizations on the Digital
+Computer Industry\" dates the beginning of Goldberg to 1947, perhaps on
+the basis of the date of the contract for the machine rather than on the
+date of the start of the explorations for a universal scanning machine.
+
+8.(IS\#ei) NSA CCH Series XII Z,H. H. Campaigne, \"Reading TUNNY,\" NSA
+Technical Journal, (Fall 1962). (J8//SBJ A fascinating source for the
+history of OP-20-G are Campaigne\'s War Diaries,
+
+1943-1945.
+
+9\. (U) NSA CCH Series XIK, Snyder, Box 8, OP-20-G4, \"Report on
+conference held at Navy Department 15 May 1946. \"Survey of large scale
+automatic computing machines, given by J. von Neumann,\" Howard
+Campaigne, 16 May 1946.
+
+10\. (U) Martin Campbell-Kelly and Michael R, Williams (ed.), The Moore
+School Lectures: Theory and Techniques for the Design of Electronic
+Digital Computers (Cambridge, Mass.: MIT Press, 1985).
+
+11\. (¥8} NSA CCH Series XII Z, NSASAB, \"Historical Study,
+Lightning-Freehand,\" circa 1963.
+
+
+
+
+TOP BbCHUHlUMWIIlKfcL U!A &Ub, IWt UW UNU tUUIXr
+
+(TO//6I) NSA CCH Series XII Z, \"Mechanization in Support ofCOMINT,
+Phase 111: Third Addition,\" i November 1956. (U) \"Remarks at the
+Dedication of John von Neumann Hall/\' NSA Technical Jourrad, VI (Winter
+1961): i-CB) NSA CCH Series XII Z, Morns Pomerantz and Lawrence A,Sames,
+\"Data Distribution Network for the TABLON Mass Storage System,\" circa
+1970.
+
+12\. fPS) NSA CCH Series XII Z,Lt. Cdr. J.T. Pendergrass, \"High Speed
+Digital Computing Machines, Cryptanalytic Uses of,\" 15 October,
+1946(T0//0I) NSA CCH Series XIIZ, H. H. Campaigne and J.T. Pendergrass,
+\"Second Report on Cryptanalytic Use of High Speed Digital Computing
+Machines,\" 0P20-L, 18 December 1946. Campaigne wrote one of the
+programs in the first report, but that has not been remembered. He was
+listed as the joint author in the second one
+
+13\. (U) It is important to note that the reports did not claim that the
+machine was an efficient data processor. All of the many examples were
+cryptanalytic ones, and processing-heavy methods such asT/A were not
+mentioned.
+
+14\. PES) NSA CCH Series XII Z,Lt. Cdr. J.T. Pendergrass, \"High Speed
+Digital Computing Machines, Cryptanalytic Uses of,\" 15 October 1946,1.
+
+15\. (U) von Neumann had, at first, favored a fouraddress system, then
+changed to the one-address idea because it would be better suited to
+mathematical machines. Pendergrass thought that the one-address was best
+for crypto-work. In contrast the SIS computer pioneers favored the
+four-address system.
+
+16\. PT0//3-T) NSA CCH Series XII Z, H. H. Campaigne and J.T.
+Pendergrass, \"Second Report on Cryptanalytic Use of High Speed Digital
+Computing Machines,\" OP-20-L, 18 December 1946. The available copy of
+this report did not contain the Mercury program, but it was cited as
+part of the report on page 1.
+
+17\. (M NSA AHA ACC 32685, folder, \"Atlas Computer Correspondence,\"
+\"Status of Digital Computers, November 1946.\"
+
+18\. C\*y NSA AHA ACC 32685, folder, \"Atlas Computer Correspondence,\"
+\"Status of Digital Computers, 20 January 1947.\"
+
+19\. (\"R\^He included Alan Turing\'s work.
+
+20.t\$-NSACCH Series XII Z, Ann M.Ford, \"The Birth of Atlas 1, NSA
+Technical Journal, XVIII (Winter
+
+1973); 53
+
+21\. GHWST) NSA CCH Series XII Z, \"File Kept by
+
+Dr. Campaigne on RAM Panel Meetings,\" notes on the 13 November 1946
+meeting clearly show that the digital computer was seen as a practical
+cryptanalytic tool, not just a research machine.
+
+22\. m NSA AHA ACC-32685, folder, \"Atlas Computer Correspondence,\"
+\"Memorandum for Research Division and Section Heads,\" 23 January
+
+1947
+
+23\. m NSA CCH Series XII Z, Ann M. Ford, The Birth of Atlas I,\" NSA
+Technical Journal, XVII \[ (Winter 1973); 53
+
+24\. (U) On the interesting Aiken designs, Michael K. Williams, A History
+of Computing Technology, (Englewood Cliffs, N.J: Prentice-Hall, 1985).
+
+25\. \^S) NSA AHA ACC 32685, folder, \"Atlas Computer Correspondence,\"
+\"Estimated Delivery to NCML,\" circa 1951. Atlas was given anAA
+priority; that was higher than Goldberg\'s, at least during the late
+1940s.
+
+26\. m NSA AHA ACC 32685, folder, \"Atlas Computer Correspondence,\" CNO
+to Chief of Bureau of Ships, 23 May 1947.\"
+
+27\. ffS\#ST) NSA CCH Series XII Z, \"File Kept by Dr. Campaigne on Ram
+Panel Meetings,\" notes of meeting of 22 November 1946, page 2, shows
+\"G\" believed RCA and the NBS were soon going to build a computer.
+
+28\. pFfl//3I) NSA CCH Series XII Z, \"Communications Supplementary
+Activities, RAMP Report II,\" 21 December 1948,10. (¥S//OIj NSA CCH
+Series XII Z,\"File Kept by Dr. Campaigne on Ram Panel Meetings,\"
+report of 14 November 1946 meeting.
+
+29\. (Q NSA CCH XIK, Box 8, Snyder, \"An Evaluation ofNSA\'s Atlas I,\"
+Ann Ford H12, 8 November 1970. March seems to have been a critical month
+in Atlas history. \"G\" decided to build its own machine because no
+vendor seemed willing to do so.
+
+30\. (\$ NSA AHA ACC 32685, folder,\"Atlas Computer Correspondence,\"
+\"Summary of Conference on Task 13 (Atlas),\" 19 and 21 August 1947.
+
+31\. (§) NSA AHA ACC 32685, folder, \"Atlas Computer Correspondence,\"
+\"Second Revision of
+
+
+TOP GEORET/fGOMIHT/mCL UGA, AUG, GAM GBR AND NZU/X1
+
+
+top nconcT/zooMiHTOnri uoa, auj, law opn mhu mu/xi
+
+er
+
+Military Characteristics of the Analytic Computi (ATLAS),\" 6 July 1948.
+
+32\. (U) W. W. Stifler (ed.), High-Speed Computing Devices, (New York:
+McGraw-Hill Book Company, 1950), 370.
+
+33- (U) Apparently, the proposed MIT tube was quite like Wilkes\'.
+
+34- (U) The result, a Selectron, was not available until the early
+1950s. It was used in one von Neumann type of computer, but never
+afterward. One of the many leaps in computer technology had made it a
+technological dinosaur.
+
+35- (•¥») NSA CCH Series XII Z, file folder, \"Monogram and RAM Panel
+Reports, 1945-1949,\" Meeting of April 15,1947.
+
+36\. (TD//0E) NSA CCH Series XII Z, \"Communications Supplementary
+Activities, RAMP Report II,\" 21 December 1948. Electrostatic storage
+had also been planned for Goldberg.
+
+37\. (TS//S\*) NSA AHAACC 11112, \"Interim Report on Computer Research,\"
+circa 1948.
+
+38\. (U) On microfilm, (S) NSA CCH Series XI K, Sam Snyder, Box 12,
+\"Analytic Machinery Principles,\" September 1949. On Atlas\' drum,
+\^¥8)\"NSA AHA ACC 13643 \"Atlas I.\"
+
+39\. (U) Philip J. Bochicchio has recounted his experiences with the
+earliest magnetic drums. He stated that in 1945, after gaining access to
+captured German equipment, he created a primitive drum that was taken by
+Joe Eachus to ERA That inspired ERA stated Mr. Bochicchio.
+
+40\. (¥S) NSA CCH Series XII Z, \"Report of the Second Computer Study
+Group,\" as in NSA Technical Journal, XIX (Winter 1974): 21-61. (TS) NSA
+CCH Series XII Z, file folder, \"Monogram and RAM Panel Reports,
+1945-1949.\"
+
+41\. {S} There were problems with the Goldberg drums, and they were run
+at a low 240 rpm. (S) NSA CCH Series XII Z, \"Goldberg Progress
+Reports,\" 30 December 1947 through 10 April 1951.
+
+42\. (TS//SI) NSA CCH Series XII Z, \"Communications Supplementary
+Activities, RAMP Report II,\" 21 December 1948. (SS-) NSA AHA 36746,
+Engineering Research Associates, Inc., \"Proposal for An Electronic
+Rotor Program,\" 19 December 1946. (IS.) NSA AHA ACC 8252, 0P-20-G,
+
+\"Communications Intelligence Research Plans 1948 \" 7April 1947. mffm)
+NSA CCH Series XII Z, \"Joint Long Term Program (Old Planning Material,
+19481949) compiled by Doug Hogan.tS\^ NSA AHA ACC 32685 \"Summary of
+Conference on Task 13 (Atlas),\" 19 and 21 August 1947.
+
+43- 66} J.J. Eachus, \"SIGMAGE Threshold Control,\" 2 July 1946. (¥S»
+NSA CCH Series XII Z, file folder, \"Monogram and RAM Panel Reports,
+19451949.\" Monogram\'s proposed allocations for computer research for
+1949 were quite generous: \$1,000,000 for general-purpose computer work
+and \$1,000,000 for SPD and related electronic work. (§} NSA CCH Series
+XII Z,BuShips, \"Specifications Sled Navy Models CXOA and CXNQ Block
+Diagrams,\" 1 October 1948, Monogram\'s 1948 budget was cut in half by
+the bureau, (¥S) NSA CCH Series XII Z,file folder, \"Monogram and RAM
+Panel Reports, 1945-1949,\" entry for 21 November 1947.
+
+44- (TS//SI) NSA CCH Series XII Z, \"File Kept by Dr. Campaigne on Ram
+Panel Meetings,\" notes on 27 July 1948 meeting. CS)-NSA AHA ACC 32685,
+folder, \"Atlas Computer Correspondence,\" \"Estimated Delivery
+toNCML,\" circa 1951. (U) Hagley Museum and Library, Accession 1901,
+Yuter Papers, May 20, 1947, ERA Tompkins Report on Atlas, \"shift
+GoldbergDemon men to project.\" (U) Erwin Tomash, \"The Start of an ERA:
+Engineering Research Associates, Inc., 1946-1955,\" in N. Metropolis, et
+al., (ed.), A History of Computing in the Twentieth Century (New York:
+Academic Press, 1980), 485-496.
+
+45\. CS) NSA Technical Literature Series, Monograph No. 2, History of NSA
+General-Purpose Electronic Digital Computers, 1964, 9.
+
+46\. (6) NSA CCH XIK, Box 8, Snyder, \"An Evaluation ofNSA\'s Atlas I,\"
+Ann Ford H12, 8 November 1970.
+
+47\. (C\^-NSA AHA ACC 32685 \"First Endorsement
+
+on ERA Inc 23 February 1951. (U) Samuel S.
+
+Snyder \"Influence of United States Cryptologic Organizations on the
+Digital Computer Industry,\" The Journal of Systems and Software, 1
+(1979): 90-91. (U) Hagley Museum and Library, Accession 1901, Yuter
+Papers: Engineering Research Associates, October 9,1946, Meeting on NBS
+computer plans, \"Summary of Computing Conferences\"; Tompkins to
+
+
+
+
+
+Norris, October 19, 1946, \"Computing Business\"; December 1946,
+\"Reports onOP-20-G Projects and Atlas Computer\"; and Goldberg Report,
+June 27,1947.
+
+48.tS7YSI) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electronic Digital
+Computers, by Samuel S. Snyder, 1964, 7- t&r NSA AHA ACC 32685, \"Atlas
+I\" circa 1952.
+
+49- (9//BQ NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electronic Digital
+Computers, by Samuel S. Snyder, 1964, 7.
+
+50\. (¥S) NSA AHA 6851 Atlas Analytic Computer, \"Military
+Characteristics of the Analytic Computer (Atlas),\" June 1947- NSA AHA
+ACC 13643, \"Memoranda on Electronic Computers, Atlas I,\" circa 1952.
+(S\^-NSA AHA ACC 32685 \"AFSA-351 Atlas Programming Bulletin No 1,\"
+February 1951.
+
+51\. te)-NSA CCH XIK, Box 8, Snyder, \"An Evaluation ofNSA\'s Atlas I,\"
+Ann Ford H12, 8 November 1970, 8.
+
+52\. (8//0r) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electronic Digital
+Computers, by Samuel S. Snyder, 1964, 8.
+
+53-£S} NSA CCH Series XII Z, \"Report of the Second Computer Study
+Group,\" as in NSA Technical Journal XIX (Winter 1974): 21-61. \*Q NSA
+CCH XIK, Box 8, Snyder, \"An Evaluation ofNSA\'s Atlas I,\" Ann Ford
+H12, 8 November 1970.
+
+54- &) NSA AHA ACC 32685, folder, \"Atlas Computer Correspondence,\" CNO
+to Chief of Bureau of Ships, 23 May 1947.
+
+55- {SfNSA CCH Series XI K Box 8, Snyder, \"Yearly Cost of
+Representative NSA Machines,\" May
+
+1955
+
+56\. {S} NSA Technical Literature Series Monograph No. 2, History of NSA
+General-Purpose Electronic Digital Computers, 1964, 11. (TS//SI) NSA AHA
+ACC 30851, \"Historical Notes on Computers at NSA\" suggests that
+metallic tapes were planned.
+
+57\. (U) On the naming of the machine, (S//3i) NSA CCH Series XII Z, Oral
+History Interview OH 0482 with Samuel S. Snyder, 24 February 1982. The
+most complete survey of Abner is (6)-NSA CCH Series XII Z and XIK
+Snyder, Box 9, Samuel S. Snyder, \"And Then
+
+There Were Two, the Abner Story,\" Fourth Draft, December 1979. See
+also, (U) Samuel S.Snyder, \"Abner: The ASA Computer, Part I: Design,\"
+NSA Technical Journal,XXV No. 2 (Spring, 1980): 49. (U) Samuel S.
+Snyder, History of NSA General Purpose Electronic Digital Computers,
+1964.
+
+58\. (U) The electronic group had some sixty employees in 1946.
+
+59\. (C) NSA CCH Series XII Zand XIK Snyder, Box 9, Samuel S, Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979,1-6.
+
+60\. Wf&) NSA CCH Series XII Z, Oral History Interview OH 04-82 with
+Samuel S. Snyder, 24 February 1982, 70.
+
+61\. t\^-NSA CCH Series XII Zand XI K Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979, I-10. (¥9) NSA CCH Series XI K, S. Snyder, Box 8, Mary Neely
+Roseboro, CSGAS-76C, \"Commentary on the Pendergrass Report,\" 15
+October 1947.
+
+62\. £S\#Sf) NSA CCH Series XII Z, Oral History Interview OH 04-82 with
+Samuel S. Snyder, 24 February 1982,121.
+
+63\. (U) See also, R. M. Bloch et al., \"Logical Design of the Raytheon
+Computer,\" Mathematical Tables and Other Aids to Computation, 3
+(October 1948): 286.
+
+64\. (S//6I) NSA CCH Series XII Z, Oral History Interview OH 04-82 with
+Samuel S. Snyder, 24 February 1982,121. The UNIVAC design had a serious
+shortcoming for cryptanalytic work. The standard UNIVAC had a decimal
+(BCD) organization. That meant it was not suited to handle many
+crypto-tasks. Especially important were the new targets of the
+crypto-groups, the baudot-based binary systems. The analysis of such
+systems demanded bit-by-bit testing, as did many of the older targets.
+(fi//3f) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electivnic Digital
+Computers,by Samuel S.Snyder, 1964,13
+
+65\. CflS} NSA CCH Series XII X-MPRO, U.S. Cryptanalytic Research and
+Development Committee, \"Joint Long Term Program for Research and
+Development in the Field of Cryptanalytic Equipment,\" 21 July 1948. (S)
+NSA CCH Series XI K
+
+
+
+
+TOfr SECREV/COMINIJJKfcL UbA, AUb, LAW bUR ANU NZU/XI
+
+Box 8, Sam Snyder, \"Evaluation of Computers as Crypt Aids,\" 7
+September 1948.
+
+66\. (TTT Mina Rees, \"The Mathematical Sciences and World War II,
+American Mathematical Monthly, 87(1980): 607-621. William Aspray and
+Michael Gunderloy, \"Early Computing and Numerical Analysis at the
+National Bureau of Standards,\" Annals of the History of Computing ,11
+(1989): 3-11. John Todd, \"John Hamilton Curtiss, 1909-1977,\" Annak of
+the History of Computings (1980): 104-9. R- Cochrane, Measures for
+Progress: A History of the National Bureau of Standards (Washington: G.
+P. O., 1966). Samuel S.Snyder, \"Abner: The ASA Computer, Part 1:
+Design,\" NSA Technical Journal, 25 (1980): 49.
+
+67\. (\$ffS¥) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electronic Digital
+Computers,by Samuel S. Snyder, 1964,13.{€)-NSA CCH Series XII Z and XI K
+Snyder, Box 9, Samuel S. Snyder, \"And Then There Were Two, the Abner
+Story,\" Fourth Draft, December 1979,1-13.
+
+68\. {G) NSA CCH Series XII Z and XI K Snyder, Box 9, Samuel S, Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979,1-13
+
+69\. (3//3I) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electronic Digital
+Computers,by Samuel S.Snyder, 1964, 12. Raytheon also chose a more
+data-oriented design with four addresses for its RAYDAC.
+
+70\. (¥8} NSA CCH Series XI, Snyder, Box 8, folder, \"Snyder Computer
+Trips, 1947-1951.\" (€} NSA CCH Series XII Zand XI K Snyder, Box 9,
+Samuel S. Snyder, \"And Then There Were Two, the Abner Story,\" Fourth
+Draft, December 1979,1-14.
+
+71\. (U) James W. Cortada, Historical Dictionary of Data Processing:
+Biographies (New York: Greenwood Press, 1987), 64.
+
+72\. (U) NSA CCH Series XII Zand XI K Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979,1-15.
+
+73- (U) Samuel S.Snyder, \"Abner: The ASA Computer, Part I: Design,\"
+NSA Technical Journal, 25 (1980): 49. Samuel S.Snyder, History of NSA
+General-Purpose Electronic Digital Computers, 1964, 15. {GfNSA CCH
+Series XII Z and XI K Snyder, Box 9,
+
+Samuel S, Snyder, \"And Then There Were Two, the Abner Story,\" Fourth
+Draft, December 1979, II-3.
+
+74-\"\^ NSA CCH Series XII Z, H. F. Gingerich, R. A. Leibler, \"Hagelin
+Crib D Dragging on a High Speed Automatic Computing Machine,\" 26 August
+1949. (£}• NSA CCH Series XIK Box 8, Sam Snyder, \"Evaluation of
+Computers as Crypt Aids,\" 7 September 1948.
+
+75\. (U) Samuel S.Snyder, \"Influence of United States Cryptologic
+Organizations on the Digital Computer Industry,\" The Journal of Systems
+and Software, 1 (1979): 92.
+
+76\. fS\^S\*) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electronic Digital
+Computers by Samuel S. Snyder, 1964,14.
+
+77- (\$&&) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA Geneml-Purpose Electivnic Digital
+Computers, by Samuel S. Snyder, 1964, 15, gives a full list of the
+special functions including the \"Swish,\" which was \"the logical
+equivalent of a complete high-speed comparator.\" The proposed special
+function of Abner found its way into the later Harvest machine.
+
+78\. (¥S) NSA AHA ACC 10842, Ray L. Bowman, \"Engineering Diary,\" circa
+1945-1950. (S//SI) NSA CCH Series XII Z, Oral History Interview OH 04-82
+with Samuel S. Snyder, 24 February 1982.
+
+79\--\^5 NSA CCH Series XII Zand XI K Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979, II-15. The security clearance problem seems to have, again,
+complicated matters. It made communications difficult. The NBS faced
+severe problems because of \"loyalty\" questions in the early 1950s.
+
+80\. rSj NSA CCH Series XII Z,AFSA-32, Marvine Bass, \"On Methods and
+Speed of Construction of Involuntary Matrices,\" August 1950.
+
+81\. (S) NSA CCH Series XIK, Snyder Box 10, \"Extracts from AFSA-351D
+Weekly Reports reSeac Production.\"
+
+82\. (&) NSA CCH Series XIK, Snyder Box 10, \"Extracts from AFSA-351D
+Weekly Reports re Seac Production.\"
+
+83\. \^ NSA CCH Series XII Zand XI K Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979, III-19.
+
+TOP SEeEETf/COMINTOWEL USA, AU3, CAM QDR AND NZU/XI
+
+
+
+
+84\. OS) NSA CCH Series XII Z and XIK Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979,1-2.
+
+85\. -ffi\^-NSA Technical literature Series, Monograph No. 2, Samuel
+S.Snyder, History of NSA GeneralPurpose Electronic Digital Computers,
+1964,16.
+
+86\. fS) A useful personal insight into Abner is Russell Chauvenet,
+\"Early Days in NSA Computing,\" Cryptolog, August 1977: 8-10.
+
+87\. (S}-NSA Technical Literature Series Monograph No. 2, Samuel
+S.Snyder, History of NSA GeneralPurpose Electronic Digital Computers,
+1964, 17. Abner was ready for its checkout phase in September 1951. All
+its instructions were accepted in April 1952.
+
+88\. (€) NSA CCH Series XII Zand XIK Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979, IV-14. (U) NSA CCH Series XII Z,to Cryptolog editor, by R. L.
+Bernard, \"Comments on Abner,\" 18 January 1978.
+
+89\. &)■ NSA CCH Series XI K Box 8, Snyder, \"Yearly Cost of
+Representative NSA Machines,\" May 1955.
+
+90\. (3//3I) NSA CCH Series XII Z, NSA Technical Literature Series,
+Monograph No. 2, History of NSA General-Purpose Electronic Digital
+Computers, by Samuel S. Snyder, 1964,18.
+
+91\. \<£)- NSA CCH Series XII Z and XI K Snyder, Box 9, Samuel S. Snyder,
+\"And Then There Were Two, the Abner Story,\" Fourth Draft, December
+1979, IV-8. (TS) NSA CCH Series XIK, Snyder, Box 16, List of Operational
+Abner Programs.
+
+Page 262 TOP SECWZT/ZCOMINTORCL USA, AU3, CAW QDR AND MZLf/XI
+
+
+

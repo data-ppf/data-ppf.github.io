@@ -1,0 +1,2608 @@
+Chapter 5 (U) A Search for Other \"Bombes\"
+
+\(U) The arrival of the United States Navy\'s Bombes in Washington in
+autumn 1943 allowed OP-20-GM to turn its attention to Japan. It also
+gave some of its men time to think of advancing beyond electromechanics.
+But the tenuous control over the Enigma systems and the challenges of
+the very stubborn Japanese codes and ciphers meant that electromechanics
+and the Bombes continued to demand much of the energies of the
+Americans.
+
+\(U) OP-20-GM explored many electronic and photo-optical possibilities
+during the last two years of the war as it attempted to conquer Japan\'s
+systems, and as it responded to Britain\'s cries for help to fight
+changes in Germany\'s codes and ciphers. In a few instances \"M\" was
+able to go beyond the technology of the Bombes, but in most cases it had
+to relegate electronics and advanced film-based processing to small
+exploratory projects. Only when there was a combination of an
+inescapable demand for ultra-high speeds and a possibility of coaxing
+electronics into behaving would \"G\" allow its engineers to try to turn
+their electronic dreams into hardware.
+
+\(U) The army\'s SIS also had to drop its ambitious early plans for
+advanced electronic devices. Like the navy\'s cryptanalysts, its men had
+to turn to quick and rather clumsy solutions during the first years of
+the war.
+
+\(U) Meanwhile, the Army
+
+\(U) In late 1942, while OP-20-G\'s cryptanalysts were establishing their
+place in European communications intelligence, the American army\'s
+codebreakers struggled to gain just a foothold. Unlike the navy, the
+army was not involved in European-related action until well
+
+after the outbreak of the war. It had a more difficult time than the
+navy in intercepting enemy messages, and the British were much less in
+need of its cooperation.1
+
+(T0//0I) The British had begun to share their knowledge of German and
+Italian diplomatic traffic before the war, but they were more than
+reluctant to allow the American army a role in the German army and air
+force systems.2 At first, the Signal Corps and the SIS were not worried
+about their inability to read the German military traffic. Just before
+Pearl Harbor they indicated they were not interested in working on the
+army and air force problems. But when troops were committed to North
+Africa, attitudes changed dramatically. The Americans realized the
+shortcomings of depending on intelligence supplied by another nation.
+The SIS wanted its own control over Enigma, but it had few
+capabilities.3
+
+\(U) Founded to replace Herbert Yardley\'s infamous Black Chamber in the
+late 1920s, the army\'s Signal Intelligence Service (SIS) began with
+what Joseph Wenger yearned for, a core of young and talented civilian
+mathematicians. Under William F. Friedman they became respected for
+their use of statistical methods.4 Much of their time and expertise was
+devoted to creating codes and ciphers for the army. But they devoted an
+increasing amount of effort to operational cryptanalysis.
+
+\(U) Although separate from OP-20-G, the SIS had a gentlemen\'s agreement
+about cryptanalytic turf. Friedman\'s group agreed to focus on enemy
+army systems but to share a rather ill-defined zone of diplomatic and
+clandestine traffic with \"G.\" The Coast Guard\'s cryptanalytic office,
+led by Friedman\'s wife, and the FBI\'s codebreaking
+
+
+
+
+
+group shared in tapping the diplomatic and clandestine traffic in the
+Americas. Like OP-20-G\'s crew during the 1930s, the SIS\'s men were
+directed to concentrate on Japan\'s secret systems but not given the
+resources to fulfill the charge.
+
+\(U) The difficulty of intercepting enough military messages extended to
+the SIS\'s attack on Japan\'s army systems. Unlike the use of
+highpowered radio by the navies, the armies and air forces of the world
+used low-power systems and sent relatively few messages that could be
+intercepted from a great distance. Even after the SIS constructed
+listening posts in the Pacific and the Canal Zone,5 it could not acquire
+military messages in enough \"depth\" for code or cipher breaking.6
+
+\(U) As a result, Friedman\'s talented men and women spent much of their
+time during the 1930s on diplomatic communications. After months of
+intense work, in 1940 they laid the foundation for America\'s Magic by
+successfully attacking Japan\'s new Purple enciphering machine system.
+It carried Japan\'s most important diplomatic messages to and from the
+world capitals. Although Friedman\'s group received help from the navy
+in attacking Purple, Magic was seen as an SIS triumph by the nation\'s
+leadership.
+
+\(U) Friedman\'s group had employed modern as well as traditional
+cryptanalytic techniques against Purple. A few years after OP-20-G began
+to use tabulating machines, the SIS established its first automation
+foothold.7 Although it did not begin an OP-20-G-like Rapid Machine
+project before the war, the SIS hired a newly minted MIT electrical
+engineer at a critical stage in the Japanese diplomatic problem. That
+graduate of MITs electrical engineering department, Leo Rosen, helped
+break into the Japanese diplomatic machine and constructed its first
+analog.8
+
+\(U) Although William F. Friedman\'s group had ideas for teletype-tape
+comparators, isomorph machines, and relay attachments for tabu
+
+lators, it did not have the resources to turn them into hardware. It did
+not go beyond building direct analogs of enemy machines.
+
+\(U) The Search for Another American Ultra
+
+\(U) When war broke out, the SIS had little cryptanalytic capability, few
+intercepts, and little machinery. It had no Enigma proficiency, it was
+unable to read the major Japanese or German military codes, and it had
+few messages or machines with which to analyze them. In fact, it
+appeared that it would be some time before the SIS would have much to
+work on.
+
+\(U) It did get one assignment but through default. \"G\" was overworked
+because of its efforts against critical German and Japanese naval
+systems. Out of necessity, it turned all of the Japanese diplomatic
+problem over to the SIS.9 That Purple diplomatic challenge took much of
+the army\'s attention in the first year of the war, although the system
+had already been solved. Purple had become a relatively easy system to
+exploit. It needed a few new electromechanical analogs, but it demanded
+little else. Even Britain cooperated. It sent intercepts and
+cryptanalytic advice to Friedman\'s Japanese experts. The attention was
+well rewarded. Much was learned about Germany, as well as Japan, from
+the radio and cable messages to and from Japan\'s embassies in Axis and
+neutral nations.
+
+\(U) The German problems were very different. Its diplomatic systems
+proved difficult to enter, and its military codes and ciphers resisted
+attack. As important, the British, who held many secrets to entering
+Enigma and other German ciphers, did not wish to grant the SIS power
+over Germany\'s army or air force systems.
+
+\(U) The SIS badly needed Britain\'s help. It began World War II with as
+little, perhaps less, potential to enter German systems as OP-20-G. When
+the SIS finally decided to establish an Enigma program and demanded to
+become a
+
+
+TOP GCGrcrn/COMIHTOnCL TO USA, aus, cam, qbb AND I4ZI mi
+
+
+TOP OCORCTOOOMIHTOnCL TO UCA, AUS, CAM, P.BR AMD MZU/X1
+
+partner in Ultra, it found that it had little to negotiate with. Its
+main bargaining chips, Purple and Magic, had been given away in early
+1941.10
+
+\(U) The SIS had a much more difficult time than OP-20-G in gaining
+GC&CS\'s trust. Throughout the war the SIS men felt they had to fight
+much harder than the navy for British concessions on Ultra.\" They
+worried that the British promises of full cooperation that had been made
+as early as the autumn of 1940 might never be kept. In a way, their
+fears were correct. GC&CS never granted the United States Army\'s
+cryptanalysts as much independence as it did the navy\'s men.
+
+\(U) And while playing atug-of-war with Britain to gain knowledge of the
+German ciphers, the SIS was tormented by the Japanese army code problem.
+It was not until the spring of 1943 that the SIS centers in Washington
+and Australia were able to tap a major army system.12 Perhaps it was the
+need to devote its energies to the Japanese codes, and a belief that
+traditional methods were the only alternative for such problems, that
+led the SIS to be much later than the navy in establishing a formal
+group to develop rapid machines for statistical and mathematical
+cryptanalysis.
+
+\(U) Its delayed start led the SIS to rely on the navy to supply most of
+its initial RAM equipment. But it then launched perhaps an overly
+ambitious attempt to create a very advanced RAM, one that, it was hoped,
+would leap-frog the navy\'s technology
+
+\(U) A Great Electronic Adventure, the Freak
+
+(TO//0I) Like the ex-MIT engineers at OP-20G, some of the SIS\'s
+technicians had great faith in advanced electronics. Their first dream
+at the outbreak of the war was for a new type of machine to perform one
+of the most tedious but important general cryptanalytic functions,
+frequency counting. Their goal was to create a relatively small and
+
+super-fast machine to count and record all simple and digraphic
+frequencies. The machine was to do that in one pass through a message.
+Tabulators, because they had so few counters, demanded much sorting and
+many card runs to complete a full count. Many of the standard tabulator
+frequency-counting procedures used in the attacks against Purple,
+Hagelin and, later, some teletype systems took sixty to ninety hours.13
+
+\(U) To go beyond the \"tabs\" for such complex counting was a challenge.
+For one thing, it called for the creation of a new type of memory.
+Readily available technological options, such as using industrial
+counters to store results, meant accepting slow processing and a machine
+that would be the size of a room.14
+
+(TS//SI) In mid-1942 Leo Rosen decided to take up that challenge.
+Recently put in charge of a group of engineers, he decided to establish
+an SIS RAM program. He thought that it should begin with fundamental
+contributions. He was determined to develop a large high-speed
+electronic memory. In addition, he told his men to create electronic
+circuits that could perform analytic
+
+\(U) Leo Rosen
+
+
+
+
+TOP bbCRbli/LUMINIiJKbL IU UbA, AUb, LAN, bBH AND NZUIAI
+
+functions, such as a sigmage test, that were an integral part of all the
+frequency-based cryptoattacks.15 Together, he hoped they would provide
+the basis for the high-speed counting machine, Freak, a device that
+OP-20-G seemed unwilling to produce.
+
+(TS//8I) Unfortunately, Rosen picked a much too ambitious goal for the
+army\'s first RAM adventure. It took a year and a half before Freak I
+emerged from the SIS workshop; then, it proved too delicate for
+operational work.
+
+::: {style="width: 50.33320266562132%;"}
+:::
+
+\(U) Freak
+
+(T0//0I) Freak\'s design and components were major advances in the
+technology of calculation. Rosen\'s group had decided to use more than
+7,000 condensers for the machine\'s mass \"memory.\" One thousand
+twenty-four sets of seven condensers each were the \"counters\" in
+Freak. \'6 By using the binary counting system, every set could hold a
+count of up to ninety-nine. The enormous number of condensers accounted
+for much of the
+
+size of Freak I. The machine was nine feet high by eight feet long.1?
+
+(TS//6I) There were great hopes that Freak would speed all types of
+counting and analysis. As the data were read in from two tape readers
+and processed through a relay system, the appropriate counters were
+incremented. Then the advanced electronic digital circuits calculated
+running frequencies and the critical SUM (N(Ni)/2). The circuits also
+scanned the counters and controlled an electromatic typewriter which
+printed the results.
+
+GSyyef) The use of the binary system, the memory technology, and the
+digital calculations were advanced for the time.18 Freak I,
+unfortunately, did not have along or useful life. The counters proved
+unreliable, and the electronic circuitry was troublesome. The machine
+was so uncooperative that it was dismantled in mid-1944, just six months
+after its birth.19
+
+£¥9} The defeat on the first Freak tempered the SIS\'s faith in
+electronics, but its engineers decided to try again. They constructed a
+second version that began twenty operations in spring 1945. It proved
+more reliable than its predecessor.\"°
+
+\(U) Tabulators and Traffic: A Data Processing War
+
+\(U) Despite the affection for electronics, the SIS placed its faith in
+older technologies during the first critical months of the war. The SIS
+made an agreement with IBM and soon had scores of tabulating machines.
+Many IBM engineers were
+
+
+TnrMCBBaco T\"\"CI Tniirfl fl\"r r\"\" rnn \>Mn u7i,m
+
+
+TOP 0C0RCT//00MIMT//R1:L TO UCA, AUG, CAM, CBR AMP ICU/X1
+
+sent to Washington to make significant modifications to the tabs and
+sorters, and IBM\'s factories were kept busy producing special devices.
+By the end of war, the SIS had close to 400 IBM machines using a million
+IBM cards a day.
+
+(T3//CIj- The workforce for the machines grew from fewer than 100 at the
+end of 1942 to 600 a year later. By the end of the war the SIS\'s tab
+rooms had close to 1,200 workers.21
+
+0EB//SI)\'As the SIS waited for intercepts from the Japanese military
+systems and hoped for information from the British on the Enigma, they
+did their best to produce intelligence from the few sources besides
+Purple that were available to the agency.22
+
+CIS//0F) One ofthose sources was the intercepts of diplomatic messages
+sent on Germany\'s GEC system. The army\'s radio men had been collecting
+them on their own for some time, as well as receiving information on
+them from the British. But collecting was easier than solving the
+system. The GEC codes were tough. The Germans used code words doubly
+enciphered with additives.
+
+(T9//9\"I) The tabulator group at SIS began an attack on the system
+using labor-intensive techniques similar to those the navy had developed
+to breach the Japanese navy\'s additive systems. The going was
+difficult, however. The usual attacks did not seem to work. The Germans
+had a very clever keyword system for specifying the additives that
+proved difficult for the Americans to penetrate during their first year
+of IBM attacks. Fortunately, the British had acquired some pages of
+additives from a French agent and decided to pass them to the Americans
+in early 1942.
+
+(TO/SI) With the hints about the system, the Americans launched their
+first new tabulator attack of the war. Their work on GEC led them to
+develop machine methods, such as the search for double repeats, that
+were transferred to the
+
+Japanese military problems once a flow of intercepts began.23
+
+gS//8Jj But the SIS had to wait quite some time before the army could
+supply enough Japanese material. Then the SIS cryptanalysts found that
+Japan\'s military had, perhaps unwittingly, been wiser than its
+diplomats. Japan\'s diplomats had made a mistake by basing their secret
+communications system on a machine. By turning to the latest technology,
+they had made their ciphers more vulnerable than if they had used, for
+example, crude one-time pads.
+
+£K)/0fl In contrast, the Japanese military had decided to stay with
+older methods. In doing so, they frustrated the British and American
+codebreakers and forced them to turn to very \"data heavy\" methods. The
+Japanese army\'s code-withadditive systems were vulnerable to capture,
+but neither the Americans nor the British acquired any significant
+amounts ofmaterial during the first years of the war.
+
+QCS//8I) A cryptanalytic attack without captures, or quite evident
+\"busts,\" demanded enormous numbers of intercepts, analysts, and
+machines. It meant that the SIS had to engage in a frustrating data
+processing war.
+
+(TS//SI) Despite the allocation of massive amounts of resources to the
+problem, the Japanese army\'s systems resisted longer than its navy\'s.
+The difficulty of intercepting its messages, its use of complex additive
+systems, and its clever ways of hiding the information contained in the
+message preambles led to a near cryptanalytic blackout during 1942 and
+1943.
+
+CDS//SI) The inability of the Allies to read the major army systems
+through cryptanalysis led the SIS to rely upon traffic \^is; ia
+consequence, IBM tabulators and methods quite like those in business
+data processing became essential to its operations.24 Throughout the war
+hundreds of machines and people were kept busy
+
+TOP 6ECRETOGOMINT//X1
+
+
+
+TI1P .W.Mim-n Turin Tn m\^., ,\^\|rr \^ nnn A,\|n \^\^
+
+sorting, counting, and listing frequencies of communications among
+units. Even when some of the major army systems had been penetrated, 20
+percent of the total machine hours in SIS were devoted just to the
+analysis of the message headings.
+
+CTO//0I) Keypunching and the physical maintenance of card files for the
+traffic analysis processing were demanding by themselves. Recording and
+analyzing 300,000 messages a month for traffic analysis was not
+uncommon. Huge decks of cards had to be carefully loaded into the tabs
+and sorters for the first of the many steps in each analysis routine,
+then reloaded several times to complete a process. The pressures all
+that created were so great that the SIS Machine Branch had to endure a
+critical personnel problem: after several weeks oftraining, machine
+operators quit. The young civilian women were apologetic, but insisted
+they be allowed to leave. The night shifts were especially difficult to
+staff, and it was only the arrival ofWACS, who were allowed to live on
+base and who were unable to resign, that allowed the machine room to
+continue its twenty-four-hour work day.25
+
+\(V) Making the Tabs More Powerful
+
+£58-) The IBM tabulators remained the foundation of the SIS\'s operation
+and for more than traffic analysis. The continued dependency on the tabs
+was reflected in the intense efforts the SIS made to increase their
+power. By the end of the war, the Arlington Hall engineers had helped to
+develop an impressive array of specialized IBM equipment as well as a
+whole series of complex relay attachments. \*\*
+
+ffS//3\'f)\' Modified \"tabs\" were the technology for the SIS\'s work
+on Japanese code problems. Some twenty-three different relay attachments
+were used to attack Japanese army systems. In many instances, the
+attachments were so powerful that the \"tabs\" were relegated to being
+mere input-output devices serving the relay cabinets.
+
+(TS//SI) The complex relay circuits placed on the tabs automatically
+stripped additives, applied possible encryption squares, and even
+searched to see if the results of additive removal had led to the
+appearance of high-frequency code groups. The more complex attachments
+received names, such as Brute Force, Camel, JMA, the Selective Square,
+or the Limited Selector.
+
+(T9//3I) The modifications that automatically decoded upwards of 2,500
+messages a day were of special pride to the SIS\'s machine branch. They
+allowed the timely exploitation of the captures of cipher text and key
+that began to flow into Arlington Hall during 1944.2?
+
+fFS//SI) One of the most impressive of the SIS\'s tabulator
+modifications was the Slide Run machine. Tts origins illustrate why most
+of America\'s codebreaking history is so unlike the thrilling story of
+MAGIC, when a brilliant insight supposedly led to a near instant victory
+over a major communications system
+
+28
+
+\(U) Slides, Runs, and Endless Decks of Cards
+
+(T0//0I) The mature Slide Run machine of mid-1944 was a combination of a
+405 Tabulator and a huge chest-high, multipanel cabinet full of advanced
+relay circuits, telephone crossbar relays, counters, and plugboards. But
+the Slide Run did not begin as an elegant example of IBM\'s best work.
+The. first two of the devices were hurriedly built by the \"F\" Branch
+in late 1943 as an emergency response to the requests of the
+cryptanalysts. The \"cryppies\" thought they might have found the
+techniques and some of the additive keys needed to attack the Japanese
+army systems.
+
+CTO//31) Although hastily built to exploit a particular opportunity, the
+machines proved so valuable that a development and production contract
+was signed with IBM. The new Slide Runs were to be used on a variety of
+problems. By early 1944, IBM was constructing six more Slide Run
+
+
+
+
+
+machines, each more sophisticated than its predecessor. \^
+
+(TS//SI) The Slide Run machines were badly needed because of the
+continuing difficulties with Japanese army systems. The Japanese army
+problem was very difficult and all attacks were extremely labor
+intensive. Hundreds of cryptanalysts at SIS had been working since the
+beginning of the war to discover the numeric additives and the codegroup
+meanings. The tabulators had been called upon to process files of as
+many as 3,000,000 cards.
+
+(T8//9I) Copperhead-like brute force searches, keyword searches, and
+repetitive additive stripping and testing kept machine-room double
+shifts busy for months. Despite all the effort, there was little more
+than frustration until April 1943 when the Japanese army\'s indicator
+system was broken. That allowed the identification ofthe enciphering
+squares that were used in the indicators. With that breakthrough, it was
+possible to identify messages that were enciphered using the same
+additive pages. With knowledge of the pages, an attempt could be made to
+place messages on overlaps by tabulator-based, brute-force searches.
+
+(TS//SI) At first the search for the repeat of the same cipher groups at
+the same intervals in two messages (brute force) had to be done through
+the tedious repetition of card duplication and endless sorting.The most
+efficient attacks still demanded files of almost 200,000 IBM cards. All
+that processing was tolerated just to try to find messages that had a
+probability of being enciphered with the same set of additives. The job
+became too much, even for the SIS\'s hundreds of tabulators and sorters.
+Away to automate the. process had to be found
+
+QXS//&B In response to the need, a relay attachment was built for the
+brute-force search; but the Japanese army attack continued to demand
+round after round of card punching,
+
+reproduction, collating, sorting, addition, subtraction, multiplication,
+and printing. For example, one procedure developed in the summer of 1943
+hoped to recover additives by using four copies of a file of 430,000
+cards. The files were run three shifts a day until the end of the year.
+
+(TS//SI) By fall 1943 the many tabulator attacks and an increasing
+number of captures of Japanese material allowed the accumulation of a
+file of additives. The next logical steps were to try to locate the
+messages that used particular additives and to strip the additives to
+reveal clear numeric codes. From there, the cryptanalyst could recover
+more code meanings and decipher more messages.
+
+(-E9//STJ The automation of the process came gradually. At first, the
+\"slide run\" procedure was just a new way to use the existing tabs. It
+was developed to replace the old hand methods of applying a known
+additive to a length of code, then testing to see if a sensible result
+emerged. If an unlikely group appeared after the additive had been
+removed, the additive was tried against the next offset of the text. If
+a juxtaposition of additive and cipher yielded a likeiy result, it was
+tested against a file of frequently used code groups. When a match
+occurred, the cryptanalysts concluded that it was probable that the
+additive they were trying might have been used to encipher the current
+message.
+
+(TS\^tfI\>The \"slide\" was a common sense but powerful technique. But
+even when it was implemented in IBM methods, it stretched human as well
+as machine resources. When regular tabulator equipment was used, the
+routine was quite complex. A series of five likely keys (additives) was
+punched on cards so that they could be tested against all possible
+positions in thousands of messages. When the key produced, in two of the
+five tested positions, code groups found among the already known most
+frequent 250, the tabulator printed the message number and the five code
+groups.
+
+
+
+
+
+::: {style="width: 67.52941176470588%;"}
+:::
+
+CID//QI ) Slide Run
+
+(T3//3D What came to be called the Slide Run machine was developed to
+reduce the size and number of required card files and to speed the
+\"slide\" testing process. The first step towards the eventually very
+sophisticated device was the invention of a code-recognition component.
+To further automate the process and to reduce the number of cards that
+had to be handled, aeonversion unit was constructed. Its relay circuits
+stripped the additives to produce the code sent to the recognition unit.
+
+if it completed any of the code circuits. If it did, the machine
+recorded a \"hit.\"30
+
+(TS//S\*) More and more \"intelligence\" was built into the Slide Run
+machines. New models appeared which included sensitive and labor-saving
+statistical threshold tests. They prevented the printing of unprofitable
+reports. The first of the postwar versions went further. It used a
+logweighting method to reduce the number of \"prints.\"31
+
+(TS//SI) In the Slide Run machine, banks of relays were wired to hold as
+many as 250 code groups; later versions held as many as 1,500. The
+recognition unit tested each stripped group coming from the tabulator\'s
+arithmetic section to see
+
+(TS//SI) The Slide Runs were of great value to SIS, but they were not
+exceptionally fast nor easily \"programmed.\" The best of the World War
+II versions read cards at a rate of 150 a minute, and it took from three
+to five days of work to set the
+
+
+
+
+
+codes in the recognition units. Then it took hours to run the cards for
+a series of messages.32
+
+(TS//SI) The impossibility of increasing the rate of card-sensing much
+beyond what had been accomplished by 1944 is what led the SIS, in June
+1945, to make a request for a RAM 70mm film version of the three \"tab\"
+machines that had proven so useful against the Japanese systems: the
+Slide Run, the Isomorph, and the Brute Force machines. Unfortunately for
+the men within Leo Rosen\'s section who, as we will see, became the
+torchbearers for Bush\'s ideas, the army decided the Eastman designs
+should not be funded.33
+
+\(U) The Other Bombe Program
+
+\(U) Well before any progress had been made on the Japanese military
+problems, the SIS decided that it had to gain a share of the European
+Ultra. And like the navy, it wanted control over its own intelligence
+resources. But it was ill prepared in terms of skills, equipment, or
+political power
+
+(TS//SI) The SIS did not begin its Enigma battle technologically
+prepared, nor did it have any plans for advanced anti-Enigma machines.
+At the beginning of the war, the SIS\'s men were told of OP-20-G\'s RAM
+contracts with Eastman and Gray. As a result, Rosen and Friedman became
+interested in the possibilities of microfilm-based machines, and they
+agreed to at least examine their possibilities. Soon, they heard a few
+things about the navy\'s Bombe ambitions. 34
+
+ffiG//3YT But during the first months of 1942 the SIS focused on
+expanding its tabulator section; it was not until late in the year that
+it decided to create a machine research group that had the manpower
+needed to examine, let alone create, new technologies. The MIT graduate,
+Leo Rosen, was placed at the head of a small team that began its work in
+the basement of an old house at Arlington Hall Station.35 One of his
+first actions was to advise his superiors that the SIS should join in
+the RAM program. He convinced the army
+
+to purchase almost \$200,000 worth of copies of the OP-20-G-sponsored
+machines from Eastman and Gray.36 The army gave the Bureau of Ships the
+funds needed to purchase machines similar to Tessie, the IC machines,
+and, later, a Gray-NCR Comparator. Letterwriters were also supplied by
+the navy. As within \"G,\" they became an essential part of SIS\'s data
+processing services.
+
+\(U) Another Step Back
+
+dSS//8f) Rosen\'s major assignment, however, was to produce a machine to
+give SIS the kind of power the army thought OP-20-G was gaining over
+GC&CS through its emerging Bombe program. By summer 1942 he gained
+approval for an SIS Bombe program. He began to assemble a force of
+enlisted engineers and technicians but soon realized that the army would
+be unable to build or even design a Bombe by itself.38 His staff
+remained too small through 1942, and he had to confine its work to
+preliminary investigations and minimal construction projects.
+
+\(U) One of the first of its preliminary studies was on the possibility
+of a new type of Bombe for the army and air force Enigma problems; that
+turned out to be a major task. Soon Rosen thought enough had been
+learned to allow a commitment. In October 1942 the SIS decided it had to
+have its own version of a Bombe, and it was to be acquired independently
+of Britain and OP-20G.39
+
+■(0) Rosen\'s \"F\" team explored an electronic Enigma while Friedman
+made the rounds of the scientists associated with the NDRC\'s fire
+control computers.40 Rosen\'s electronic option would be put aside for
+the same reasons OP-20-G had dropped electronics during the summer. But
+the SIS\'s hope for a tube-based solution lasted a bit longer.41
+
+(TS//SI) Belief in the potential of electronics led to Rosen\'s team
+hiring experts from the telephone company. They worked on an electronic
+
+
+
+
+
+::: {style="width: 77.38141905135241%;"}
+:::
+
+AS//3I ) Madame X
+
+Bombe until December 1943. Then frustration with the disappointing
+results led to an end of the contract. However, SIS\'s faith bounced
+back, and it began the hunt for another high-speed rotor after its \"E\"
+crisis had passed.42
+
+\(U) While Rosen and the Western Electric experts explored electronics,
+one of the alternatives recommended by the NDRC\'s researchers was
+approved. What became known as Madame X followed the general logic of
+the Turing attack on the Enigma, but it was significantly different from
+the British and the OP-20-G Bombes. The machine first appeared as a
+breadboard demonstration unit in early 1943, passed its first tests that
+summer, and was available as an operational model in October 1943.43
+
+(8//SI) Madame X(also called \"003\") was huge. It was so large because
+the SIS had decided to be more elegant and innovative than the navy. It
+wanted one grand Enigma-fighting machine, 300 uncoordinated ones.
+Although it did not meet all its original goals, the \"003\" was an
+impressive machine.44 It contained 144 Enigma scrambler units, as
+compared to the sixteen in the standard OP-20-G Bombe. \"003\'s\" banks
+could be divided into different size groups so that as many as twelve
+useful menus could be run at one
+
+time.45 The army cryptanalysts knew that the longer a crib and its
+chains, the fewer the false hits. A large number of units linked through
+a flexible central control system would allow several shorter cribs to
+be run simultaneously. 46
+
+(TO//OI) The \"003\" was designed for more than simultaneous runs,
+however. It was intended to be easier to use than the navy Bombe and to
+have a much faster setup time. Some of those goals were achieved. When
+the \"003\" was completed, the army\'s technicians sat in a \"turret\"
+room and set plugs and switches on small control boards rather than
+having to place dozens of commutators on the machine as the navy\'s
+operators had to.
+
+(T3//3I) The \"turret\" system was quite innovative. There were a dozen
+of the switching stations in the room. Each \"turret\" was a small
+version of a telephone switchboard with an addition, a set of push
+buttons. Each board could control its own part of the \"003\" if
+simultaneous runs were desired. Such simultaneous use seems to have been
+the norm once the SIS learned that wellselected short menus could be
+powerful. Strong menus sent from England allowed the use of only a few
+of the \"E\" units (perhaps fourteen) per test. Typically, some ten
+problems were run atone
+
+
+
+
+IUP Sl:UKfcl//CUMINI)JKhL IU USA, AU3, (IAN, OOR AND NIEL//X1
+
+time. On its best days, \"003\" completed 1,200 of the short three-wheel
+runs.\"47
+
+ffi3//SJQ-The switchboards were used to select which subset of the
+frames were to be active during a run. The push buttons were truly a
+unique and potentially valuable feature. Through them wheel orders could
+be changed in one-half a second. That allowed wheel orders to be tested
+in rapid succession. Unfortunately, the other parts of the setup,
+including the menu, had to be done by hand on the individual Enigma
+frames. That led to the setup time for the \"003\" being much more than
+hoped for - some twenty minutes for a test when more than wheel orders
+had to be changed. At peak efficiency, a crew could place and run twelve
+new menus a day.\*8
+
+\(U) Avery innovative and important feature of the \"003\" was its
+ability to automatically control the stepping motion of its \"wheel\"
+analog. The relay circuits allowed the machine to use \"non-metric\"
+motion.49
+
+\(U) More to It Than the Madame
+
+f&) Like the navy\'s Bombe, Madame X could not work alone. Before it
+could be efficiently used, the SIS had to have cribs and a list of what
+wheel orders would not have to be tested. Then, after a \"hit\" was
+found, the SIS had to do as much or more hand-testing than the navy.
+Several machines to speed the hand work were built. They performed the
+same type of functions as the navy\'s M8 and M9.
+
+(TS/filj The army needed a special aid to help \"003\" because of what
+might be called a design oversight in late 1942. The design of Madame X
+had begun before the SIS knew all about the British Enigma attacks and
+before it had enough experience to realize how necessary it was to have
+machines that eliminated all but a very, very few possible keys and
+settings. Thus, the original Madame X did not have a full \"diagonal
+board\" test built into it.
+
+(TO//SI) SIS\'s men thought their bombe would be useful even though its
+list of \"stops\" would not be filtered by a thorough test for stecker
+inconsistencies as was found on the British Jumbo Bombe. As a result,
+they thought that a celluloid grille would be sufficient to search for
+\"contradictions.\"
+
+(T0//SF) That was incorrect. That hand \"diagonal board\" test proved so
+time-consuming that the first of the SIS\'s versions of grenades was
+constructed.50 But as more was learned about the navy\'s and GC&CS\'s
+machines, Rosen\'s team decided to build an attachment that would
+automate the entire consistency-checking process.51
+
+(TS//SI) The American Machine Gun had its first tests in September 1943,
+a month before the second half of \"003\" was completed. Built of the
+same technology as its host, the Machine Gun searched for stecker
+inconsistencies and suppressed all the \"stops\" that were logically
+impossible given the nature of the Enigma plugboard. The \"Gun\" speeded
+SIS\'s work but caused some discomfort for those assigned to \"003\'s\"
+rooms. It was a very noisy device, as was what had inspired it,
+Britain\'s older grenade.52
+
+tSkSome other special devices were attached to the original \"003.\"
+like many of the navy\'s grenades, the army\'s add-ons took advantage,
+whenever possible, of German procedural errors. But some of the
+attachments and alterations were designed to apply new general
+cryptanalytic knowledge to speed \"003\" processing.53
+
+ggi//SI) Many of the ideas for the new attachments came from the
+British, who were creating similar devices for their Bombes. Their CSKO
+switch, for example, had been very helpful. Once on \"003,\" it helped
+exploit a German air force procedural rule forbidding linking any
+checkerboard letter to its neighbor. For example, B could not be
+checkered to A orC. The Consecutive Stecker Knockout circuits checked
+for such illegal
+
+
+
+
+
+connections and prevented a \"stop\" from being indicated.54
+
+(TS//SI) Madame X was given another helpful attachment, the Double
+Input. It was an application of more sophisticated knowledge of the
+probability aspects of cribbing. This allowed two relatively weak menus
+to be run simultaneously and to approach the power of the usual
+sixteenletter menu with \"closure\" on the crib-plain combinations.55
+
+0TO//OI) Alterations to \"003\" allowed it to drag cribs so that it
+could am Swiss and Spanish Enigma problems. And the Clambake attachments
+were for short runs for \"grenade cribs.\" The \"003\" was allowed to
+perform more flexible tests by using the Oyster Schuker attachment. In
+addition, methods to exploit Cillys were developed, and \"003\" was, at
+times, rewired to handle special Enigma reflector runs.56
+
+4&)r There were several attempts to make Madame X more powerful; some
+were very successful. A difficult goal was to expand the powers of
+\"003\" by lessening its dependency on cribs. The first appearance of
+the idea for a probabilitybased way to find wheel settings, as well as
+to deal with garbled cipher, emerged before \"003\" was completed.57
+Taking similar British methods into consideration,58 the SIS
+cryptanalysts and engineers decided to use thirty-six of \"003\'s\" own
+\"M\" frames to test for the frequency of appearance of the sixteen most
+unlikely letters within a fifty-two letter test decipherment. Just the
+cipher text was entered. If fewer than nineteen of the fifty-two letters
+that resulted from a deciphering at a particular starting point were on
+the high frequency list, a \"stop\" was printed.59
+
+(T9//3I) Unfortunately, such use of \"003\'s\" regular frames led to the
+machine being monopolized by special tests. One of the worst of them was
+\"dudbusting.\" Duds were messages that should have been readable given
+knowledge of their keys, but were not. They were usually the
+
+result of operator errors such as the use of an incorrect key on a
+system.
+
+ff0//3f) Because dudbusting was one of the more important tasks assigned
+to the \"003,\" and because the job took so long, a decision was made to
+create a new dudbuster with its own \"frame,\" and, perhaps, a bank of
+electronic counters.60 The electronics proved a bit too much for an
+emergency situation, but a more efficient and quite impressive
+electromechanical (relay) Arlington Dudbuster became an essential part
+of the SIS\'s machine rooms. The Dudbuster worked on the principle of
+recognizing plain language through a simple frequency test. Based on the
+characteristics of the German language, including the absence of \"X,\"
+each plain letter was assigned a weight. If the summed weights equaled a
+threshold value, text was printed, then examined, to see if true German
+was a result of the wheel settings.
+
+61
+
+(TS//SI) There was also a film RAM version of the SIS statistical
+Dudbuster. Its birth led to some friction between SIS and OP-20-G.
+Independently of OP-20-G, the SIS cryptanalysts conceived of their own
+film Hypo. When they informed OP-20G of their great discovery in
+mid1943\* \"G\'s\" men became quite embarrassed. They were forced to
+admit that they had thought of the Hypo method earlier, had a machine in
+development, but had not informed either the SIS or GC&CS.
+
+(TS//SI) Despite some help from the navy, it took a long time for the
+SIS to turn their Hypo dudbuster idea into hardware. It was not until
+late 1944 that a special camera was linked to an \"M\" frame to generate
+the images of the distribution of high frequency letters from each
+Enigma setting. Those master films were then run, as in Hypo, against
+cipher text to find the point of greatest coincidence. 62
+
+(TS//SI) The film dudbuster and Hypo were often called \"Grenades.\"
+Their success led the SIS
+
+
+
+
+
+to explore the possibilities for more ambitious film attachments and
+supplements for \"003.\" Unfortunately, some of the most ambitious
+Grenade ideas could not be implemented. The high-speed Azalea and
+Bachelor attachments were never completed, and the plans for a
+superspeed film cribdragger probably did not turn into a project.63 It
+is certain, however, that neither the army nor navy ever built a Grenade
+that matched the grand achievement of the British in late 1943, its
+electromechanical Fillibuster. It tested four cribs on eighty messages
+simultaneously.6\*
+
+(TS//SI) The alterations to Madame Xdid make it more efficient, but the
+American army\'s Bombe continued to make many demands on the SIS. Its
+manpower requirements were not as great as the navy\'s Bombe, but it was
+a laborintensive machine. It needed more than twenty operating personnel
+and forty maintenance men.
+
+■\$¥&\] Despite the large maintenance crew, the machine had a bit of a
+tendency to lose its concentration. During its first few months, all
+runs were duplicated on a second control board. And well into 1944 it
+could not be coaxed into running at the originally hoped-for speed. It
+had been designed to run, if desired, at sixty pulses a second for short
+periods, but its typical operating speed was half that, thirty pulses
+per second.65
+
+\(U) Thus, despite its great flexibility, \"003\" was not a perfect
+solution. Its successes certainly did not change the navy\'s mind about
+Bombe architecture. When OP-20-G decided to build a second set of fifty
+machines, it found Desch\'s commutator design much faster and more
+efficient than a relay-based machine. 66
+
+\(U) \"003\" could not be switched to a fourwheel mode, and twenty-six
+separate runs had to be done to test a four-wheel message. As
+objectionable to the navy\'s engineers was \"003\'s\" slow operating
+speed. The automatic control system in Madame X did not fully compensate
+for its long run times.
+
+\(U) The \"003\" had another feature that did not prove as powerful as
+hoped. The army machine had the circuits necessary for the \"locator\"
+task done separately by the navy\'s Hypo machine, but the navy\'s
+engineer-cryptanalysts did not find \"003\'s\" automatic locator that
+attractive.
+
+(TS) Near the end of the war, Joseph Wenger requested another comparison
+of the army and navy \"E\" machines. Wenger decided that the OP20-G
+Bombe complex was, on average, fifty times more productive than the
+army\'s machine in Arlington.67
+
+(T0//0I) The main reason why only one \"003\" was built was the SIS\'s
+inability to convince the British to yield the messages and techniques
+needed to keep the machine busy.
+
+\(U) A Machine Looking for Work
+
+(TS//6I) Madame X\'s construction began just as GC&CS and the American
+army reached a low point in their relationship. Britain\'s refusal to
+inform the SIS about anti-Enigma methods led to an impasse. The
+situation became quite tense. The Americans, for example, refused to let
+Alan Turing see their new voice scrambler system until Britain yielded
+her secrets. For a time, SIS even withheld what it was discovering about
+Japanese systems.
+
+(TS//SI) Friedman\'s group certainly must have resented Britain\'s
+request that it build a super-Bombe for GC&CS while she would not share
+her cryptanalytic secrets. There must have been complaints about being
+asked to construct advanced machines to attack the Fish system\'s
+Geheimschrieber yet not being allowed to have the desired intercepts and
+cryptanalytic information on Enigma.
+
+68
+
+(TS//SI) The tensions were reduced in May 1943 after a series of
+conferences, but there was no immediate flow of cryptanalytic secrets to
+
+TOP 6ECRET//COMINT//nEL TO USA AUS, CAM, GBR AMD HZL//X1
+
+
+
+
+America, nor was there enough high-priority work assigned to Madame X.
+The result was that it seemed to be an expensive machine without a
+purpose. Then, when it was finally put to work, it served as a secondary
+aid to GC&CS.
+
+ffW The SIS had not expected such a minor role for their great computer.
+Its best cryptanalysts had spent much of 1942 and 1943 trying to develop
+their own \"E\" attacks, using up 1,000 hours of \"003\" time. But after
+all that effort they had to admit defeat and had to yield to England\'s
+monopoly of methods and its control of intercepts. The home grown
+\'Yellow\" project for which \"003\" was built became asubunit of
+Bletchley and, to make matters worse, most of the SIS\'s involvement
+with \"E\" came through the team of men it sent to England in late 1943.
+Americans were as busy running British Bombes in a small town near
+Bletchley as they were running Madame X in America. Perhaps as
+depressing for Rosen and his group, England was probably sending as many
+German air force jobs to OP20-G as it was sending to Arlington Hall.69
+As a result, Madame X stood idle much of the time. For many days it had
+to be assigned only to \"research problems.\"
+
+BS\^- Such disappointments with the SIS Bombe program were perhaps what
+forced Friedman to write a very defensive report about Madame Xin early
+1944. He tried his best to show that Madame X was superior to all the
+other anti- \"E\" devices. He hammered at every weakness of the
+commutator Bombes, British as well as American. They were susceptible to
+mechanical stress, they were not good at solving \"duds,\" and they took
+much too long to record the \"hits,\" he said. He continued by citing
+\"003\'s\" need for fewer maintenance personnel and by stating that the
+British Bombes took twice as long as \"003\" to run an entire problem.
+
+£ES}\*ut he could not hide the deficiencies of Madame X. He admitted
+that at the very least, the \"003\" was five times as expensive as the
+British
+
+Bombes and that it was really slower than the American navy\'s machines.
+He tried to conclude his report on an upbeat note, but his final
+statement helps explain why Madame Xwas torn down at the conclusion of
+the war:70 \"It is thought fair to state that, for purely operational
+purposes, the rotary type of bombe is the most efficient but for
+research and development of new solution methods, the relay type,
+because of its greater flexibility, is far superior.\" Madame Xdid win
+some victories, however. As an engineering project and as an example of
+America\'s mass production capabilities, it captured the respect of the
+British engineers. It also served as a backup system for GC&CS. It was
+kept busy from 1944 to the end of the war running noncritical or
+stubborn jobs sent to it by the British.
+
+(TS//SI) \"003\" cost only one-fifth of the yearly construction budget
+for a system that also found itself with much less than the expected
+amount of work. The huge voice encryption system the Signal Corps and
+the \"F\" section were building, the Sigsaly, had a \$5,000,000 budget
+in
+
+71
+
+1943.
+
+(U)Asa result of \"003\'s\" demonstration of the SIS\'s engineering
+abilities, Britain asked the agency to help solve more complex
+engineering problems and gladly accepted some American machines within
+GC&CS.72 By the end of the war, the SIS was busy creating very advanced
+machines and, like OP-20-G, was hoping for a permanent in-house computer
+program.73
+
+\(U) More Emergencies and More Compromises
+
+\(U) The engineers at\"G\" and the SIS may have wanted to launch a
+far-reaching electronic development program at the end of 1943, but the
+Allies faced too many cryptological crises to allow the pursuit of any
+grand ambitions. Emergencies continued to drive the efforts at NCR and
+Nebraska Avenue, as well as at Arlington Hall. Some of the crises
+dictated the use of very
+
+
+
+
+P.L. EO 3.
+
+86-36 3(h)(2)
+
+
+advanced technology, but others were handled by relying upon traditional
+components and architecture.
+
+(T0//3I) Relays remained essential for many devices. The army put
+together increasingly powerful versions of the \"Joos polygraphic
+counter\" using the SIS\'s versions of the Letterwriter equipment.
+Arlington Hall\'s men also lashed together machines such as the Kryha
+Decipherer and the Longitudinal Differencing machine. The navy helped
+with the desktop \|
+
+a ■\' \' \'
+
+devices, and it went much further by putting new types of relays to work
+in its electrical crib-tester for the Purple system, the Purple
+Dudbuster.74
+
+\(U) Relays and plugboards were used in larger, stand-alone machines.
+Most of them were quite powerful, although some were bizarre
+combinations of primitive components. The need to create instant, yet
+reliable, cryptanalytic firefighters justified their crudeness.
+
+CES//ST) One crisis machine that had an almost vulgar look was the
+embodiment of a quite elegant statistical attack. The machine was the
+SIS\'s Dragon. It took almost a year to wire together all its
+components.
+
+(TS//SE) Dragon was the cribdragger SIS sent to England in late 1944 to
+help GC&CS attack the German Tunny enciphering machine. It was made of
+four large racks of relay panels, rows of switches, a tape reader, a
+large control panel, and a set of indicating lamps. A crib was set upon
+a plug-board, then the known set
+
+tings and motions of Tunny wheels were entered through 200 switches. The
+message was read in by a standard tape reader. The crib, usually six to
+ten \"letters/ was tested against the message. When the machine
+calculated that a significant match (psi patterns) had been made, it
+stopped. The lamps indicated the Tunny wheel positions.
+
+CES//SI) The Dragon proved so useful that GC&CS built a second version
+after the American Dragon ate itself up. The noisy machine, which
+contained more than 2,000 cross-point relays, had a tendency to consume
+all the electrical power at GC&CS and to wear out its real contacts
+within a few weeks.75 Despite its faults, it seemed such an achievement
+that it was sent back to the states after the war and was proudly
+displayed in the SIS museum.76
+
+(JS//8B Advanced statistical powers were added to the Dragons. If the
+war had not ended, the Dragons might well have evolved into machines
+whose sophistication rivaled the COLOSSUS.77
+
+::: {style="width: 48.705882352941174%;"}
+:::
+
+TraVCl. ) Dragon
+
+
+
+
+
+\(U) The Other Purples
+
+\(U) In some ways the battle against the German military code and cipher
+systems was easier than the one against Japan\'s navy. The Germans\'
+reliance on the Enigma allowed a concentration of cryptanalytic effort.
+Japan was not as cooperative. Its military did not use either a single
+code or a single encryption machine. Although much was shared among
+Japan\'s systems, the American and British codebreakers felt they had to
+start from the beginning with each new code, cipher, or communications
+subdivision system they encountered.
+
+(T0//DI) Despite the earlier successes against the Purple enciphering
+machine and the insights gained from prewar work on the Japanese navy\'s
+JN25 operational code, OP-20-G never had a secure entry into any of the
+major Japanese systems.78
+
+(TB//SI) Some of the Japanese naval systems yielded secrete more
+valuable than those gained from Purple, but that information came at a
+great cost. Even the rather old-fashioned code-plusadditive systems were
+as or more difficult to enter than Japan\'s high-level diplomatic
+machine. Japan\'s habit of frequently changing code and additive books
+compounded \"G\'s\" problems.
+
+(TS/ffii) The Japanese navy used 184 systems between December 1941 and
+the end of the war. And some 1,000 different ciphers appeared on them.79
+Triumphs in uncovering the underlying logic of systems did not ensure
+they could be read. An American cryptanalytic victory could be reversed
+overnight by a change in additives or, more permanently, by the
+introduction of new code books.
+
+(TS//SI) Although the navy had its RAM machines, tabulators, and the
+special \"NC\" machines to help discover the structures of the code and
+cipher systems, some of the most important ones remained unreadable
+until the
+
+latter months of the war. One of the reasons why OP-20-G hurriedly
+constructed so many relay, plugboard, and Letterwriter combinations in
+late 1944 and 1945 was the need to immediately exploit the systems that
+had taken so long to enter.
+
+\(U) But even in 1942, the least resistant and quickest technological
+path was the most rational choice for a search for an Ultra in the
+Pacific. Only when the tried-and-true technologies proved too slow was
+there an attempt to use digital electronics.
+
+\(U) In certain instances, avoiding the risk involved in applying
+electronics to the Japanese problems led to machines that should have
+been named after Rube Goldberg\'s inventions, rather than after snakes
+or jewels or flowers. The mandate to stay ahead of possible changes in
+the famous Japanese fleet operational code system, JN25, the rush to
+exploit Japan\'s long unreadable strip-cipher system, and the search to
+identify mysterious naval cipher machines led to some of World War IFs
+most unusual cryptanalytic machines. Viper, Python, Gypsy, Opal, Mamba,
+and their relatives were clever throwbacks, but still throwbacks.
+
+\(U) New Guys and Old Guys, New Techniques and Old Insights
+
+\(U) After OP-20-G and GC&CS had reached an agreement about the Enigma
+problem in early fall 1942, the old-timers at\"G,\" such as Mrs.
+Driscoll, were transferred back to the more familiar Japanese puzzles.
+The German naval problem essentially was turned over to Engstrom and his
+team of bright but young and cryptanalytically inexperienced
+\"outsiders.\" \"G\'s\" leaders, such as Joseph Wenger, thought that
+with all the mathematical skills in \"M,\" with its advanced machines,
+and with help from the British cryptanalysts, their weak background in
+practical attack on systems could be overcome. \*\*
+
+
+top seeneTOeoiviiHTf/Rr.L to uoa, auo, gam, odr and mzl/ixi
+
+
+
+(T0//0I) The great American responsibility, the Japanese cryptanalytic
+problem, was given to \"G\'s\" professional cryptanalysts and the naval
+officers who had worked on the Pacific tasks before the war. They were
+in a separate subgroup, \"GYP,\"81 which maintained a rather
+well-calculated distance from the young men working under Howard
+Engstrom. There was another group in Hawaii which continued on with its
+earlier work. The British frequently gave cryptanalytic advice and sent
+intercepts to both centers and to the cryptanalysts working in
+Australia.
+
+£T\$//SI) Washington was where cryptanalytic research and machine design
+were conducted for both European and Asian problems. But being in one
+center did not lead to agreement about crypto-methods or hardware. Those
+working on the Japanese problems had different perspectives from the
+young men in the \"M\" group. The distance between \"M\" and \"P\"
+included approaches to cryptanalysis. \"P\" was not as enthusiastic
+about abstract mathematical methods and RAMs as was \"M.\" \"P\'s\"
+cryptanalysts did accept the reality that codebreaking had become amass
+production operation, but they wanted tried-and-true methods and
+machinery, such as \"differencing,\" the IBM equipment, and simple and
+reliable electromechanical analog.82
+
+(T3//SI) Those preferences led to delays in the design and construction
+of advanced machines for the Pacific crypto-wars. \"Ps\" reluctance to
+turn to new technologies was only one reason for the delays. And it was
+only one of the reasons for the many failures in the Pacific machine
+project. Technological barriers and the difficult nature of the attacks
+against additive code systems led to a string of well-intentioned
+projects that were unable to produce machines of the stature of the
+Enigma Bombes.
+
+which thought, like Hooper, that advanced statistical methods were cures
+for all crypto-problems, and the old hands in \"P,\" who trusted their
+long experience with Japanese cryptologic systems.
+
+(TC//SI) An example of the results of the different approaches to
+codebreaking came in fall 1943 when frustration over the inability to
+even identify a new Japanese system led to a blunt exchange between the
+two types of cryptanalysts.83 The frictions had been building for some
+time, with \"M\'s\" newcomers more than suggesting that on a routine
+basis messages should be run through the IC, Comparator, Tessie
+machines, and the advanced tabulators to identify \"busts\" or misuses
+of systems. By October 1943, suggestions about such routine \"clinical\"
+procedures to find \"non-random\" behavior in new systems were turning
+into recriminations.
+
+(T6//6I) There was a suggestion in late 1943 that unread systems always
+be given to a new group separate from the \"YV cryptanalysts. The
+proposed \"GO\" section would guarantee the application of all the new
+statistical methods to the recalcitrant traffic, no matter its country
+of origin or its underlying subject matter. It would, of course, take
+control over new systems away from those who were immersed in
+operational cryptanalytic and codebreaking attacks against families of
+systems.
+
+(TS//SI) The suggestion for setting up \"GO\" did not have to wait long
+for a response. Commander L. W. Parke, one of the more experienced men
+in the organization, replied with a rather guarded criticism of the
+proposal. But it included more than a hint that it was \"cryptanalytic
+experience\" rather than \"casual observation\" that usually led to
+solutions. Parke soon became much more direct.81
+
+\(U) A Matter of Machines and Control
+
+fTO/yOB The differences over cryptanalytic methodology led to some
+frictions between \"M,\"
+
+The author of the subject paper shows such a lack of comprehension of
+what goes on in t\'iY thaL it \[sic\] does not deserve serious
+consideration\...As to the variation from random idea \[sic\]
+
+TOP 0C0RCT//00MIHT//nCL TO UGA, AUG, GAM, GDn AMD NZU/X1
+
+
+
+HMkU.iJWiiii-wiiiimrnri -mum .Mr\^.M «bb AH\[1\^\|m
+
+a far more profitable attack is to be found in successive trials of
+known and probable methods of cnciphcrmcnt. In other words cryplanah lie
+experience cannot be supplanted by casual observers \[sic\] armed with
+machines and/or degrees of higher learning. The subject report is
+typical of the ideas that have come from (tM\'s eryptanalytieal research
+group during the past year. Although a few ideas have been useful, they
+were not worth the time spent in trying to help GM personnel to a belter
+under-standing of the problems involved in solving .Japanese naval
+ciphers.
+
+(TS//SI) A rejoinder to Parke\'s criticism of the intellectuals reached
+the desk of one of the old-timers who, apparently, decided it was best
+to mark the top of each page of the renewed proposal for \"GO\" with the
+words \"GM BURN BEFORE READING.\"
+
+(TS//8I) More than pride and turf wars were involved in the tensions
+between the operational and analytic types ofcryptanalysts. At times the
+differences in approaches led to serious interpretive problems. The now
+relatively well-known battle between the analysts in the Pacific and
+those in Washington over the JN25 additives was only one of several
+conflicts.85 A quite similar one took place in the summer of 1942.
+
+(TS//SI) The JN39 Japanese Merchant Ship/Navy additive system was
+introduced in August 1941 and was broken by the cryptanalytic group in
+Hawaii.86 But understanding the system did not mean instant success. The
+recovery of the critical additives was progressing very slowly. Then
+Washington decided that it would apply its machines and analytic
+techniques to the problem. It used its own method of machine
+\"differencing\" to generate six times as many additives as Hawaii was
+producing by hand. Washington insisted its additives were correct.\*7
+
+£RS//fl\'f) When code and additive books were finally captured, it was
+learned than some three
+
+quarters of the Washington machine-produced additives were incorrect. A
+retrospective on the problem found that the pure analytic and machine
+methods were too simplistic and that \"speed\" of processing was no
+substitute for such vital activities as making sure that the recoveries
+actually led to readable traffic.88 The discovery about the results of
+Washington\'s machine attack on \"39\" was linked to similar problems
+with its work on JN25.
+
+\(U) Such incidents perhaps restrained the operational cryptanalysts from
+requesting that the \"M\" sections engineers create advanced machines to
+help them break into the Japanese codes and ciphers. Asa result, most of
+the machines built for the \"P\" group followed in the tradition of
+Purple, a direct analog to aid the decryption process after a system had
+been solved through traditional techniques.
+
+\(U) The Snake That Died Too Young, Viper
+
+\(U) Among the many frustrations \"G\" had to endure was the struggle
+against what was thought to be one of the most important Japanese cipher
+systems. In late 1942 it appeared that the Japanese navy might be on the
+verge of introducing a new cipher machine - one for the most important
+naval officers and ships. It had the potential to become another Purple
+for the Americans, a single machine-based system that would be
+relatively easy to read once the nature of the enciphering machine was
+established. The Americans called the system and machine Jade.
+
+\(U) There were, perhaps, some overly hopeful fantasies atOP-20-G that
+Jade would soon replace the Japanese Navy\'s important operational code,
+JN25. That additive code was being read, but with great effort and much
+worry. OP20-G always fretted that the next change in it would be the one
+that permanently locked out the allies.
+
+
+
+
+
+\(U) JN157 (Jade) first appeared in December 1942. \"G\" could tell from
+messages on other systems that it was carrying very important high
+command communications. But the frustrations created by the unsuccessful
+attack on another Japanese cipher machine, Coral, led \"G\" to conclude
+that Jade was unbeatable. Until mid-1943 only minimal attention was paid
+to JN157
+
+{¥//FOUO)\~Then there were a series of very lucky discoveries. Some
+busts were identified which gave a few clues to the nature of the Jade
+machine and which pointed to sources for cribs.90 The belief that it was
+perhaps a solvable telephone stepping-switch machine (like Purple), and
+an increase in the amount of traffic on the system, led to a major
+attack on Jade.91
+
+(3S//0I)\*Gtatistical attacks were supplemented with crib-based
+\"menuing.\" \"G\'s\" engineers lashed together a primitive stepping
+switch version of a new bombe to aid in the search for daily settings of
+the machine.92 With the help of such machines, the attack on Jade
+yielded results within a few weeks.
+
+\(U) By October, 4,000 messages were being read by the Americans each
+month. The messages contained much about logistics and, later, many
+intelligence items. The cryptanalysts at\"G,\" impressed by the
+high-level addresses on the messages, anticipated that Jade would soon
+carry the most important operational orders and would become more
+significant than the unpredictable JN25.
+
+(T0//SI) The optimism about the possibility of conquering Jade had led
+to the speedy creation of the Viper, an electromechanical analog of it,
+and the construction of several handy cryptoaids.93 To speed decryption
+of all the messages, several more copies of Viper were built. The later
+models were quite advanced and expensive desktop automatic decipherers.
+Two copies were sent to England.
+
+\(U) Viper was in the tradition of Purple, although Lawrence Steinhardt
+was its top designer. A special Kana electric keyboard was connected to
+a large bank of electric stepping switches, relays, and plugboards. A
+Letterwriter typewriter was at the other end and served as the printer
+for the system. The Vipers looked much like the later versions of the
+Purple analog. The Vipers saved hundreds of very precious hours of
+analysts\' time. But they were special-purpose machines.
+
+\(U) Because of the apparent value of JN157, a major project was begun to
+create more than an analog of the system. OP-20-G put the groups at NCR
+to work designing an ultra-high-speed \"grenade\" to speed the final and
+most difficult steps in discovering the keys to the Jade setups. The
+machine was to be powerful enough to overcome changes the Japanese might
+make to the system.
+
+\(U) Unfortunately, although the Americans continued to penetrate the
+JN157 Jade system, it did not carry the expected high-level operational
+messages. By early 1944, \"G\'s\" investment was not paying great
+returns. Then one of the great disappointments of the war occurred.
+
+\(U) Jade turned out to be an experiment by the Japanese, one that did
+not please them. The Jade JN157 system was cancelled in mid-1944, just
+as more advanced cryptanalytic machines to attack the system were being
+delivered to OP-20-G.94
+
+\(U) It seemed that more than a year and onehalf of intense work had been
+wasted. In retrospect, however, it was decided that Jade had not
+provided that much important information. So its closing was not that
+critical from the operational side. And the work on it did make
+something of a secondary contribution to OP-20-G. It gave the
+cryptanalysts hope that another system which had resisted the most
+sophisticated attacks for many yearns might finally be conquered. On the
+
+
+
+
+TOP OCOnCTOOOMIHTOnCL TO UCA, AUC, CAM, QgR AMD MZU/X1
+
+basis of the work on Jade, the Coral system project was restarted.
+
+\(U) A Snake in Hand, Perhaps - Python
+
+\(U) Japan had placed naval attaches in many of its embassies after World
+War 1. Their job was to report on the capabilities and intentions of
+foreign navies.95 The Japanese hierarchy valued their communications so
+much that the attache system was given one of the nation\'s first
+encryption machines, the Red. With the onset of World War II, the
+attaches assigned to the Axis nations assumed an expanded role in
+Japan\'s intelligence system. If their messages could be read by the
+Allies, they would provide insights into the plans and the technical
+prowess of all of the Axis powers.
+
+(TS//SI) The attaches had many ciphers to communicate with (eighty-three
+over the course of the war), but two seemed of special importance to the
+British and American cryptanalysts, JNAio and JNA20. They appeared to be
+the ones that carried the most valuable information to and from the
+attaches. The first was a very difficult version of Japan\'s many
+code-plus-additive systems; the other, the \"G\" and GC&CS teams
+discovered, was a new type of cipher machine that would not respond to
+the attacks that had broken Red or Purple. They called their new
+adversary \"Coral.\"
+
+(TS//SI) Through increased attention to the problem in Washington and
+England, the beginnings of an entry into JNA10 (the code and additive
+system) came in late 1943. However, full reading of all the links
+between the attaches and Tokyo was delayed for many months because
+special additive books had been assigned for communications between
+foreign capitals and Japan. They proved even more resistant to
+statistical attacks than the standard additives.96
+
+(T8//SI) There was elation when the fortunate discovery of some cribs
+led JNA10 to open
+
+up to the Allies. The entry came too late to be of value, however.
+JNAio\'s main use was for transmission of information gained through
+espionage. By 1944 Japan\'s spy networks had withered, and the system
+yielded little information.
+
+\(U) However, the attack on JNAIO did give some encouragement to those
+who had attempted to read the much more important system, JNA20-Coral.
+JNA20 had frustrated \"G\" for many years. The navy needed a successful
+attack against it because it was used to report important technical
+information concerning all the military: land, air, and sea. As
+significant, its transmissions came from such vital points as Berlin and
+Moscow.
+
+GES//89 JNA20 had a long, long history, but the Coral machine had first
+appeared in 1939 replacing the Red machine. It was soon distributed to
+all of Japan\'s attaches. The revised JNA20 system immediately came to
+the attention of the British. Although unable to read the traffic, they
+continued to intercept messages throughout the war. OP-20-G also took
+notice of the 1939 change in JNA20, but it was unable to intercept
+enough of the transmissions from Europe to Japan to begin an attack.
+That put the Americans at a disadvantage compared to the British
+codebreakers; in addition to the shortage of manpower, the lack of
+intercepts prevented the Americans from acquiring the necessary
+cryptanalytic \"depths.\"97
+
+\(U) The desire to penetrate Coral remained high. Because OP-20-G had
+been reading Coral\'s predecessor, the Red machine, its officers
+realized how significant the Coral was. As many men and machines as
+could be safely taken off of other systems, such as the one for Japanese
+naval operations, were assigned to the new attache problem in 1940.
+
+CTB//BI) \"G\" tried all the standard statistical approaches. The
+messages that were available were frequency analyzed to see if Coral had
+the
+
+
+TOP 3CORn7/CUMlMUmeL 10 UbA, AUb, LAN, UbK ANU N2UJX1
+
+
+TOP SECnCTOOOMIHTtfRCL 1U U&A, AU1\>, IAN, OBK ANU NZU/XI
+
+same kind of statistical split between consonants and vowels as the old
+Red and Purple machines.98
+
+(TC//SI) Sadly, there was no return from the investment before the
+summer ofi94i- Even then, the results were slim and less than
+encouraging. The time-consuming statistical tests showed the analysts
+only that Coral\'s inner workings were not just slight variations on the
+old Red machine. Coral, they knew, would be a very demanding problem.
+
+\(U) The task seemed daunting, so resources were shifted to other
+problems. However, when workloads allowed, \"G\'s\" analysts were
+encouraged to apply the most advanced methods to uncover the
+fundamentals of Coral. Some signs of progress appeared. They led to the
+reestablishment of a Coral program.
+
+(T3//3I) Many different statistical analyses and all the available RAM
+machines were applied during the next two years. The new IC machine was
+put to use, then Tessie. Some 100,000 message letters were counted and
+matched, again and again. Digraph counts and strip studies were done to
+see if Coral was related to the Enigma. Index of Coincidence tests were
+made on five months\' worth of intercepts. Round Robin tests, matching
+every message from a day with every other, were made. A few prewar
+\"obtained\" plain texts were also analyzed. Isomorphic runs were done,
+and searches for tetragraphic repeats were made using all the messages
+for July 1941. All types of IBM tabulator indices were produced. The
+British joined in with their own methods, applying Turing\'s advanced
+hypothesis-testing concepts.
+
+(TS//SI) The work in England and America went on throughout 1942. But
+all that was determined was that Coral might be employing telephone
+stepping switches, as did other Japanese devices.
+
+(T0//GI) The attack stopped again. The RAMs and statistical techniques
+had let OP-20-G down. It seemed fruitless to devote any more effort to
+JNA20, despite the apparent value of its messages. The situation seemed
+hopeless. There was little possibility of either a theft of a machine
+(they were all in enemy territories) or a major misuse of the system.
+
+\(U) The victory over JNi57-Jade in fall 1943 led, however, to renewed
+interest in Coral. Based on what was being learned about Jade, there was
+a hunch that Coral was a Roman-letter version of the JN157 machine. As
+soon as possible, the Jade team was reassigned and ordered to beat
+Coral.\"
+
+gflg//SI} They joined with their counterparts in England on a six-month
+major statistical attack that again called on all the RAM machines. The
+goal was to reconstruct the wiring of the Coral stepping switches. The
+work was intense, but little came from it. By spring 1944 many were
+ready to declare that Coral was unbeatable. Mathematics again seemed
+unable to fulfill Hooper\'s promises.
+
+(TS//SI) Then, perhaps to the embarrassment of the mathematical types, a
+new member of the Coral group decided to retry some cribs. He asked a
+translator to see if he could place them, expecting not to hear from him
+for days, if not weeks. To everyone\'s surprise, the translator returned
+within a hour with a report of success. Then a longer crib was placed
+and the Coral wirings were recovered.100 In early March 1944 Coral was
+beaten and began to yield intelligence treasures.101
+
+\(U) \"G\" had already been preparing for the triumph over Coral. The
+\"M\" group had been ordered to start designing an analog well before
+the break occurred. The result, the Python, was a relatively crude,
+quickly built desktop cousin of the Viper. Two Letterwriter typewriters
+were the
+
+
+
+
+
+input and output mechanisms. Between them was a plugboard and a large
+bank of relays that could be set to imitate the \"wheels\" and motions
+of Coral,
+
+(U)) Python was put to use in mid-1944, automatically decrypting
+messages and helping to test possible solutions to Coral settings.
+Several more were built and served until the end of the war. While
+relatively slow, the Pythons did their job with the reliability that
+could not be expected from more advanced and costly electronic devices.
+It was soon helped by a special analysis machine that had originally
+been built for the abandoned Jade system.
+
+(3S//SI) Supported by an ongoing statistical attack suggested by the
+British, and by a homegrown crib method that broke daily keys, Coral was
+made to yield some of the best intelligence of the war. The
+cargo-carrying submarines that ran high-priority material between Japan
+and Germany became easy targets. The German \"buzz\" bomb, radar, and
+other great secrets became known to the Allies through the reports sent
+to Japan by the attache in Berlin.
+
+\(U) That attache did more for the Allies. He gave a precise description
+of all the defenses on the French coast. In addition, his messages told
+the Allies what the Germans thought about the timing and location of the
+Allied invasion of Europe.
+
+\(U) Of Strips and Stripper
+
+\(U) Japan did not trust cipher machines as much as Germany did; it
+employed several rather old-fashioned systems on many of its important
+communications channels. Some of those primitive systems caused as much
+trouble or more than Enigma or Jade or Coral. One of Japan\'s
+alternative encryption devices, JN87, led to as much technological
+soul-searching atOP-20-G and National Cash Register as had the cipher
+machine problems.
+
+\(U) The Americans had suspected that the Japanese navy was going to
+initiate the use of a new shipboard encryption system in mid-1944. But
+beyond a hint that it would be a sort of handoperated \"strip\" device,
+nothing was known. When the Japanese began using the system, KG\" was
+unable to read any of its messages. Then a capture was made by Filipino
+troops. The instruction books and parts they seized in November 1944
+were quickly sent to \"G.\" The captures and analysis of JN87 intercepts
+led to a partial but important solution by early December.
+
+\(U) JNS/s device was quite like the American Navy\'s own strip cipher.
+The \'87 had aplastic board holding strips that had alphabets printed on
+both sides. There was a stock of one hundred two-sided strips to chose
+from. Thirty at a time were placed in the board, with their particular
+vertical and horizontal arrangement set according to complex
+specifications given in a book of instructions.
+
+(TB) The JN87-based fleet communications became so numerous that hand
+deciphering was an impossibility. Thousands of intercepts began to pile
+up; the backlog seemed to contain items of importance. To solve the
+problem, \"G\" instructed Lawrence Steinhardt to build a reliable
+machine as quickly as possible. His design reflected how little time he
+had to complete the analog. At least he was able to show a sense of
+humor: he gave the machine the name of the famous American striptease
+dancer, Gypsy Rose Lee.102
+
+4S) The NCML\'s engineers at NCR were given the responsibility for
+construction. They worked on the control portion of Gypsy, a formidable
+task. Ralph L. Palmer was in charge, and he was determined that his team
+would overcome all the difficulties. His crew worked double shifts and
+stayed on the job through the Christmas holidays. That allowed them to
+solder the required 40,000 connections in Gypsy\'s-central cabinet.103
+Meanwhile, the navy\'s engineers and, perhaps, some WAVES were wiring
+the many \"strips\"
+
+
+TOP CECnETOCOMlNTOnCL TO UGA, AUG, 0AM, OOfl AND HZU/X1
+
+
+
+(plugboards) as quickly as the cryptanalysts could recover them from
+analysis of JN87 depths.
+
+(TS//8I) Both teams were successful. Gypsy was in operation a month
+after it was ordered. Unfortunately, just as Gypsy began its work, the
+Japanese altered their system, and the boards had to be rewired. The
+Washington unit became very efficient at that; the Japanese began to
+change all the strips every three months or so.104
+
+(T0//i\>r) Steinhardt\'s Gypsy was aget-thejob-done machine. It was a
+large, 4,000-pound relay, stepping-switch, and plugboard combination
+that required a central control unit and five separate six-foothigh
+bays. Each of the bays contained five large plugboards. Each board was
+hand-wired to represent four of the JN87 strips. Because the strips were
+two-sided, the Gypsy plugboards were constructed to represent eight
+choices.
+
+(TS//SI) The control unit had switches to select the desired \"strips\"
+and which of their sides were to be used. The Gypsy\'s operator could
+also automatically shift the \"strips\" and set other crypto-variables.
+Banks of lights signalled which boards and which offsets had been
+selected. Then the enciphered message was typed on the machine\'s Kana
+input typewriter. If the message was free of garbles and Gypsy was
+correctly set, clear text was printed on a Letterwriter typewriter. The
+JN87 messages seemed so important and Gypsy so useful that another model
+was ordered. It was to be used in Hawaii. It was planned to have a tape
+reader as input to speed processing.
+
+\(U) Strips without Strippers
+
+happy career. Topaz and Mamba became examples of the danger of relying
+upon special-purpose machines, even when they could be built quickly
+with tried-and-true parts. Both Topaz and Mamba arrived after their
+target problems had disappeared.
+
+\(U) Topaz was quite similar to Gypsy in its architecture and purpose. It
+was another huge plugboard and relay combination for semiautomatic
+deciphering through removal of the influence of \"strips.\" But its task
+was a bit different than Gypsy\'s. The \"strips\" used by the Japanese
+
+£¥&) Two other machines built for \"strip\" problems did not have such a
+
+(IO//OI ) Manfca
+
+
+
+
+top ocora:T//ooMiNT//rc\[:L, to uoa, auo, caw, qbr anp nzu/xi
+
+on their navy merchant marine JNn communications represented additives.
+JN11 was a superenciphered code system and a very important one which
+often served as the window into Japanese communications when other codes
+were unreadable.
+
+\(U) Topaz was clever. It removed the additives and printed the resulting
+code. But the two models of Topaz were rarely used. They arrived too
+late to be employed on current JN11 traffic, and, despite their being
+modified to work on the famous JN25 system, their short lives were spent
+working on old JN11 messages.107
+
+(\$} One of the most unusual machines that OP-20-G brought into its RAM
+collection was Mamba. It combined IBM cards, relay circuits, and analog
+decision making in a five-foot-high metal cabinet. It looked like a
+friendly, many-eyed monster because of its two round signal lights and
+its small voltage meters.,o8
+
+i&) Mamba\'s unique feature was its input system, an electromechanical
+card scanner. Located on a shelf at the center of the machine, the
+scanner shifted IBM cards holding cipher over a set of others punched
+for key. Mamba sensed how many of the 2,400 tiny metal brushes (ten
+digits in eighty columns in three cards) made contact as the message
+cards were moved, column by column, over the key cards. Mamba\'s goal
+was to exploit a weakness in many of the Japanese code systems, one that
+had become important to the American attacks. All legitimate code groups
+were evenly divisible by three.
+
+rB\> Mamba\'s electrical weighting component could be set to stop the
+machine when accumulated \"scores\" exceeded a threshold value. When
+enough of the brushes made contact through coincident holes in the
+cards, the scanner\'s power was cut off. Once the machine stopped, its
+operators recorded the source of the \"hits\" by hand.
+
+-6S) Although relatively crude, and useful only when the cryptanalysts
+had a good idea of which page of additives had been applied to a
+message, Mamba seemed so promising that two were constructed at NCR.
+They were delivered to the navy in the last days of 1944.
+
+(U//rOUO) It was expected that Mamba would vastly reduce the amount of
+hand work needed for the JN11 system. But the Mambas arrived after the
+specific system they were designed for \"died.\" To salvage some of the
+investment, at least one was modified to perform what was called a
+\"maximal-minimal\" attack on JN25.109
+
+\(U) The Attack on the Many JN25S
+
+\(U) The new automatic enciphering machines, such as the Enigma, Jade,
+and Coral, have been crypto-historians\' favorites. The machines and the
+attack on them have an inherent attraction. The mechanical complexities
+are fascinating, and the logic of the attacks are intellectually
+challenging. In addition, the machines that were built to fight them,
+the Bombes and the Colossi, are symbols of the coming of the new
+information age. The Bombes and Colossi are also physical reminders of
+how difficult codebreaking had become by the 1940s.
+
+\(U) But more important in terms of the war in the Pacific than the
+automatic enciphering machines were old-fashioned systems, such as the
+Japanese Fleet General-Purpose Code, and JN25. Codes like \"25\" proved
+as or more difficult to penetrate than machine ciphers. JN25, an
+additive system, took so much effort that a special and very large \"G\"
+cryptanalytic group was created early in the war.
+
+\(U) In Washington alone, some 800 people were working on \"25.\" \"° By
+the later months of 1943\> Howard Engstrom\'s \"M\" group became
+
+
+
+
+
+involved. It began to devote much of its time to finding practical
+designs for very, very rapid machines with enormous amounts of memory to
+handle the special demands of the JN25 problem.
+
+\(U) Because of the special challenges posed by code systems, \"G\" was
+unable to create an equivalent to the Bombe for the Japanese codes. And
+they were unable to devise electronic devices. \"M\" had to concentrate
+on creating \"memory\" machines from what was technologically at hand.
+Although compromises, the machines they came up with promised to be more
+productive than the standard tabulators, the navy\'s NC machines, or the
+relay-tabulator Slide Run machines that were used by the army.\"1
+
+•£¥&) JN25 was a difficult problem for several reasons. The primary one
+was the general nature of well-fashioned code plus additive systems.
+They left analysts awash in unknowns, forcing them to grab at
+cryptanalytic straws to make any progress. Although codes can be
+analyzed through frequency tests quite similar to those used on the
+distributions of letters in cipher systems, doing so is quite demanding
+and usually yields less rewarding answers. Counts of code groups in
+large collections of messages can yield good pointers to frequently used
+words in a language, such as \"to\" or \"the,\" and to word combinations
+typically found in military messages such as \"Fleet orders.\"
+
+fPS)- Identifying one group can help find the meaning of another. But
+codes with thousands of groups, several of which stand for the same
+plain language word, usually do not open up as a result of frequency
+tests.
+
+\(U) The frustrations involved in trying to solve a code system without
+the aid of captures or operator errors grow exponentially when the
+underlying codes are themselves enciphered. Adding or subtracting
+numbers tends to mask the frequencies of the code groups. If the
+\"additives\" are from a long list or, worse, are randomly gen
+
+erated, there is little chance of removing their influence.
+
+\(U) Additive systems have been in use around the world for generations,
+and attacks on them began when they first appeared. Some very complex
+methods had been developed to help identify additives. Attacks such as
+\"differencing\" were relatively freestanding. To begin the arduous
+process of rounds of subtraction and cycle analysis, differencing only
+asked for messages that were in \"depth.\" But much depth was required.
+Differencing needed bulk cipher-text that was known to have been
+enciphered with the same key. But the method had at least the potential
+for automation.112
+
+\(U) In contrast to differencing, most other approaches were based on
+common sense, were difficult to automate, and were useful only after
+some significant breakthroughs into the additive and code systems had
+been achieved. A frequently used one was to assume that some additives
+were known, then subtract them from the cipher, then match the resulting
+plain code against a long list of known and highly frequent code groups.
+If a match, or a significant number of matches, was found, additional
+effort was invested in producing a plain text and increasing the list of
+known code groups.
+
+\(U) Other methods demanded the use of very experienced codebreakers.
+They required knowledge of military systems and a craftsman\'s insight
+once additives had been removed. For example, an analyst might begin his
+attack by assuming that previously known stereotyped phrases or usages
+were in the messages. After seeing if his intuition led to an
+interpretation that made sense, a tentative meaning would be assigned to
+a code group. Then other messages would be searched to double check the
+hunch. If consistency was found, many messages would be processed in
+order to construct a file of appropriately weighted \"high frequency\"
+code groups. That file would be checked and updated in an endless cycle
+as it was
+
+top ocorcrn/ooMiNTOrccL to uca, auc, can, obr and nzujxi
+
+
+
+IOM Sfcl\'KbmiUMINII/KbL IU U&A, AU3, CAM, ODR AMD HZU/XI
+
+used to see if correct additives had been discovered, and to see if
+meanings could be attached to more of the recovered numeric codes.
+
+\(U) The Americans had used all those methods in the 1920s and 1930s, and
+they applied them to Japan\'s World War II systems. But JN25 had its own
+particular difficulties, ones that challenged the traditional attacks.
+First, it had a very lengthy code book. Its first one, of 1939,
+contained over 30,000 groups; later versions had more than 50,000 of the
+five-digit codes. That meant that even when a clear code group was
+intercepted, its meaning was very difficult to determine. More than one
+code number might stand for the same word or phrase. In addition, the
+Americans thought they might be facing a system in which one code group
+could have different meanings depending upon context.
+
+\(U) None of the old cryptanalytic standbys appeared in JN25\'s early
+years. Unfortunately for \"G,\" JN25 code books were not \"obtained,\"
+there were few operator mistakes, and OP-20-G was unable to discover
+many cases in which a JN25 message was sent on a system that was being
+read. The only recourse OP-20-G had was to try to intensify the
+application of the tedious and frustrating traditional attacks it had
+used before the war.
+
+\(U) The Japanese did not make things easy for \"G,\" although they did
+employ a few techniques that deviated from the rule of randomness. One
+of the errors the Japanese made, but an important one, was to facilitate
+the detection of garbled messages by making legitimate code groups
+divisible by three.113 The use of that \"pattern\" vastly reduced the
+number of true code groups the Americans had to identify, and it also
+eased the search for additives.
+
+\(U) The Americans had achieved some brilliant but temporary successes
+against JN25 using old-fashioned hand methods supplemented by the IBM
+tabulators. Enough of JN25 was under
+
+stood in mid-1942 to give \"G\" its first great triumph.114 With only a
+handful of people and a few tabulating machines, \"G\'s\" branch in
+Hawaii was able to contribute vital information on the coming Midway and
+Coral Sea battles. The contribution was marked by controversy, however.
+
+\(U) The analysts in the Pacific had disagreed with the conclusions by
+\"G\'s\" experts in Washington about the correct interpretation of the
+codes and additives. The analytic group in Hawaii had faith in
+\"experience\" while Washington relied more upon formal analytic
+methods. Unfortunately for the chief analyst in Hawaii, Joseph J.
+Rochefort, being correct about the contents of JN25 did not prevent him
+from being disciplined for deviating from prescribed reporting
+practices.113
+
+(TS//SI) But there was much in the JN25 systems that made them very,
+very difficult. The codes were hidden by the use of nearly random
+additives that were contained in lengthy books. The first of the
+additive books had 300 pages, each holding 100 five-digit numbers. A
+complex and very opaque indicator system was employed to communicate
+which page and which starting point were to be used for a message. All
+JN25 indicators were scrambled in one way or another, and their
+encryption algorithms were frequently changed.
+
+\(U) More than indicator systems were altered to thwart cryptanalysis.
+During the first two years of its life, the JN25 code was replaced once
+and the additive books were changed six times. The replacement of the
+additive books continued throughout the war. Worse, the code itself was
+changed at very critical moments. That meant the need to reconstruct the
+code meanings all over again. When the Japanese changed additives,
+codes, and indicator systems all at the same time, it was devastating
+for the Americans. That was the reaction in 1944 when there was a total
+change in \"25.\"
+
+
+
+
+
+■(T0//0D Despite all the experience it had gained, in mid-1944 \"G\"
+worried that it might never reenter JN25. Only errors on the less
+valuable JN11 systems allowed it into operational messages while its
+crew frantically tried to determine the meanings of the thousands of new
+\"25\" codegroups.116
+
+\(U) The difficulties caused by the JN25 system changes were multiplied
+as the Japanese divided the \"25\" system into more and more separate
+networks or \"channels.\" Each had its own procedures. Entry into one
+was not a guarantee that others would be read.
+
+\(V) The Comparators That Weren\'t: the Copperhead Proposals and the
+Victory of Electrornechanics
+
+£S} It had become clear to OP-20-G and the SIS, which was tackling
+similar problems, that automation was needed to handle the Japanese
+codes. The first responses were predictable. Both the army and navy
+turned to mechanics, tabulators, and relay devices. The SIS engineers
+and their allies at IBM extended the reach of the relay tabulator
+combinations through the Slide-Run machines. \"G\" counted on similar
+devices until \"M\" began to involve itself with JN25. It recommended
+the construction of a host of permutations of Bush\'s ideas.
+Unfortunately, only one was accepted, and it evolved into a punch tape,
+not a microfilm machine.
+
+(S)-The navy had asked the practical engineers at the Navy Yard under
+Don Seiler for help fighting code systems before the war began. By 1940
+he built a fifty-wheel cam and gear device that was driven by hand
+cranks. It tested cipher and additives for divisibility by three.117 The
+next response by both the army and navy was to modify the tabulators.
+The goal was to speed up the false subtraction processes used in both
+differencing and additive stripping. The navy\'s NC machines began
+arriving before the war broke out, and the army quickly drafted plans
+for its
+
+Slide Run machines. Those combinations of complex relay boxes and
+tabulator equipment were difficult to build, however, and did not come
+into operation until the last months of 1943. \"8
+
+£S} OP-20-GM\'s team wanted to create machines faster and much more
+powerful than the NCs or the Slide Run devices. Lawrence Steinhardt was
+given the responsibility. He helped draft a series of proposals in
+mid-1942. Each fit with his and John Howard\'s previous work at MIT.
+While the designs were being mulled over, Steinhardt rescued the idea
+that film and photoelectric technology could be used for frequency tests
+against JN25. Apparently such a hope had almost been killed in early
+1942.119
+
+(S3 One of the first challenges Howard Engstrom had presented to
+Eastman-Kodak was to produce a machine for additive code systems. With
+the ex-IBM engineer John Skinner acting as the liaison, Eastman quickly
+arrived at an ambitious design for an \"automatic decoder.\" The device
+was to strip additives, locate the plain code in a large dictionary, and
+set down the meaning of the code. Eastman was not sure whether
+electronics or older technologies would be used to do the stripping; but
+it was committed to developing optical discs to store the code meanings
+and to a fast-flash system to print the results. To \"G\'s\"
+disappointment, just as Engstrom thought of asking Eastman to prepare a
+detailed design, the company announced it was too busy with the IC and
+Tessie projects. 12°
+
+{&} Given the difficulties at Eastman, Engstrom turned to Lawrence
+Steinhardt.121 He handed him the responsibility for the additive
+systems. He began exploring machine alternatives in mid-1942. But he was
+not allowed the opportunity to turn his general ideas into specifics
+until mid-1943. The Atlantic problem took all of \"M\'s\" resources
+until then.
+
+\(S) Steinhardt\'s initial suggestions relied upon Bush\'s favored
+technologies. They were
+
+™ \"T\"\"rTfilnnl\"\"Tlinn T\" \"1ii\*i, /WE, \"AN, \^RR flMn N7I fl
+
+
+
+
+sometimes referred to as the Copperhead proposals. The first of them was
+for a photo-optical machine that was to be a high-speed replacement of
+Seller\'s device. It was to have base-three tube ring counters. Its job
+was to subtract suspected additives code groups found in messages
+already aligned in depth. Its goal was to point to the most likely
+additives through the \"divisible-by-three\" criterion. It took a year
+after the initial sketch to produce a detailed design. Then when it was
+examined, it was abandoned, declared to be too electronically
+adventuresome.
+
+TS\^The next plan, also envisioning photooptical technology, was more
+architecturally ambitious. It was intended to automate the sophisticated
+method of\'Jeeping.\" It was a means of identifying likely additives and
+then code groups. \"Jeeping\" was an extension of the differencing
+method; an extension that called for a large amount of high-speed memory
+and nearendless rounds of running messages against each other. It was
+based on the probability that if cipher texts that had been enciphered
+with the same \"keys\" were subtracted from each other, an identifiable
+\"difference\" would lead to plain code and correct additives. The
+difference could be checked against a huge catalog containing all the
+possible differences between high frequency code groups in a system.
+\"Jeeping\" was a valuable method, but it soaked up hours of effort to
+process just a few \"differences.\"
+
+\#f) Although \"Jeeping\" was a method that should have been automated,
+the photo-optical machine, with the high-speed photographic reproduction
+of hits that it demanded, was too much for \"M.\" The detailed mid-1943
+pian for the proposed Mark II was shelved. Even a simplified version,
+without automatic recording, was abandoned.
+
+(S\^Bush\'s fundamentals received another setback when Copperhead II was
+rejected as too
+
+complicated. It was a film version of a Slide Run machine. Its job was
+to subtract known additives in a system from masses of cipher text, then
+run the results against a huge file of already known high-frequency
+plain codes. If enough matches resulted, the machine was to issue a
+signal and record the hit. With that information, an analyst could align
+more text and add to the files of known additives and codes.123
+
+fS\^Even a reduced version of Copperhead II was rejected. The Mark Vwas
+to have a smaller \"memory,\" although its matching decisions were to be
+based on a complex weighting system derived from studies of language and
+code frequencies. The debates over the merits of those \"Hall\" and
+\"Shinn\" weights may have been one reason why the Mark V was not
+completed.
+
+(S}-The only one of Stein hardt\'s designs that was accepted and turned
+into hardware was Copperhead I. And its technology was a major
+compromise. It became a punched tape, not a film machine. That it was
+built at all is an indication of how much JN25 worried the
+cryptanalysts.124
+
+4\$)- Copperhead I was a device to aid them when they had no entry into
+a system. It was an embodiment of a \"Brute Force\" method that was used
+in moments of desperation. Its purpose was to fill the void when the
+cryptanalysts did not have enough recovered additive or code values to
+even begin using tools such as differencing or \"Jeeping.\" A large
+volume of cipher text was run in the hopes of finding \"double repeats\"
+which would indicate which messages and their offsets were in depth. A
+double repeat was when the same two encrypted code values appeared in
+two texts at the same distance apart from each other. It was calculated
+that locating such matches vastly increased the probability that a depth
+had been found.125
+
+
+
+
+
+\(U) Beyond the Copperheads - the JN25 Crisis and \"M\'s\" Response
+
+tT0//0t) Howard Engstrom would have ordered Lawrence Steinhardt to turn
+toother problems after the Copperhead defeats, but there were signs that
+JN25 and other Japanese additive systems were undergoing a series of
+changes. There was fear they might become unreadable. High-speed
+machines to meet the new Japanese challenges seemed essential. As a
+result, Steinhardt was ordered to explore all types of alternatives to
+Bush\'s favored technologies.
+
+(TS//SI) As Steinhardt searched for new possibilities, including digital
+electronics, other engineers at SIS and \"M\" moved towards electronic
+solutions to German challenges. Like Steinhardt, they were pushed by
+cryptanalytic needs that could not possibly be met with the older
+technologies. By 1944 both the army and navy were moving far beyond the
+original Bombes and Bush\'s Comparator.126
+
+Notes
+
+1\. (U) Bradley F. Smith\'s The Codebreakers War, (Novato: Presidio
+Press, 1993) details the struggles of the army to gain entry into Ultra.
+
+2\. CFS//SI) NSA CCH Series XII Z, \"Washington E Traffic, Notes on
+Correspondence\" circa February 1942. (TS//SI) NSA CCH Series XIIZ,
+\"Green Analog,\" May, 1953. A most important source showing the
+concentrated work SIS did on the complex German diplomatic systems is
+found in (TS//SI) NSA CCH Series XII Z, \"History, Machine Branch,\" np.
+nd. (T0//0I) NSA CCH Series IVB-1-11, \"History of the Signal Security
+Agency, Volume 11, The Machine Branch,\" October 29,1947.
+
+3\. (T0//0I) NSA AHA ACC 16844. \"History of the Special Projects Branch,
+SIS ETOUSA.\"
+
+4.(U) NSA release, Theodore M.Hannah, \"Frank B. Rowlett: A Personal
+Profile,\" 522. NARA RG457, SRH-004, \"The Friedman Lectures on
+Cryptology.\"
+
+5\. (U) Thomas Parrish, The Ultra Americans: The United States\' Role in
+Breaking the Nazi Code (New York: Stein & Day, 1987), 45
+
+6.(U) NARA RG457, SRH-361, \"History of the Signal Security Agency,\"
+Volume II, 82, and SRH-362, \"History ofthe SSA Vol. Ill, The Japanese
+ArmyProblems: Cryptanalysis, 1942-1945.\" Edward J. Drea, MacArthur\'s
+Ultra (University of Kansas Press, 1992), 10. NARA RG457, SRH-145,
+\"Collection of Memoranda on Operations of SIS Intercept Activities and
+Dissemination 1942-1945,\" 01, and SRH-361, \"History ofthe SSA\" Vol.
+II, 250, 272. Ronald Lewin, The American Magic, 38 (New York:
+Farrar-Strauss, 1982). (S//SI) NSA CCH Oral History Interview OH 04-82
+with Samuel S. Snyder, 24 February 1982.
+
+7.(U) NARA RG457, SRH-004, \"The Friedman Lectures on Cryptology,\" 171.
+
+8\. (U) Cipher A. Deavours and Louis Kruh, Machine Cryptography and
+Modern Cryptanalysis (Dedham, Massachusetts Artech House, 1985), 238.
+NARA RG457, SRH-305, \"The Undeclared War: The History ofRI,\" 15
+November 1943, byLaurance F. Safford, Captain, U.S. Navy, and SRH-159,
+\"Preliminary Historical Report ofthe Solution ofthe B Machine.\"
+
+9\. (U) Edward J. Drea, MacArthur\'s Ultra (Lawrence: University of
+Kansas Press, 1992), xii, 61-2.
+
+10\. (U) Again, the documents found in the Garland Covert Warfare series
+are most rewarding. See \"History of3-US,\" 010-026, and \"Origins,
+Functions and Problems ofthe Special Branch, MI.\" Useful background on
+army intelligence is in Bruce W. Bidwell, History ofthe Military
+Intelligence Division, Department ofthe Army General Staff: 1775-1941,
+(University Publications of America, nd).
+
+11\. r9) NSA RAM File, June 23,1943, OP-20-G to OP-20, \"Army has agreed
+to tell England too much.\" NARA RG457, SRH-349, \"Achievements ofthe
+SSA In World War II,\" 31, and SRH-361, \"History ofthe Signal Security
+Agency, Volume Two, The General Cryptanalytic Problems,\" 11-22, 250,
+276-283.
+
+\"TS\^NSA CCH Series XII Z, \"History of GET (TUNNY) Research.\"
+
+12\. (U) Edward J. Drea, MacArthur\'s Ultra (Lawrence: University of
+Kansas Press, 1992), xii.
+
+
+
+
+
+Geoffrey Ballard, On Ultra Active Seruice (Richmond, Australia: Spectrum
+Publications, 1991), 194231.
+
+13\. fS\^ Perhaps it was SIS\'s first failure with Freak that led Joseph
+Desch to accept the design for Mike, the huge mechanical counter NCR
+built later in the war. fSfNSA CCH Series XII Z, Inventories of RAM
+Equipment, 1945.
+
+14-\^SJ- Perhaps it was SIS\'s first failure with Freak that led Joseph
+Desch to accept the design for Mike, the huge mechanical counter NCR
+built later in the war, f\[oo58\].
+
+15\. 0SO//OI) NSA CCH Series XII Z,\"MA.C. Outlines \#11, Freak.\" &\$).
+NSA CCH IX.B.1.9, SSA, \"History of the Signal Security Agency, Volume
+Nine, History of the Development Branch,\" 10 February
+
+1953.
+
+16\. (U) The use of condensers for such storage was \"in the air\" at the
+time, including at MIT, and similar systems were used in the ENIAC.
+
+17\. (TS//SI) The seven condensers could hold 128, but Freak counted only
+up to 99. pTG//3fr NSA CCH Series XII Z, \"M.AC. Outlines \#11, Freak.\"
+
+18\. \#\>•) Many of the storage uses of condensers were based upon
+setting constant values by hand. Thus, Freak was quite an adventure.
+
+19\. fg.) NSA CCH Series XIIZ, \"Freak I,\" May 1953.
+
+20\. e») NSA CCH IX.B.1.9, SSA \"History of the Signal Security Agency,
+Volume Nine, History of the Development Branch,\" 10 February 1953, 83.
+
+21\. flS//8q. NARA RG457, SRH-349, \"Achievements of the SSA In World War
+II,\" 18. University of Pennsylvania Van Pelt library Archives, Papers
+of John Mauchly, 2B-io:a 209,14, October 11,1945 and April 14,1945
+\"Visit to SIS and Cryptologic Problems.\" NARA RG457, SRH-361,
+\"History- of the Signal Security Agency, Volume Two, The General
+Cryptanalytic Problems,\" 237. (TB//Sf) NSA CCH Series XII Z, \"History,
+Machine Branch,\" np. nd. (■EG//93 NSA CCH Series IVB-1-11, \"History of
+the Signal Security Agency, Volume 11, The Machine Branch,\" October
+29,1947.
+
+22\. (TB//SP NSA CCH Series XII Z, \"History, Machine Branch,\" np. nd.,
+30-37.
+
+23\. (3S) NSA CCH Series IV, V 10.6, Chief Signal Officer, \"A Chronology
+of the Cooperation Between the
+
+SSA and the London Office ofGCCS,\" 2 June 1946. (TB//CI) NSA CCH Series
+XII Z, \"Washington E Traffic, Notes on Correspondence\" circa February
+1942. (TC//OI) NSA CCH Series TV B-i-u, \"History of the Signal Security
+Agency, Volume 11, The Machine Branch, October 29,1947.
+
+24\. (TD//OI) NSA CCD Series IVB-1-11, \"History of the Signal Security
+Agency, Volume 11, The Machine Branch,\" October 29,1947, 84.
+
+25\. (TS//&I) NSA CCD Series IV B-i-n, \"History of the Signal Security
+Agency, Volume 11, The Machine Branch,\" October 29, 1947, 22-23, 88.
+(TO//OI) NSA CCH Series XII Z, \"History, Machine Branch,\" np. nd., 24.
+
+26\. tm NSA CCH Series IV B, \"History of ASA Equipment (Development
+Branch) History,\" December 1942, 30 June 1944
+
+27\. ■{TS//SI) ft42211\] (TS//DI) NSA CCH Series XIIZ, \"History, Machine
+Branch,\" np. nd., 51, 62.
+
+28\. OS\#Si) NSA Series XII Z, MAC Outlines, \"The Slide Run Machine.\"
+
+29\. ff0//8f) NSA Series XII Z,MAC Outlines, \"The Slide Run Machine.\"
+(TS//SH NSA CCH Series IVB-l-ii, \"History of the Signal Security
+Agency, Volume 11, The Machine Branch,\" October 29, 1947. The first
+\"F\"-built machines had two cabinets.
+
+30\. (TO//Or)- NSA CCH Series XII Z, \"Office of Computers, List of
+Computers,\" nd. Other relay-tab combinations such as the JMA and the
+\"deciphering machine\" were built by SIS to perform similar tasks for
+additive systems.
+
+31\. (TS//SI) NSA CCH Series XII Z, MAC Outline \#4, \"The Slide Run
+Machine.\"
+
+32\. CTO//3I) NSA CCH Series IIZ, MAC Outline \#4, \"Slide Run Machine.\"
+
+33- m NSA CCH Series XII Z.0P-20-G, \"SSA Proposal for 70mm Film I. C.
+Machine,\" 8 June 1945.
+
+34\. (TS//SI) NSA CCH Series TVB-1-2, \"History of the Signal Security
+Agency, Volume Two; The General Cryptanalytic Problem,\" 272.
+
+35\. Cm NARA RG457, SRMA011, \"Senior Staff Meeting Notes,\" August
+18,1942, Friedman memorandum \"Establish Section F.\" David J.Crawford,
+The Autoscritcher and the Superscritcher, forthcoming. The Annals of the
+History of Computing illustrates the advanced technical achievements
+of\"F.\" In fact, \"F\"
+
+
+
+
+
+may have forged a bit ahead of OP-20-G in respect to the use of digital
+electronics. One reason may have been that \"F\" was under less pressure
+to solve immediate cryptologic crises. Again, NSA SRH-391, \"U. S.
+Cryptologic History,\" contains dates somewhat different than those
+found in RAM file documents and other relevant SRH volumes. fP9\> ASA
+CCH Series IV B, \"History of ASA Equipment (Development Branch)
+History, December 1942 -30 June 1944-\" (S//SI) NSA CCH Oral History
+Interview OH 04-82 with Samuel S. Snyder, 24 February 1982, 96.
+
+36\. (U) NARA RG457, SRH-361, \"History of the Signal Security Agency,
+Volume Two, The General Cryptanalytic Problems,\" 287.
+
+37\. (¥8//Si) NSA CCH Series IV B-1-2, \"History of the Signal Security
+Agency, Volume Two: The General Cryptanalytic Problem,\" 272.
+
+38\. ffS//0r) NSA CCH Series IV B-1-2, \"History of the Signal Security
+Agency, Volume Two: The General Cryptanalytic Problem,\" 258.
+
+39\. (U) NSA SRH-391, \"U. S. Cryptologic History,\" 120, provides a hint
+that the SIS\'s relay machine may have first been explored by the
+British and shown to the Americans under direct order from Churchill.
+Other sources, such as a letter from George Stibitz to the author,
+suggest the relay machine was an American idea.
+
+40\. (TS//SI) NSA RAM File, J. N. Wenger to OP-20-G, September 3,1942,
+\"Part II of Report of J. N. Wenger, Capt. USN,\" 1. Letter to the
+author from George R. Stibitz, June 7,1987. NSA RG457, SRH-361,
+\"History of the Signal Security Agency,\" 250, 257, 272-3. At least one
+source claims that the American army\'s cryptologists were informed of
+and worked on the FISH traffic as early as August 1942. That source also
+claims that some machines were built in America for the automated
+solution of that binary system. However, there is no claim that the army
+built anything like the Colossus for the problem. See NARA RG457,
+SRH-349, \"Achievements of the SSA In World War II,\" 18.
+
+41\. £S} Rosen did not lose faith in electronic solutions. In June 1943
+he suggested a machine solution for the commercial Enigmas that would
+include a frame from the relay Madame X bombe and as many as fifty-two
+\"counters\" made of vacuum tubes.
+
+(\^-NSA CCH Series XII Z, Robert o. Ferner, \"Rapid Analytic Machinery
+Needed for Research,\" June 3,
+
+1943
+
+42\. (T3//3I) NSA CCH Series IV B-1-2, \"History of the Signal Security
+Agency, Volume Two: The General Cryptanalytic Problem,\" 258. {¥9\* NSA
+CCH Series IV B, \"History of ASA Equipment (Development Branch)
+History, December 1942-30 June 1944. f\[422i\]. The contract with
+Western Electric was for only about \$2,000. The F branch annual report
+for 1944 listed a project for a high-speed rotor for the period May
+November 1944. \$8) NSA CCH Series XII Z, Annual Reports, Development
+Branch, 1943-4.
+
+43\. (TS//OI) NARA RG227, Box 73, February 29, 1944, Stibitz toNDRC,
+\"Secrecy re NCR product.\" Williams went on to build many huge relay
+computers for the military ordnance groups during World War II, and he
+designed and patented an electronic computer. Michael R. Williams, A
+History of Computing Technology (Englewood Cliffs, New Jersey:
+PrenticeHall, 1985), 225-240. Hagley Museum and Library, Accession 1825,
+Honeywell v Speiry-Rand , Trial Records, February, 1942, S.B. Williams
+toNDRC, \"Fire control proposal,\" and Reports on Electronic Computer
+Designs byS. B.Williams, November 1941, January 1942, March 13, 1942.
+NSA RAM File, September 3,1942, \"Wenger to OP-20-G, bombe project;\"
+September 9,1942, \"Machine Research Section (F)\"; \"Part II of Report
+of J. N. Wenger, Capt. USN,\" land October 10, 1942, \"Enigma Machine
+Contract.\" Letter to the author from George R. Stibitz, June 7,1987.
+The army\'s single machine cost over \$1,000,000. NSA RG457, SRH361,
+\"History ofthe Signal Security Agency,\" 257, 272-3. NARA RG457,
+SRH-349, \"Achievements ofthe SSA In World War II,\" 29. NARA RG457,
+SRH-61, \"History ofthe Signal Security Agency, Volume Two, The General
+Cryptanalytic Problems,\" 251.
+
+44- (TS//SI) NSA CCH Series XII Z,0P-20-G \"Memoranda on Bombe and the
+relationship ofthe U. S. and U. K.,\" circa 1943. In addition to not
+fulfilling all the expectations of automatic setups, 003 did not
+incorporate some features suggested after its first design was set. In
+mid-1943 one ofthe SIS cryptanalysts suggested that a Madame X frame be
+combined with electronic counters to allow a purely statistical
+
+top or.onr.T/tt)OMiNT\</nr.L to uoa, auc, gam, oon and hzl//xi
+
+
+
+
+attack. A later machine, the SIS Dudbuster did have something like that
+configuration, but it became a separate machine, not an integral part of
+003. (9)-NSA CCH Series XII Z, Robert 0. Ferner, \"Rapid Analytic
+Machinery Needed for Research,\" June 3,1943. Technical details of 003
+may be found in an early report, (S) NSA CCH Series XII Z, \"X-68003,
+Bell Laboratories Report, April 2, i943-\"\'t3//3I) NSA CCH Oral History
+Interview OH 04-82 with Samuel S. Snyder, 24 February 1982..
+
+45\. (TS//SI) After some experience with the 003, a menu with a sure crib
+of twelve letters was considered useful although it would produce more
+false hits than a strong menu of fifteen or so letters
+
+46\. (S//CI) NSA CCH Series XII Z, Oral History Interview OH 04-82 with
+Samuel S. Snyder, 24 February 1982.
+
+47- (TD//0I) NSA CCH Series XII Z(S-2568), \"Tentative Brief
+Descriptions of Cryptanalytic Equipment for Enigma Problems,\" circa
+1945.
+
+48\. (-¥S//S1) NSA CCH Series IV B-1-2, \"History of the Signal Security
+Agency, Volume Two: The General Cryptanalytic Problem,\" 265. (\*8)
+(S2568) NSA CCH Series XII Z, \"Tentative Brief Description of General
+Analytic Equipment for Enigma Problems,\" 26 March, 1945- W NSA CCH
+Series XII Z, \"Cryptanalytic Report \#2: The Yellow Machine,\" 3,54.
+
+49\. (TS//6I) NSA RAM File, February 21,1944, W.A Wright toOP-20-G,
+\"Comparison of Army and Navy Enigma Equipment,\" and January 18, 1943,
+to OP-20-G/da, \"Report of Meeting on Army Bombe.\"
+
+50\. iSy NSA CCH Series XII Z, \"Cryptanalytic Report \#2: The Yellow
+Machine,\" 50-52.
+
+51\. (T0//0I) NSA CCH Series IV B-1-2, \"History of the Signal Security\'
+Agency, Volume Two: The General Cryptanalytic Problem,\" 265. For
+insight into how much SIS had learned about Enigma methods by the end of
+1943, see (6) NSA CCH Series XII Z, \"Cryptanalytic Report \#2: The
+Yellow Machine,\" especially pages 31 and 35. These suggest that the
+British had developed their own \"machine guns.\" (T3//3I) NSA CCH Local
+Archive, \"Army-Navy Descriptive Dictionary of Cryptologic Terms,\" Army
+Security Agency, February i947\--fS)- NSA AHA ACC 16890N, \"Bombe
+Operations, Control, and Testing, Duds and Railwav E.\"
+
+52\. (TS//BI) NSA CCH Series IV B-1-2, \"History of the Signal Security
+Agency, Volume Two: The General Cryptanalytic Problem,\" 265rf9)-NSA CCH
+Series XII Z, \"Cryptanalytic Report \#2: The Yellow Machine,\" 35.
+
+53- W NSA AHA ACC 16890N \"Bombe Operations, Control, and Testing, Duds
+and Railway E.\"
+
+54- (T3//3I) NSA AHA 16331, \"6812th Signal Security Detachment (PROV)
+Apo 413 Army,\" 15 June 1945, 35- 4  NSA CCH Series XII Z,
+\"Cryptanalytic Report \#2: The Yellow Machine,\" 40.
+
+55- (T0//0I) NSA CCH Series IV B-1-2, \"History of the Signal Security
+Agency, Volume Two: The General Cryptanalytic Problem,\" 265.
+
+56\. (TS//SI) NSA CCH Series XII Z, LeRoy H. Wheatley, \"Cryptanalytic
+Machines in NSA\" 30 May 1953, and various years.
+
+57- -GS} The SIS cryptanalysts, Ferner and Small, worked on several
+statistical and technological approaches to a \"Dudbuster.\" -\$S) NSA
+CCH Series XII Z, \"Cryptanalytic Report \#2: The Yellow- Machine.\" f&}
+NSA CCH Series XII Z, Robert 0. Ferner, \"Rapid Analytic Machinery
+Needed for Research,\" June 3,1943.
+
+58\. (TS//SI) NSA AHA ACC 13657, \"G.C. &C.S. Naval SIGINT. Vol III,
+German Cryptographic Systems and Their Solution,\" 204.
+
+59\. (T3//3I) NSA CCH Series XII Z, copies of various MAC Outlines, circa
+1953, MAC Outline \# 12, \"The Arlington Dudbuster.\"
+
+60\. rS) NSA CCH Series XII Z, Robert o. Ferner, \"Rapid Analytic
+Machinery Needed for Research,\" June 3,1943
+
+6i.fTS//SI) NSA CCH Series XIIZ, \"History of the Signal Security
+Agency, Volume Two, The General Cryptanalytic Problems,\" 266. r¥S\>
+(S2568) NSA CCH Series XII Z, \"Tentative Brief Description of General
+Analytic Equipment for Enigma Problems,\" 26 March,
+
+1945
+
+62\. (¥S//SQ NSA CCH Series IV B-1-2, \"History of the Signal Security
+Agency, Volume Two: The General Cryptanalytic Problem,\" 266.
+
+63\. ffO//S» NSA CCH Series XII Z, LeRoy H. Wheatley, \"Cryptanalytic
+Machines in NSA\" 30 May 1953, and various years.
+
+Page 15S
+
+TOP CECRET//GOMINTOREL TO UGA, AUG, OAN, GBR AND NZU/X1
+
+
+
+64\. fl\'S//5T) NSA AHA ACC 13657, \"G.C. & C. S. Naval SIGINT, Vol 111,
+\"German Cryptographic Systems and Their Solution.\"
+
+65\. CSS.) (S2568) NSA CCH Series XII Z, \"Tentative Brief Description of
+General Analytic Equipment for Enigma Problems,\" 26 March, 1945. t&rNSA
+CCH Series XII Z, \"Cryptanalytic Report \#2: The Yellow Machine,\" 52.
+
+66\. (U) NSA RAM File, Part II of Report to J. N. Wenger, Capt. USN,
+\"Resume of the Dayton, Ohio Activity During World War II,\" and
+\"History of NCML and OP-20-G-4E, June, 1944,\" \"n530 bombes in
+operation.\"
+
+67\. £PS) NSA AHA ACC 35701 \"History of the Bombe Project,\" 16 February
+1946.
+
+68\. (T3//3I) NSA CCH Series XII Z, (S12OO8) Navy Dept., Office of Chief
+of Naval Operations, DNC(0P-20-G), RIP 425, \"The American Attack on the
+German Naval Ciphers,\" October 1944 \[sic\]. On Britain\'s request to
+SIS to build a Bombe and to build analog of the \"G\" machine, •£\$) ASA
+CCH Series IV B, \"History of ASA Equipment (Development Branch)
+History, December 1942,\" 30 June 1944, 42-44
+
+69\. PSJjSf) NSA CCH Series XII Z, \"History of the Signal Security
+Agency, Volume Two, The General Cryptanalytic Problems.\" (T0//3f) NSA
+AHA ACC 16844. \"History of the Special Projects Branch, SIS
+ETOUSA\"tSTNSA CCH Series XII Z, \"Cryptanalytic Report \#2: The Yellow
+Machine,\" 44.
+
+70\. {¥S)\_ NSA AHA 35529, Friedman to Corderman, 29 March, 1944,
+\"Comparison of our \"003\" type of \"Bombe\" with the rotary type.\"
+
+71\. (S) NSA CCH Series XII Z, Annual Reports, Development Branch,
+1943-4.
+
+72\. (U) F. H. Hinsley, British Intelligence in the Second World War,
+Volume I (New York: Cambridge University Press, 1979), 58. NARA RG457,
+SRH-361, \"History of the Signal Security Agency, Volume Two, The
+General Cryptanalytic Problem,\" 15,243, 269,277.
+
+73\. (U) David J. Crawford, The Autoseritcher and the Superscritcher,
+forthcoming, The Annals of the History of Computing , NARA RG457,
+SRH-361, \"History of the Signal Security Agency, Volume Two, The
+General Cryptanalytic Problems,\" 269-270.
+
+74.-frO//aijMAC Outline 30, MAC Outlines 103, SATYR. 4& NSA AHA ACC
+26373, Chief, \"F\"
+
+Branch, \"RAM Equipment,\" 29 March 1945. The first model of Satyr was
+built at Dayton in late 1944. Four additional models were made by the
+navy and the SIS group built its own version. All of them were quite
+direct analogs of the popular Hagelin machine. They even incorporated
+wheels from an actual Hagelin. Relays and plugboards eased the task of
+setting the machine.
+
+75\. fei NSA CCH, G. 0. Hayward \"Operation Tunny: Deciphering German
+Teleprinter Traffic in WWII atBletchley Park,\" 14 July 1989,
+Z/1396GW/9000/5, 9
+
+76\. (T3//3I) NSA CCH Series XII Z, CNO, CIT Paper TS47, \"Report on
+British Attack on FISH,\" Washington, May 1945. f/ES) NSA CCH Series XII
+Z, \"Fish\'Dragon Notes,\" February 1945. (TS//SB NSA CCH Series XII Z,
+\"Fish Notes,\" 17 January 1945. (T3//3I) NSA CCH Series XII Z, \"MAC.
+Outlines \#21, Tunny Dragon.\"
+
+77- (TS//SI) NSA CCH Series XII Z,\"MA.C. Outlines \#21, Tunny Dragon.\"
+
+78\. (TS//SI) NSA CCH Series IV.W.I.5.13, \"The History of OP-20-GYP-1,
+1939-1945.\" The veryserious and frightening blackouts caused by changes
+to Japanese systems, especially the trauma of fall 1944, are well
+described in (TS//SI) NSA CCH Series IV.W.1.25.12, \"General History of
+OP-20-3-GYP,\" new Chapter 111, espec. 24.
+
+79- (TS//SQ NSA CCH Series IV.W.1.5.12, \"History of OP-20-3-GYP,\" new
+Chapter III, 2.
+
+80\. (■¥87YSTTNSAL-566o CCH Series IV.W.1.5.12, \"General History of
+OP-20-3-GYP,\" Appendix 1,5.
+
+81\. (TO//0I) Most of the following discussion refers only to the group
+that was based in Washington and which had a designation of GYP-i.
+(¥0//9t) NSA CCH Series IV.W.1.6.8, S163287, \"The History of GYP-i.\"
+The cryptanalytic or\"Y\" section ofOP-20-G subdivided several times and
+its bureaucratic history is quite complex.
+
+82\. (TS//SI) NSAL-5660 CCH Series IV.W.1.5.12, General History
+ofOP-20-3-GYP, Appendix 1,7.
+
+83\. ffS//M) NSA CCH Series XII Z, \"File Kept by Dr. Campaigne on Ram
+Panel Meetings,\" Ely memorandum 3 October 1942 and attached memoranda
+dating to 1 November 1943.
+
+TOP OCOnCT//GOMIMTOnCL TO UGA, AUG, GAM, GBR AND NZL//X1
+
+
+
+
+84\. (W/») NSA CCH Series XII Z, \"File Kept by Dr. Carapaigne on Ram
+Panel Meetings,\" 1 November \*943\> \"Further Remarks on the Proposed
+Clinical Attack.\" The quotations are from ibid., L. W. Parke,
+\"Clinical Attack on Unknown Cipher System\...\" 23 October, 1943.
+
+85\. (U) Rear Admiral Edwin T. Layton, U. S. N. (Ret.) etal., And I Was
+There: Pearl Harbor and Midway-Breaking the Secrets (New York; William
+Morrow and Company, Inc., 1985), 409.
+
+86\. (U) There are some unconfirmed rumors that success was partially due
+to the theft of a codebook from a Japanese ship docked in San Francisco.
+
+87\. (TS//SI) NSA CCH Series IV.W.1.5.12., \"General History of
+OP-20-3-GYP,\" new chpt. V, 6.
+
+88\. fTS/61) Such problems may have led to the search for machines that
+would perform Slide Run type dictionary checks.
+
+89\. (T0//S1) NSA CCH Series IV.W.1.5.12., \"General History of
+OP-20-3-GYP,\" new chpt. V, 6. \"the significant reasons for this\"
+\[the JN39 error\] \"were three (experience with similar processes in JN
+25 show that generalizations are feasible}:\....\"
+
+90\. (TS//SI) NSA CCH Series XII Z, \"General History of OP-20-3-GYP,\"
+
+91\. £BS\#gI) \"G\" obtained a badly damaged copy of the machine in
+December 1944. NSA AHA ACC 17480 \"Final Report, Project P123, Original
+J.N.157 Machine,\" February 1945, OP-20-G-4-D-3E.
+
+92.-\^ NSA CCH Series XII Z, H. H. Campaigne \"Use of Hypo on the
+JN-157,\" 21 February 1944, gives an insight into how the
+general-purpose RAMs were employed to attack Jade. The Hypo was vised to
+set the starting positions of Jade\'s three moving stepping switches.
+Jade had three moving stepping switches, two immobile ones, and
+astecker. ffiSZ/fti) NSA CCH Local Archive, \"Army-Navy Descriptive
+Dictionary of Cryptologic Terms,\" Army Security Agency, Februarys 1947.
+A machine. Jasmine, whose details seem to have been lost, was built to
+test cribs against Jade. Avery primitive electrical and stepping switch
+device, Mortor, was quickly constructed to allow hand testing of cribs
+to see if crib-plain pairs completed a circuit.
+
+93\. QSSff&f) The first Viper was proposed as soon as it was thought that
+Jade might be conquered.
+
+While it was being built, a handy but clumsy \"bombe\" for Jade was
+built, the Mortor. It was a cluster of stepping switches and wires to
+handtest menus to solve Jade settings. It would be replaced by the
+Rattler, a machine described below. (8) NSA CCH Series XII Z, \"Viper,
+Plans for Construction of, Steinhardt, L. R.,\" 7 Sept. 1943
+
+94\. (TS//SI) NSA CCH Series XII Z, \"General History of OP-20-3-GYF.\"
+
+95\. (TS//SI) NSA CCH Series IVW.L5.12, \"General History of
+Op-20-3-GYP.\"
+
+96\. CP0//SQ NSA CCH Series IV. W.1.5.12, \"General History of
+OP-20-3-GYP.\"
+
+97\. (TS//0I) NSA CCH Series XII Z, \"History of (NAT) JNA20 CORAL,\"
+Vol. Ill, and NSA CCH IV.W.1.5.12, \"General History of OP-20-3-GYP.\"
+
+98\. mffm) NSA CCH Series XII Z, \"General History of OP-20-3-GYP.\"
+
+99\. CTS//ST) NSA CCH Series XII Z, \"History of JNA20 Coral (NAT) Volume
+MI.\" 74
+
+100\. (TS//SI) NSA CCH Series XII Z, \"File Kept by Dr. Campaigne on Ram
+Panel Meetings,\" memorandum on \"Personnel inGM-2,\" November 1943
+indicates that some significant NAT busts were also discovered by new or
+inexperienced personnel. Busts were also important to the entry- into
+JN157.
+
+101\. (TB//6I) NSA CCH Series IXW 1.5.12, \"General History of
+OP-20-3-GYP.\"
+
+102\. OES.) S338 NSA CCH Series XII Z, L.R. Steinhardt, OP-20-G-4a-5, \"A
+proposed form of Gypsy\...\" 13 Dec. 1944. NSA CCH XII Z, \"Project
+M-312, Gypsy,\" 28 February 1945, NCA, Washington, DC.
+
+103\. W NSA CCH Series XII Z, \"Viper, Plans for Construction of,
+Steinhardt, L R.,\" 7 Sept. 1943.
+
+104\. (TS//ST) NSA AHA ACC 17480 \"Final Report, Project P123, Original
+J.N.157 Machine,\" 28 February 1945, OP-20-G-4-D-3, 5.
+
+105\. (¥5) NSA CCH Series XII Z, \"Proposal for a Tape Reader on Gypsy,\"
+2 April 1945.
+
+106\. (\*S\#SI) NSA CCH Series XII Z, CBO CIT Paper TS-31, \"TOPAZ,\"
+Washington, December, 1945. (T0//0I) On the history ofJNn, NSA CCH
+Series IV W.1.5.12, \"General History of OP-20-3-GYP,\" new Chapter ITT,
+20.
+
+
+
+
+
+107\. TS) NSA CCH Series XII Z, Inventories of RAM Equipment, 1945. The
+first TOPAZ seems to have been completed in March 1945. T?9) NSA CCH
+Series XII Z, CBO CIT Paper TS-31, \"TOPAZ,\" Washington, December,
+1945, 2. A smaller but similar machine, ASP, had an even shorter life in
+1944, when the Japanese changed their callsign systems.
+
+108\. -m NSA CCH Series XII Z, \"Cryptanalytic Phases ofMamba,\" GM-2 6
+April 1944.-\^ NSA AHA ACC 26373, \"Inventory of RAM Equipment,\"
+January 1945
+
+109\. (TO//S4) NSA CCH Series XII Z, \"Mamba.\" (TO/701) NSA CCH Series
+XII Z, \"Communications Supplementary Activities, RAMP Report II,\" 21
+December 1948. (\*}- NSA CCH Series XII Z, RAM list and Conference at
+Dayton, 11 April 1945. \$}■ NSA/CCH Series XII Z, \"Cryptanalytic Phases
+of Mamba,\" GM-2 6 April 1944.
+
+110\. (TS//SI) NSA CCH Series IV.W.1.5.12, \"General History of
+OP-20-3-GYP,\" Appendix 1,7.
+
+111\. fFS//SI) NSA AHA ACC 543 \"MAC. Outlines \#4, Slide Run Machine.\"
+
+112\. (U) NSA, Lambros D. Callimahos and William F. Friedman, Military
+Cryptanalysis, Part II, NSA, 1959, 230-238.
+
+113\. (TS//SI) NSA CCH Series IV.W.I.5.13, \"The History of OP-20-GYP-1,
+1939-1945,\" 1, points out that the sum of the digits had to equal
+three. Divisibility meant without carry.
+
+114\. (T0//0I) OP-20-G did make some other early contributions. A theft
+of books had allowed it into the Japanese merchant ship systems from
+1929 through the summer of 1941. With the experience gained from that,
+reentry into such systems began again during 1942. Throughout the war,
+the information from such systems, including those handled by SIS,
+proved of great significance to America\'s submarine fleet hi the
+Pacific. See (TS//SI) NSA CCH IV.W.1.5.12, \"General History of
+OP-20-3-GYP,\" newchpt. V, 4-5.
+
+115\. (U) Rear Admiral Edwin T. Layton, U. S. N. (Ret.) etal., And I Was
+There: Pearl Harbor and Midway; Breaking the Secrets (New York: William
+Morrow and Company, Inc.), 1985, 409.
+
+116\. (IS\#M) NSA CCH Series IV.W.1.5.12, \"General History of
+OP-20-3-GYP.\"
+
+117\. (Sf NSA CCH Series XII Z,L. RSteinhardt, \"Additive Machines:
+Historical Summary of,\" 27 November 1944.
+
+118\. (£8) f\[4233\] f\[4222\].
+
+119\. tSj NSA CCH Series XII Z, L. R. Steinhardt, \"Full-Selector,\" 31
+October 1942.
+
+120\. m NSA CCH Series XII Z, OP-20-GM J. A. Skinner, \"Proposal for a
+Decoding Device,\" 16 February 1942.
+
+121\. \*9) NSA CCH Series XII Z, OP-20-G, \"SSA Proposal for 70mm Film I.
+C. Machine,\" 8 June 1945 CTS//8fl NSA CCH Series XII Z, OP-20-G
+\"Analysis of Analytical Machine Attack onJN-37,\" 24 March 1945.
+(TS//SI) NSA CCH Series XII Z, R. A. Rowley, \"Preparation of Weighting
+Film, Secondary Stage Problem,\" Op-20-G, 2 August 1945- OP-20-G and the
+SIS would return to Eastman later in the war with proposals for
+sophisticated film-based machines. Two were turned into hardware by
+Eastman, the Amber and the 5202, before or close to the end of the war.
+They are discussed in the next chapter.
+
+122\. (S)-NSA CCH Series XII Z, L. R. Steinhardt, \"Additive Machines:
+Historical Summary of,\" 27 November 1944. {S) NSA AHA 1505, John N.
+Seaman, \"Memorandum for Major Edgerton, Liaison with Navy \# 3, Use of
+Ramon Jap Naval Problems of BII Type,\" 9 June 1944. Note that the
+Gray-NCR Comparator was also used on the JN25 problem. However, it
+performed the required tests very slowly. 48y NSA CCH Series XI E,
+Hagelin, Box 2, Folder, \"Comparators.\"
+
+123\. (8) Steinhardt, L. H., \"Copperhead II (Project M-230) Final
+Report,\" 9 November 1944. This a fascinating description of the
+proposed design. It was to have a long film tape with the text and
+additives run against each other. As they did so, the subtraction
+process would yield a \"mask.\" The known groups would be on another
+long film. As its contents were projected against the mask, photocells
+would register how much light passed through. They would trigger
+electronic counters which, once reaching a threshold value, would
+indicate the position of hits.
+
+124.4& NSA CCH Series XII Z, L. R. Steinhardt, \"Additive Machines:
+Historical Summary of,\" 27 November 1944, indicates that the NCR-built
+special desktop electromechanical machine was
+
+
+
+
+top ocora:T//ooMiNT//ra:L to uoa, auo, cam, qdr and nzu/xi
+
+a result of the \"additive\" problem design effort. Some sixty of those
+Mark IV or \"fruit\" or \"Big Adam\" machines were constructed. Tf\*}-
+NSA CCH Series XII Z, OP-20-G, \"Additive Theory, Folder IV,
+Miscellaneous, Part A,\" 1942-43, gives details on a hand-held system
+using IBM cards (6,000 to a set) as stencils to visually identify
+divisible by three code-additive combinations. It also contains \"G\'s\"
+ideas for other types of additive machinery.
+
+125\. 4ft NSA CCH Series XII Z, OP-20-GH-F, 13 November 1943, Steinhardt,
+L. R, \"JN-25 Double Pentagraph High Speed Machine for
+Locating.\'\"(S}.NSA CCH Series XII Z, OP-20-G, \"Additive Theory,
+Folder IV, Miscellaneous, Part A,\" 1942-43, points out that Japanese
+errors frequently played a role in allowing \"G\" to recover enough
+additives to begin analysis. But it argues that with high-speed
+machinery, analysts would no longer have to depend upon them.
+
+126\. (SS) OP-20-G-4-A5, 23 November 1944, L. R. Steinhardt, \"Possible
+Engineering Solutions for Full Selector Problems.\" (TS//SI) NSA CCH
+Series IV.W.1.5.12. \"General History of OP-20-3-GYP,\" New Chpt. Ill,
+18, 23. The JNII and JN25 crises also led to proposals for \"quick-fix\"
+mechanical devices, See f¥Sr) NSA CCH Series XII Z, L. R. Steinhardt,
+\"JN-11 (George Molecular Attack) Machine Aid For,\" 27 July 1945.
+
+
+
+

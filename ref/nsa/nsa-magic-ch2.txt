@@ -1,0 +1,2161 @@
+Chapter 2 (U) The First Electronic Corputer: Perhaps
+
+\(U) A Reminder of Hooper\'s Hopes and Frustrations
+
+\(U) The development of new cipher machines and the maturation of radio
+led to a critical data problem for America\'s cryptanalysts. There was
+more and more data, and it was overwhelming those who were charged with
+turning it into useful information for policymakers. The failure to
+predict the attack on Pearl Harbor, for example, was the result of too
+much data. The thousands of intercepted Japanese naval messages could
+not be analyzed with the men and equipment available to Laurance
+Safford\'s OP-20-G.1
+
+\(U) Vannevar Bush realized the similarity between the challenges facing
+the cryptanalysts and the ones faced by those who were trying to reform
+the way the nation handled scientific information. He believed the two
+groups could share technology and methods. Captain Stanford C. Hooper
+might not have been aware of the trends in scientific literature, but he
+was certainly frightened by increasingly sophisticated cipher machines
+being introduced by potential enemies. That was what led him and his
+protege, Joseph Wenger, to Bush in late 1935.2 Despite Hooper\'s vision
+and Wenger\'s efforts, OP-20-G began World War II without any operating
+high-speed devices. The Rapid Analytical Machine project had to begin
+over again in 1942 and in conditions ill-suited to long-term
+development.
+
+\(U) The reasons for the failure of Hooper\'s 1930s plans for the
+application of scientific/mathematical methods tocodebreaking are
+complex. Bureaucratic tangles, bad luck, personality clashes, Bush\'s
+stubbornness, international crises, and the intransigence of technology
+partially account for the lost opportunity. But the major factor was
+institutional. Above all else,
+
+the military had not yet placed great faith in the kind of information
+that cryptanalysis or other signals intelligence could provide.3
+
+\(U) The Institutional Context
+
+\(U) By the mid-1980s, Hooper and his admiring young officers feared that
+America would be dragged into a war while Naval Communications was
+unprepared for a face-off with any power. Hooper\'s 1930s strategy, to
+collaborate with universities and corporate centers, was an attempt to
+compensate for the lack of money needed to prepare for a modern war. The
+Chief of Naval Operations supported his plans, but the CNO approval did
+not mean smooth sailing for Hooper and his men. To Hooper\'s regret,
+OP-20-G continued to have to depend on the Bureau of Engineering because
+navy law and \"G\'s\" pauper budgets allowed little else. More
+independence and money might have come to OP-20-G if there had been
+widespread faith in signals intelligence. But despite the contributions
+of Herbert Yardley\'s Black Chamber during the 1920s, then OP-20-G\'s
+penetration of Japanese naval codes, and then the cracking of Japan\'s
+diplomatic messages, codebreaking remained a stepchild of the American
+military. 4 Ironically, the reading of the Japanese naval and diplomatic
+code and cipher systems during the 1920s and 1930s masked the need for
+the long-term programs required for the development of advanced methods
+and machines. Even the navy\'s operating cryptanalysts did not lobby for
+such a program.5 Only two men, Hooper and Wenger, saw the need and were
+willing to suffer the possible career penalties imposed on those who
+became advocates for unpopular causes.
+
+\(U) Hooper and Wenger had never abandoned their 1930 hopes for machines
+that would
+
+
+
+
+
+be much more advanced than the tabulators.6 In late January 1936, Wenger
+met with Bush and discussed OP-20-G\'s hopes and problems.7 Bush
+presented Wenger with a handwritten eight-page outline of his plan for
+automating OP-20-G\'s cryptanalytic section.8 Within a week, Wenger had
+secured the new Director of Naval Communications\'s approval of the
+proposed relationship with Bush.
+
+\(U) TJie First Defeat; Bush Is Rejected
+
+\(U) Just as Wenger proudly submitted his own visionary outline for the
+reorganization of OP-20-G, he received a slap in the face. The Bureau of
+Engineering refused to approve the agreement with Vannevar Bush! 9 There
+was reason for the bureau\'s alienation. What Bush demanded and what
+Hooper and Wenger agreed to were startling. Bush demanded having the
+government pay the bill while he remained free of supervision. He wanted
+the relationship with the navy to match the ideal relationship between
+university researchers and major private foundations. The researcher
+would submit a general proposal and then be funded without any
+interference from the grantor. Following on his beliefs, Bush had
+refused to sign a typical navy contract or to make any promises about
+the results of his work.
+
+\(U) In addition, the original understanding did not include a promise to
+construct any machinery. Bush and Wenger had also agreed to ignore the
+regulations demanding competitive bidding on naval contracts. In
+addition, Bush requested what was an enormous amount of money in the
+era, at least for the navy. To hire Bush meant taking precious resources
+from the bureau and from OP-20-G.
+
+\(U) A Machine Too Soon
+
+\(U) There were also serious technical objections. Although only the
+barest sketch, Bush\'s early 1936 proposal showed that he wanted the
+
+navy to use optical scanning, high-speed data tapes, electronic
+computing, and microfilm in a series of increasingly complex
+cryptanalytic machines. Such technologies, Bush emphasized, would allow
+processing speeds from ten to one hundred times faster than the
+tabulators. Engineering thought that his recommendations were
+speculative and liable to be very costly failures. Engineering\'s staff
+had good reason to be worried about the technical ideas. The core
+technologies Bush recommended were, to significant degrees, still
+experimental.
+
+\(U) Also, the bureau\'s engineers claimed they had their own solution to
+the problem of automatic cipher machines. They were reluctant to give
+Wenger even a hint of their approach, however.10 Whatever its secret
+alternative to Bush\'s proposals, engineering had accepted the
+tabulator. It was an off-the-shelf technology that had a stable
+manufacturer. IBM knew the ropes of government contracting and was
+investing in ongoing development with its own funds. Many of
+engineering\'s men were already creating significant and clever
+modifications to IBM\'s machines, making them more effective
+cryptanalytic tools.
+
+\(U) In addition, the views of OP-20-G\'s cryptanalysts were not
+incomplete harmony with Wenger\'s. The operational cryptanalysts
+wondered who could steal the time to devise the new procedures necessary
+to make such strange technology useful. By the mid-i930s, Laurance
+Safford and Jack Holtwick became more allies than enemies of Hooper\'s
+long-term plans, but the remainder of the staff were willing to join
+with engineering in seriously questioning the value of Bush\'s
+machines.\" All the objections and emotions meant that by mid-1936 the
+attempt to bring electronics to American cryptanalysis was deadlocked,
+if not defeated. But Stanford Hooper, Vannevar Bush, and Joseph Wenger
+collected the needed political support, drew up a new plan, and
+outflanked the bureau and the conservative cryptanalysts.
+
+
+
+
+
+\(U) Hooper and Wenger developed anew strategy to surmount any remaining
+objections. To placate the engineers, Hooper agreed to ask Bush to
+submit a more detailed and specific proposal. The new Bush proposal was
+submitted to a special research group in the navy rather than to
+engineering. In September 1936, within a week after he received the new
+plan, Hooper reported to Bush that the prestigious research board had
+approved his project. Wenger and Bush developed compromise positions on
+the bureaucratic and legal objections, then presented the new proposal
+to engineering. The bureau gave in, but it took almost all of October
+and November 1936 to draft an acceptable contract.
+
+\(U) Under 1937\'s formal contract, Bush agreed to focus on the details
+of a particular device so that engineering could have something
+concrete. He was to submit four reports, each detailing a major
+component of the proposed machine. The commitment to details and the
+year and one-half time limit for delivery of all the reports helped to
+satisfy the bureau\'s demand for a scheduled product.12
+
+\(U) The Decision to Build a Machine
+
+\(U) Bush had become attached to Wenger and Hooper, and their pleas
+convinced him to make a gentleman\'s promise that he soon regretted. He
+told them he would try to build a machine, and if he succeeded he would
+give it to the navy at no additional cost, except for shipping charges
+for the finished machine.13 It had become very important to Wenger to
+have a device. To ensure that his project would not die when Bush\'s
+contract ended, Wenger needed a machine to prove that photoelectronics
+was practical.
+
+\(U) Bush was not sure that he could build a machine in time, but in
+early 1937 he was absolutely sure of one thing: MFTs work for OP20-G
+would be cut off by mid-1938 when the contract with the bureau
+terminated. During the year of bickering with the navy, Bush became
+involved
+
+in an increasing number of projects that were critical to the
+Institute\'s planned analysis center and his career. One consequence was
+that the navy\'s project became more of a burden than an opportunity.
+
+\(U) Bush spent much time on the initial designs for an astounding
+general-purpose electronic digital computer. He sent his students and
+colleagues the first of several outlines of the proposed digital device,
+soon to be called the Rapid Arithmetical Machine, in January 1937.14 In
+the three years after the first contacts with the navy, Bush and his men
+had put all the years of struggle behind them. Bush had his \"boys\"
+immersed in three highly innovative digital projects: the electronic
+Rockefeller Analyser; the electronic, programmable Rapid Arithmetic
+Machine; and the Rapid Selector.
+
+\(U) Bush and Wenger Select a Problem
+
+\(U) Bush consulted with Joseph Wenger and opted for a device to help
+OP-20-G apply the latest statistical techniques to the cipher
+problems.15 Bush knew that if a machine was built, it had to be one that
+was reliable enough to convince the bureau to fund a long-term RAM
+project. Furthermore, Bush knew that any machine he created would have
+to outperform OP-20-G\'s tabulators and the special mechanical devices
+l6 that had become so dear to many of its staff. His machine had to be
+much faster than the electromechanical devices.17
+
+\(U) There were many advanced cryptanalytic methods for Bush to select
+from. Perhaps unknown to Bush or Wenger, the United States Army\'s
+cryptanalyst, William F. Friedman, was toying with ideas about the use
+of optical scanning. In April 1937, just as Bush was filling in the
+design of his machine, Friedman filed a patent for a system. The
+application did not mention cryptanalysis, and its examples of possible
+use were related to analog business applications, such as the sorting of
+packages, but Friedman must have
+
+iaP SECRET/jeOMINT/mEL TO UflA, AU3, OAN, ODR AND NZU/X1
+
+
+
+IUH bhLKbl/iOIMINIJIKbL IU UbA, AUt., LAN, bBK and MLU)AI
+
+realized that optical scanning had great potential for cryptology.18
+Despite such projects, Bush was facing the great challenge of creating
+what was the world\'s first high-speed cryptanalytic machine. Balancing
+all the factors, including his almost unshakable commitment to the three
+technologies of film, optics, and electronic counting, Bush decided to
+automate one of the most central new statistical methods, the Index of
+Coincidence.
+
+\(U) The Index
+
+\(U) The method Bush and Wenger selected for the machine, the Index of
+Coincidence, was the most ubiquitous of the new theoretically justified
+statistical procedures. It was a formal and universal method that could
+not be made worthless by a slight change in a cipher system. It was
+based on the laws of probability. The Index was rugged and independent
+because it needed only intercepted cipher text and because it could
+attack any type of cipher system.19 It also had a wide range of powers.
+
+\(U) The Index allowed an analyst to identify messages or portions of
+messages that were produced by the same settings of an encryption
+device. That was a first step to determining the wiring and settings of
+the encrypting components of the machines. The Index of Coincidence
+could then be put to work to identify a cipher key or the order of the
+cipher wheels in a machine. Such new methods were essential to an
+independent attack on the cipher devices. The stepping switch and
+wired-wheel machines, such as the Japanese Purple and the German Enigma,
+were designed to be unbeatable. They had cascades of transposing rotors
+which repeatedly changed one letter to another. Although each rotor was
+simple, together they produced a long sequence of letter substitutions
+without repetition or pattern.
+
+\(U) Such machines as Red, Purple, and the Enigma came close to creating
+a random sequence, but not quite. They appeared to be ran
+
+dom because of the length of the cycle of unique substitutions created
+by the three or four rotating enciphering wheels or switches. But after
+26 x 26 x26 or more rotations, the wheels returned to their initial
+positions, and the machine began to repeat its letter substitutions.
+That made them technically nonrandom and allowed many nations to use
+Index methods against the simple Enigmas ofthe Spanish Civil War.20
+However, every nation was improving its cipher machines. Additional
+wheels with unique transpositions, varied latches that turned a
+neighboring wheel erratically, and plugboards to further disguise a
+machine\'s input-output relationships were added to many devices. The
+combinations of wheels, wheel settings, and plugboard links meant that
+trillions of possibilities had to be explored.
+
+\(U) In response, cryptanalysts countered with various forms of
+automation. But most, like Poland, bet on limited methods and machines,
+ones to exploit the quirks of particular cipher machines or the
+procedural errors ofthe enemy. There was good reason for such a turn
+away from science. The German specialists in charge ofthe Enigma, who
+were aware ofthe laws of probability and also ofthe speed of film and
+optical machines, were confident that it would take any formal attack
+too long to be of use to an enemy. Given the special defenses built into
+the Enigma, they calculated that it would take any machine so long to
+perform a statistical analysis that by the time a setting was
+identified, its messages would be of no military value.21
+
+\(U) When Wenger met with Vannevar Bush in 1937 to decide exactly what
+type of machine to design, his goal was the creation of a device so
+rapid that pure statistical analysis would be practical. After balancing
+the needs of OP-20-G and the technological possibilities, he and Bush
+decided to automate the heart ofthe IC method, coincidence counting.
+
+\(U) A coincidence was the appearance ofthe same letter in the same
+relative position in two or
+
+
+TOP SiCRET/ZCOMiHTOREL TO UCA, AUG, OAH, ODR AND MZUX1
+
+
+■mo ccrpc-n/\^MmTi/pci m iiqa aiiq cam rtRP Ann M7I »Y1
+
+more messages or in an offset of two copies of the same message. The
+method could be extended to the identification and counting of more than
+single letter matches, but the essence of the Index was the counting of
+single coincidences. If the number of matches exceeded the number
+expected from a random distribution of letters, then both messages were
+probably a product of the same wheels, wheel settings, and portion of
+the encryption machine\'s cycle.
+
+\(U) As the enciphering machines became more complex, the Index developed
+an almost insatiable demand for data. The Index could be computed with
+electromechanical machines, such as a counting sorter or a tabulator
+with additional relay circuits. But even with the IBM machines, the
+process was very slow and labor intensive; a long message could take
+days to analyze. One of the reasons the Index was selected as the method
+for Bush to automate was that it was so difficult to perform on
+electromechanical equipment.
+
+\(U) An Added Bonus, Possibly
+
+(S//SI//REL) Wenger and Bush were committed to mechanizing the IC
+method, and both wanted to encourage the navy\'s codebreakers to apply
+mathematics, but Wenger realized that the operating codebreakers had to
+use some less than \"scientific\" approaches. If Bush could automate
+them, the MIT machine and statistical methods might receive a friendly
+evaluation by the crew at OP-20-G. Bush agreed to sketch machines for
+those rather crude methods, and he hinted that he would try to have the
+proposed Comparator (for the IC) be able to perform two of them. Both
+methods, the Brute-force search and Symmetrical-sequences, asked for a
+search through massive amounts of data to \"locate,\" not count,
+coincidences. The coincidences sought were not based on individual
+letters, but matches between relatively long strings of cipher text or
+long strings of text whose letters had been transposed into their
+position relative to the starting
+
+letter of the string. Both approaches were ways to identify messages
+that were likely to have been produced by the same key. They were used
+to find messages that were in \"depth.\" No mathematics was required; a
+machine just had to sense the long coincidence and then inform its
+operator where it was located.
+
+\(U) Bush Outlines the Machine and Sets Difficult Goals
+
+\(U) After the navy contract was signed in January 1937, Bush took time
+away from his other duties to work on the architecture of his Index
+machine, the Comparator. He decided to divide the project into four
+major parts corresponding to functional units of the proposed machine.
+Then, he chose what hardware was to be used in each. Last came an
+equally challenging step, finding the four men he needed to fill out his
+sketches and, perhaps, build a machine.
+
+\(U) Bush had a frustrating time finding qualified men. The need for
+secrecy made it almost impossible to locate men and still maintain good
+relations with the faculty. Only three people at MIT, really two, knew
+what the work was for. Bush and the project manager knew details, but
+MITs president learned only that secret work was in progress. The men
+who were to build the components and their regular faculty supervisors
+were not told of the navy connection. Once employed, they were
+instructed to be confidential about their work but not told why. They
+would never be informed as to what their components were for.22
+
+\(U) Two graduate students received the initial assignments. Jerry
+Jaeger, who had abackground in machine tools and automatic controls, was
+given the first task, to build the critical input mechanism. Richard
+Taylor, who was already important to the Rockefeller project\'s
+electronics and who would soon take charge of the Center of Analysis,
+was chosen to be responsible for the electronic circuits. The third man,
+who was asked
+
+
+
+
+
+to develop the component to read the data tapes, was in a somewhat
+different position at the Institute than Jaeger or Taylor. Herbert E.
+Grier was a graduate of 1933 who remained at the Institute as an unpaid
+research associate. Bush was unable to find the needed fourth man among
+the student body. He turned to one of the Institute\'s machinists,
+Walter Kershner, to design and construct what seemed to be the least
+challenging part of the Comparator, its data input device. Kershner
+probably had been working on a similar automatic tape punch for the
+Rockefeller Analyser.
+
+\(U) Finding a manager for the project was a greater challenge. It was
+not until early summer 1937 that Bush thought he had a lead on a
+qualified engineer: Waldron Shapleigh MacDonald.
+
+\(U) MacDonald was one of the most unusual and fascinating ofMITs
+students, and he remains an unrecognized figure in the birth of the
+modern computer. MacDonald first appeared at MIT in the early 1930s when
+he enrolled as a special undergraduate student. His initial year in
+Cambridge was spent trying to prove to the electrical engineering
+faculty that his lack of formal preparation was not a barrier to
+academic success. Although he performed well in his classes, he was
+unable to surmount bureaucratic hurdles, illness, and the depletion of
+his savings. He had to leave MIT without a degree. But he quickly found
+very well-paying work as an engineer and began a lifelong career as an
+innovator in computers and automatic controls.
+
+\(U) Bush offered MacDonald a professional salary and help in obtaining a
+master\'s degree in electrical communications at the Institute. In
+return, MacDonald was asked for a firm commitment to come to MIT to see
+the navy\'s project through to completion. But MacDonald needed time to
+fulfill his existing responsibilities, and he did not arrive at MIT
+until September 1937, leaving only some ten months to become oriented,
+to check and revise the Comparator\'s parts, prepare
+
+reports, and assemble and test the historic machine.23
+
+\(U) MacDonald\'s ingenuity and his hands-on engineering ability were
+needed on the navy\'s 1930s project, but his role was not a truly
+creative one. Well before he arrived in late 1937, the design of the
+machine and the schedule for the project had been determined. His job
+was to make what Bush had specified come to life and to do it before the
+end of the navy contract. Unfortunately for MacDonald, he inherited a
+fixed design, components which were hastily made by others, Bush\'s
+order to \"get the job done on time,\" and full responsibility. By
+September 1937 Bush was already too busy with his other work to attend
+to the now rather inconsequential navy project. Among other things, Bush
+was readying himself to assume the leadership of the powerful Carnegie
+Institution.
+
+\(U) The Comparator Really Doesn\'t Go to Washington
+
+(U//FQUQ) Bush and Wenger were very wise insetting the limited goal of a
+machine for the Index of Coincidence. Electronic computation was having
+its birth pangs, and no one had a way to create a machine whose hardware
+could be made to imitate any process. A major reason why all the 1930s
+computers were limited in function was the absence of a viable memory
+technology.24 A universal data computer, one that worked on large
+volumes of input and that had high-speed memory, did not appear until
+the 1950s. Then, machines such as the UNIVAC depended upon very
+demanding, slow, and expensive, magnetic tape memory systems
+
+25
+
+(U//FQUO) Bush\'s first sketches of his Comparator reflected the
+limitations of the memory and electronic technologies. Each of the
+Comparator\'s four major components had its own very significant
+practical challenges. The state of the technology did not allow elegant
+solutions to the problems of high-speed input, sensing, count
+
+
+TOP SFf.RFT)/cnuiMT»PFi TniiQA fliiQ cam nao aim mti fnri
+
+
+
+ing, and recording. Because of the conduct of the 1930\'s Comparator
+project and the nature of OP20-G\'s early wartime efforts, it was not
+until late 1943 that America had more than the patched-up Bush
+Comparator to represent its nearly fifteen years of attempts to build
+sophisticated electronic codebreaking devices.
+
+\(U) Too Much to Ask of Mere Machines
+
+(T0//01//REL) The Index was a demanding cryptanalytic method. To tally
+all the possible single letter coincidences in two messages calls for
+(n\*(n-i)) comparisons.26 If two four-letter messages are examined for
+coincidences, twelve comparisons must be made; 500 messages demanded
+almost 250,000 tests; a 2,000-letter message called for almost
+4,000,000. Complete analyses of long messages could take days or weeks
+by hand and tabulator methods. Compounding the challenge of raw speed
+was Wenger\'s demand that the Comparator be able to handle the longest
+messages. There was good reason for that because the more characters in
+a message the more likely that something of value would emerge from an
+analysis. Fortunately, cryptologists around the world knew that messages
+with too many words posed a danger to their systems and instructed that
+messages be limited to as few words possible. The very upper limit was
+2,000 characters. Messages of 200 characters were typical, but the need
+to analyze longer ones in a timely way made speed and a large memory
+important goals.27
+
+\(U) Combined with Bush\'s desire for a minimal number of electronic
+components, the call for speed created unexpected challenges for the
+students at MIT. One of them was printing. To maintain speed, printing
+had to be done while the tape was running. The solution Bush and his men
+devised was sensible but crude, and it led to a need for an even faster
+mechanical tape drive. Printing was to take place while a blank portion
+of tape was running. Tn practice, this meant that approximately one half
+of each tape was blank,
+
+thus halving the number of possible comparisons during a am of the tape.
+Because of that, Bush\'s men had to double the originally planned speed
+of the drive to achieve the processing goals.28
+
+\(U) Even without the tape handicap, Bush had to outdo much existing
+technology to achieve his minimum Comparator speed.29 Bush wanted the
+machine to deliver data to the reading station at over thirty times the
+rate of standard telegraph equipment and sixty times faster than a movie
+projector if it was to reach the goal of 20,000 comparisons a minute.
+Even in the late 1940s, the most sophisticated high-speed transmission
+\"baud rates\" were in the range of 1,800 characters a minute - or more
+than ten times slower than Bush needed in order to make the navy machine
+an attractive alternative. There were special highspeed drives for
+sending bulk messages, and during World War II \"flash\" systems were
+developed. Those devices, however, were not proven in the mid-i930s. The
+talking picture industry did not provide much help. In the 1930s, moving
+picture film was moved at less than 300 feet per hour.30 The Comparator
+had to sense and route data at rates forty times greater than an IBM
+sorter and 160 times faster than a tabulator.
+
+\(U) Wenger thought that he might overcome the bureau\'s protests if Bush
+could add parallel features to his essentially serial machine. Wenger
+asked him to try to include what would be needed to make isomorphic and
+three- and four-letter (polymorphic) coincidence tests that had been
+discussed earlier.
+
+(T8//SI//REL) Wenger also gave his approval for the \"locating\*
+feature. It would allow what the World War II cryptanalysts called
+\"brute force\" searching. Masses of data could be scanned at every
+position of two messages with the hope of finding indications that two
+messages had been enciphered with the same key.
+
+
+
+
+
+\(U) No Thanks for the Memories
+
+\(U) Because the Comparator was a datadependent machine, the greatest
+problem facing Bush\'s students was how to store and retrieve
+information. The Comparator needed a largescale and very high-speed
+memory, but such memories did not exist in the 1930s.31 What was on the
+technological horizon was not encouraging. Storage in massive banks of
+capacitors or resistors, which some computer designers were thinking of
+using, was too expensive, and such banks took too long to load and
+unload.32 The rumors about the use of special versions of television
+tubes as memory were just that in the mid19305. And no one thought that
+delay lines would ever be able to hold more than a few bits of
+information. In 1937 work was just beginning on magnetic memories, and
+storage of large amounts of data in two or multistate electronic tubes
+or relays was out of the question.33
+
+\(U) Unfortunately for Bush and Wenger, there had been few advances in
+tape technology since the introduction of modern automatic telegraph
+readers in the early twentieth century. Standard teletype technology had
+not evolved into a competitor to the punch card.34 In early 1937 the
+only option seemed to be microfilm.
+
+\(U) Bush thought his men would overcome the difficulties caused by film
+shrinkage and distortion when the film was sped past a reading
+station.35 Unfortunately, microfilm proved too difficult for a machine
+that could meet the mid-1938 deadline for the delivery of the
+Comparator. As a result, in mid-1937 Bush sent his students on a hurried
+search for another medium and a way to move it at incredible speeds. The
+MTT men chose a unique 70mm-wide paper tape that EastmanKodak used for
+packaging its movie film. It was strong, wide enough to accommodate
+Bush\'s coding scheme, and, very important, it blocked light because of
+its acetate coating and its alternate red-black layers.36 Also, early
+tests indicated the tape would maintain its structural integrity after
+
+being punched. All those features justified the high cost of the Eastman
+product although it was soon learned that its data capacity would not be
+much more than that of telegraph tape.37
+
+\(U) The disappointingly low density meant that much effort had to be put
+into the development of a high-speed tape drive, one burdened with some
+very special demands. In addition to the need for ultra-high speeds, the
+tape transport had to pass two tapes in perfect alignment over the
+reading station, then step one tape one character relative to the other
+until all possible comparisons had been run.38
+
+\(U) The Limits ofMecJianics
+
+\(U) The first man on the summer crew was given the responsibility of
+creating the mechanical combination needed to compensate for the low
+data-carrying power of the Eastman tape. Already familiar with the
+drives in the machines used in the cloth and newspaper industries, the
+young engineer decided to center his component on a four-foot long frame
+to hold the tapes. Pulleys were to maintain the required tension on the
+loops of tape. Driven by a fast electric motor and a system of shafts
+and gears, the tape was guided by both rollers and sprockets.39 The
+entire transport was mounted on tall legs and stood some four feet off
+the ground to ease the chore of changing tapes.40
+
+\(U) The tape transport was well designed and was delivered on schedule,
+but it did not reach the speeds Bush desired. At its best moments it ran
+at less than two and a half miles an hour, not the five or more needed
+for a truly rapid machine. The tape was the machine\'s timer and set
+many of the requirements for the other major components. Once its
+features were known, work on the reading station and electronic counters
+could be completed. Armed with Bush\'s previous instructions and the
+specifications for the tape drive, the next man tackled the problems of
+photoelectric sensing.
+
+
+
+
+
+\(U) Let There Be Light, But Not Too Much
+
+\(U) One of Bush\'s first technical commitments was to the sensing of the
+presence of light rather than its absence. Following on that, he ordered
+his men to code each letter of a message by punching a hole in a column
+of the seventymillimeter wide tape. There was to be only one hole to a
+column of twenty-six fields. An additional field in each column served
+as a timer. If a column held data, this extra field was punched. When
+two active columns overlapped, light was directed to a timing cell which
+then readied the sensing photocells to examine many data columns
+simultaneously.
+
+(C//SI//REL) There were to be at least ten data columns, thus letters,
+packed into a linear inch of tape. To accommodate Wenger\'s need for
+counting more than single coincidences, ten letters were to be read at
+one time. This called for ten photocells for message characters, one to
+each column.
+
+\(U) The engineer had to create a mask to ensure that light that shone
+through the first tape did not drift before it fell on the lower one. He
+also had to find a lens that would direct the light beams from
+overlapping holes, one for each column, onto the correct sensing
+photocell. An allied problem was more challenging: he had to keep light
+from a coincident column from spilling over into the area of another
+column\'s photocell. The state of photocell technology did not allow
+easy solutions to any of the reader\'s problems. Among other problems,
+they remained fairly large. As a result, the young MIT engineer could
+not put ten of them directly under the columns of the Comparator\'s
+tapes. They had to be placed far under the reader and were arranged in a
+\"U\" pattern. That meant that the straight, parallel light from the
+coincident columns had to be accurately deflected. Moreover, complete
+electronic packages for the photocells were not supplied by
+manufacturers. The MIT engineer had to tune each photocell and build the
+amplification circuits to
+
+turn the signals from the photocells into the discrete pulses needed by
+the third major component of the Comparator, the electronic counters.
+
+\(U) The Most Difficult Problem of All, But It Wasn\'t
+
+\(U) With the knowledge of the tape and photocell systems, the third
+young man began his work on the final details of what everyone thought
+would be the most difficult part of the project, its electronic counting
+system.
+
+\(U) Precise digital counting with electronics was in its early years,
+and all attempts at creating tube-based calculating circuits were risky.
+Electronic tubes were designed for analog work, and it was only
+empirical tweaking that allowed them to be on-off switches. As late as
+1940, the best experimental electronic counters worked at 20,000 decimal
+counts a second during their cooperative periods.
+
+\(U) One of his greatest challenges was the circuitry for the
+Comparator\'s parallel-processing feature. It was needed to allow the
+machine to perform the simultaneous multiple letter tests that were so
+valuable to the cryptanalysts. Without parallel processing, the
+machine\'s power would be reduced by a factor of four. The student
+engineer had to construct five independent electronic counters which
+were to tap the data from the reading station at the same time. The
+young man took the safe technological route, choosing to stay with the
+predictable and familiar gas-filled Thyratrons.
+
+\(U) The choice of architecture for the counters was also driven by the
+need to send the navy at least a feasible design, if not a machine, by
+mid1938. Like the other electronic computer builders ofthe era, the
+young MIT engineer decided to imitate mechanical calculating machines.41
+His counters were decimal, not binary. Although such a design limited
+the range ofthe application of a computer, it was known to work and was
+simpler
+
+
+
+
+
+to construct than binary circuits. Each of the decimal counters was to
+consist of three or more rings often tubes with the needed electronics
+for arithmetic carrying, power, and control.
+
+\(U) Providing the option of performing several different analyses at one
+time meant additional challenges. Bush had designed the machine to allow
+the analysts to select the particular tests for each run. To permit
+this, the young engineer incorporated a set of \"and\" circuits that
+could be set to test for the desired combination. The Comparator\'s
+Rossi \"and\" circuit was the key to the machine\'s flexibility and
+parallelism.
+
+\(U) In addition to the counters and the \"and\" circuits, the third
+engineer was handed another tough job. He was given the responsibility
+for creating the banks of electrical relays needed to stand between the
+high-speed tube counters and the much, much slower printer. At the end
+of each pass, the counters had to be polled for their contents and
+numbers sent to the relays. The relays worked as a short-term memory,
+sending pulses to the magnets that controlled the print bars.4\"
+
+\(U) The Easiest Becomes the Most Difficult
+
+\(U) There was a fourth man. He was in charge of the crucial data-entry
+system. The punch for the data tapes proved to be the Achilles heel of
+the Comparator. The problem was a perhaps inescapable result of the use
+of paper tape, as was Bush\'s inefficient 1 of 26 coding scheme.
+
+\(U) The technology of the 1930s led him to reject a method of coding
+that could have increased densities on the tapes by at least a factor of
+five and that would have led the Comparator\'s codes to fit with the
+navy\'s modern communication system. The use of a five-field character
+code, the Baudot code, would have allowed at least five letters to be
+placed on a line (column) of the 70mm tape. But the size and sensitivity
+of holes and photocells, the problems of aligning tapes, and the desire
+to limit the elec
+
+tronics of the machine precluded the use of that coding pattern.43
+Bush\'s special coding scheme demanded a custom-made and very complex
+mechanism.
+
+\(U) An MIT machinist was instructed to make a keyboard-operated device
+to simultaneously punch two exact copies of a message. It had to keep
+the two tapes in perfect synchronization and to make precisely spaced
+tiny holes in each column and row. The punch had to advance the tapes
+with absolute precision. Most challenging, it had to maintain the
+integrity of its tiny and sharp needle-like punching arms despite the
+impact as the arms struck the Eastman tape. The machinist was asked to
+devise tape cutters and the means to ensure that the spliced ends of the
+tapes would not pull apart during the runs. Unfortunately, the punch was
+the last component of the Comparator to be turned over to the project
+manager and then it was \"not satisfactory.\" \*\* The punch\'s
+inadequacies cannot be blamed on the machinist; the responsibility has
+to be placed on the original design for the Comparator. Between 1938 and
+1945 several teams of engineers tried to produce a viable data entry
+system for the paper tapes; none was able to build a rugged and reliable
+punch.
+
+\(U) Beyond Murphy\'s Law
+
+\(U) When Waldron MacDonald arrived in September, three student engineers
+had already sent their work to local machine shops. Bush trusted their
+judgment so much that, without examining the parts, he put MacDonald to
+writing the descriptive reports for the navy. MacDonald took Bush\'s
+first schemes for each component, added what the students had done, and
+sent the reports to the navy for payment.45 The reports, including the
+final one submitted in the spring of 1938, were upbeat and gave the
+specifications for what everyone thought would be the first operating
+electronic data processing machine,46
+
+
+
+
+
+\(U) Although the reports contained a bright picture, the Comparator
+project had fallen victim to a host of problems. But the main reason for
+the problems in 1937 and 1938 was the technologies Bush so admired. They
+were not ready to be turned into useful machinery. Unfortunately, the
+results Bush and his young men expected on the basis of their early
+bench tests did not carry through to the parts they gave to MacDonald.
+The Comparator was far from ready for assembly. And only MacDonald was
+left to rescue it! MacDonald had much, much more to do than simply link
+the components together. Almost every component had to be reworked.
+
+\(U) MacDonald put much thought and energy into reshaping the electronic
+components, and he more than fine-tuned the tape transport. More basic
+work had to be done on the reader. The optical system needed a complete
+overhaul, and it took much of MacDonald\'s attention. To bring the
+correct amount of light to each of the ten cells, he devised a 1930\'s
+version of fiber-optics.
+
+\(U) Thus, MacDonald\'s assignment turned into something much more
+demanding than either he or Bush had imagined in mid-1937. MacDonald was
+not sure that he could solve all the problems of the transport,
+counters, and optical sensors. Then chance compounded an already
+difficult situation. In a friendly game of touch football, MacDonald was
+knocked out by an unlucky \"poke on the jaw.\" MacDonald remained
+unconscious and confined to bed for several weeks. His energy was
+seriously drained for months afterwards.47 Despite the injury, Bush
+chose not to replace MacDonald.
+
+\(U) What Hooper had complained about for so many years, the lack of
+appreciation of science in the navy, again struck the Comparator.
+Wenger, the strongest voice for a revolution in the technologies of
+signals intelligence and cryptanalysis, readied himself to leave for sea
+duty in mid-1938. Wenger had to spend the five months before he was
+rotated putting the finishing touch
+
+es on the detailed reports for Hooper\'s grand proposal for a modern
+communications system. Wenger left the country just a month before
+MacDonald shipped the troubled Comparator to Washington.
+
+\(U) In spring 1938, MacDonald began test runs on the rebuilt parts.48 He
+also had the chore of instructing the engineer the navy sent to learn
+about the machine. Wenger had arranged for a bureau technician to spend
+some time at MIT. During the spring, Frederick Dulong, one of the many
+ex-navy men who stayed on in Washington as civilian employees, was sent
+to MIT.
+
+\(U) Wenger considered Bush very generous for having constructed a
+machine and approved Bush\'s suggestion that MacDonald be hired by the
+navy to fine tune the Comparator once it was in Washington. The bureau
+agreed and requested MacDonald to travel to Washington with the
+Comparator and to stay for three months. He was to adjust the machine
+and to instruct both technicians and cryptanalysts in its use. Safford,
+now in charge of the Comparator, was pleased that the bureau promised to
+give him some additional, if not permanent, help.
+
+\(U) As soon as Bush signaled that a machine would be sent to Washington,
+Wenger began expensive preparations. He requested the money for tapes
+and lights and extra tubes, and he readied an area for the Comparator
+within OP-20-G\'s secret rooms. In a few weeks, additional funds were
+requested for the hardware necessary to prepare the tapes for the
+Comparator.49 Wenger went much further. Describing a new era in
+cryptanalysis, he convinced the navy brass to give serious consideration
+to funding more devices.50 By the end of 1938, OP-20-G\'s budget request
+included more than \$20,000 for additional Bush devices and special
+additions to the first machine.51 In addition, \"G\'s\" new war plans
+contained a request for a Comparator for the pro
+
+
+
+
+TOP SECRCT//COMINT/mEL TO USA, AUS, CAM, (5BW aim NZU/XI
+
+posed major cryptanalytic station at Pearl Harbor.52
+
+\(U) Spring Is a Time for Love, Not Machinery
+
+\(U) When the Comparator arrived in Washington in late June, a month
+late, it would not start,53 As bad, two of its most important parts had
+not been shipped -the punch and printer. About a month behind schedule
+and still only \"semifinished,\" it found anew and wellintentioned
+guardian. But Fred Dulong could not give full attention to the machine.
+By mid-July, Dulong was able to run the counting circuits,54 but any
+more work was stalled because of the missing punch and printer. Unknown
+to anyone, they had been placed in a Cambridge safe-deposit box
+byMacDonald to await his return to the country in August55 following a
+honeymoon.
+
+\(U) The cryptanalysts certainly did not have the time to wet-nurse the
+Comparator. While the bureau\'s men bewailed the results of becoming
+entangled with an impractical professor, the cryptanalysts in charge of
+the day-to-day work were coming under incredible pressures to penetrate
+all of the sophisticated Japanese code and cipher systems. Japan\'s
+invasion of China in 1937 had made it clear that war was imminent,56 and
+by 1938 OP-20-G was facing crisis conditions. The sinking of the Panay
+in December led to a scramble to protect American codes. In addition,
+there were hints that Japan was about to make another sweeping change in
+its codes and to introduce its Purple cipher machine.57 What energies
+OP-20-G had were necessarily devoted to developing techniques and
+machines that gave immediate results. Its faith was, quite naturally,
+placed in the direct analogs of Japan\'s enciphering machines, and its
+men wanted resources devoted to modernizing the tabulators.
+
+(TJ) Thus Waldron MacDonald did not arrive in Washington at the right
+time for any experimentation at\"G\" or the bureau. Driving from
+
+Cambridge in August 1938, he had the Comparator\'s punch and printer in
+the back of his station wagon. Working in OP-20-G\'s downtown offices,
+MacDonald attempted to save his and Bush\'s reputation.
+
+(ID He hurried the Navy Yard\'s effort to build tape duplicators and
+splicers and soon convinced the bureau to build a new punch. The one
+from MIT could not be coaxed into working. Don Seller took on that
+challenge.58 Then MacDonald began working on the other components.
+Although no major changes were made to the Comparator, it took an
+unexpected fourth month of work to announce a finished machine in
+November.
+
+\(U) In late 1938, OP-20-G\'s leader, Safford, congratulated Bush and
+informed him the cryptanalysts and the bureau\'s men planned to spend
+the next year experimenting with the wonderful and reliable machine.
+Possibly because they now realized how much a well-schooled optical
+electronics engineer would cost, OP-20-G did not make an effort to hire
+a replacement for the MIT engineer or, as planned earlier in the year,
+to construct at least one more Comparator.59
+
+\(U) R.AM Project Seems to Die, Late 1938
+
+\(U) With Wenger gone, no one pressed for an immediate extension of the
+program.60 Bush, in turn, quickly fended off another attempt by the navy
+to link him to \"G\'s\" projects. The consequences of the failure to
+continue on with the Comparator project in 1938 were severe. Soon after
+MacDonald left Washington, the Comparator again became inoperable. It
+was so temperamental that the only attention it received was from
+Dulong, whose many other duties allowed just part-time work.61 It was
+listed on OP-20-G\'s equipment roster in 1939, but it was never used,
+not even on the type of important project for which it had been
+designed, the breaking of the Japanese Purple cipher machine.62 Its
+technical problems become so great that it was removed from the
+cryptanalysts\'
+
+
+
+
+
+quarters and sent to the Navy Yard where it could be tinkered with.
+
+\(U) Although overworked because of the Japanese code and cipher crises,
+Safford had asked for a report on the Comparator and received some very
+disheartening news. Dulong responded that nothing but the electronic
+counters proved reliable, and the machine had not been functional long
+enough to allow in-depth development of procedures. The Navy Yard\'s men
+did not think there was any possible quick fix for the device. Most
+ominous was the failure of the data entry component, the punch. Even the
+second version of that purely mechanical and supposedly simple mechanism
+could not be made to produce precise tapes. There was little hope of
+basing an entire system of analytical machines around the original Bush
+design if there was not an efficient and reliable data entry device.63
+In 1940, Safford, who two years before declared the Comparator a
+reliable and useful invention, had to admit the machine never worked and
+that the entire project had not progressed as planned.
+
+\(U) A Comparator There May Never Be
+
+\(U) In late 1940 Bush gained another chance to prove the power of
+optical-electronic machines and the ability of academics to create the
+technologies of defense. 6\* He arranged for MITs John Howard and his
+men to rescue the first paper tape Comparator and to design the
+longpromised microfilm version.
+
+\(U) This second MIT OP-20-G project of late 1940 is of extreme
+historical importance because it became the foundation for the United
+States Navy\'s incredible Rapid Machines Program of World War II. That
+little known adventure rivaled Britain\'s famous work on the Bombes and
+the Colossus.
+
+\(U) Tragically, that program is also important because of its failures.
+Although it began with expectations of producing electronic digital
+
+machines to attack the feared cipher devices of the Axis powers, it
+turned to older technology and logic. To be able to provide anything of
+value to OP-20-G, Howard\'s men had to step back from electronics,
+digital techniques, and microfilm. Although the navy\'s cryptanalysts
+began World War II with promises that electronics could be made to work,
+they had to wait for almost two years after Pearl Harbor before any
+machines appeared that affirmed that Bush\'s ideas had potential.
+
+\(U) The story of John Howard\'s navy project has to begin with the
+crises in Europe and Asia, policy decisions in the White House and
+London, and the organization of American science in World War II.
+
+\(U) Big Science Begins to Emerge
+
+\(U) Bush\'s high-science friends were active in more than the cause of
+research. They were among the nation\'s earliest supporters of a
+positive response to the German threat. They lobbied for the creation of
+the National Defense Research Committee (NDRC). The NDRC was the
+realization of Bush\'s ideal of how to link academia and the military.
+Given almost complete power by Roosevelt to shape the NDRC, Bush laid
+down ground rules that gave power to academics to begin research
+projects and to be free of military control. Having its own funds and
+being a presidential creature, the NDRC and its more powerful extension,
+the Office of Scientific Research and Development, could initiate
+blue-sky programs and carry them through to development.
+
+\(U) One ofthose programs interlaced the NDRC with American
+cryptanalysis, but only after it had dealt with along list of projects
+of much higher priority. Atomic power and radar were the leading
+problems, and the scientists at the most prestigious universities and
+corporate research centers received the first calls from the NDRC\'s
+leaders.
+
+
+
+
+
+\(U) The executives at the NDRC realized that atomic research and the
+development ofthe potentials of radar called for advanced computation,
+but, alone, those problems would have led to a minimal NDRC involvement
+in computers. It was a lower priority challenge that plunged the NDRC
+into computer research and established who would participate in the
+navy\'s future Rapid Machine effort. Atomic scientists were calling for
+electronic control devices, but most important for the history of
+OP-20-G was the hope that radar could be used to automatically control
+antiaircraft weapons. That led to the NDRC\'s involvement in the
+development of electronic fire control computers in the early 1940s.65
+
+\(U) The exploration of such electronic digital machines was the perfect
+type of work for the NDRC because it centered onunproven and
+experimental technologies. The NDRC\'s scientists believed that digital
+electronics had potential, and they rekindled the fire control projects.
+Hundreds of thousands of dollars were poured into fire-control computer
+and atomic-counter work in the first two years of NDRC\'s life.
+
+\(U) Fire Control
+
+\(U) The NDRC began the first stages of its fire control project in June
+1940. Bush\'s old friend Warren Weaver ofthe Rockefeller Foundation
+assumed command. The research at RCA, which had led to the design ofthe
+fastest binary circuits in the nation, if not the world, was picked up
+by the NDRC. Then Weaver coordinated the work at RCA with wide-ranging
+explorations at Eastman, MIT, Bell, and, to some extent, NCR Of
+significance for the history of OP-20-G\'s machines, IBM was again left
+out ofthe NDRC circle although its centers of electronic research were
+working on quite advanced components and systems.66
+
+\(U) Because ofthe NDRC\'s stimulus, by the time of America\'s formal
+entry into the war, RCA Eastman, Bell, and MIT had several proposals for
+digital-based fire control systems, ones the NDRC
+
+evaluators thought had great promise. In the spring of 1942, meetings
+were called, and all participants shared their knowledge and designs.67
+The reports ofthe fire control projects were made available to the
+American technical community, which now included John Howard. He was
+made aware ofthe designs for the most advanced computer components.
+
+\(U) Many ofthe fire control developments would find their way into
+cryptanalytic machines and into such pathbreaking computers as the
+ENIAC. By mid-1942, there were great hopes for the development of at
+least a prototype electronic gun controller. But Warren Weaver and his
+assistants concluded that digital electronics was too good. It was too
+fast and too precise for the guns used by the military. In July 1942 the
+fire control program was dropped - but with three important exceptions.
+The development projects for the Eastman film-based analog-to-digital
+signal converter and RCA\'s fabulous multifunction Computron tube were
+to be continued, as was NCR\'s counting circuit research. Although they
+were viewed as long-term projects, the three efforts were financed for
+only a few more months because the press of other work forced the NDRC
+to abandon them.68
+
+\(U) The Second Comparator
+
+\(U) Meanwhile, just weeks after the work on high-speed electronic
+counters and fire control computers had begun, Bush and OP-20-G came
+together. A visit with Bush in early summer 1940 indicated a reawakening
+of interest in the original Comparator, which had sat unused at the Navy
+Yard for almost two years. But it was not until October 1940 that
+anything was done about its future.
+
+\(U) A limited and secondary role for MIT was unacceptable to Bush,
+however. He returned to his old demand for freedom from bureaucratic
+control, and, within a few weeks, he was able to reshape the first
+murmuring about a new
+
+
+
+
+
+Comparator into a project that satisfied his ambitions. Bush wanted a
+prototype of a microfilm Comparator. While the first Comparator would
+continue to be a paper-tape, the second generation Comparator was to be
+centered about microfilm. Bush soothed Laurance Safford\'s anxieties
+about optical and electronic machines and told him that the new
+microfilm version of the Comparator would be delivered in time to be of
+use in the coming war. In late 1940, Safford encountered litde
+resistance to the idea of transferring the project to MIT. The navy\'s
+cryptanalysts were too busy battling the Japanese naval code, and too
+worried about taking on the German systems to care about the loss of
+control over unusable machinery.
+
+\(U) 0P-20-G and Ultra
+
+\(U) The navy\'s bureaucrats were less happy about yielding control. They
+agreed to most of Bush\'s conditions although they did want a contract
+and agreed to have the MIT work coordinated through the navy\'s Office
+of Research and Inventions. The BuShips\' (Bureau of Ships) demands in
+late 1940 were much less severe than in 1935, but it took some
+additional political maneuvering to put the Rapid Machine project back
+into the hands of the MIT students.
+
+\(U) Under the 1940 agreement with the Bureau of Ships, Bush had full
+control of the new Comparator project, and his men were to work at MIT,
+not at the Navy Yard. The navy also agreed to wait for the results of
+the new MIT work before considering the construction of any more Rapid
+machines with or without MIT involvement.
+
+\(U) As early as mid-1940, the most important Americans were informed of
+some of Britain\'s promising though still limited powers over a few
+German cryptologic systems. But OP-20-G was not told how to break the
+Enigma or other important ciphers. Despite the British promise to share
+the information from Ultra, the Americans feared a British monopoly over
+Enigma. In addition, in early summer 1940 there were fears that Britain
+would collapse. OP-20-G\'s cryptanalysts worried they would have to
+assume responsibility for Enigma, something for which they were totally
+unprepared.69
+
+\(U) The U-boat threat had already led to British pleas that OP-20-G and
+Naval Intelligence shift their scarce resources to direction-finding and
+traffic analysis to compensate for their inability to read any
+significant German naval system.70 The cryptanalysts in Washington thus
+had little time to waste on what some of them regarded as Bush\'s
+technological fantasies. The navy\'s engineers, already overworked
+creating analogs of encryption machines, building advanced radio
+equipment, and helping to revise OP-20-G\'s tabulators, were happy to be
+rid of the \"college professor\'s\" folly.
+
+(3//3I//REL) OP-20-G may not have told Bush, but it was not relying
+solely upon his ideas for machine processing; it had to protect itself
+through the use of older and proven technologies. The experienced
+cryptanalysts had insisted on a tabulator program, one that was to
+remain under their direct control. MFTs men were to have no say about
+the new tab projects. In early 1941 IBM was contacted about making the
+major changes in its machines required to allow its equipment to perform
+new tests. For example, relays were added to the machines to strip
+superencipherments from the Japanese code and to flag repetitions of
+code groups. By mid-year IBM was asked to do much more and to give
+OP-20-G very special attention.71
+
+\(U) Bush was finally able to circumvent the bureaucracy and go his own
+way, perhaps with ambitions to create a full Rapid Machine center at the
+Institute, one free of military interference.72 The old Comparator was
+to be shipped to MIT for repair, and a new one was to be designed and
+constructed in Cambridge.
+
+\(U) Howard quickly became the man in charge of the Comparator project.
+Although the
+
+
+
+
+
+::: {style="width: 67.68627450980392%;"}
+:::
+
+\(S) 70mm Comparator
+
+future of Bush\'s ideas rested upon the new microfilm Comparator, the
+old paper tape machine and its punch became the focus of attention. The
+punch was a critical problem because its two previous versions were
+failures. Understandably, Howard urged his men to use caution as well as
+creativity, but the slow tempo of his project soon generated concern
+within the Bureau of Ships. During the first months of 1941, as time
+passed without results, the navy found it more and more difficult to
+accommodate having its project run by a civilian agency.
+
+\(U) So Long for So Little
+
+\(U) It took almost a full year to redo the old Comparator, the only
+Rapid Machine. It arrived in Washington three weeks after the Japanese
+struck at Pearl Harbor.73 It may have taken longer than expected to
+deliver the old Comparator because of adding one new feature to Bush\'s
+1938 design. The \"locator\" performed a function the navy had thought
+of adding in the late 1930s. It allowed the use of a transverse tape to
+find more, complex pattern matches than was possible with
+
+the original system. With the locator, the codebreakers could quickly
+identify which messages held important code or cipher groups.74
+
+\(S) In the private language of the codebreakers, \"locating\'\' was a
+Brute Force approach to finding possible \"depths.\"
+
+\(U) Once inaction in mid-1942, the old Comparator did help crack the
+Japanese naval attache cipher machine, but the Comparator\'s newest
+punch also malfunctioned.75 In addition, the machine\'s bad temper
+called for a visit by one of the MIT men, Larry Steinhardt, who had to
+simplify the device to achieve reliability.76
+
+\(U) The Search for the Second Comparator
+
+\(U) While struggling with the old Comparator, the young men at MIT paid
+attention to its new microfilm version. In early November 1941, the
+MIT-NDRC group was so positive about the future of a microfilm
+Comparator that Bush obtained another signifi
+
+
+
+
+
+cant grant from the NDRC.77 Then, although the NDRC was not supposed to
+be involved in production, Howard awarded a \$25,000 contract to
+National Cash Register\'s electronics laboratory. Joe Desch agreed to
+build as many as thirty copies of the sets of new high-speed counters
+and fast printers needed for the future microfilm Comparators.78
+
+(ID In a November 1941 meeting, it was declared that construction was
+ready to begin on the next Comparator. Expecting to see the newest
+Comparator in a few months and viewing the MIT group as a long-term
+resource, the OP-20-G analysts outlined needs for other devices. One of
+those outlines had a hidden significance. It would connect the MIT men
+to the Ultra Secret although they did not know of Britain\'s ability to
+crack the Enigma nor of the critical negotiations between OP-20-G and
+Britain over sharing intelligence secrets.
+
+\(U) Not Equal Partners in Ultra
+
+\(U) Agreements were made at the very highest levels in 1940 and 1941 for
+Britain and America to share cryptanalytic methods as well as the
+military information that came from signals intelligence. However,
+England\'s wizards did not have a mathematical solution to the Enigma!
+Without good guesses as to key words in messages and knowledge of the
+inner workings of the Enigma radio networks, Britain could, and would,
+become deaf.79
+
+naval Enigma. However, they made little progress toward what the
+Americans needed, a purely mathematical cryptanalytic solution.
+
+\(U) Although she had helped break into similar devices, was informed of
+some of the British methods, and labored for almost a year, Driscoll
+could not find the ways and means for an American Enigma solution.
+Fortunately, she was willing to ask for help. During the November 1941
+meeting between MIT and OP-20-G, she described her needs, and Howard was
+asked to think of ways to automate her \"problem.\" She was determined
+to develop a method more permanent than the ones Britain had chosen.
+Apparently, that called for a machine somewhat different from the
+Comparator. Howard accepted the responsibility, and Driscoll was happy
+with the promises by the young men from MIT.80
+
+O Agnes Meyer
+
+(C//KF.I)) Perhaps it was the fragility of the solutions that made the
+British somewhat less willing to share their secrets with the Americans.
+Whatever the reason, the Americans began to think it was necessary to
+have their own antiEnigma capability. In late 1940, OP-20-G shifted
+their one professional cryptanalyst, who had just made the first entries
+into the Japanese fleet code, to the German problems. The venerable
+Agnes Meyer Driscoll and three young navy officers began an attack on
+the frustrating German
+
+\(U) Another Machine That Wouldn\'t
+
+\(U) The cordial meeting with Howard in early November 1941 impressed
+OP-20-G\'s people. But OP-20-G and the Bureau of Ships became very
+worried and skeptical about university work when, just a few days after
+the Washington conference,81 Howard wrote the navy that experiments were
+showing the new Comparator\'s microfilm to be deforming when used in
+test
+
+
+
+
+
+assemblies. The navy must have wondered how it could have taken the MIT
+group so many years to discover its primary technological assumption was
+untenable. They may also have asked how OP-20-G\'s need for
+revolutionary cryptanalytic devices could be fulfilled if the
+responsibility continued to be left in the hands of the inexperienced
+NDRC and the young MIT students - people who failed to test underlying
+assumptions before wasting a critical year\'s work.
+
+\(U) The Revenge of Mechanics: Rounds
+
+the First
+
+\(U) While John Howard had been facing up to the failures of photo-optics
+and electronics, some practical men were creating immediate
+\"mechanical\" solutions to cryptanalytic problems. Beginning in late
+1940, the engineers in the army\'s and navy\'s cryptanalytic branches
+began to work closely with IBM and its engineers. The outcome was the
+first operational special-purpose cryptanalytic machine and the first of
+a long and important series of modifications to IBM\'s standard
+offerings.
+
+(TD//0I//REL) By spring 1941, the army had its Gee Whizzer working on
+the transposition ciphers of several nations, and the navy was about to
+receive the first of its special IBM Navy Change Machines.82
+
+(TS//SI//REL) Logs and Relays Gee Whizzer
+
+the
+
+(TS//SI//PJEL) The Gee Whizzer had been the first to arrive. In its
+initial version it did not look impressive; it was just a box containing
+relays and telephone system type rotary switches. But when it was wired
+to one of the tabulating machines, it caused amazement and pride.
+Although primitive and ugly, it worked and saved hundreds of hours of
+dreadful labor needed to penetrate an important diplomatic target. It
+proved so useful that a series of larger and more sophisticated
+
+\"Whizzers\" was constructed during the war. The last of the four
+versions had an electronic matrix and was in operation throughout the
+decade. The navy admired the Whizzer so much that it built its own
+version, the Jeep.83
+
+(T0//3I//REL) The Gee Whizzer was born because of a specific problem
+that arose in early 1941. It was the Japanese diplomatic service that
+had caused the SIS group to search for a new type oftechnological
+solution. When the Japanese made one of their diplomatic
+\"transposition\" systems much more difficult to solve through hand
+anagramming (reshuffling columns of code until they made \"sense\"), the
+American army did not have the manpower needed to apply the traditional
+hand tests.
+
+(Tfl//3I//REL) Friedman\'s response was to try to find a way to further
+automate what had become a standard approach to mechanically testing for
+meaningful decipherments. His search did not include electronics.
+Rather, he told Leo Rosen to find quick ways to extend the power of
+
+::: {style="width: 40.29792238337907%;"}
+:::
+
+(TS//SI) Gee Whizzer
+
+Page SO
+
+
+
+TOP OCCRnV/COMINTOREL TO USA, AU8, CAM, OBR ANP WZU/XI
+
+the IBM machines that were beginning to arrive at his offices in greater
+numbers. Rosen\'s first task was to learn how automatic anagramming
+worked.
+
+(TS//SI//RFI1) One of the most traditional ways of hiding the plain
+language or even the codes in a message was to transpose the columns of
+the text. With columns moved around in a random way, it was very
+difficult for those who might intercept a message to realign the text to
+its original order. The old hand attack had been to move one column
+after another against each other with an analyst making continuous
+judgments as to whether the new alignments were building towards a
+meaningful plain language arrangement. That was a tedious and
+time-consuming process.
+
+(T9//SI//PFI) During the 1930s the SIS had made some progress towards
+easing the analysts\' burdens. Statistical studies of various languages
+had been made and a system of weights had been calculated. Turned into
+\"logs\"(logarithms) so that addition rather than multiplication could
+be used to build scores for combinations of letters, log weights were
+assigned to each letter in a transposed message. As each of the columns
+was rearranged, the weights were summed and an evaluation was made as to
+whether the sum approached that expected for a column of plaintext. If
+the logarithms of the statistically expected frequencies of the
+combinations were high, it indicated that the correct order of the text
+columns had been found. The results were double-checked by an analyst to
+see if the realigned columns made plain-language sense.
+
+(TS//ST//FFL) The log weight method had been implemented on the
+tabulating machines, but the process entailed much special cardpunching
+and many runs of the cards to align all the columns. Worse, the
+tabulator method did not include an automatic test for plain-language
+\"build-up.\" That meant that bad column sequences might be run for too
+long and, worse,
+
+all results were printed out. All of those usually worthless printouts
+had to be examined by an analyst.
+
+\(U) The method worked, but it was very, very labor intensive even with
+the use of tabulators. It took too much time to feed the round after
+round of cards that were required to test all columns of a transposed
+message against all others.
+
+(T0//0I//REL) Rosen and the IBM consultants realized that not much could
+be done about the cards; there was no other viable memory medium. But it
+was thought that it might be possible to eliminate all but significant
+results from being printed. Rosen and his men, with the permission and
+help of IBM, turned the idea into the first and very simple Gee Whizzer.
+The Whizzer\'s two six-point, twenty-five-position rotary switches
+signalled the tabulator when the old log values that were not
+approaching a criterion value should be dropped from its counters. Then
+they instructed the tabulator to start building up a new plain-language
+indicator value.
+
+(TS//SI//REL) Simple, inexpensive, and quickly implemented, the Gee
+Whizzer reinforced the belief among the cryptoengineers in Washington
+that practical and evolutionary changes were the ones that should be
+given support.
+
+\(U) The Navy Gets Some Changes
+
+(U//POUO) OP-20-G\'s enlisted grade intra use engineers felt the same
+way and argued for the help they needed to turn their imaginative ideas
+for true cryptanalytic machines into hardware. Their requests reached
+the office of the Director of Naval Communications and in mid1941
+Captain Redmond informed them that he had used his personal influence to
+get IBM\'s Tom Watson to agree to help the navy.
+
+(U//FOUO) An IBM executive immediately came to Washington, listened to
+the ideas of Pete
+
+TOP GCORETOOOMlHTf/nCL TO UCA, AtiS, CAM, GOR AMD H2U/X1
+
+
+
+IUH S&UKblJ/lUIVIINUIKbL I\'O USA, AUS, CAW, QBR diiJ NZL//XI
+
+Deffert and Lou Holland, and gave his blessing to their hopes for
+advances more radical than just attaching relay boxes to standard
+machines. An IBM engineer was soon assigned to duty at \"G,\" and he
+began to refine the navy engineers\' suggestions and to forward them to
+IBM\'s designers.
+
+(TS//SI//REL) Within a few months the first Naval Change (NC) was up and
+running. The NC1 automatically sensed the beginning of a series of cards
+and then punched an increasing serial number in each successive card.
+IBM delivered a more complex machine just a few weeks later. The new
+automatic cross-footer also worked from the day it was installed. It
+provided a high-speed means of decrypting additive cipher systems, such
+as those used by the Japanese Navy.
+
+\(U) The NC series was continued throughout the war. The thirteen
+different machines became progressively more complex, but each worked,
+and none were burdens to the maintenance engineers at MG.\" 84
+
+\(U) The Greatest Kludge of.All, But It Worked
+
+(0//GT//REL) The navy\'s enlisted men were involved in something more
+ambitious: the construction of the mechanical contraption that worked,
+the M4. The Washington Code and Signal Section\'s electricians and
+machinists put fifty wheels, each having thirty contacts and ten
+stepping notches, together with ten banks of lights and a set of hand
+cranks, to provide an automatic way to identify what additives had been
+used in Japanese messages. The machine exploited a weakness in Japanese
+systems -all the code groups had to be divisible by three.
+
+(S//SI//RBL) To find a likely additive, ten code groups were set on the
+machine; then the additive was entered with the cranks, and finally the
+machine was ordered to find out how many of the resulting deciphered
+code groups were divisi
+
+ble by three. The lights told the operator which groups were \"over,\"
+\"under,\" or \"divisible.\" m
+
+\(U) Trying to Save Bush\'s Reputation
+
+\(U) John Howard was probably not told of the triumphs of the practical
+navy engineers and the old technologies, but he knew that he had to do
+something to save Bush\'s dream. He came up with a very rudimentary
+substitute for the film comparator.
+
+\(U) He advised the bureau that photographic plates could be substituted
+for microfilm.86 Although very pessimistic, Howard did not give upon the
+Comparator entirely. But the new Comparator project seemed to be another
+very embarrassing disaster. The bureau certainly was unhappy, and the
+navy\'s cryptanalysts thought they might be left out of the electronics
+revolution.
+
+\(U) Bush was upset that his plans for electronic cryptanalysis were in
+trouble. There was almost nothing to show for a decade\'s work. And John
+Howard\'s bad news could not have come at a worse time for the navy. He
+made his confession about the microfilm Comparator just as the American
+intelligence agencies were frantically searching for the final clues to
+where Japan would attack. In a few weeks OP-20-G had to face the
+consequences of the failure to predict Pearl Harbor. But a combination
+of factors gave Bush\'s young men yet another chance. The ability of
+Howard to continue on independently (because he had a year\'s NDRC
+funding remaining) was important, but a more significant reason was the
+combination of the return of Joseph Wenger and the political influence
+of Vannevar Bush.
+
+\(U) Yet Another Chance
+
+\(U) Wenger returned from sea duty in the summer of 1941. Although
+assigned toOP-20\'s war plans section,87 he contacted the cryptanalysts
+and Bush about the outcome of the year of
+
+
+
+
+
+NDRC work. After hearing of the situation, and despite Howard\'s bad
+news, Wenger talked with his contacts at OP-20-G and pleaded for a
+continuation of the relationship with MIT.88 His urging and the navy\'s
+dread of alienating the head of the NDRC, Vannevar Bush, allowed Safford
+to begin a program that would be vastly expanded when Wenger was sent
+back to OP-20-G in early 1942.
+
+\(U) When the Ciphers Can\'t Be Broken
+
+\(U) Wenger\'s influence at OP-20-G was the result of his long
+involvement in modernizing naval communications. He had a reputation as
+an expert in all communications fields. He was America\'s leading
+advocate of a high-tech alternative to cryptanalysis. In the 1930s,
+Wenger predicted that unless massive breakthroughs were made in
+cryptanalysis, such as the construction of a full range of Rapid
+Machines, it would be foolish to rely upon direct communications
+intelligence such as codebreaking. Until America built a truly
+innovative mathematical cryptanalytic capability, he argued, other
+signals intelligence resources had to be exploited. Wenger argued that
+codes and ciphers were becoming too complex to crack with available
+techniques, and, as important, an enemy\'s frequent changes of systems
+would always create blackouts at the most critical moments.89
+
+\(U) Wenger had become America\'s advocate for what became known as
+\"traffic analysis.\" He had spent years studying and developing T/A In
+traffic analysis, the concern was not with the content of messages but
+with the easily identified callsigns of senders and receivers, the
+timing and numbers of messages in a network, and the shifts in patterns
+of transmissions. 9° Although not as glamorous or exciting as
+cryptanalysis, traffic analysis was not a low-tech activity.
+
+\(U) Many aspects of T/A called for more esoteric and expensive hardware
+than traditional codebreaking. The method depended upon sophisticated
+direction finders to locate enemy
+
+stations and on other expensive radio equipment.91 It was also very
+demanding in terms of personnel and data processing equipment.
+
+\(U) The first step for T/A was the ability to intercept enough messages.
+Revolutionary automatic scanners searched for active channels,
+oscilloscopes helped identify stations and operators, and very sensitive
+receivers plotted transmissions.92 The hardware was not the end of it,
+however. Optimal radio interception and plotting called for advice from
+physicists; the exploitation of the intercepts needed advanced
+statistical-analytical techniques. The intercepts and location estimates
+had to be correlated and subjected to time-consuming analysis. The
+tabulators were frequently called upon to compile the necessary
+interaction matrices. The expense and manpower T/A needed seemed
+worthwhile. Wenger\'s reconstruction of Japanese naval maneuvers from
+T/A analysis during the mid-1930s was a triumph.
+
+\(U) By 1940 OP-20-G\'s intercept crews were logging thousands of
+messages a month from the Pacific and the Atlantic, and the method was
+considered essential. The SIS had also begun to appreciate T/A and sent
+its top men to the Canal Zone and Hawaii to establish intercept and
+processing sites. Those investments were inescapable. With America and
+Britain unable to read the most important German systems, T/A was the
+only hope in the West.93
+
+\(U) T/A had its limits, however. It could not reveal long-term plans; it
+gave just a picture of immediate intentions. It had other imperfections
+as well. The most important was a dependency on very frequent
+communications. If a station did not broadcast, it could not be
+identified and located. Tragically, in 1942 T/A was unable to deal with
+the German submarine onslaught because the submarines off the American
+coast followed a routine of radio silence.
+
+
+
+
+
+\(V) Wenger to the Rescue
+
+\(U) Joseph Wenger\'s influence atOP-20-G was not diminished by the
+failure of T/A to live up to its promise. In 1942 he was granted the
+power he needed to implement his plan for a centralized organization for
+naval communications intelligence. Wenger\'s ideas were quickly
+accepted.94 Along with the approval of his plan came his appointment as
+the operating head of\"G.\" In February 1942 he began to reorganize
+\"G\" and to revive Hooper\'s dream of bringing science and
+cryptanalysis together.
+
+\(U) But those were difficult times for Wenger. In early 1942 the U-boats
+began to slaughter dozens of freighters insight of the American coast.
+The U-boat threat to the Atlantic convoys was growing so fast that a
+continuation of the sinkings threatened Britain\'s survival. Britain was
+unable to penetrate the new naval four-wheel Enigma, and OP-20-G
+remained without any power over German systems.
+
+\(U) Mathematics to Meet the Great Challenge
+
+\(U) The Atlantic crisis had a strange impact on OP-20-G\'s future. It
+both helped and hindered Wenger\'s crusade for the Rapid Machines. In
+its first phases, the crisis aided him. As part of his outline for the
+expansion of OP-20-G, Wenger had planned for the creation of a special
+research group. Its mission was to apply formal mathematics to
+cryptanalysis. OP-20-G had never before had a professionally trained
+mathematical team. In February 1942 Wenger brought together the few
+professional mathematicians who had already been called to service and
+had them join the T section. Of significance for World War II and the
+history of the Rapid Machines, they were handed more than mathematical
+responsibilities. They were ordered to take on some technical radio
+problems. In addition, they were given some of the responsibility for
+the critical German systems.
+
+\(U) Next, the \"M\" section was handed Wenger\'s pet, the Rapid Machines
+project. Luckily, Wenger found the right man, Howard Engstrom, to direct
+the third major attempt to make optics and electronics into
+cryptanalytic tools. When first called for the war crisis, Engstrom was
+asked to give advanced technical advice to OP-20-G\'s radio intercept
+and direction finding group.95 That T/A assignment was a very important
+and demanding post. But heading \"M\" turned out to be much more of a
+challenge. The new job called for political as well as technical skills.
+By spring 1942 the Rapid Machines had again become political creatures.
+
+\(U) The apparent failure of Howard\'s 1941 microfilm Comparator had not
+ended his work or the interest of OP-20 in cryptanalytic machinery. But
+it did reopen the old battles over control of innovation in the navy.
+
+\(U) Bureaucracy vs. Science, Again
+
+\(U) Pearl Harbor, despite the blame hurled at the army and navy
+intelligence agencies, led to the release of funds and energies for
+cryptanalysis. For the first time in its history, OP-20-G had enough
+money to pursue technological dreams. In response, in early 1942,
+Safford, still the head of OP-20-G, initiated a survey of needs and
+wrote out a wish list that included Rapid Machines. There was enough
+money to explore all options. The first choice of the operating
+cryptanalysts was IBM electromechanical machinery. They asked for more
+standard equipment and for the development of a host of special
+attachments. Safford, not yet having an \"M\" section, and very short of
+personnel, turned to the Bureau of Ships for technical and
+administrative help.
+
+\(U) He found it easy to convince the bureau to deal with the trustworthy
+IBM. Very soon, the Bureau of Ships established what it saw as a
+harmonious three-way relationship between IBM, the old hands at\"G,\"
+and itself.
+
+
+
+
+
+\(U) In the first weeks of 1942 the bureau decided to allow OP-20-G to
+invest navy funds in an exploration of Rapid Machines, but it demanded a
+heavy price, one which included a radical change in the relationship
+between MITs men and the navy. The bureau\'s men, not those from
+OP-20-G, were to run the technical and financial parts of the program.
+Above all, the bureau wanted the projects out of the halls of MIT. Its
+officers demanded that all work be done by established corporations that
+followed the navy\'s standard procedures. But in early 1942 it began to
+take charge of the NDRC project, giving, it thought, badly needed
+managerial direction.
+
+\(U) Meanwhile, the bureau explored ways to decrease its dependency on
+Bush\'s group. Then the bureau decided to show its power. It took the
+Comparator away from Bush and MIT. In March 1942 Bush\'s structure for
+linking the military and academia, at least for cryptanalytic machines,
+began to be dismantled. The work at MIT, perhaps with the exception of
+the designing of a punch, was ended, and the secret workshop was shut
+down!
+
+\(U) A Seeming Victory for Science
+
+\(U) As soon as Wenger had returned to \"G\" and learned of the bureau\'s
+actions, he feared that the corporate projects would produce machines
+the cryptanalysts could not use. Wenger began an attempt to shift power
+back to OP-20-G. A search was begun for experienced engineers to augment
+the \"M\" group. By the end of 1942 OP-20-G had some of the leading men
+in computer electronics. Through formal and informal means, the name
+\"M\" came to mean machinery as well as mathematics.96
+
+\(U) Wenger convinced the bureau to give OP20-G\'s Rapid Machine program
+near autonomy as well as its own facility and workforce. But it took a
+major intelligence crisis to achieve that. Wenger would not have been so
+successful and there would not have been a Naval Computing
+
+Machine Laboratory at the NCR factory in Dayton, Ohio, if the British
+had been able to conquer the German submarine Enigma system or if the
+White House had insisted that OP-20-G remain dependent on Britain\'s
+Ultra.
+
+\(U) The establishment of the Naval Computing Machine Laboratory and the
+increased power of the Rapid Machine group did help OP-20-G to build a
+series of innovative cryptanalytic machines, including the American
+version of the Bombe. By the end of the war, the American navy had some
+of the world\'s most advanced electronic machines.
+
+\(U) Notes
+
+1\. (U) A recent study of the messages intercepted by the Americans in
+1941 concludes that if there had been the manpower to decode all the
+messages it would have been clear that Pearl Harbor was a target.
+Frederick D. Parker, \"The Unsolved Messages of Pearl Harbor,\"
+Cryptologia 13(1991): 295.
+
+2\. (U) Library of Congress, Papers of Stanford Caldwell Hooper: March
+3,1933 to January 1,1935, Correspondence with Redman and Jewett:
+\"Contact scientists\"; June 1,1934, \"Binaural Sons of C\"; October 20,
+1935, \"Travel to Laboratories\"; Box 18, Hooper to Secret Naval Board,
+\"Communications Plan,\" February 7,1936; June 10, 1935, \"McDowell,
+Contact scientists\"; and November 20, 1935, \"Travel to Boston.\" Navy
+Biographies Section OI-140, 27 April 1945, \"Rear Admiral Stanford C.
+Hooper, U.S. Navy, Deceased.\" NARA RG457, SRH-355, \"Naval Security
+Group History to World War II,\" 269.
+
+3-(U) Note that Hooper\'s plan came almost a decade before the British
+began their now famous project atBletchley Park to develop automata for
+cryptanalysis. For an example of the results of his efforts to modernize
+OP-20-G, NARA RG457, SRMN083, \"Military Study of Secret Radio Calls,\"
+January 8, 1938, by Joseph N. Wenger.
+
+4\. (U) The navy did not include signals intelligence in its formal war
+plans until 1937. NARA RG457, SRMN-084, \"The Evolution of the Navy\'s
+Cryptologic Organization,\" 3. On the attacks against military and
+
+
+
+
+
+diplomatic codes in the early 1930s, NARA RG457, SRH-159, \"Preliminary
+Historical Report of the Solution ofthe \'B\' Machine,\" 12. RG457,
+SRH-355, \"Naval Security Group History to World War II,\" 82, NARA
+RG457, SRH-305, The Undeclared War; The History of RI,\" 15 November
+1943, byLaurance F. Safford, Captain, U. S. Navy.
+
+5\. (U) See Harold G.Bowen, Shy)s, Machinery and Mossbacks; The
+Autobiography of a Naval Engineer (Princeton: Princeton University
+Press, 1954), on the battle over high-pressure steam and formation of
+combined bureau in 1939. NARA RG457, SRMN-084, \'The Evolution ofthe
+Navy\'s Cryptologic Organization,\" 3. A very useful survey is David
+Kahn, \"Roosevelt, Magic and Ultra,\" Cryptologia 16 (1992): 289-319.
+
+6\. (U) Library of Congress, Papers of Stanford Caldwell Hooper: June 10,
+1935, \"McDowell, Contact scientists\"; November 20, 1935, \"Travel to
+Boston\"; Box 18, \"Johns Hopkins Atomic Energy,\" November 3, 1937; and
+March 3,1933 to January 1,1935, Correspondence with Redman, Jewett,
+\"Contact scientists.\" NARA RG457, SRH-355, \"Naval Security Group
+History to World War II,\" 268-269.
+
+\%(U) NARA RG457, SRH-355, \"Naval SecurityGroup History to World War
+II,\" 269, \"Hooper to Wenger\" November 1935,270. January 2,1936,
+\"Bush Report.\" Office of Naval Research, Bush Comparator Patent file,
+\#2,873,912.
+
+8.(U) A thorough search ofthe OP-20-G archives and the holdings ofthe
+NRL and, by implication, those ofthe Bureau of Ships, did not lead to
+the recovery of a copy of the original outline or Bush\'s first sketches
+of the Comparator. tSi,However, citations to the Bush documents were
+located on the old catalog cards ofthe NSA Technical Library. NSA, CCH,
+Card Catalog for Technical Library; Correspondence File: Bush Comparator
+1936-38; Early Comparator Design Proposals: Bush Comparator 1936-37;
+Machine Proposals and Miscellaneous Material: Bush Comparator,
+1936-1938; Navy Correspondence File and Historical Summary Bush
+Comparator, 1936-45; Six Project Reports: Bush Comparator, 1937-8; Bush
+Comparator Drawing \#1-87 and Index, 1937; Summary of Materials on
+Symmetrical Sequences: Bush Comparator; Bush Comparator Drawings \#88
+
+153, 1937. f\[3005\]- (U) NSA CCH Series XII Z, \"Memoranda on SIS,
+Formation of Cryptanalytic Group\" from CCH Series XIK, Box 13, circa
+1929
+
+1939.
+
+9.(U) NSA RAM File, January 28, 1936, DNC to Bureau of Ships, \"Support
+Bush proposals,\" and July 21, 1936, Bureau of Engineering toOP-20-G,
+\"BuEng refuses Bush.\" NARA RG457, SRH-355, \"Naval Security Group
+History to World War II,\" 269.
+
+10\. (U) There is some indication the Bureau\'s men eventually outlined
+their solution, but no documents have been released. In the absence of
+any specifics, one can only guess at their alternative. Wenger remarked
+that the Bureau never really understood what he wanted. NARA RG457,
+SRH-355, \"Naval Security Group History to World War II,\" 269.
+
+11\. (U) Susan M. Lujan, \"Agnes Meyer Driscoll,\" Cryptologia 5 (1991):
+47. James Rusbridger and Eric Nave, Betrayal at Pearl Harbor (New York:
+Summit Books, 1991). Cipher A. Deavours, and Louis Knih, Machine
+Cryptography and Modem Cryptanalysis (Dedham, Mass.: Artech House,
+1985), 218. NARA RG457, SRH-355, \"Naval Security Group History to World
+War II,\" 161, 247. The Holtwick M-i machine was in operation by
+mid-1937, perhaps earlier.
+
+12\. (U) Jeff Wenger interview with W. S. MacDonald, March 1991.
+
+13\. (U) Interviews with Waldron S. MacDonald. NARA RG457, SRH-355,
+\"Naval Security Group History to World War II,\" 404.
+
+14\. (U) Hagley Museum and library, Accession 1825, Honeywell
+vSperry-Rand .Trial Records, Carton 67, William Radford, \"Report on An
+Investigation ofthe Practicality of Developing a Rapid Computing
+Machine,\" October 15, 1939, Appendix III, List of Numbered References.
+Hagley Museum and Library, Accession 1825, Honeywell v Sperry-Rand ,
+Trial Records, NCR Depositions, Bush to Deeds \"Analyzing Equipment,\"
+May 19, 1938. Radford had been one ofthe \"boys\" at MIT who survived on
+the 1930s version of \"soft money\" being a research assistant there
+from 1932 to 1939. Caldwell put him to work on the Rapid Arithmetical
+problem in early 1937. and he produced his report on \"The Practicality
+of Developing a Rapid Calculating Machine,\" October 15, 1939.
+Rockefeller Archives, Papers of Warren Weaver,
+
+
+
+
+
+January 16, 1946, letter, S.H. Caldwell to Weaver, \"Center of
+Analysis,\" 4.
+
+15\. (U) The machine did not have a name until some years later. Who
+borrowed the name Comparator from the nineteenth century MIT device
+remains unknown.
+
+16\. (U) NARA RG457, SRH-355, \"Naval Security Group History to World War
+II,\" 208, 247
+
+17\. (U) NSA RAM File, OP-20-G to Bureau of Engineering, \"Plugboards for
+Reproducing Punch,\" July 7,1936. NSA, Lou Holland, \"Development of
+Machine Processing in the Naval Security Group,\" 9. Holtvvick had
+created several small mechanical machines that cost less than \$300 each
+for Japanese problems. The Bureau helped build them. NARA RG457,
+SRH-355, \"Naval Security Group History to World War II,\" 210, 257,
+261.
+
+18\. (U) The patent claim was filed on April 22, 1937. William F.
+Friedman and Vernon E. Whitman, Electric Control System for Tabulating
+Cards, Documents and the like, U.S. Patent 2,224,646, December 10,1940.
+
+19\. (U) NARA RG457, SRH-274, \"Military Cryptanalysis.\" NARA SRH-004,
+\"The Friedman Lectures on Cryptology.\"
+
+20\. (U) David Kahn, Sewing the Enigma, (Boston: Houghton-Mifflin, 1991),
+87, and Cipher A. Deavours, \"The Black Chamber: A Column: LaMethode Des
+Baton,\" Cryptologia, 4 (1980): 240-247. There are reports that the
+Americans, including the Coast Guard group charged with attacking the
+ciphers of the rumrunners, were able to break into the simple commercial
+version of the Enigma during the 1920s. Malcolm F. Willoughby, Rum War
+at Sea,(Washington: GPO, 1964).
+
+21\. (U) David Kahn, Seizing the Enigma, (Boston: Houghton-Mifflin,
+1991), 141.
+
+22\. (U) W. S. MacDonald Interviews.
+
+23\. (U) Letter to author from MIT registrar\'s office. In his first
+interview, MacDonald stated that he went to MIT in June 1937. But in his
+second interview he cited September as the month he began his duties. I
+have accepted the second date because it makes more sense in light of
+the previous pace of the work and MacDonald\'s desire to also enroll in
+the graduate program in the department.
+
+24\. (U) Paul F. Ceruzzi, Reckoners: The Prehistory of the Digital
+Computer (Westport, Conn.: Greenwood Press, 1983)
+
+25\. (U) Michael R.Williams, A History of Computing Technology (Englewood
+Cliffs, N.J.: Prentice-Hall, 1985). Nancy Stern, From ENIAC to UNIVAC:
+An Appraisal of The Eckert-Mauchly Computers (Bedford, Mass.: Digital
+Press, 1981).
+
+26\. (U) Because the Comparator read ten data columns at a time, more
+sophisticated IC tests could be done at the same rate as single letter
+tallying. Bush and Wenger may not have realized the potentials of the
+modified tabulators. The Comparator had five counters as did tabulators.
+Thus, several fields could be processed in parallel. The navy may not
+have analyzed all the (n\*(n-i)) combinations, but may have been
+satisfied with only a portion of the possible offsets of the messages.
+
+27\. (U) In some systems, messages were much, much longer. Thinking their
+Fish system was beyond attack, the Germans sent very lengthy reports on
+it. F. H.Hinsley etal., British Intelligence in the Second World War
+Vol. Ill, 1 (London: Her Majesty\'s Stationery Office, 1984), Appendix
+2,477.
+
+28\. (U) Bush gave about one second for each line of printing. This time
+was estimated via the description in the NSA RAM File, \"MAC, Outlines
+\# 17, 70mm Comparator,\" and my knowledge of the 1938 Comparator.
+
+29\. (U) Table 7.1 shows the power ofvarious devices, including the
+Comparator (run at various projected speeds) relative to tabulators
+operating at their typical 120 comparisons a minute. A cell entry in the
+table gives the worth of the alternative machine in terms of the
+hypothetical raw power of the number of tabulators. Thus, a sorter
+running at full speed was worth three tabulators while the speed of a
+typical teletype system of the era was five times greater than the
+tabulators.
+
+30\. (U) On tape speeds and densities, Hagley Museum and Library,
+Accession 2015, RemingtonRand, ERA materials, S. Ruebens,
+\"Investigation of Solid Acoustic Delay Lines,\" Contract Nobs 28476,
+August 1,1947, 1. The Colossus read at 5,000 characters a second. Brian
+Randell (ed.), The Origins of Digital Computers: Selected Papers (New
+York:
+
+I\'UH bbUKbltitUMINDlKbL TO USA, AU3, CAM, ODR AND NHL//X1
+
+
+
+
+Springer-Verlag, 1982), 349. It is not certain that this means that
+5,000 serial characters passed the reading head of its tape scanner. The
+Robinsons, the British versions of the tape-optical machines (but ones
+for binary comparisons), read at 2,000 a second. Tape readers used by
+the navy in WWII ran at about ten characters a second. The 1948 figure
+is in Samuel S. Snyder, \"Abner: The ASA Computer, Part I: Design,\" NSA
+Technical Journal 25 (1980), 59,
+
+31\. (U) Avery important spinoff of the navy Comparator was a 1938
+project at NCR. Desch used 35mm film with punched holes on an optical
+comparing device for a utilities billing machine. Hagley Museum and
+library, Accession 1825, Honeywell v Sperry-Rand Trial Records, August
+16,1938, Desch to Williams, \"Laboratory work\" and August 30, 1939,
+Desch to Williams \"Work at Laboratory.\"
+
+32\. (U) Bernard Williams, \"Computing With Electricity, 1935-1945,\"
+(Ph.D. Thesis, University of Kansas, 1984). Final OSRD Report, Div. 17,
+George E. Beggs Jr. and F. L. Yust, \"Development and Application of
+Electronic Counting Circuits,\" 1946, especially Chapter 9.
+
+33\. (U) Several late 1930s projects at MIT explored magnetic memory and
+many variations of storage based on electrical charges. See Hagley
+Museum and Library, Accession 1825, Honeywell v Sperry-Rand Trial
+Records, Carton 67, William Radford \"Report on An Investigation of the
+Practicality of Developing a Rapid Computing Machine, October 15,1939.\"
+
+34\. (U) William Aspray (ed.), Computers Before Computing (Ames, la.:
+Iowa State University Press, 1990).
+
+35\. (U) Michael K. Buckland, \"Emanuel Goldberg, Electronic Document
+Retrieval, and Vannevar Bush\'s Memex,\" JASIS 43 (1992): 284. On the
+1937 and 1940 patents and their history, Hagley Museum and Library,
+Accession 2015, unprocessed ERA materials from Sperry Archive, November
+1,1949, Memo to File, Selector Infringement Search, and Accession 1825,
+Honeywell v Sperry-Rand Trial Records, August 13, 1937, Bush to Deeds,
+and October 25, 1937, Research Corporation to Deeds.
+
+36\. (U) NSA RAM File, OP-20-G to Bureau of Engineering, \"Rapid
+Equipment,\" March 29,1938.
+
+37\. (U) A density often or eleven per inch was assumed as indicated by
+the description of the later army version of 1944 which reached twelve
+and onehalf per inch with an average over the entire tape of six and
+one-quarter per inch. On the cost of the Eastman tape, NARA RG457,
+SRH-355, \"Naval Security Group History to World War II,\" 276, and NSA
+RAM File, CNO to Bureau of Engineering, April 29,1938.
+
+38\. (U) In later models of the Comparator, the stepping could be from
+one to ten characters after each pass. NSA RAM File, \"MAC. Outlines
+\#17, 70mm Comparator,\" April, 1947.
+
+39\. (U) Howard Aiken\'s early computer, the ASCC, used a tape rig
+similar to the one chosen for the Comparator. During World War II the
+Americans and the British also used a pulley and loop system for the
+follow-ons to the Comparators, indicating that it was a sound method.
+Michael R. Williams, A History of Computing Technology (Englewood
+Cliffs, N.J.: Prentice-Hall, 1985), 245. Brian Randell, \"Colossus:
+Grandfather of the Computer,\" in B. Randell (ed.), The Origins of
+Digital Computers (New York: SpringerVerlag, 1982), 350.
+
+40\. (U) Interviews with W. S. MacDonald.
+
+41\. (U) Paul F. Ceruzzi, Reckoners: The Prehistory of the Digital
+Computer (Westport, Conn.: Greenwood Press, 1983). Charles S. Bashe,
+etal, IBM\'s Early Computers (Cambridge, Mass.: MIT Press, 1985), 36
+
+39
+
+42\. (U) Waldron MacDonald claimed he had to rework all the circuits and
+that binary switching speeds did not exceed 5,000 per second. MacDonald
+interviews, 1987-1991.
+
+43\. (U) The navy\'s later Letterwriters and its Copperheads used a
+modified baudot coding. NSA RAM File: \"Machine Comparisons,\" June
+1946; Communications Intelligence Technical Paper 42, \"Copperhead I
+Theory and Copperhead I Equipment\"; and Communications Intelligence
+Paper 41, \"Copperhead I Punch and Copperhead I Scanner.\"
+
+44\. (U) NSA RAM File, July 18, 1938, Safford to Bush, \"Machinery
+Arrived.\"
+
+45\. (U) NSA RAM File, Wenger Report, \"Bush Visit\" April 25, 1938.
+Waldron S. MacDonald interviews. NARA RG457, SRH-355, \"Naval Security
+Group History to World War II,\" 299.
+
+
+
+
+IUH SfcCKETOCOMINT/mCL TO USA, AU3, OAN, ODR AND N2U/X1
+
+46\. (U) Interviews with Waldron S. MacDonald,
+
+1987-1991.
+
+47\. (U) Library of Congress, Papers ofVannevar Bush, Box 67, MacDonald
+to Bush, July 25,1939. And interviews with MacDonald.
+
+48\. (U) Office of Research and Inventions patent application sheet of
+10-29-46 lists April 1938 as the time of the first successful witnessed
+run. ONR, patent file for Bush Comparator, \#2,873,912.
+
+49\. (U) NARA RG457\> SRH-355, \"Naval SecurityGroup History to World War
+II,\" 272, 276. NSA RAM File, OF-20-G to Bureau of Engineering. \"Rapid
+Equipment,\" April 29, 1938, and May 17, 1938, \"Comparator Equipment.\"
+
+50\. (U) NARA RG457, SRH-151, \"Military Study: Communication
+Intelligence Research Activities,\" 022, indicates that the first Bush
+machine was paid for out of a special fiscal 1938 allocation. The
+proposed budget for 1939 contained a request for a similar amount, but
+it may have been for a \"payback\" for the first expenditure.
+
+51\. (U) NR4. RAM File, September 16, 1938, OP20-G Bureau of Ships,
+\"Budget Request\"
+
+52\. (U) The exact amounts spent and budgeted for the Comparator in 1938
+and 1939 remain unknown. NARA RG457, SRH-355, \"Naval Security Group
+History to World War II,\" 276, 240. The budget request for fiscal 1939
+included items for building new machines and new components such as a
+rapid \"locator.\" This may have been a means of locating code groups, a
+function later embodied in the machines designed by Lawrence Steinhardt,
+or it may have been an automation of the methods of overlay sheets to
+determine code-wheel orders and setting as used by Mrs. Driscoll. RAM
+File, CNO to Bureau of Engineering, September 16, 1938, \"Development of
+Special Communications Devices.\"
+
+53\. (U) The machine arrived at the Navy Yard on June 24. It had been
+badly jostled on the trip and refused to run. NSA RAM File, July
+18,1938, OP-20-G to Bush \"Machine Has Arrived.\" It took Dulong some
+three weeks to tease the machine into its first non-MIT test run. NRL,
+Bush Comparator patent application file, October 29,1946,1.
+
+54\. (U) NSA RAM File, July 18, 1938, Safford to Bush, \"Machinery
+Arrived.\" NRL patent application file, October 29,1946,1.
+
+55\. (U) NSA RAM File, May 17,1938, \"Comparator Equipment,\" and July
+18, 1938, Safford to Bush, \"Machinery Arrived.\"
+
+56\. (U) Jack Sweetman, American Naval History (Annapolis: Naval
+Institute Press, 1984), 156.
+
+57\. (U) Jeffery M. Dorwart, Conflict of Duty: The United States Navy\'s
+Intelligence Dilemma 1919-1945 (Annapolis: Naval Institute Press, 1983),
+93, 99. NSA RAM File, OP-20-G to Bureau of Engineering, March 22,1938
+and June 24,1938, \"IBM Purchases.\" Cipher
+
+A. Deavours, and Louis Kruh, Machine Cryptography and Modern
+Cryptanalysis (Dedham, Mass.: Artech House, 1985), 212. NSA, Theodore M.
+Hannah, \"Frank
+
+B. Rowiett; A Personal Profile,\" 116. Rear Admiral Edwin T. Layton, And
+I Was There: Pearl Harbor and Midway - Breaking the Secrets (New York:
+William Morrow, 1985). NARA RG457, SRMD 019, \"The Panay Incident.\"
+
+58\. (U) NSA RAM File, May 17,1938, \"Comparator Equipment,\" and CNO to
+Bureau of Engineering, September 16, 1938, \"Development of Special
+Communications Devices.\"
+
+59\. (U) Ironically, MIT would soon provide the army\'s cryptanalytic
+group with an electrical engineer, Leo Rosen, who quickly became the
+leader of the group that constructed a model of Purple and that became
+the electronics research group in the SIS. NSA, Theodore M.Hannah,
+\"Frank B. Rowiett: A Personal Profile,\" 18.
+
+60\. (U) NSA RAM FUe, Safford to Bush, December 10,1938, \"Fine Job on
+Comparator.\"
+
+61\. (U) NARA RG457, SRH-355. \"Naval Security Group History to World War
+II,\" 300.
+
+62\. (U) NSA RAM File, OP-20-G, \"List of statistical machinery,\"
+December 1,1939.
+
+63\. (U) Library of Congress, Papers ofVannevar Bush, Box 67, MacDonald
+File, Bush to MacDonald \"OP-20-G Project,\" August 31, 1940. NARA
+RG457, SRH-355, \"Naval Security Group History to World War II,\" 270,
+405.
+
+64\. (U) Daniel J. Kevies , The Physicists: The History of the Scientific
+Community in Modern America (New York: Knopf, 1978), 296.
+
+
+
+
+TOP OCOnCTOOOMINT/fnCL TO USA AUS, CAM, fiRP mri N7I HY1
+
+65\. (U) Ronald W. Clark, Timrd (Cambridge: MIT Press, 1965).
+
+66\. (U) Charles S.Bashe, etal., IBM\'s Early Computers (Cambridge,
+Mass.: MIT Press, 1985), Chapter 2.
+
+67\. (U) Hagley Museum and Library, Accession 1825, Honeywell v
+Sperry-Rand, Trial Records April 16, 1942, \"Conference on fire-control
+projects.\" The ENIAC used a \"memory\" system from RCA that was quite
+like what was used on some OP-20-G and SIS machines and a counting
+circuit invented by one of RCA\'s men, Igor Grosdoff. N. Metropolis, et
+al., (ed.), A History of Computing in the Twentieth Century (New York,
+1980), 467. Hagley Museum and Library, Accession 1825, Honeywell v
+Sperry-Rand , Trial Records, May 19, 1938, September 18, 1944. \"Army
+seizes Grosdoff patent.\"
+
+68\. (U) Bernard Williams, \"Computing With Electricity, 1935-1945,\"
+(Ph.D. Thesis, University of Kansas, 1984), 317. Hagley Museum and
+Library, Accession 1825, Honeywell vSpeiry-Rand Trial Records, June
+6,1942, Weaver to participants \"Cancel fire control work.\"
+
+69\. (U) The fear of defeat was quite real. Bletchley Park had scores of
+buses at the ready to race its staff to port cities where they were to
+board fast ocean liners for the United States and Canada.
+
+70\. (U) Laurance F. Safford, \"Rhapsody in Purple,\" byDundas P.Tucker,
+Cryptologia 6(1981): 196,220. NSA Theodore M.Hannah, \"Frank B.Rowlett:
+A Personal Profile,\" 18. NSA RAM File, Part H of Report to J. N.
+Wenger, Capt. USN, \"Resume of the Dayton, Ohio Activity During World
+War II,\" (presumably a continuation of the Meade Report), 1. In
+contrast to Safford\'s interpretation and on America\'s first contact
+with British Enigma achievements, NARA RG457, SRH-361, \"History of the
+Signal Security Agency, Volume Two, The General Cryptanalytic
+Problems,\" 019-021, 272. NARA RG457, SRH-145, \"Report of the Technical
+Mission to England,\" April 11, 1941, 002004. But on how little Enigma
+ability OP-20-G had as late as the summer of 1943, NARA RG457, SRH-403,
+\"Selections from the Cryptologic Papers of Rear Admiral J. N. Wenger,
+USN,\" 072-3.
+
+71\. (U) Rear Admiral Edwin T. Layton, And I Was There: Pearl Harbor and
+Midway -Breaking the Secrets (New York: William Morrow, 1985), 78.
+
+72\. (U) NARA RG227, OSRD, Office of the Chairman, Box 1, Bush to
+Safford, October 28, 1940, \"Project Agreement.\" NSA RAM File, Safford
+to Radio Division, Bureau of Ships, November 2,1940, \"Bush Project.\"
+NARA RG457, SRH-355, \"Naval Security Group History to World War 11,\"
+404.
+
+73- (U) NSA RAM File, January 2,1942, Safford to Howard, \"Comparator
+Received 12-24,\" and January 6,1942, BuShips to CNO, \"Manual for
+Comparator.\"
+
+74\. (U) Again, this may also have been a means of automating the use of
+the sheets used to attack wheel settings.
+
+75\. (U) The punches were redesigned and remanufactured several times
+during the war. After MIT made a try in 1940-41, the Gray manufacturing
+company made a version; then NCR redid them; then new designs were drawn
+for the postwar era. NSA RAM File, Communications Intelligence Technical
+Paper42, \"Copperhead I Theory and Copperhead I Equipment.\" NSA RAM
+File, 0P-20-G to NCML-NCR, February, 1945.
+
+76\. (U) NARA RG457, SRH-355, \"Naval Security Group History to World War
+II,\" 430. On Steinhardt visit, Smithsonian Institution, History
+ofComputers Project, Interview with Howard Campaigne, 19.
+
+77\. (U) Some \$25,000 was promised to NCR in November 1940. Some of it
+may have come from the original NDRC grant, but Bush apparently secured
+an additional grant for some thirty copies of the counters although the
+NDRC was not to become involved in production. NARA Suitland, OSRD
+Contract Files, OEM 275 November 28, 1941, \"NCR-MIT counters.\" Hagley
+Museum and Library, Accession 1825, Honeywell v Sperry-Rand , Trial
+Records, December 2,1941, NDRC D3 to Desch-NCR, \"30 counter printers.\"
+
+78\. (U) Hagley Museum and Library, Accession 1825, Honeywell v
+Sperry-Rand , Trial Records, January 29, 1942, Desch to NCR \"Secret
+Work,\" and February 21,1942, Desch, \"Report to Management.\"
+
+79\. (U) Gordon Welchman, The Hut Six Story: Breaking the Enigma Codes
+(New York: McGraw-Hill, 1982). David Kahn, Seizing the Enigma (Boston:
+
+
+
+
+
+Houghton-Mifflin, 1991). The role of captures in the long-awaited break
+into Japanese army systems is discussed in the very impressive Edward J.
+Drea, MacArthur\'s Ultra (University of Kansas Press, 1992).
+
+80\. (U) On the state of American readiness and some hints about the
+roles of Mrs. Driscoll and the team at SIS, compare James Rusbridger and
+Eric Nave, Betrayal at Pearl Harbor (New York: Summit Books, 1991), and
+the more scholarly Edward J. Drea, MacArthur\'s Ultra (University of
+Kansas Press, 1992). NARA RG457, SRH-355, \"Naval Security Group History
+to World War II,\" 440, 442. NSA RAM File, OP-20-G toOP-20-A, \"Meeting
+with Dr. Howard,\" November 5,1941. However, Howard was told that the
+Driscoll problem was not of high priority. NSA RAM File, BuShips to
+Howard, November 11,1941.
+
+81\. (U) NSA RAM File, November 3 and 5,1941, Howard OP-20-G Reports on
+Meetings, and November 14,1941, Bureau of Ships to Howard.
+
+82\. (TS//SI) MAC. Outlines \#1, April 1947, Electroanagrammer (\"Gee
+Whizzer\"), stored inCCH Series XII Z. Leroy Wheatley, \"Brief
+Description of Analytic Equipment, Fourth Installment,\" 20 September
+1954, \"NC MACHINES,\" stored inCCH Series XII Z.
+
+83\. (TS//SI//REL) Samuel S.Snyder, \"Famous First Facts: Part I:
+Pre-Computer Machine Cryptanalysis,\" unpublished, stored in CCH Series
+XII Z. \"Gee Whizzer,\" circa 1947, stored in CCH Series XII Z.
+
+84\. (U) S.Snyder Interview with Lou Holland, circa February 2,1972,
+stored in CCH XIK, Box \#10, Famous First Fact folder. Wheatley, \"Brief
+Description of Analytic Machines, Fourth Edition,\" 20 September 1954,
+\"NC Machines.\"
+
+85\. (U) NSA S 337/348 \"Additive MachinesHistorical Summary Of,\" Stored
+in CCH Series XII Z. The first M4was operational at the end of 1941. It
+worked well for a time, but had to be replaced.
+
+86\. (U) Photographic plates for data entry had been used on the Cinema
+Integraph and were being explored for use in the Analyser and the
+electronic computer at the Institute. NSA RAM File, January 5, 1942,
+Howard toOP-20-G, \"Report: Glass Plates.\" Arnold Dumey letters to
+Brian Randell, 1975, \"deformation.\"
+
+87\. (U) NARA RG457: SRH-279, \"0P-20-G File Communications Intelligence
+Organization, 1942-46:\" SRMN-084, \"The Evolution of the Navy\'s
+Cryptologic Organization,\" 2; and SRH-306 \"OP-20-G Exploits and
+Commendations World War II.\"
+
+88\. (U) Interview with Jeff Wenger, 1991.
+
+89\. (U) NARA RG457, SRMN-083, \"Military Study of Secret Radio Calls,
+January 1938.\"
+
+90\. (U) All other major nations used the same techniques and had done so
+since World War I, but Wenger was America\'s advocate. NARA RG457,
+SRMN-083, \"Military Study of Secret Radio Calls, January 1938.\"
+
+91\. (U) NARA RG457, SRH-083, \"Military Study of Secret Radio Calls,
+January 8,1938 by J. N. Wenger.\"
+
+92\. (U) On automatic direction finding equipment. NARA SRH-197, \"US
+Navy Communications Intelligence, Organization, Liaison and
+Collaboration 1941-1945,\" 38.
+
+93\. (U) Some reports indicate that in late 1941 the vast majority of the
+\"G\" workforce was busy with T/A rather than cryptanalysis. NARA RG457,
+SRH-403, \"Selections from the Cryptologic Papers of Rear Admiral J. N.
+Wenger, USN.\"
+
+94\. (U) NARA RG457, SRH-279 \"OP-20-G, Communication Intelligence
+Organization 19421946.\"
+
+95- (U) NARA RG457, SRH-305, \"The Undeclared War: The History ofRI,\"
+15 November 1943, by Laurance F. Safford, Captain, U. S. Navy.
+
+96\. (U) NARA RG457, SRH-403, \"Selections from the Cryptologic Papers of
+Rear Admiral J. N. Wenger, USN,\" 60. BuShips, NXS329 (945) 5-6-43,
+Pulse Spotter Equipment, Philco Corporation. The remainder of the war.
+Library of Congress, Papers of Vannevar Bush, Box 52, Howard to Killian,
+March 21, 1946, \"rapid selector.\"
+
+
+
+
+
+
+
+

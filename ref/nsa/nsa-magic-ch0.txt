@@ -1,0 +1,1240 @@
+It Wasn.t All Magic: The Early Struggle to Automate Cryptanalysis, 1930s-1960s {#it-wasn.t-all-magic-the-early-struggle-to-automate-cryptanalysis-1930s-1960s .center dir="ltr"}
+==============================================================================
+
+::: {.offset}
+This book was produced in EPUB format by the Internet Archive.
+
+The book pages were scanned and converted to EPUB format automatically.
+This process relies on optical character recognition, and is somewhat
+susceptible to errors. The book may not offer the correct reading
+sequence, and there may be weird characters, non-words, and incorrect
+guesses at structure. Some page numbers and headers or footers may
+remain from the scanned page. The process which identifies images might
+have found stray marks on the page which are not actually images from
+the book. The hidden page numbering which may be available to your
+ereader corresponds to the numbered pages in the print edition, but is
+not an exact match; page numbers will increment at the same rate as the
+corresponding print edition, but we may have started numbering before
+the print book\'s visible page numbers. The Internet Archive is working
+to improve the scanning process and resulting books, but in the
+meantime, we hope that this book will be useful to you.
+
+The Internet Archive was founded in 1996 to build an Internet library
+and to promote universal access to all knowledge. The Archive\'s
+purposes include offering permanent access for researchers, historians,
+scholars, people with disabilities, and the general public to historical
+collections that exist in digital format. The Internet Archive includes
+texts, audio, moving images, and software as well as archived web pages,
+and provides specialized services for information access for the blind
+and other persons with disabilities.
+
+:::
+
+
+::: {style="width: 11.529411764705882%;"}
+:::
+
+NATIONAL SECURITY AGENCY
+
+CENTRAL SECURITY SERVICE
+
+FORT GEORGE G. MEADE, MARYLAND 20755-6000
+
+Serial: MDR-68543 29 May 2013
+
+In response to your 4 August 2012 declassification request, we have
+reviewed the NSA cryptologic history entitled: It Wasn \'t All Magic:
+The Early Struggle to Automate Cryptanalysis, 1930s-1960s. The report
+has been reviewed under the Mandatory Declassification Review (MDR)
+requirements of Executive Order (E.O.) 13526 and is enclosed. Some
+portions deleted from the document were found to be currently and
+properly classified in accordance with E.O. 13526. The information
+denied meets the criteria for classification as set forth in Section 1.4
+per Section 1.2 of E.O. 13526. The withheld information is exempt from
+automatic declassification in accordance with Section 3.3(b) (2) and (3)
+and (h) (6) of the Executive Order. Section 3.5 (c) of E.O. 13526,
+allows for the protection afforded to information under the provisions
+of law. Therefore, information that would reveal NSA/CSS functions and
+activities has been protected in accordance with Section 6, Public Law
+86-36 (50 U.S. Code 402 note).
+
+Since your request for declassification has been denied in part, you may
+file an appeal to the NSA/CSS MDR Appeal Authority. The appeal must be
+postmarked no later than 60 calendar days after the date of the denial
+letter. The appeal shall be in writing addressed to the NSA/CSS MDR
+Appeal Authority (DJ5), National Security Agency, 9800 Savage Road, STE
+6881, Ft George G. Meade, MD 20755-6881. The appeal shall reference the
+initial denial of access and shall contain, in sufficient detail and
+particularity, the grounds upon which the requester believes the release
+of information is required. The NSA/CSS MDR Appeal Authority will
+endeavor to respond to the appeal within 60 working days after receipt
+of the appeal.
+
+Sincerely,
+
+BLAKE C. BARNES
+
+Chief
+
+Declassification Services
+
+Encl: a/s
+
+
+::: {style="width: 89.14151313210506%;"}
+:::
+
+
+Cover Photos: (U) (clockwise from upper left): Hypo, Vannevar Bush,
+Harvest, Joseph Desch, Gee Whizzer, Stanford Hooper, Bombe, Samuel
+Snyder
+
+
+
+I UNITED STATES CKYPTOLOGIC HISTORY \|
+
+a a
+
+a a
+
+I Special/SerCe\* 1
+
+i Voiu4fte\^6 ja
+
+a a
+
+a a
+
+a @
+
+a a
+
+a e
+
+a a
+
+\|i 7\^\^ Early Struggle/ to- A ut&ryi&te/ \\
+
+a ra
+
+I Cryptanalytiti 1930y - 1960y \\
+
+a i
+
+a a
+
+a a
+
+a a
+
+a a
+
+\[a Colin B. Burke &
+
+a @
+
+i i
+
+a a
+
+a a
+
+a a
+
+a a
+
+a a
+
+a a
+
+a a
+
+a a
+
+a a
+
+i CENTER FOR CRYPTOLOGIC HISTORY i
+
+a a
+
+I NATIONAL SECURITY AGENCY \|
+
+a a
+
+I 2002 I
+
+a a
+
+a a
+
+a\. a
+
+TnP cprpPT/frOMIMTffPFI T? WA, iMfT. ni\'iH, nnn \'\"\" \'■■■ \"\"!
+
+
+
+Page ii
+
+
+TOP 3ECRET//COMINT//RgL TO USA, AUS, CAW, 6BR AND HIUIX1
+
+CONTENTS
+
+Page
+
+\(U) Foreword xi
+
+\(U) Introduction
+
+\(U) Before NSA Opened Its Hies 1
+
+\(V) The Stocks Were Not All They i
+
+\(V) Ask What the Agency Did for 2
+
+\(U) Ask Not Whaf the Agency Can Do For 3
+
+\(U) Inspiration and Patience 4
+
+\(V) There Wasn\'t Enough Magic 5
+
+\(I) A Story with Only a Few Acronyms 5
+
+\(U) Two Decades before the Computer 6
+
+Chapter 1 (U) An Academic in Need of the Navy \... Until
+
+•j
+
+\(V) An Institution for the Real World
+
+\(U) A Man for All Technologies 8
+
+\(U) More Than an Ingenious Yankee 9
+
+\(U) The Politics of Mathematics and Engineering 9
+
+\(U) The Manager of Science 10
+
+\(V) Bush and Stratton\'s Dream 10
+
+\(V) Bush Confronts Little Science 10
+
+\(L) Bush\'s Great Plan 11
+
+\(U) Beyond Analog Mechanical Machines it
+
+\(U) Two Men with a Need 12
+
+\(U) A Man for the Navy 13
+
+(I\') Another Plan for Science and the Navy 14
+
+\(U) Hooper Confronts the Bureaucracy 15
+
+\(U) A Few Men and Women for Secrecy 16
+
+:(U) The Search for Pure Cryptanalysis 1(1
+
+\(U) From Electronics to Electromechanics 18
+
+\(V) A Young Man for the Future 20
+
+\(U) The Dream Postponed Again 20
+
+\(l) The Dream Reborn, for a Moment 21
+
+\(U) Little Science Meets the Little Navy, Again 21
+
+\(U) A Man for Statistics 22
+
+\(U) Science and the Navy Need Other Friends 23
+
+\(U) The Private World of Science 24
+
+\(U) A Man for Applied Mathematics and Information 24
+
+\(U) American Science and the War - the NDRC 24
+
+
+
+
+\(U) Corporate Charity 25
+
+\(U) The Navy Comes in Second 26
+
+Chapter 2 (U) The First Electronic Computer: Perhaps
+
+\(U) A Reminder of Hooper\'s Hopes and Frustrations 33
+
+\(U) The Institutional Context 33
+
+\(U) The First Defeat: Bush Is Rejected 34
+
+\(U) A Machine Too Soon 34
+
+\(U) The Decision to Build a Machine 35
+
+\(U) Bush and Wenger Select a Problem 35
+
+\(U) The Index 36
+
+\(U) An Added Bonus, Possibly 37
+
+\(U) Bush Outlines the Machine and Sets Different Goals 37
+
+\(U) The Comparator Really Doesn\'t Go to Washington 38
+
+\(U) Too Much to Ask of Mere Machines 39
+
+\(U) No Thanks for the Memories 40
+
+\(U) The Limits of Mechanics 40
+
+\(U) Let There Be Light, But Not Too Much 41
+
+\(U) The Most Difficult Problem of All, But It Wasn\'t 41
+
+\(U) The Easiest Becomes the Most Difficult 42
+
+\(U) Beyond Murphy\'s Law 42
+
+\(U) Spring Is a Time for Love, Not Machinery 44
+
+\(U) RAM Project Seems to Die, Late 1938 44
+
+\(U) A Comparator There May Never Be .45
+
+\(U) Big Science Begins to Emerge 45
+
+\(U) Fire Control 46
+
+\(U) The Second Comparator 46
+
+\(U) OP-20-G and Ultra 47
+
+\(U) So Long for So Little 48
+
+\(U) The Search for the Second Comparator 48
+
+\(U) No Equal Partners in Ultra 49
+
+\(U) Another Machine That Wouldn\'t 49
+
+\(U) The Revenge of Mechanics: the First Rounds 50
+
+(TS//SI//REL) Logs and Relays - the Gee Whizer 50
+
+\(U) The Navy Get Some Changes 51
+
+\(U) The Greatest Kludge of All, But It Worked 52
+
+\(U) Trying to Save Bush\'s Reputation 52
+
+\(U) Yet Another Chance 52
+
+\(U) When the Ciphers Can\'t Be Broken 53
+
+\(U) Wenger to the Rescue 54
+
+\(U) Mathematics to Meet the Great Challenge 54
+
+\(U) Bureaucracy vs. Science, Again 54
+
+\(U) A Seeming Victory for Science 55
+
+
+
+
+Chapter 3 (U) Bush\'s Dream Does Not Come True
+
+\(U) A Look Ahead lo Peace 63
+
+\(U) January 1942: Too Much Too Late 63
+
+\(U) A Giant Step Backwards 64
+
+\(U) Haste and Confustion 64
+
+\(U) Tessie Wouldn\'t FAther 65
+
+\(U) Jessie\'s New Hat 66
+
+\(U) You Can Use Some of the Technology
+
+Some of the Time, But 67
+
+\(U) A Machine for Mrs. Driscoll\'s Special Problem 69
+
+\(U) A Paper War, Perhaps 71
+
+\(U) The Comparator Dies, Again 71
+
+\(U) Almost Another Digital Machine 72
+
+\(U) The Old Technologies Are the Best Technologies,
+
+for a Time 74
+
+\(U) Meanwhile, the Tabulator\'s Revenge 74
+
+\(U) LBM\'s Most Special Contribution 75
+
+\(U) In the Absence of Rapid Machines 77
+
+Chapter 4 (U) Meeting the Crisis: Ultra and the Bombe
+
+\(U) Looking Ahead - Ultra Saves RAM and OP-20-G
+
+Creates a Science Company 83
+
+\(U) The \"E\" Machine 83
+
+\(U) Only a Few Were Able and Willing to Tackle \"E\" 84
+
+\(U) The Poles Automate Cryptanalysis
+
+in Their Special Way 85
+
+\(U) Keeping the Bombe Secret for Too Long 85
+
+\(U) A Fresh Start against \"E\" 86
+
+\(U) Analog and Parallel May Be Fast, But 88
+
+\(U) Ask and Then Not Receive 89
+
+\(U) Gave All and Get 90
+
+\(U) What Happened After 91
+
+\(U) Trust Builds Very Slowly 91
+
+\(U) Agreements and Agreements and Agreements, But 91
+
+\(U) Going Separate Ways 92
+
+(IT) America without an Ultra 93
+
+\(U) An American Ultra, Perhaps 93
+
+\(U) Faster Than a Speeding Relay 94
+
+\(U) Great British Expectations 94
+
+\(U) Great American Expectations 94
+
+\(U) Trying to Step Forward, Not Back 97
+
+\(U) Britain\'s Own Version of Bush\'s Electronic Dreams 97
+
+
+
+top oconny/ooMiNTOncL to uoa, aug, cam, opp. amp hzujxi
+
+\(U) No Time for Electronic 98
+
+(U)A Crisis of Organizationa and Technology 99
+
+\(U) Searching for a Place in Ultra 99
+
+\(U) The Power of Innocence 99
+
+\(U) The Power of Ignorance 101
+
+\(U) The Cousins Will Have Their Way\...to a Degree 103
+
+\(U) A Long Apprenticeship 104
+
+\(U) Desch Takes Charge 105
+
+\(U) Wenger Gets His Organization 105
+
+\(U) Of Tires and Transmissions and
+
+a Disappearing Laboratory 105
+
+\(U) Saving the American Bomhe 108
+
+\(U) A Bombe Too Late 108
+
+\(U) A Program Based on Another Technological Bet 109
+
+\(U) July 26th: a Day of Defeat 109
+
+\(U) A Victory a Bit Too Late 109
+
+\(U) Ignorant No More 111
+
+\(U) The Bombes at Work 111
+
+\(U) More to It Than the Bombe 112
+
+Chapter 5(U) A Search for Other \"Bombes
+
+»
+
+\(U) Meanwhile, the Army 127
+
+\(U) The Search for Another American Ultra 128
+
+\(U) A Great Electronic Adventure, the Freak 129
+
+\(U) Tabulators and Traffic: A Data Processing War 130
+
+\(U) Making the Tools More Powerful 132
+
+\(U) Slides, Runs, and Endless Decks of Cards 132
+
+\(U) The Other Bombe Program 135
+
+\(U) Another Step Back J.35
+
+\(U) More to It Than the Machine 137
+
+\(U) A Machine Looking for Work 139
+
+\(U) More Emergencies and More Compromises 140
+
+\(U) The Other Purples 142
+
+\(U) New Guys and Old Guys, New Techniques
+
+and Old Insights 142
+
+\(U) A Matter of Machines and Control 143
+
+\(II) The Snake That Died Too Young, Viper 144
+
+\(U) A Snake in Hand, Perhaps --- I\*ython 146
+
+\(U) Of Strips and Strippers 148
+
+\(U) Strips Without Strippers 149
+
+\(U) The Attack on the Many JN25S 150
+
+\(U) The Comparators That Weren\'t the Copperhead
+
+Proposals and the Victory of Electronics 153
+
+
+
+
+\(I) Beyond the Copperheads - the JN25 Crisis
+
+and \"M\'s\" Response 155
+
+Chapter 6 (U) Beyond the Bombes and Beyond World War II
+
+\(I) After the Bombe 163
+
+\(U) Every Which Way: The Code Challenge Continues 164
+
+\(U) The Navy\'s Madame X--- the Strongest Selecton 165
+
+\(U) A Wall of Knobs 166
+
+\(V) Walls of Tubes 167
+
+\(U) Into the Beyond and the Past, Rooms of Wires
+
+and Disk 168
+
+\(U) Desparate Options and a Conservative Selector 168
+
+\(U) Walls of Pipes and Thousands of Dots 169
+
+\(V) The Relay Selector Gets an Electronic Face Lift 171
+
+\(U) The Biggest Snakes of All --- The Navy Almost Builds
+
+an Electronic Bombe 173
+
+\(U) The Serpent and Friends 173
+
+\(V) The Revenge of the Enigma --- or Electronics
+
+Is Inescapable 177
+
+\(U) Beyond Cribs: the Statistical Bombe 178
+
+\(U) No Escaping Electronics, Enigma Meets the Cobra 180
+
+\(U) The Navy\'s Duenna 180
+
+\(U) From Relays to Tubes, Rosen Gets His Chance 182
+
+\(V) Engineering Pride and Peacetime Priorities 183
+
+\(U) Keeping the Faith: the Return of the Film Machines .. .184
+
+\(V) The Revenge of the Codes, Again 184
+
+\(U) More Numbers Than Ever Before 186
+
+\(U) Dr. Bush, Your Best Friend Is Really the Army 189
+
+\(V) The Great 5202 190
+
+\(U) Beyond the Comparators lgi
+
+\(U) The Machine That Wasn\'t 191
+
+Chapter 7(U) The Magic Continues
+
+\(U) Would History Repeal Itself? 199
+
+\(V) What There Wasn\'t 200
+
+\(U) Signs of Some Appreciation 201
+
+\(V) More MAGIC: Cryptanalysis Continues as Before 202
+
+\(U) A Cryptologic Future: Architecture and Ambiguity
+
+and Budgets 203
+
+\(U) The Enigma Is Dead (We Think):
+
+.204
+
+Long Live the
+
+1;
+
+\(V) A Hangover from Another Time 205
+
+PL. 86-36
+
+
+
+
+r.L. ob-ob
+
+\(U) Mrs. O\'Malleu\'s Wayward Son 206
+
+(S//SI) The Grand I \\Machine 208
+
+\(U) Hecate\'s Impressive Competitor 211
+
+\(U) The Universal RAMs 211
+
+\(U) The Illusive Matrix 212
+
+\(U) It\'s a Nice Idea, Dr. von Neuman, But 212
+
+\(U) Faith Without Institutions: Slides, Sleds and Skates .. .214 (U)
+Faith and an Institution: the Chance to Begin an Era . .218
+
+\(U) A Bright Hope for Hooper\'s Dream 220
+
+\(U) The Grand Machine of Its Time, the New Comparator . .221
+
+\(U) Meanwhile, a Last Chance for Microfilm 223
+
+\(U) Finally, the Electronic Bombe 223
+
+Chapter 8 (U) Courage and Chaos: SIGINT and the Computer Revolution
+
+\(V) It Wasn\'t Safe at the Cutting Edge 233
+
+\(U) An Idea Differed 233
+
+\(U) Goodbye Dr. Bush, Hello Professor von Neuman 236
+
+\(U) A Summer in Philadelphia - an Exciting One 238
+
+\(U) Buy a Computer, Now 241
+
+\(U) Little JTianks for That Memory 244
+
+\(U) Saving a Reputation through Logic 247
+
+\(U) The Army\'s Problem 248
+
+\(U) Stratum\'s Dream Revisited 251
+
+\(U) So Much for Simplicity 253
+
+\(U) Abner\'s Not Quite Best Friend 254
+
+\(U) Abner by Inertia 255
+
+\(U) Abner\'s Bad Temper 256
+
+(U)And Then Came 257
+
+Chapter 9 (U) Wandering into Ti\'ouble
+
+\(U) A Cryptoanalytic Future 263
+
+\(U) The Worst of Times 263
+
+\(U) The Magic Continues 265
+
+\(U) At Last, the Electronic Bombe - Perhaps 266
+
+\(U) Without Magic and without Many Friends 268
+
+\(U) The End of an ERA 269
+
+\(V) ERA\'s Treasures 270
+
+\(U) SIGINT Loses Another Friend 271
+
+\(U) An Old Friend\'s Burdens 272
+
+\(U) A Desperate Search for \'\"Depth\" 274
+
+\(U) Wanderers and Nomads and Chaos 276
+
+
+
+
+\(U) If You Can\'t Trust Someone from
+
+the Adams Family, Then 278
+
+\(U) Failure upon Failure 280
+
+Chapter 10 (U) A Matter of Faith
+
+\(U) Would Science or an Old Tactician Save the Agency? .. .285
+
+\(U) Rushing \"Bits,\" Not Even \"-Bytes,\" into the Agency 285
+
+\(U) Canine Guards the Fort 287
+
+\(U) EnterTom Watson and IBM 289
+
+\(U) A Machine for Us, Perhaps 292
+
+\(U) One Big Machine Beats Out Many Little Ones 293
+
+\(U) An ERA by Any Other Name Is IBM 295
+
+\(U) Is Half a Farmer Better Than 296
+
+\(U) St. Paul in Mohansic 297
+
+\(U) Bucks Talk: the Favored Sister Gets the Attention 297
+
+\(U) A Data Factory 298
+
+\(U) Not a Farmer, a Nomad 299
+
+\(U) Engineering Is Not Science, at least to the SAB 300
+
+\(U) You Can Take Science Out of the Agency, But Can You .302 (U) Almost
+in Science - Would Lightning Be
+
+the Other Harvest 305
+
+\(U) What Kind of Friend Are You, Dr. Baker? 307
+
+\(U) Dr. Baker\'s Half-an-Institute 309
+
+(U)A Harvest ofOverexpectations 310
+
+\(U) ERA\'s and the Shop -floor Cryppies7 Revenge 313
+
+\(U) Technology and Faith, 1962 316
+
+
+
+
+
+
+
+Foreivord
+
+mmmmmmmm - •• •\* »■ • \*• \* \>\~ g&mm\$tm
+
+Y.\^.A :-3\'»■,.\#WiWxusp\*\*
+
+\(U) Conventional wisdom about NSA and computers has it, as a retired NSA
+senior officer once wrote me, \"In the early days, NSA and its
+predecessor organizations drove the computer industry. In the 1960s, we
+kept pace with it. We started losing ground in the \'70s, and in the
+\'80s we struggled to keep up with the industry.\"
+
+\(U) True, but underlying this, in each decade the cryptologic
+organizations experienced a wide range of successes and failures,
+positives and negatives. If, as slang puts it, \"they won some, lost
+some, and some got rained out,\" all of this experience is worth serious
+examination by students of computers, cryptanalysis, and NSA history.
+
+\(U) The current volume, Dr. Colin Burke\'s It Wasn\'t All Magic: The
+Early Struggle to Automate Cryptanalysis, 193OS-1960S, contains a view
+of the first decades of computer development that is broad and deep and
+rich.
+
+\(U) It begins in the 1930s as American and British intelligence
+officials confronted new cryptanalytic and cryptographic challenges, and
+adapted some intriguing new concepts to their analysis. It carries the
+story to the flexible and fast systems of the late 1950s and early
+1960s.
+
+\(U) Dr. Burke follows and links the development of automatic data
+processing from the critical conceptual work of the 1930s through the
+practical experiments born of national necessity in the world war to the
+postwar development and the previously untold story of NSA\'s postwar
+computer development. Along the way, he has rescued from obscurity some
+important successes - and some important failures - in cryptanalytic
+machinery from World War II.
+
+\(U) All too often, discussions of NSAs computer development treat only
+the mainstream, ignoring the problems, failures, dead ends and
+might-havebeens, in order to concentrate on successes. In the present
+volume, however, key components of Dr. Burke\'s story and important for
+our knowledge are the machines which didn\'t work or which never had
+progeny, and why this was so. Just as important are Dr. Burke\'s
+cautionary tales about the influence of international and interservice
+rivalry on plans and procedures. Technical limitations and technical
+opportunities shaped much of the development of computing equipment, but
+the story is also replete with instances of man-made barriers and
+baleful bureaucratic bypaths that wielded great influence during much of
+this development.
+
+\(U) A word about how this manuscript came to
+
+be.
+
+\(U) A no less important factor than the information and analysis in this
+current volume is that it represents an objective view of NSAs computer
+history by a writer not from NSA or one of the Service Cryptologic
+Elements. The author, a university professor, had no stake in either
+defending or besmirching decisions made fifty years ago or the
+organizations or people who made them.
+
+\(U) The Center for Cryptologic History, between 1990 and 1999,
+administered a program to bring outside academics or researchers to the
+CCH for special projects. The CCH sponsored six Scholars in Residence in
+that period; of the six, the first two received security clearances for
+work on classified projects. The others remained uncleared and worked
+only with declassified materials.
+
+(U//FQUO) Dr. Colin B. Burke was the second of the two cleared scholars.
+
+
+Page xi
+
+
+
+(UZ/FOUO\^Dr. Burke\'s professional biography is given at the end of the
+book. Note that as a professor of both history and computer research
+techniques, Dr. Burke became one of the pioneers in the field of
+computer history.
+
+(U//fOUQj As background reading, T recommend not only Dr. Burke\'s own
+unclassified publications, available commercially, but two classified
+histories available from the Center for Cryptologic History: Thomas R.
+Johnson, American Cryptology during the Cold War (4 vols) and Michael L.
+Peterson, BOURBON to Black Friday.
+
+DAVID A. HATCH
+
+Director,
+
+Center for Cryptologic History
+
+
+
+
+\(U) Introduction
+
+\(U) Before NSA Opened Its Files
+
+\(U) I am one of those \"outsiders\" I talk about so much in the later
+chapters of this book. I was fortunate to be brought into the National
+Security Agency as one of the Center for Cryptologic History\'s first
+Scholars in Residence. I was borrowed from my university because I had
+spent a decade working on the history of computers at NSA\'s
+predecessors. I even had the courage to write a book about the subject.1
+
+\(U) That monograph was on the machines, policies, and relationships that
+led to the U.S. Navy\'s cryptanalytic machine (computer) program in
+World War II. The book was also about the first major attempts to
+automate the American library. It had to be about both because the same
+people built bibliographic and cryptanalytic machines.
+
+\(U) My study covered events in the history of the machines through the
+1940s, but its focus was on the period between 1930 and 1945. An
+important conclusion was that the relationship between the efforts of
+America\'s codebreakers and the emergence of the modern digital
+electronic computer was more complex than had been thought. The navy\'s
+cryptanalysts were in a push-me, pullme situation. Their work made
+mechanization a necessity, but the pressures of war and the refusal of
+the government bureaucracy to sponsor longterm research and development
+programs prevented the navy from becoming the inventor of the modern
+computer.
+
+DuUid Piuni. NOA/COSM ih;i m
+
+Dated 2.4 I\\-l\>i uai y 199O DulaAsify On. Xi---
+
+\(U) During World War II American cryptanalysts built some of the most
+sophisticated electronic machines in the world, but the need to address
+cryptanalytic crises blocked them from creating the general-purpose
+digital electronic computer.
+
+\(U) Just as my book was published, I was asked to come to the National
+Security Agency. One purpose of my year in residence was to see if it
+was possible to write a complete history of computers at the Agency. The
+goal was a monograph that covered the entire life of NSA and its
+predecessors. The thought of finally being able to see the many highly
+classified documents that had been withheld from me more than balanced
+the pledge I had to give: I had to promise to refrain from publishing
+without the approval of NSA\'s censors.
+
+\(U) The Stacks Were Not All They\...
+
+\(U) I began my residency by surveying the Agency\'s archive holdings and
+by rereading the few synthetic works that had been declassified. The
+comprehensiveness of the archive holdings was critical because unless
+enough of the correct type of documents had been saved and indexed,
+there was little chance to produce a history of the post-World War II
+era. Useful documents from the 1950s through the 1980s were of special
+importance because the Agency had allowed almost nothing about its
+operations in the last forty years to be made public. There was not even
+a counterpart to the informative but very unhandy collection of
+documents on the pre-1946 period released to the National Archives, the
+Special Research History series.
+
+\(U) As I examined the collections, I was pleased to find that the
+materials I needed to
+
+
+
+
+
+revise my earlier work were plentiful and well organized. There were
+several contemporary studies of computer efforts up to 1945 that were
+technically as well as historically enlightening,
+
+\(U) I was also happy to discover that although I had not been correct in
+all the details about the early American cryptanalytic machines, I had
+come quite close. I concluded that I had drawn an acceptable overview of
+the computer efforts of the army and navy cryptologic agencies up to
+1950.
+
+\(U) But I was less than content with the materials for the postwar era.
+I decided that it would be impossible to tell the type of story about
+the forty-five years since the Korean War that I had done for the
+earlier period, at least not within one year.
+
+\(U) However, there were many documents, several oral histories, and the
+work of Samuel S. Snyder to provide a basis for a history of computers
+within NSA up to the early 1960s.
+
+\(U) Ask What the Agency Did for\...
+
+\(U) Samuel Snyder was one of the founding fathers of machine
+cryptanalysis. He joined the army\'s cryptologic unit in the 1930s and
+remained at the Agency, becoming important to many of its computer
+projects of the 1940s and 1950s. His experience, his desire to document
+the Agency\'s computer history, and his commitment to the welfare of NSA
+made its administrators receptive to his requests to be allowed the time
+and resources during the late 1960s and early 1970s to write about the
+Agency\'s computer history.
+
+\(U) Mr. Snyder completed several works. They ranged from sketches of the
+history of the army\'s first electronic computer, Abner, to a survey of
+the general-purpose electronic computers the Agency had built or
+purchased. The study of the Kgp\" computers seemed so important and fit
+so well with the Agency\'s desire to obtain good
+
+publicity that it was declassified and, in various forms, published in
+the open literature.2
+
+\(U) Mr. Snyder\'s work showed the contributions of NSA to the
+development of computer technology and to the emergence of the American
+computer industry. It made it clear that NSA had been a major sponsor of
+technical advances. like several other large government agencies, its
+computer purchases and its research and development contracts helped
+establish America as the world\'s leading computer manufacturer. He also
+made it clear that NSA had been at the cutting edge of computer
+technology and architecture.
+
+\(U) I was very tempted to just deepen Sam Snyder\'s work on post-1950
+automation, but as I went through the hundreds of record boxes at the
+archives and as T began to reflect on their contents, I decided that I
+had to do something different. I had to take an alternative view of the
+Agency\'s computer history.
+
+\(U) Because of the need to guard NSA\'s cryptanalytic methods, Mr.
+Snyder could not discuss the reasons for the development of the devices
+he included in his published works. Just as the Agency cannot reveal its
+cryptologic successes without endangering them, Snyder could not give
+either the \"why\" or, in many cases, the \"what\" of the Agency
+computers to the public. The jobs the NSA computers had to perform and
+the decision processes that led them to be part of the famous collection
+of machines that once resided in the Agency\'s \"basement\" had to be
+left out of his studies.
+
+\(U) He certainly could not discuss what were and are the most intriguing
+machines at NSA, its dozens of special-purpose computers, ones whose
+architecture embodies a cryptanalytic process. Doing more than listing
+their cover names would have revealed what methods the Agency was using
+and what targets it was attacking. Neither the NSA nor the British
+intelligence agencies were responsible for the initial release of
+information
+
+
+
+
+
+about MAGIC and ULTRA. The stories were told by others.
+
+\(U) The restrictions on Mr. Snyder had another influence. Because he was
+forced to divorce SIGINT and computer history, the machines he described
+seemed to have emerged as a result of an indestructible synergy between
+the Agency, the computer industry, and America\'s scientific community.
+
+\(U) My knowledge of the course of technological advancement in the
+cryptologic arena in the 1930s and 1940s led me to doubt that the
+postwar era\'s machine history was so smooth and problem free.
+
+\(U) There was something more fundamental about Mr. Snyder\'s approach
+that led me to search for alternative ways to interpret the documents
+that were emerging from the NSA archives and the offices of old hands at
+the Agency. Although Snyder\'s articles are invaluable, his
+interpretation seemed unlikely to be able to bring together the policy,
+the cryptanalytic, and technological histories of SIGINT
+computerization.
+
+\(U) The emphasis in his public articles was on what the Agency\'s
+computer efforts did for others, especially the computer industry. But I
+had a clear sense that I could tell the story of computers only by using
+an approach that was the near opposite of Sam Snyder\'s. Focusing
+onNSA\'s role in transferring technology and supporting commercial
+computer development, I concluded, hid as much or more than it revealed.
+
+\(U) Ask Not What the Agency Can Do for\...
+
+\(U) To understand computerization at NSA the question should not be
+\"what did NSA do for the computer industry?\" but \"what was it that
+the industry could not or would not do for NSA?\"
+
+\(U) The second question leads an investigator into the many technical,
+institutional, and politi
+
+cal struggles that the Agency faced as it attempted to keep up with the
+cryptologic capabilities of its adversaries. It helps to explain why NSA
+has had to build so many special computers, why it invested in several
+technological misadventures, and why it had to involve itself in some
+unusual relationships with private industry and academia. The question
+also helps to integrate the political history of NSA with its drive to
+advance mathematical cryptanalysis.
+
+(U//FOUO) For example, using the \"couldn\'t do\" approach to Agency
+projects led me to an understanding ofNSA\'s great computer adventure,
+the Harvest system. It also helped uncover the Agency\'s reason for
+creating its high-powered mathematical think tank at Princeton. Both the
+computer and the institution were the result of much more than a desire
+to extend the reach of formal cryptanalysis; they were born of intense
+political pressures on the Agency, and they were grand compromises
+rather than perfect solutions to abstract problems.
+
+\(U) Spotlighting what the computer industry could not do for signals
+intelligence also helps to integrate the Agency\'s computer and
+cryptanalytic histories. Putting them together shows that inventing and
+developing an effective technology for SIGINT has been difficult and, at
+times, agonizing.
+
+(T0//0I//REL) The \"couldn\'t do\" question also illuminates one of the
+most fascinating aspects of the history of computers at the National
+Security Agency: the drive to define and implement a computer
+architecture that was radically different from the classic design that
+is now called the von Neumann architecture. Since at least 1946,
+American cryptanalysts have done much more than use parallel and
+pipeline processing; they have sought, and came close to achieving, a
+unique architecture for a cryptanalytic general-purpose computer.
+Because the computer industry was unwilling to develop machines that
+served only one customer, NSA was forced to
+
+
+
+
+
+design and build not only single-purpose machines but its own versions
+of a general-purpose computer. Its Sled and Dervish family of high-speed
+devices reflects the Agency\'s special needs and challenges.
+Unfortunately, creating an all-purpose special NSA computer was too much
+for the Agency, given its resources. Its famed Harvest computer, for
+example, was only a partial representation of a tme \"cryptanalytic\"
+computer, partially because the computer industry could not focus on
+Agency needs.
+
+\(U) When the \"couldn\'t do\" question is extended to American
+universities, it becomes easier to understand the difficult relationship
+between NSA and \"outside\" scientists and their institutions. Finding
+and utilizing academic talent was very difficult for the Agency.
+Professors did not rush to NSA before or after World War II, and they
+did not pursue much research that was of direct help to operational
+cryptanalysis. Devising ways to preserve the Agency\'s secrets and its
+independence while channeling the contributions of academics proved to
+be very difficult.
+
+\(U) Inspiration and Patience
+
+\(U) Something besides the relationships with the commercial computer
+industry and academia has to be called on to explain NSA\'s computer
+history. To show why the Agency created its own computer architecture
+and why it accepted some technological retrogressions calls for a bit of
+cryptanalytic muckraking. The craft of code and cipher breaking has to
+be stripped of its romanticism.
+
+\(U) The stories of the successful American attack on Japan\'s diplomatic
+ciphers before World War II (PURPLE-MAGIC) and the triumph over the
+German ENIGMA-ULTRA are used as popular models for the way cryptanalytic
+work proceeds. The popular view shares much, in terms of fundamentals,
+with the public view of Agency computer development.
+
+\(U) In the typical story, codebreaking successes such as MAGIC and ULTRA
+came about because of the quick and intense work of a handful of
+geniuses armed with brain power and little else. The common image is
+that once the likes of William F. Friedman and Alan Turing had their
+flashes of insight, a flow of precious information (and only valuable
+information) was captured, processed by a hastily constructed but
+ingenious machine, and then directed to decision makers.
+
+\(U) Such an image of a heroic cryptanalysis is far from being true or
+useful. Cryptanalytic and technological victories have not come as
+easily as that. Even during the glorious codebreaking days of World War
+II, America\'s cryptanalysts barely kept up with their enemies.
+
+\(U) There have been moments when great breakthroughs have led to
+critically important messages. And the penetration of some systems, such
+as the U-boat \"E,\" led to a stream of immediately important
+information. But typical cryptanalysis was and remains a continuing
+struggle to discover patterns and to make sense out of mountains of raw
+data.
+
+\(U) Most cryptanalytic solutions have come only after years of the most
+tedious and disdainful work. The intellectuals that Britain gathered at
+Bletchley Park had to perform mind-deadening menial computing tasks
+hoping that all their labor would reveal mistakes by the German
+cryptographers and patterns within message texts. They had no magical
+mathematical formula that eliminated the need for massive data
+processing. Even when a system was penetrated, creating useful
+information from intercepts called for large-scale data handling.
+
+(8//3I) During the first decades of the Cold War, when America\'s
+enemies made the ENIGMA systems seem like cryptanalytic child\'s play,
+NSA could not re-create a MAGIC. It had to wring information out of
+traffic analysis, plain text, and even clear voice messages. That forced
+the Agency
+
+
+TOP 0CCRCT//COMINT//RCL TO U3A, AUfl, OAK, ODR AND NZUX1
+
+
+top aeeneTOeoMiNTORiiL to uoa, auo, oan, odr and nzl//xi
+
+to become one of the world\'s largest data processors.
+
+\(U) On top of the special computing needs of cryptanalysis, NSA\'s
+insatiable need for what many times was unique data processing
+equipment, made it a computer leader.
+
+\(U) The National Security Agency has not been such an important
+influence in computer development because of its mathematical wizardry
+or because it has a mandate to transfer technology to the private
+sector. The Agency\'s contributions have come because of the unique
+nature of cryptanalysis and SIGINT and the increasing difficulty of
+fulfilling a central responsibility: the production of signals
+intelligence. The Agency has sponsored supercomputers for mathematics
+since the 1940s, but so have many others. The critical contributions of
+the Agency have come because of the special needs of operational
+cryptanalysis and SIGINT data processing.
+
+\(U) There Wasn\'t Enough Magic
+
+\(U) In addition to the \"couldn\'t do\" perspective, a useful way to
+understand the history of NSA\'s computers is to place them within the
+context of the struggles to overcome the particular machines and methods
+of America\'s determined and increasingly clever opponents.
+
+(U//FOUQ) The National Security Agency has never bought or built
+computers for abstract reasons. Its computers, even those for its
+hushhush think tank at Princeton, were acquired to respond to very
+practical and immediate needs and opportunities. From the early 1930s,
+when the first IBM tabulating machines were brought into the secret
+rooms of the Navy\'s OP-20-G, to NSA\'s massive computer projects of the
+1950s, and to the 1990s when the NSA computer building is filled with
+massively parallel and pipe-lined special-purpose computers, the
+Agency\'s machines have been for the solution of problems. There have
+been moments when the Agency has
+
+been allowed a bit of a luxury to pursue long-term and general
+technological explorations, but they have been rare and were always
+under the threat posed by a shift in national, political, or military
+policy.
+
+\(U) Despite all that, NSA has arguably been the largest single user of
+advanced computing machines in the world. It had to be. And because of
+the unique problems it faced and methods it used, it also became one of
+the most sophisticated sponsors of new computer and electronic
+equipment. To do its job it had to invest hundreds of millions of
+dollars into research and development.
+
+\(U) A Story with Only a Few Acronyms
+
+\(U) The story of the Agency\'s struggle for automation from 1930 to the
+beginning of the 1960s could become an exercise in the use of acronyms.
+NSA and its predecessors were bureaucracies with dozens of subdivisions
+and name changes. The designation for the army\'s crypto branch, for
+example, was altered several times before the end of World War II.
+Following such changes is too much to ask of a reader who wishes to gain
+the \"big picture\" of cryptanalytic computer history.
+
+\(U) To keep the text readable, I decided to use as few names as possible
+for agencies and their subdivisions. For example, the army\'s
+cryptanalytic branch is called the SIS until the formation of NSA
+
+\(U) I have also kept the goal of readability in mind when describing
+machines and processes. I have tried to use common terms whenever
+possible, even at the cost of glossing over some technical distinctions.
+I have even used the terms SIGINT and COMINT interchangeably, except in
+the contexts in which the differences between the two are significant to
+understanding NSA\'s history.
+
+
+
+
+
+\(V) Two Decades before the Computer
+
+\(U) Notes
+
+\(U) I have also tried to use consistent terminology, although the story
+of the struggle to automate American cryptanalysis begins two decades
+before the modem electronic digital computer emerged, NSA\'s automation
+story begins in 1930 when a bright and devoted navy man, Stanford
+Caldwell Hooper, realized that mechanized cipher-making was outpacing
+cryptanalysis. In his attempt to modernize the navy\'s cryptanalytic
+branch, OP-20-G, he engaged a problem that proved difficult for
+America\'s codebreakers for over a generation: How can a secret agency
+find and use the best talents and technology in the outside world?
+Hooper tried to solve that problem by creating anew type of relationship
+with academics, specifically the man who became the czar of America\'s
+new Big Science of World War II and the first years of the Cold War -
+Vannevar Bush of MIT.
+
+1\. (U) Colin B. Burke, Information and Secrecy: Vannevar Bush, Ultra,
+and the Other Memex, Metuchen, NJ, & London: The Scarecrow Press, 1994.
+
+2\. (U) For example, Samuel S. Snyder, \"Computer Advances Pioneered by
+Cryptologic Organizations,\" Annals of the History of Computing, 2
+(1980): 61.
+
+Colin Burke December 1994
+
+
+top 3i:cri:t/\<oomint//ri:l to uoa, aus, can, odr and nzu/xi
+
+
+TOP GEGRET//GOMINTOREL TO UCA, AUG, GAN, OBR AND NZU/X1
+

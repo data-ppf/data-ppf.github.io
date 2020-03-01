@@ -1,0 +1,3218 @@
+Chapter 4 (U) Meeting the Crisis: Ultra and the Bombe
+
+\(U) Looking Ahead - Ultra Saves RAM and OP-20-G Creates a Science
+Company
+
+\(U) The history ofOP-20-G\'s cryptanalytic machine program would have
+been very different if Britain had had the power to read the German
+U-boat messages during 1942. On the chance that its men could beat the
+British to a reentry into the U-boat Enigma, OP-20-G was granted its
+longsought Rapid Machine program and its own factory and workforce. But
+the establishment of what became known as the Naval Computing Machine
+Laboratory came at a price. Because the American navy had not attended
+to the Enigma and because Hooper and Wenger\'s pleas for machine
+development in the 1930s were not fully heeded, OP-20-G had to defer its
+attempts to create advanced electronic computers for pure cryptanalysis.
+To solve the \"E\" problem, the machine group spent most of its first
+year and one-half, and much of the next two years, coaxing
+electromechanical components into doing things never before expected of
+them. The conglomeration of electrical, mechanical and electronic parts
+called Bombes turned Engstrom\'s men away from solving the fundamental
+problems associated with Bush\'s designs, and away from an exploration
+of the possibilities of a general-purpose electronic machine.\*
+
+(V)The \"E\" Machine
+
+\(U) The Bombe was the example of the need for a technological retreat to
+deal with a cryptologic emergency. Despite Germany\'s destruction during
+World War I and the crippling burdens imposed on it under the peace, it
+built a strong codemaking capability during the 1920s and 1930s. At the
+center was the Enigma encryption
+
+machine, the workhorse of its military communications networks.
+
+\(U) The Enigma was a typewriter-size device that could be used in the
+field as well as in an office. It was electromechanical and used
+batteries to provide the electric current which passed through a series
+of shifting transposition rotors (commutators) to yield an extremely
+long encryption cycle. Physically, Enigma consisted of a keyboard to
+enter letters, a cascade of moving wheels that scrambled their inputs, a
+reversing wheel that sent the electrical impulses back through the
+wheels, a plugboard that further mixed the letters, and a series of
+lamps that showed the final result of the encryption.
+
+\(U) The Germans felt safe because they calculated that even if the
+wiring of the code wheels were known, it would take impossibly long for
+an enemy to identify the particular \"key\" settings of a message. In
+its early configuration, with just three of five available code wheels
+being used and no plugboard, Enigma had over one million possible
+settings.2
+
+\(U) When the plugboard was added to the military versions, the Germans
+felt even more confident. The possible combinations jumped into the
+range of two hundred million million million! That made intellectually
+blind attacks on the machine an impossibility.3
+
+\(U) One World War II cryptanalyst explained why there was a critical
+need for revolutionary methods, and machines which could reduce the
+number of possible \"E\" settings that had to be examined, by stating:4
+\"If every man, woman and child in the British Isles were given an
+Enigma machine, they would have to try 3,000,000 pos
+
+
+
+
+
+sibilities on each starting position on each wheel order and would work
+their whole life to break one key.\"
+
+\(U) The Germans constantly changed the \"E\" to make it stronger. They
+enhanced the system by increasing the number of wheels to choose from.
+By the end of the war, German codemen could choose from as many as nine
+main scrambling wheels when selecting a setup for their machines. In
+1942 the Atlantic U-boat system added a fourth wheel inside its
+machines. Later in the war, the Germans made the machine more robust
+when they changed the plugboard and attached the Uhr box. The Uhr added
+another level of complexity by eliminating some of the cryptologic
+weaknesses of the plugboards.
+
+SCMtUStit M
+
+WiMSVWi
+
+irttKtft
+
+::: {style="width: 31.673853390827126%;"}
+:::
+
+\(U) Qiigma
+
+\(U) Perhaps most frightening to the Allies was the \"pluggable
+reflector\" which appeared on some German air force and army networks
+near the end of the war. It created more combinations to hunt through
+than had the introduction of a fourth wheel.3
+
+\(U) The Germans were particularly sensitive to a weakness in all
+encryption systems, the vulnerability of internal indicators. Indicators
+were the brief instructions in each transmission that told a recipient
+how to set the remaining components of his Enigma, the ones not
+specified in a network\'s instruction books. Unlike the keys specified
+for all users in a network, indicators were selected by operators and
+changed with each message. Unfortunately for the Germans, they found no
+way to prevent their enemies from using those indicators to penetrate
+some of the \"E\" networks. The exploitation of the indicators was one
+of the most important ways that Poland\'s cryptanalysts entered the
+Enigma systems in the early 1930s.
+
+\(U) The Poles were helped by stolen documents and used many more
+approaches than the attack based on the indicators.6
+
+\(U) Only a Few Were Able and Willing to Tackle \"E\"
+
+\(U) Poland created what Stanford Hooper and William Friedman yearned to
+have in America: an office devoted to pure cryptanalysis. Poland\'s
+codebreaking bureau was able to recruit several bright young
+mathematicians who, as early as 1930, began to apply group theory and
+other advanced mathematical and statistical techniques to the German
+Enigma system. With the help of stolen documents provided by the French,
+the Poles began to understand and then penetrate the Enigma. They
+
+M6HT SOCMfS
+
+
+
+
+
+were reading many German systems by the mid19308. By supplementing their
+mathematical analyses with the weaknesses of some of the operational
+uses of the Enigma, such as repeating the indicators for a message or
+picking keys in a nonrandom way, the Poles were able to avoid using
+brute force searches that tested every possible \"E\" setting. They even
+learned how to avoid using data-heavy statistical analysis. A
+significant and fundamental discovery by the Poles was that the
+forbidding and seemingly impregnable plugboard was irrelevant in some
+cryptologic contexts. The discovery about the plugboard reduced the
+number of tests needed to identify an Enigma\'s setup by millions.
+
+\(U) The Poles Automate Cryptanalysis in Their Special Way
+
+\(U) The Polish group also called upon automation in the early 1930s.
+Much work and genius went into the invention of an electromechanical
+machine, the Cyclometer, which automatically generated all the patterns
+produced by various Enigma settings. The Cyclometer was not a
+statistical machine or a device that could lead to a modern computer,
+however. It was an electromechanical rig that produced a card catalog so
+analysts, in just a few minutes, could go from the indicators in a
+message to the Enigma setup.
+
+\(U) In 1938, to meet a change in the way the Enigma\'s settings were
+communicated, the Poles invented their version of an electromechanical
+automaton, the Bomba.7 The Bomba was a set of linked Enigma machines
+that tested for the letter cycles produced by the setting indicators in
+Enigma messages.
+
+tS\^JOne explanation for the use of the strange name, Bomba, is based on
+the mechanical crudeness of the first Polish machines. To save precious
+construction time and parts, when the Bomba found a hit, a weight on the
+side of the machine
+
+was dislodged and dropped to the concrete floor with a very loud
+\"bang.\"8
+
+\(U) The special-purpose Bomba was based upon a negative logic and used a
+special \"crib\" composed of the message indicators. The Bomba\'s goal
+was to eliminate the wheel orders and wheel positions that could not
+have produced the letter-to-letter cycles in an indicator.
+
+\(U) The Poles had constructed six of the Bombes, one for each possible
+wheel order. That was adequate when the Enigmas came with only three
+encryption wheels to choose from. But just as the first Bombas were put
+into operation, the Poles had to face an increase in the number of
+Enigma wheels, then an alteration in the use of the \"E\" plugboard.
+Those changes demanded ten times the number of Bombas for a timely
+search. The Poles were too exhausted to produce so many additional
+machines. Their attempt to reenter Enigma through new statistical and
+hand methods was frustrated by a lack of manpower and time.9
+
+\(U) Keeping the Bomba Secret for Too Long
+
+\(U) When the invasion of Poland seemed imminent, and when the Warsaw
+team could not sustain its automation efforts, the Poles started to pass
+their secrets to their friends.10 It was not until late summer 1939,
+when the Poles had to have help in producing more of their vital overlay
+sheets and Bombas, that Britain and France were informed of how the
+Polish men had been able to read Enigma messages.
+
+CFS//SF) The British representatives were grateful for the information,
+but they also were very upset that they had not been told the secrets
+when they had met with the Poles in February 1939. Their anger almost
+led to a break between the two sets ofcodebreakers. One high-level
+British codeman, not realizing the Poles understood English, vented his
+frustration by berating them while in their limousine. Fortunately, the
+
+
+
+
+
+diplomatic skills of his countrymen calmed the Poles.\"
+
+\(U) Despite the affront, the Poles gave the Englishmen copies of the
+Enigmas they had reverse-engineered and told them of the many ways to
+identify the various German Enigma radio networks. But on the eve of the
+invasion of Poland, the Germans made several more shattering changes in
+their Enigma systems, which made Britain\'s task nearly impossible.
+After France was overrun, Britain was left with the responsibility for
+making a new beginning against the Enigma.12 To exploit both her own
+previous work and the gifts of the Poles, Britain expanded its
+Government Code and Cypher School (GC&CS) and established the now famous
+Bletchley Park.
+
+\(U) A Fresh Start against UE\"
+
+\(U) Despite the belief among many British influentials that the German
+code and cipher systems, especially their naval ones, would never be
+broken, Britain made a significant commitment to cryptanalysis. \^
+
+\(U) Teams of brilliant men and women were recruited from the
+universities to work on the various Axis systems. Alan Turing was only
+one of the Bletchley wonders who were recognized experts in mathematics
+and logic.14 Under intense pressure, by 1940 he and others at GC&CS
+began to create the many invaluable techniques and electrical devices
+that eventually gave birth to the Ultra Secret. For example, the first
+Bletchley version of its Bombe was in operation in early i940.The next
+important configuration, with the ingenious diagonal board for the
+critically needed simultaneous testing of plugboard settings, was
+running by August. 15 That TuringWelchman Bombe of 1940 was a cousin,
+but a very distant one, of the Polish Bomba.
+
+\(U) Turing explored many varieties of possible solutions, hoping to find
+one that would withstand changes in\"E\" and its usage. Although
+
+actively seeking pure methods to attack the Enigma, Turing eventually
+had to accept the use of a dependent and near brute force approach.\'6
+
+\(U) At first he thought he had discovered a relatively pure method. In
+1939 when he went to the naval section at Bletchley Park, Hut 8, Turing
+sought a robust and universal means of attack. After learning as much as
+possible about Enigma, he called on his knowledge of statistics and
+probability. He arrived at a method quite like the one Wenger and Bush
+had chosen for the Comparator, the Index of Coincidence, The name given
+to his cluster of statistical methods was \"Banburismus.\"
+
+■fPS-J-Turmg focused his statistical powers on the German naval systems
+because they had been the most intransigent. He thought that if his
+\"Banburismus\" methods proved of worth against them, they could be
+generalized to all cipher machine systems.\'7 The general logic of
+Banburismus was, like the IC, based on the statistical characteristics
+of language. The goal of both approaches was also the same: to identify
+messages that had been enciphered with the same \"key\" or machine
+setting. Once such a \"depth\" had been pinpointed, the machine setting
+could be found and the cipher messages turned into readable text.
+
+cW)-More than the logic and goals were similar. The techniques were
+essentially the same. Two messages that were thought to have been
+produced by the same key (as suggested by such evidence as the same
+callsigns and indicators), were placed one above the other. Coincidences
+were then counted and evaluated against the number expected by chance.
+The counting was repeated for each ofthe offsets. Turing even mechanized
+the process through the use of overlay sheets. Holes were punched in the
+sheets to represent the text. When the two sheets were superimposed, the
+coincident holes were very easy to identify. That allowed relatively
+unskilled labor to be used to tally the results. The overlap
+
+
+
+
+TOP 5E&HET//C0MIHT//REL TO UCA, AUG, CAM, rtBP flMn N7I »Y1
+
+method could also be used to exploit the information that could be drawn
+out of the indicators in the messages.
+
+CfiS) Turing went further with his ideas. He developed his IC-like
+approach into an elegant predictive system. His \"bans\" were
+statistical estimates of how likely it would be that two messages would
+prove to be of value in identifying the cipher keys. Such estimates
+allowed the cryptanalysts to make rational decisions about allocating
+their very precious time. They could concentrate their skills on the
+messages most likely to yield results.
+
+(■\'iS} Banburismus was Britain\'s initial method of attack on the
+German naval Enigma and continued as its most powerful tool until 1942.
+Helped by other techniques, such as \"scritching,\"18 it was the way Hut
+8 identified two of the three wheels used in an Enigma setting. Once the
+wheels were specified, the analysts could attack the other parts of the
+Enigma \"key.\"
+
+CSS\^ Unfortunately, while Turing\'s Banburismus was an advance on the
+state of cryptanalytic art, it was not strong enough to be a timeless
+and independent conqueror of Enigma. Its target of the early 1940s, the
+naval Enigma, was too rugged. The success of Banburismus depended,
+despite Turing\'s hopes, on knowing the contents of the very special
+\"E\" instruction sheets the German Navy used. From 1939 to the end of
+1942, when Banburismus was no longer employed against the naval systems,
+the British had to capture or, with a great expenditure of manpower,
+reconstruct bigram and other complex tables that were used to
+superencrypt the naval \"E\" indicators. Banburismus went blind several
+times when the Germans changed the tables.
+
+(TS//8I) As used against the naval systems, Banburismus was also
+dependent upon having a very large number of messages in \"depth.\" As
+many as 300 messages might be needed to allow
+
+the identification of the Enigma wheels.19 Even with enough messages,
+Banburismus needed more help.
+
+CTS//SI) Banburismus was elegant, but it was not self-sufficient. Wheel
+wiring had to be known, and \"cribs\" and much hand testing were
+required to identify the plugboard connections and wheel turnover
+points. 2° A very large investment had to be made in compiling a catalog
+of all the possible enciphernents of the German word for \"first.\" It
+was needed to supplement the statistical analysis with primitive
+cribbing. That \"Eins\" catalog drained the resources of Bletchley Park,
+but it did not prove as timesaving as hoped. Moving from the suspected
+location of the crib word \"Eins\" to the catalog entry for its possible
+setting and then testing to see if the key had truly been found were too
+demanding.21
+
+fK\*Hn near desperation, Turing turned to a full-blown crib approach. He
+relegated Banburismus to being an adjunct to his version of the Bomba.
+By 1940 he had designed a machine that was to be a high-speed,
+automated, and near universal \"catalog.\" His device would take any
+long crib and test it against all possible wheel settings of an Enigma
+and do it within minutes.
+
+\(U) Given the technology available to him, this rather crude method
+seemed the only alternative. Thus, while he explored the application of
+other statistical methods to the \"E\" problem, he sketched out a new
+Bombe.22 It used some of the ideas of the Polish Bomba, but the British
+Bombe and its logic were special.
+
+\(U) Turing\'s Bombe was an electromechanical analog of the Enigma.23 It
+was based on identifying logical contradictions as represented by flows
+of electricity. Its banks of interconnected highspeed \"E\" wheels spun
+until they found a setting that might have produced the crib setup on
+the machine. Like the Bomba, it needed to search through all the wheel
+settings, and it accepted the
+
+TOP CCrPCT»rr\>MIMT»PCI TH IICA, AIIQ CAM \^BD A Kin M7\| \^
+
+
+
+TOP OCOrcCTOOOMIHT/mCL TO IKA, AIJ?, CAM, GRff fthlfl N7I fOH
+
+consequences of relying upon a special-purpose machine.
+
+\(U) Turing\'s Bombe needed a great deal of prior information about
+German networks and their keys. His crib attack was premised on knowing
+the wiring and turnover pattern of each \"E\" wheel, and it needed
+insights into the plugboard and other settings of each Enigma net.
+Turing knew his Bombe could have been made as useless as the Polish
+machine if the Germans significantly increased the number of letters
+changed by the \"E\'s\* plugboard, if they stopped using stereotyped
+phrases at the beginning of their messages, or if they ended the
+practice of sending \"E\" messages on simpler cipher systems. He also
+knew that his machines would be expensive and that their construction
+would perhaps ask too much of Britain\'s manufacturers.
+
+(TO) Turing faced some stiff opposition when he requested that a program
+be funded. Although he explained that Banburismus would reduce the
+number of wheel combinations that had to be tested from more than 300 to
+fewer than thirty, thus calling for only a dozen Bombes, administrators
+at Bletchley had serious concerns.24 They did not want to waste money
+and time on the construction of a machine that had to correctly scan
+hundreds of circuits within a fraction of a second They knew the dangers
+in trying to construct a reliable machine that was to have ten miles of
+wire, a million soldered connections, and a clutter of mechanical parts.
+
+\(U) More than the machinery was at risk. To find the right kind of cribs
+for the Bombes called for the creation of a new and large group of
+analysts to constantly mine German intercepts for new leads.25
+
+\(U) Turing made his machine as universal as possible. Although it
+followed the logic of pointing to the wheel settings that could not be
+eliminated, it tested the settings against letter loops from within
+relatively long plaintext phrases
+
+(cribs) in messages. Relying upon words within messages rather than
+indicators guaranteed a longer life to his Bombes and promised fewer
+false drops.
+
+\(U) A bit of luck made the Bombe even stronger. Before Turing had
+finished his design for a machine to attack the three-wheel Enigmas, a
+young mathematician appeared at Bletchley Park whose insight multiplied
+the Bombe\'s abilities. Gordon Welchman\'s suggestion for the \"diagonal
+board\" allowed an instantaneous test for the influence ofthe plugboard
+setting and allowed the effective use of relatively \"weak\" cribs, ones
+without long letter loops.26
+
+\(U) Analog and Parallel May Be Fast, But\...
+
+\(U) Although electronics was tempting and although men like Turing knew
+that digital processing would become the basis for modern computers, a
+large number of machines had to be put in operation in weeks, not years.
+Britain needed working machines immediately. In late 1939 GC&CS\'s
+managers had to turn to someone who could produce immediate and
+sure-fire technical results. They found the right man: \"Doc\" Harold
+Keen, the head engineer at Britain\'s version of IBM, the British
+Tabulating Machine Company. Keen built a prototype in a few weeks and
+was able to begin sending some operational Bombes to GC&CS in a few
+months. One reason for his fast work was the use of standard,
+tried-and-true parts and analog logic.
+
+\(U) To match Turing\'s logic, Keen designed new five-inch commutator
+drums that were hard rubber and metal contact imitations of a double
+Enigma wheel.27 The drums were arranged in banks of three, each being a
+double analog of an Enigma scrambler unit. One wheel in each bank was
+run continuously, another moved after a full revolution ofthe first, and
+the last stepped after the other two had completed their cycles.
+
+
+TOP CECRETOCOMINTOREL TO UCA, AUB, CAM, GBR AND MZUX1
+
+
+
+\(U) As the Bombe\'s wheels spun over the commutator connections, they
+created instantaneous multiple electrical pathways through the other
+banks. Then the electrical charges went to the relays that matched the
+flows against the crib. At the same time, they surged through the
+Welchman diagonal board to test the assumptions about the setup of the
+\"E\" plugboard.
+
+\(U) In the first models a great deal was expected of the operators. To
+identify the wheel positions when a hit was encountered, they had to
+touch the relays. Eventually, a small printer was attached to the
+machines.
+
+\(U) Keen\'s engineering task was made more difficult by the need to test
+for another type of logical impossibility. To make the test, he had to
+pass the output of the wheels through the diagonal board. The diagonal
+board was a twenty-six by twenty-six matrix of resistors that
+instantaneously sensed inconsistencies such as two different input
+letters being enciphered into the same output letter.
+
+\(U) To test all possible wheel combinations against just one crib for a
+three-wheel Enigma called for at least sixty machines. The Germans ran
+dozens of systems, and only hundreds of Bombes could have provided
+unaided coverage of them all. Turing\'s method of reducing the number of
+wheel combinations that had to be tested was soon overwhelmed by
+improvements in the German systems and by the proliferation of
+encryption networks.
+
+\(U) Unfortunately, BTMC faced too many shortages of men and materials to
+keep up the early pace of production. Keen was able to send less than a
+machine a month to Turing during 1940 and 1941. In early 1942, the
+record was not much better. Bletchley had only sixteen bombes and
+production had slowed.28 To produce two of the Bombes a month stretched
+Britain\'s productive capacity. Bletchley Park was unable to build up
+enough of an inventory of them to seriously
+
+challenge any Enigma system until the end of 1942 and in the first days
+of 1943 GC&CS still had fewer than fifty machines.
+
+\(U) But it was not until mid-1942 that Britain\'s leaders decided to
+commit massive resources to the Bombe program. Only when they seemed
+essential to victory in Africa and to the safety of the Middle Eastern
+oil supplies was \"Doc\" Keen given new factories and a large workforce.
+That allowed BTMC to produce some 200 three-wheel Bombes by the end of
+the war.29
+
+\(U) Although Britain did not have much of an Ultra Secret in the
+critical months of 1940-41, she wanted to keep what she had to herself.
+Britain\'s codebreakers feared revealing their methods, even to the
+Americans, whose military aid had become essential to their nation\'s
+survival.30 They had a not unwarranted fear that sharing with America
+would lead to breaches of security and the demise of Ultra.31
+
+\(U) The World War II relationship between the British and American
+cryptanalysts began in confusion and mistrust. It took several years to
+reach workable accords, and the formal, longlasting agreements came
+after, not during, the war.
+
+\(U) The trust that became the foundation of the Cold War cooperation
+between the two nations did not come easily. There were critical months
+in late 1942 and mid-1943 when it appeared that what had been achieved
+since 1940 would be lost. The combination of British reluctance,
+America\'s divided armed services, misunderstood agreements, and lost
+messages almost led to an end to the joint intelligence program.
+
+\(U) Ask and Then Not Receive
+
+■4\$} Britain\'s leaders had begun making overtures about sharing
+\"scientific\" information as early as February 1940. When the
+suggestions reached the American Army and Navy codebreak
+
+
+
+
+
+ers, they did not reject the possibility of some sort of exchange. But
+Safford and his superiors in Naval Communications soon cooled to the
+idea, leaving William Friedman as the only advocate among the
+cryptanalysts.32
+
+\(U) Friedman could not deal face-to-face with the British; frustrations
+grew and there was a break in the negotiations. There may have been
+vague promises offull cryptologic cooperation between Roosevelt and
+Churchill in mid-1940, but they did not lead to any significant
+exchanges among the codebreakers.33
+
+\(U) Then after Britain began to send the United States Navy information
+on the disposition of German forces, it appeared that an agreement about
+an exchange of secrets was imminent34
+
+\(U) In September 1940 William Friedman drew up a detailed plan for
+cooperation between the two nations only to encounter a wary American
+navy that again blocked its implementation.
+
+-fj9}-But the navy did not have its way. The War Departments
+representatives made agreements for «fcll» exchange of information in
+December and exerted enough political pressure to sweep away the navy\'s
+objections.35 OP-20-G was given orders to cooperate. It was told to
+select two men to join an army and FBI team that was to sail to England.
+
+-(S}-The navy was unhappy about being forced to exchange its secrets in
+spring 1941. Then when the Americans concluded that what Britain was
+willing to show the Americans was much less than expected, some in the
+American cryptanalytic community became furious over the balance between
+what America gave to GC&CS and what it got in return.J
+
+\(U) Gave All and Got.,.
+
+\(U) The delegation of American cryptanalysts from OP-20-G, the army\'s
+SIS, and the FBI had sailed for England in late January. They handed
+over two extremely valuable analogs of the Purple machine for the
+Japanese diplomatic ciphers, two copies of another Japanese enciphering
+machine, and all the other keys to the top secret Magic system. In
+addition, all that the United States had on major Japanese attache,
+navy, and consular codes was surrendered. As with the Purple machines,
+giving those paper copies of the codes to Britain meant fewer were
+available to America\'s own codebreakers.37The American generosity did
+not end there, however. Britain was promised a continuous flow of
+cryptologic information, including the American Coast Guard\'s methods
+of tapping the German clandestine systems.\"38
+
+\(U) In return, GC&CS opened its doors and made the American visitors
+feel quite welcome. But it gave them very little of real value, at least
+about \"E.\"
+
+£ES//SI) At first the Americans thought the British were completely
+open. Although the Americans were told to pose as Canadians, they felt
+that few restrictions had been imposed on them. They accepted the order
+against taking any notes on what they were shown and took having to sign
+a binding security oath as reasonable.
+
+-fS\^-They felt they had been told all about the British attack against
+Italian, South American, and Russian systems.39 GC&CS also shared its
+work on Japanese naval systems. And the Americans were shown the Bombe.
+The navy\'s men were given a paper version of an Enigma, were handed a
+copy of a few days\' worth of old keys, and given a part of a \"short\"
+catalog.
+
+\(U) The army\'s representatives were given similar information, and they
+and the navy men were informed of the earlier successes against the
+
+
+TOP SFrBFJTWCOMIMTORiL TO USA, AU6, GAH, GBR AND UOJIKi
+
+
+
+German air force\'s \"E\" and the system Germany had used during the
+Norwegian campaign.40
+
+\(U) What they did not get was what many had thought the trip across the
+Atlantic was really for, the cryptanalytic keys to the naval Enigma. The
+Americans did not obtain an Enigma machine or enough cryptanalytic
+information to allow the United States to break into the submarine \"E\"
+on its own,
+
+4«
+
+\(U) What Happened After
+
+\(U) Although the American visitors to Bletchley Park may have left too
+soon to be told of the successes of mid-1941, the British could have
+been much more open than they were during the remainder of the year.
+
+fGS\* Despite GC&CS\'s proclamation that full cooperation was in force,
+the American navy men had not been given an adequate explanation of the
+logic of the Bombe during their visit, were probably not indoctrinated
+into Banburismus, and were told little about the art of obtaining cribs
+for the naval Enigma attack.42 The FBI and army representatives were
+also not told all.
+
+TFS-)-A U. S. Navy historical report on the \"E\" problem stated:43
+\"Prior to the outbreak of the war with Germany, the nature of the
+German machine employed by the Atlantic U-boats was known in that the
+British had supplied to this Division diagrams of the wiring and the
+wheels of the device, together with a description of the way in which it
+moved. Beyond this and some few examples of plain text, nothing was
+known as to the usage of neither the device nor the method in which the
+keys could be recovered. It was then known that the British had
+conducted a successful attack, but the details of it were unavailable to
+the American Navy, due to the reluctance of the British to discuss the
+same.\"
+
+(T3//0I) The desire of the British to safeguard their secret powers was
+reflected by their failure
+
+to communicate the news or details of their achievements to the
+Americans after March 1941. Little cryptanalytic information crossed the
+Atlantic although some vigorous protest came from OP-20-G beginning in
+July 1941.44 Even a visit to America in late summer by a very important
+British cryptanalyst did not lead to the Americans being told of the
+ways to attack \"E.\" 45
+
+\(U) Trust Builds Very Slowly
+
+\(U) For a year after the American delegation left England, there were
+few direct contacts between the two nations\' cryptanalysts. There were
+some negotiating sessions about the range and degree of cooperation, but
+during the remainder of 1941 it seemed to many Americans that Britain
+became less, not more, willing to yield its growing pool of Enigma
+secrets.46
+
+(TS) The situation became quite tense by November. OP-20-G\'s men
+convinced the Director of Naval Communications to send a very strong
+protest to England. He told GC&CS he thought that the earlier agreement
+was not being fulfilled and demanded an immediate flow of cryptanalytic
+information. The British responded with true diplomacy explaining that
+all that had been promised had been sent to the United States and that
+it would be impossible for them to send everything that the American
+navy \"might\" want. It was better, they said, for the Americans to
+request specific information. Then if the British judged it was really
+of import to the United States, it would be sent. A quite similar
+message was forwarded to the American army. Although England began to
+send information on German diplomatic systems to Friedman\'s group,
+England continued to keep its \"E\" methods a secret.47
+
+\(U) Agreements and Agreements and Agreements, But\....
+
+(T0//0I) OP-20-G was, of course, very unhappy about being required to
+ask for specifics; they did not know enough to compile a list. But the
+
+
+
+
+
+tension was relieved by some end-of-year exchanges. When Laurance
+Safford finally received some replies to his earlier inquiries, when
+Britain hinted they would soon send a copy of their \"machine\" and a
+technician to America, and when GC&CS apologized for losing some
+American letters within its bureaucracy, \"G\" sensed it was going to be
+made a full cryptologic partner.48
+
+\(U) Under some prodding from the United States, additional agreements
+were made in early and mid-1942, ones that began to move the two nations
+toward a level of unprecedented cooperation. Then the sweeping October
+1942 accords eased some tensions raised by an American navy threat to go
+its own way on Enigma. After that, the BRUSA pact of May 1943 was a
+major step toward openness with the army.49
+
+\(U) But it was not until the UKUSA agreement of 1946 that the two
+nations forged that unique relationship of trust that was maintained
+throughout the Cold War.50
+
+\(U) There were more than a few frictions on the road to BRUSA and UKUSA;
+during 1942 and 1943 the British were slow to reveal all about Ultra,
+especially during 1942. The American cryptanalysts had interpreted the
+agreements of 1941 to mean that Britain was to share all and that
+America was to become a full partner in Ultra. Although negotiating
+separately, both \"G\" and the SIS concluded the same thing. They
+expected that Britain would give them all they needed, if they wished to
+read \"E\* systems. A copy of the British Bombe designed for the older
+three-wheel machines was expected by \"G\" before the summer of 1942,
+and some Americans thought that all British information on new Bombes
+for the naval four-wheel Enigma would be immediately sent across the
+Atlantic. The British did not seem to agree.
+
+\(U) Going Separate Ways?
+
+(T0//0I) When \"G\'s\* frantic February 1942 plea for help against
+Enigma in the Atlantic did not get a response, tempers flared again.
+OP-20G\'s new commander, Captain Redman, under intense pressure from
+Admiral King to do something about the Atlantic submarine crisis,
+concluded that GC&CS had been giving America the \"runaround.\" It did
+not take him long to secure permission to begin another and very
+determined series of negotiations with the British. With Joseph Wenger
+at his side, Redman began to make it very clear that unless cooperation
+began immediately, the American navy would go its own way despite any of
+the danger that two uncoordinated attacks on Enigma might pose.
+
+\^JS\^ When the Americans came to realize that the U-boat commanders had
+made a radical change in their \"E\" systems and that the British claims
+of imminent reentry were far from true, they began to take action. Sl
+
+fTO) ■Britain sensed there was a crisis and decided to send one of its
+most important codebreakers to America. He was told to calm the
+Americans without, however, giving them GC&CS\'s great secrets. When
+Colonel John Hitman arrived in April 1942, he found it impossible to
+agree with official British policy. The American navy\'s codemen were so
+adamant and their threats to go their own way were so credible that
+Hitman advised England that it must yield.52
+
+(\'ESKThe final breakthrough seemed to come in May 1942. Promises came
+from England that a Bombe and a technician would be in America before
+autumn and that men from \"G\" would be invited to Bletchley
+Park.53There was some hope that the American army\'s cryptanalysts might
+be allowed into the \"E\" circle. GC&CS signaled that it would accept
+some help from Leo Rosen, SIS\'s electronics expert.54
+
+
+top ocoRCT/fooMiNTy/RCL TO USA, aus, can, obr aiib mzu/xi
+
+
+top qi:gri:t//comint//rcl to uoa, auo, can, odr and nzu/xi
+
+TK\>}- But the May promises did not end American suspicions, nor did
+they lead \"G\" to trust the solution of\"E\" to the British. Adding to
+the tensions, there was disagreement over the details of when and how
+\"G\'s\" experts were to be allowed back into Bletchley Park. Then, when
+a copy of the latest English Bombe was not shipped to America on
+schedule, when it took six months of requests to obtain promised
+blueprints, when Britain kept insisting that the United States work only
+on Japanese problems, and when it was clear that England did not want to
+give anything to the SIS, some American codebreakers again became very
+skeptical of British intentions.
+
+T\^S) The suspicions led to action. Despite the recent accords, in
+August 1942 OP-20-G felt it had to protest about the failure of the
+British to keep their promises. Also, the relations between SIS and
+GC&CS became very tense. The armyBritish relationship became so strained
+that protests reached the White House.55
+
+\(U) America without an Ultra
+
+\(U) At its entry into the war, OP-20-G had only the most rudimentary
+knowledge of the Enigma and was not at all sure about the contours of
+the new U-boat system.56 Some disgruntled American officers blamed
+Britain\'s unwillingness to share, but the reasons why American
+cryptanalysts were helpless lay in America, not Europe.57
+
+\(U) Since the turn of the century, America\'s strategic planners had
+seen Japan as the enemy. Some in the American military did worry about
+Germany, but it seemed beyond imagination that France and Britain would
+be unable to contain her on the continent. Few thought they would fail
+to block Germany\'s navy and air force from making the Atlantic unsafe
+for America. The concentration on Japan led to another dangerous
+assumption: No matter what the enemy did, the United States would have
+the time to prepare itself for war.
+
+\(U) Those assumptions were accompanied by ones about the nation\'s
+economy. Fundamental was that American industry would automatically
+provide any great technological advances needed by the military. It is
+no wonder that the calls by men such as Hooper and Bowen for ongoing
+research and Bush\'s drive to establish government-sponsored science
+remained largely unanswered.58
+
+\(U) Despite a lack of resources, by spring 1941 American naval ships
+were involved in dangerous scrapes with German U-boats in the Atlantic.
+By autumn the Americans were ordered to escort England-bound convoys.
+
+\(U) OP-20-G was as unprepared as the rest of the navy. To fulfill its
+obligations in the Atlantic, it expanded its interception net. To please
+England, it put most of its men on tactical analysis rather than
+codebreaking. At the same time, the navy\'s cryptanalytic ally, the
+Coast Guard, launched an attack on German clandestine messages. But the
+spy messages and the bits and pieces from some cracks in the German
+diplomatic systems yielded little about the German navy. OP-20-G had no
+effective Atlantic cryptologic power, and the navy had to rely upon
+British supplied intelligence.59
+
+\(U) When the U-boat command changed its Enigma and Hitler unleashed his
+American war, OP-20-G\'s cryptanalytic weakness became intolerable. When
+it was realized that Britain was closed out of the U-boats\' new M4
+Enigma Shark system and as Britain seemed more interested in the German
+army and air force systems, OP-20-G decided to find its own way to
+penetrate Enigma.
+
+\(U) An American Ultra, Perhaps
+
+(T0//0I) In spring 1942 the American navy was ordered to start forging
+its own \"E\" capability. Despite the crisis in the Pacific and the old
+hopes of building general-purpose computers, Howard\'s men and those in
+\"M\" were ordered to
+
+
+
+
+
+focus on the Atlantic Shark problem and to produce an immediate
+solution.60
+
+\(U) When the decision was made to create its own \"E\" solution, OP-20-G
+was very short-handed and had to turn much of the work over to
+Engstrom\'s group of college men in the \"M\" section. 6l They began
+with few tools and the burden of Britain\'s fears of an independent
+American Ultra capability.
+
+\(V) Faster Than a Speeding Relay
+
+\(U) Bletchley Park\'s very overworked men had let almost a year slip by
+without focusing significant resources on a Bombe for M4, the fourwheel
+U-boat Enigma.62 The Germans\* introduction of additional encryption
+wheels an operator could choose from also presented a great challenge.
+Changes in the related German codes, radio networks, and procedures
+compounded the problems.
+
+\(U) GC&CS called on the famous WynnWilliams and asked him to explore the
+use of electronics for a super-bombe. Williams spent many frustrating
+months trying to create an electronic Bombe, His efforts stretched into
+spring 1942 with little more to show than a breadboard model of a
+primitive \"E\" wheel. While he was asked to make a fresh start on his
+ideas, GC&CS turned back to \"Doc\" Keen and BTMC. Immediately the
+pragmatic Keen rejected an electronic solution and began to give some
+thought to alternatives.63 He created the outlines of a new four-wheel
+Bombe but advised GC&CS that it might take more than a year to design
+and build the first model.64 His prediction proved correct. Britain
+would not have the first of its very few temperamental electromechanical
+four-wheel Bombes until early summer 1943.65
+
+\(U) Great British Expectations
+
+\(U) Meanwhile, Wynn-Williams continued to plod along with his ideas; by
+midyear he began to
+
+construct a prototype of his Bombe. To his disappointment, it had to
+rely as much on mechanics as on electronics.
+
+™(T0//01) Williams had decided to build a
+
+complex attachment for the regular three-wheel British Bombes. His Cobra
+was to be a large box that was to contain his new high-speed electronic
+wheel and newly designed control and \"hit\" location devices. At first
+he bet that he could coax electronics to do the entire job. It took a
+long time to admit even partial defeat, but he had to back away from his
+original plan. He turned his Cobra into a combination of very high-speed
+commutators (3,000 rpm) and electronic memory and control circuits.
+
+ffl)//SI)- The compromise did not lead to immediate success, however.
+Williams had asked a great deal of electronics and mechanics. The Cobra
+was planned to be exceptionally fast. In addition to the tube circuits
+and the new wheels, run time was to be shortened by recording \"hits\"
+without stopping the Bombe. All that was too much for Williams\' small
+team. His first machine had to suffer the indignity of a thorough
+reworking at the end of 1943 before it had done any operational work.
+Although a dozen of his new Bombes were eventually employed in England,
+they remained temperamental.66
+
+\(U) Great American Expectations
+
+\(U) While Williams and Keen were rushing to find their technological
+answers to the M4, GC&CS learned of America\'s Ultra intentions.
+Frightened by what it discovered, in spring 1942 it rushed a group of
+its leaders to the States hoping to reach an understanding that would
+protect its Ultra monopoly.
+
+\(U) March 1942 saw Britain strike the first of a series of new bargains.
+It assured OP-20-G that Shark was about to be beaten, and it agreed to
+share more Enigma information with the navy. In exchange, it asked \"G\"
+to concentrate on the
+
+
+
+
+
+Japanese problems and let Britain manage European intelligence. The
+Americans desired cordial relations with the British, but they would not
+abandon Enigma. \"G\" agreed to cooperate but stood by its commitment to
+an American program.
+
+\(U) Despite two years of \"understandings\" with the British, OP-20-G
+launched into its own Enigma and Bombe programs without a true
+understanding of the Atlantic Enigma or the British Bombe. The historic
+OP-20-G directive of April 1942 gave a very incomplete view of Enigma,
+Shark, and the British Bombe. America\'s experts were able to outline
+only the workings of the older three-wheel plugboard version of Enigma,
+and they seemed uncertain about a key component, the reflector.
+Furthermore, OP-20G\'s memorandum contained only the most general ideas
+about the British Bombe\'s logic.67
+
+\(U) While waiting for the promised information from England, \"G\'s\"
+men were told to define a true American Bombe. Given all they did not
+know about Turing\'s and Welchman\'s methods and machines, the first
+plans for the American Bombe do not seem too bizarre.68
+
+(TS//SI) OP-20-G made Howard Engstrom\'s young men responsible for the
+Bombe project. The closest \"G\" had to an Enigma expert, Lieutenant
+Commander R. B. Ely, was charged with devising the logic of the machine.
+After reviewing all the methods he knew to attack \"E,\" he suggested
+that \"G\" might have to turn to a cribbased approach.
+
+(TS//SI) Ely, armed with only a few hints about how the British machine
+worked (gained through some test problems the British had previously
+sent over), independently arrived at a primitive version of the
+architecture Turing had designed three years before. As soon as he was
+able to sketch the logic of his machine, he sought an engineer. Not
+unexpectedly, one of the young men from MIT was selected.
+
+(TS//SI) John Howard was asked to solve the hardware and manufacturing
+problems. While Howard discussed possibilities with men such as Joe
+Desch of NCR,69 Ely asked for help from others in Engstrom\'s section.
+He wanted assistance to check his ideas against cryptanalytic needs. And
+he wanted help finding, if it was possible, an architecture for a
+computer more universal than Turing\'s. Soon Ely\'s original ideas were
+reshaped.
+
+(TS//SI) The conception of what the American navy\'s Bombe would be was
+logically primitive but technically grandiose. In spring 1942 \"G\'s\"
+men knew so little about the Enigma systems they did not include the
+important instantaneous stecker setting tester in their design, and they
+thought their machine could use permanently fixed \"wheels.\" As
+important, they thought they would have to have either a separate Bombe
+for each of the wheel combinations and permutations or one truly giant
+machine.
+
+(TS//SI) Apparently, as late as early summer 1942, Britain had not
+informed them of the \"diagonal board,\" the many methods its
+codebreakers had devised to reduce the number of wheel combinations to
+be tested, nor how many different wheels the Germans made available with
+the M4. \"G\" did not know that the British had found it wise to leave
+tests for Enigma ring-settings and wheel starting-points off their
+Bombes.70
+
+(TS//SI) \"G\'s\" technical visions were far from backwards, however. As
+soon as the idea of an American Bombe had emerged, electronics became
+the focus of attention. A breadboard model of a \"wheel\" was begun.
+Completing it would not be easy because the Enigma wheel was difficult
+to imitate, and constructing a universal one was a daunting task.
+Cloning one wheel with known wiring meant having twenty-six tubes
+connected to twenty-six others and having a rack of supplementary
+circuitry. A universal \"wheel\" needed 26 x 26 tubes and all the
+circuitry needed to switch them as needed to imitate any of the possible
+wiring connections.
+
+T\*» iMTTiinn Tiinn in i.on »nc- r\^n /jffrf ftHP M7I ffv1
+
+
+
+
+(T0//GB But Howard and the other navy engineers were so confident about
+electronics that as early as April 1942 Wenger was informing the British
+that American electronics might save their Bombe program. The faith in
+an electronic solution continued well into the summer, and some thought
+the American Bombe might turn out to be a single high-speed and complex
+tube machine that would do as much as or more than all of the British
+mechanical monsters.71
+
+CRD//0I) Such a machine could save much time because it would also
+automatically reset the wheel(s) for each run and would never have to
+stop to record \"hits.\" It was to have a high-speed system to
+photograph the diagonal board and a set of counters that would record
+the wheel positions at each hit.
+
+CBS//SJQ Those time-savers were secondary, however. What was important
+was the speed of electronics. In early spring it was thought that the
+American Bombe could do its job if it performed 10,000 tests a second.
+Faith in the machine\'s speed was necessary because it was going to be
+asked to do much more than Turing\'s Bombe. It would test for the some
+300 possible wheel orders, the 440,000 \[sic\] stecker possibilities,
+and the ring settings.72
+
+(TB//St-) Soon it was realized that even greater faith in electronics
+was required. When the run time for all that was recalculated, the need
+for much faster electronics was realized. Given the way the Americans
+were designing their Bombe at the time, one large one, a feasible
+machine called for circuits that could make millions of tests per
+second. That kind of speed was far beyond the electronics of the 1940s,
+but there was no indication that frightened the Americans. They had such
+engineering optimism and knew they could command so many resources that,
+if one electronic machine would not do the job, perhaps 300 or so of
+their special electronic \"dibbers\" could be built.73
+
+\(U) While Engstrom\'s men were exploring their options and while they
+waited for the expected flow of information about the Bombe and allied
+methods from England, WG\" continued on with its fight to achieve
+Wenger\'s old dream of using pure techniques. OP-20-G\'s new college men
+intensified their search for advanced pure statistical and mathematical
+methods and machines. Hypo, Tessie and the Comparator were still seen as
+general- rather than special-purpose alternatives.
+
+\(U) But as summer arrived, the crew at \"G\" started to become angry and
+worried. Little helpful information had come from England, and the two
+men OP-20-G planned to send to Bletchley Park were not scheduled to
+leave until July.74
+
+fSf/SB-GC&CS was being more open with the Americans and informed them of
+the Fish systems. But Britain\'s codemen still seemed to hold back on
+the Bombes and what was necessary to their success, the methods of
+finding surefire cribs. Although offering GC&CS full information on all
+the advanced high-speed cryptanalytic machines it was developing,75
+OP-20-G was made to wait for a reply to its specific requests and for a
+clear statement of British policy on cryptanalytic cooperation.76
+Especially frustrating were the delays in providing Bombe details.
+Requesting blueprints of Britain\'s \"latest\" machines in May, the
+Americans hoped their examination would prevent them from committing to
+an American Bombe that was inefficient or simply unworkable. The prints
+did not arrive as promised.
+
+(3S//SI) The Americans were under too much pressure to accept the
+continued stream of British \"excuses.\" By the time Ely and Eachus were
+ready to depart for GC&CS, Joseph Wenger and his superiors became
+convinced that Britain would never finish the four-wheel Bombe they had
+promised to have working by mid-1942. Worse, they thought that the
+British had not lived up to the agreements that had been made since
+America entered the war. Less than guarded
+
+
+
+
+
+\\
+
+words were used in some of the exchanges between \"G\" and England.77
+
+(TS//SI) The British reacted to the American protests by sending more
+information, hoping that \"G\" would reverse its decision to build its
+own anti-Enigma capability. OP-20-G gradually learned more about
+Britain\'s cryptanalytic methods, including those used to avoid testing
+all \"E\" wheel combinations. And when the two men from \"G,\" Ely and
+Eachus, reached Bletchley Park, they began shipping home the detailed
+information the navy had sought for the last two years.
+
+-(S//SI) But the Americans remained very worried. They feared they would
+be unable to build their more universal machine or their own version of
+the English Bombe. Worse, OP-20-G\'s leaders deeply feared that even if
+they built such a Bombe, they would always remain dependent upon Britain
+for the necessary copies of captured \"E\" wheels, codebooks, and
+cribs.78
+
+\(U) Trying to Step Foruiard, Not Back
+
+\(U) A few atOP-20-G were convinced that America could beat England\'s
+famed WynnWilliams to a super-high-speed electronic machine, but others
+in the OP-20-G group were less sure of an independent American success.
+
+\(U) Although Ely and Eachus were sending back important information, the
+navy continued to have to formally request much on the English Bombe and
+the emerging new solutions to the Enigma systems. More fundamental, by
+the end of the summer the Americans became concerned that Britain would
+never devote enough resources to the Atlantic U-boat problem.79 There
+was some foundation for the American anxiety.
+
+\(U) Britain\'s Own Version of Bush\'s Electronic Dreams
+
+(T0//0T) Tnlate spring 1942, as part of the reallocation of GC&CS
+resources, Wynn-Williams
+
+was asked to turn his Bombe work over to someone else and to take on
+another job: devise a highspeed engine to crack the binary additive
+system of the Fish machines. He agreed, and while continuing on with his
+electronic Bombe work he designed the first of the Robinson rapid
+analytic machines.80 Very soon, the designs were turned into hardware,
+electronic hardware.
+
+(TOf/Ol) The first Robinson (Heath) was delivered in early 1943, well
+before any of the newest models of Bush\'s Comparators reached
+OP-20-G\'s headquarters. They were based on a statistical attack, not
+the type of crude crib-bashing of the Bombes.81 Robinson used high-speed
+punched tapes, photoelectric readers, and some one hundred gas-filled
+tubes to keep track of results.82 The Robinsons shared something else
+with Bush\'s machines, the very serious problem of keeping the tapes in
+alignment. There were differences, however. The Robinson\'s target was a
+binary additive system. That called for a different use of the tapes.
+One tape was for a message; the other held the stream of \"key.\"
+
+(T0//0I) Fortunately for the British and the history of computers, that
+binary stream presented an opportunity to avoid the difficulty of
+aligning the tapes. When it was realized that the second Robinson tape
+was a stream of algorithmgenerated bits, it was suggested that a machine
+be constructed that substituted tube circuits for the additive tape.
+Reckoning that the number of tubes needed for the generation of binary
+combinations was reasonable, GC&CS gave the green light to construction
+of the Colossus.83
+
+\(U) The Colossus was something of a miracle of project management. It
+took less than a year to create what many consider the finest electronic
+pre-computer. Colossus kept 2,500 tubes and a high-speed photoelectric
+paper tape reader in synchronization. It could even be coaxed into
+performing some primitive program steps and \"if statements.
+
+
+
+
+
+(TO//OI) Colossus was very smart. It followed some ofTuring\'s maxims
+about how to save search time. It had an electronic circuit that polled
+its counters to see if the results of the run were building to a
+significant outcome. This \"sigmage\" circuit saved hundreds of hours of
+machine and analyst effort. It also prevented Colossus from printing the
+result of every pass of the tapes, something the wasteful Comparators
+and the first Robinsons could not do.84
+
+\(U) The first of more than ten versions of Colossus was put into
+operation in January 1944-85
+
+\(U) The Americans Almost Beat England to Electronics
+
+\(U) The U-boat rampage in the Atlantic led to extreme criticisms of the
+American navy while the army was becoming worried that its men would go
+into battle in Africa and Europe without an\"E\" capability. Politically
+dangerous, Britain was giving them far less than the already meager
+ration of Enigma information it was providing the navy
+
+\(U) Responding to all the various pressures, OP-20-G put even more
+resources into its frantic effort to conquer the U-boat \"E,\" and the
+army began to think of the machines it might need for what it called the
+\"Yellow Problem.\"86 The army\'s SIS had difficulties obtaining
+information and resources and did not launch a machine program until the
+fall, but at the beginning of summer 1942, OP-20-G hinted it had a
+solution to the M4. Within another two months it announced that its men
+had beaten Britain and the great WynnWilliams to the creation of the
+heart of a fully electronic Bombe.87 The circuit wasn\'t the universal
+machine \"G\" wanted, but no time was lost in trying to exploit the
+development. NCR was taken over by the navy to be a research center and
+possibly a production site. John Howard\'s old group became an integral
+part of Howard Engstrom\'s
+
+::: {style="width: 41.647058823529406%;"}
+:::
+
+\(U) Colossus
+
+\"M\" as it was reorganized to oversee the electronic Bombe work at NCR.
+
+\(U) Wenger, Engstrom, and their like had to show some results.88 The
+Bombe became important to \"M\'s\" survival as well as to the Battle of
+the Atlantic.
+
+\(U) No Time for Electronic
+
+\(U) In late summer 1942 the engineers of the \"M\" group decided their
+work was far enough along to submit it to an experienced production
+engineer for examination. Of course, they turned to Joe Desch. He spent
+almost two months examining their bench model and their designs for an
+electronic Bombe.89 He came to a devastating conclusion: An electronic
+Bombe was an impossibility!90 A universal machine would need thousands
+more tubes and even higher speeds. The
+
+
+
+
+
+thousands of tubes would be difficult to acquire, would create too much
+heat, and would demand more electrical power than could be supplied.91
+
+\(U) A Crisis of Organization and Technology
+
+\(U) Desch commanded so much respect that the responsibility for a new
+design was shifted to him. Necessarily, he was informed of one of
+America and Britain\'s great secrets, Ultra. After additional study of
+what was known about the Turing Bombe, he promised that he would be able
+to produce an electromechanical machine that could tackle the Shark M4.
+He declared he could create an original American Bombe but a
+nonelectronic one.
+
+\(U) Immediately, anew effort, the second American Bombe project, was
+begun. As a result, Wenger\'s dream of a Rapid Machine program was
+saved. For most of the remaining war years, the electromechanical Bombes
+devoured the energies of \"G\'s\" engineers. To fulfill the commitment
+to Desch\'s necessary backward technological leap, all the truly
+advanced projects and ideas were made stepchildren.
+
+\(U) The second American Bombe project almost faltered, but it eventually
+became a triumph for OP-20-G and the American intelligence community.
+The success of the Bombes and the Allied work on machines for the
+Pacific war finally established the credibility Wenger needed to try to
+make research a permanent part of OP-20G\'s peacetime operations.
+
+\(U) Searching for a Place in Ultra
+
+\(U) The second American Bombe project was part of an attempt to readjust
+the relationship between Britain and America\'s codebreakers. Desch may
+not have known it, but his Bombe was essential to OP-20-G gaining a
+greater role in the Ultra Secret and to becoming a producer of
+operational information. Without an American Bombe, the United States
+would have remained a
+
+consumer of British-controlled Ultra information, and OP-20-G would have
+continued under the old understanding: Both nations could pursue
+independent (unaided) research, but Britain would control all
+operational activities. Although Britain had begun to ask for American
+help on the Atlantic problems, with the failure of the second Bombe
+project it would have been very reluctant to make OP-20-G an equal
+partner.92
+
+(TS//0I) The friction with Britain over Ultra intensified soon after the
+approval of Desch\'s sketch of a modified British machine. The navy\'s
+men became intolerant of what they considered broken promises by the
+British about their fourwheel Bombe.93 OP-20-G more than hinted that it
+would build as many as 350 of the Desch machines before spring 1943 when
+the U-boats were expected to launch a mass attack. America was notifying
+Britain that no matter what it took, the United States would win the
+U-boat war.94 The Americans declared they intended to build enough
+machines to test all Shark wheel orders simultaneously.95
+
+\(V) The Power of Innocence
+
+\(U) Given all that the Americans did not know about the Bombes and all
+that was required to make them useful, miracles were required. Joseph
+Desch\'s first description of the proposed \"G\" Bombe and its powers
+reveals how much the American Bombe program was based upon the type of
+optimism that comes from innocence, if not ignorance.
+
+9\*
+
+-ffS//0I) Some ofthe detailed plans ofthe three-wheel British Bombes had
+begun to reach the United States in late summer 1942, but Desch\'s
+design was his own. He had begun his plans before the British had
+revealed more than the bare essentials of their machine and the
+cribbased \"menus\" that made it work. \^ And he arrived at his first
+design before he had been able to test his assumptions about the way the
+essential components of his Bombe would behave.
+
+TOP OCOrCTJ/OOMINTORCL TO UGA, AUG, CAM, GBR AMD HZL//X1
+
+
+
+TOP OCORCTOCOMINT/mEL TO USA, AUS, CAM, QBE AND NZU/XI
+
+£S//SI) Desch\'s plans were technically optimistic. He thought it
+possible to create a drive system that could keep twenty-four
+double-ended Enigma analogs (ninety-six commutators) in perfect
+synchronization, A large electric motor would drive a high-speed shaft
+that would directly turn the shafts for the fast wheels. Gears, machined
+for complex ratios, would connect the high-strength rods for the slower
+wheels to the main shaft. The gears and shafts had to be of the highest
+quality material and workmanship to stand the stress placed on them when
+the machine suddenly stopped and restarted.
+
+fS\^That was one unique feature of the proposed American Bombe that
+would put Desch\'s faith in mechanics to a severe test. He proposed an
+automatic stop, rewind, and restart system. That would save critical
+running time and, as important, avoid having the machine\'s operators
+having to hand-crank the device when a \"stop\" was sensed.
+
+£S/-/SI) Once the testing circuits identified a possible \"hit,\" his
+machine would cut the power to the main shaft, apply brakes and bring
+the commutators to a halt all within a fraction of a second. Then a
+second motor would immediately drive the commutators backwards until
+another circuit signaled that the possible \"hit\" position had been
+reached. The machine would then perform another series of circuit tests,
+including a diagonal board search. If those tests indicated there were
+no contradictions, the commutator positions and the diagonal board
+indicators (the \"story\") were printed. Fortunately, \"G\" had not
+asked Desch to build a machine that tested for the ring settings as well
+as for the wheel orders and steckers.
+
+---(8//3I?1mmediately after the \"stories\" were printed, the motor
+would be restarted, the clutch on the central high-speed shaft would be
+engaged, the gears would mesh, and the commutators would turn in
+synchronization until another set of wheel positions indicated an Enigma
+setting that might have produced the crib.
+
+-\*&H)esch did not seem to worry about the stresses that the quick stop,
+rewind, and restart systems would put on the shafts and gears, but Alan
+Turing certainly did. When he visited NCR in December, he warned \"G\"
+that it would be unlikely that any machine could be kept in working
+order when it was asked to defy the laws of inertia.
+
+\(6) Desch did not back away from the automatic rewind system nor did he
+change his mind, during fall 1942, about having three complete Bombes in
+a single rack. Such a configuration would save precious space (336
+Bombes with 32,000 commutators in 112 racks). He was convinced that the
+frames would tolerate the heavy vibrations from the three machines,
+which would be independently starting and stopping.
+
+-£S)-Desch also kept his faith in the ability of American technology to
+make the \"G\" Bombe more flexible and many orders faster than those in
+operation in England. His Bombes were to be very rapid, several times
+the speed of the British three-wheel bombes and twice the speed of
+England\'s proposed four-wheel machines.98 The fast wheel was to revolve
+at 3,400 rpm. The others would run at proportionately lower speeds,
+turning only when their faster mate had completed a full turn. The
+second wheel, for example, would take one step after the fast wheel had
+made a complete twenty-six-point revolution, plus additional revolutions
+to compensate for the time the other wheels needed to turn over.
+
+-(S\^-When desired, the Bombe could be turned into a three-wheel enigma
+analog, and, Desch hoped, it could be run at various speeds.\"
+
+(S\^-Joseph Desch premised his design on the power of America\'s mass
+production methods to make all parts ofthe Bombes interchangeable.
+NCR\'s machinists had assured Desch that he could achieve his critical
+goal of having every commutator fit on any ofthe thousands of spindles
+on the Bombes. That was a critical feaUire. If
+
+
+
+
+commutators had to be tailored to each machine, his system would be
+impractical. That would demand too many highly skilled workers for
+commutator construction and too many commutators, perhaps as many as
+60,000.
+
+-f9}-Desch promised to make electronics as well as mechanics go beyond
+normal expectations. He said he could overcome the problems that had led
+most engineers to avoid the use of tubes. Amultitube Rossi detector
+circuit would monitor the machines for possible \"hits,\" another
+circuit would remember where the \"hit\" occurred, one would control
+printing, and, he hinted, another very complex one would handle the
+\"diagonal\" test. He was not sure in September 1942 how many tubes each
+Bombe would have, but his memoranda hinted that his electromechanical
+machine would need perhaps as many as 1,500 electronic components.100
+The high-speed diagonal board alone might need more than 1,000 tubes.101
+
+.\^•His September design asked more than could be expected of gas-filled
+or vacuum tubes in the early 1940s. His faith translated into the blind
+hope that the navy\'s engineers could keep more than 300,000 tubes
+running atone time. \"G\" wanted to run each wheel order simultaneously.
+That meant 336 Bombes with perhaps 1,000 tubes each running without a
+flaw for perhaps as long as an hour.
+
+■48\^ The electronics posed a serious challenge to the navy engineers.
+They would have to find ways to handle the heat generated by the
+electronic components and create methods of identifying troublesome
+tubes before they failed. Desch went ahead, believing that the \"G\"
+would find a way to overcome all the problems that had kept men like
+Vannevar Bush from trying to build large-scale electronic machines.
+
+4S\> Joe Desch had to believe in the future of electronics; his machine
+could not work at what he thought was a minimum speed without elec
+
+tronic switches. He could not build a \"memory\" for the machine out of
+high-speed commutators, relays were too slow for the \"diagonal\" test,
+and simple capacitors seemed unable to do the job.
+
+\(U) The Power of Ignorance
+
+•ijSf Desch thought the navy needed so many Bombes that ran so fast
+because the Americans had not yet learned of the methods GC&CS used to
+select the Enigma wheel orders that had to be tested on the Bombes.
+GC&CS had discovered many ways of telling which wheel orders the Germans
+would not use during a crypto period. They had also developed many
+cryptanalytic techniques, which eliminated particular wheels and wheel
+positions.
+
+\~fQ)---.As significant for the history of the American Bombe project,
+in autumn 1942 \"G\'s\" experts did not fully understand the methods
+Britain had developed to allow the Bombes to quickly beat \"chance.\" As
+a result, they had concluded that the United States had no alternative
+but to invest millions of dollars in machines that were very
+inefficient.
+
+(S//8I)-The Bombes would be valuable only if used properly. When they
+were given enough information, they speedily reduced the number of
+Enigma wheel orders that had to be examined by the analysts. But if used
+improperly, they could not sort out the wheel orders and stecker
+settings that could have produced the cribs by accident from those
+settings that were \"causal.\" With only relatively short crib-plain
+combinations to test, twenty or so letters, a Bombe with a weak menu
+might filter out only a small proportion of the incorrect settings.
+Desch, for example, feared that typical menus would force analysts to
+comb through a third of a million possibilities after a run of the 336
+Bombes to locate the setting that was the true Enigma key.loz
+
+\(U) Using analysts to search for Enigma settings was time-consuming and
+expensive. Tests
+
+
+
+
+took from seconds to hours, and some of them demanded skilled if not
+just very devoted personnel. From the list of combinations that were not
+eliminated by the Bombes, analysts used other machines and hand methods
+to see which was the unique one that produced plain text from crib.
+Thousands of analysts would be needed if the Bombes did not eliminate
+all but a very few of the Enigma settings.
+
+-(S\>To be useful the Bombes had to eliminate more than just those
+combinations that could not possibly have produced the crib-plain
+combination; they had to filter those that were unlikely to have done
+so. The only valuable pay-off from the use of the Bombes was a very
+short list of very likely \"keys.\" Unless the list was short, there
+would be no significant savings in time and manpower.
+
+£¥Sf The only way to that short list was through the location of long
+and accurate cribs and the creation of powerful \"menus.\" Starting with
+relatively long cribs, a menu was built through searching for letter
+combinations and connections (closures) between plain and cipher that
+would allow the Bombe\'s circuits to differentiate \"chance\"
+relationships from those that were caused by the true Enigma setting.
+
+(T0//ai) By mid-1942 GC&CS\'s wizards had turned menuing into a
+mathematical art. They had discovered much since Turing\'s first
+insights. They had tables showing what types of menus were needed to
+produce the desired short lists; they found that wisely selected cribs
+reduced the need to run all thirty-two of the Enigmas in their Bombes;
+they could calculate how many timeconsuming machine stop and circuit
+checks would be expected per menu; and they could predict how many
+possible wheel order and stecker settings would be printed per run.
+
+(•\^ES} Strong menus were a necessity. Otherwise, the Bombes might stop
+their wheels and demand a return to the possible \"hit\" position
+
+so frequently that runs would take several hours.103
+
+(S\#SI) The British had also learned how counterproductive it was to run
+the Bombes without having 100 percent accurate cribs (a goal that called
+for avast infrastructure) that yielded robust menus. They reserved their
+Bombes for menus that would produce no more than a handful of
+\"stories\" per run. By mid-1942 they had learned how to select fifteen
+letter cribs that prevented the Bombes from stopping more than a dozen
+times and printing more than five possibly true \"settings\" during a
+run. When the Germans made the mistake of providing excellent cribs, the
+Bombe could identify \"the\" and only \"the\" setting.104
+
+(S//SI\>But Desch and the Americans had not learned enough about cribs
+and menus by September to envision or wait for Bombes that would point
+to only a handful of possible solutions. In September Joseph Desch
+estimated that his ultra-high-speed Bombes would take, using typical
+menus, thirteen and one-half hours to test one wheel order on one Bombe.
+The reason: He calculated that a Bombe would have to stop 3,000 times
+per run, perform its circuit tests, and then decide whether or not to
+print its declaration that it had found a highly probable solution. On
+the average, Desch estimated, the Bombe would suggest that one of three
+stops had found awheel order that should be tested by an analyst.105
+
+(S} If, as envisioned in early fall 1942, \"G\" was to run its 336
+machines simultaneously and continuously, the Bombes would spew out some
+300,000 \"probable\" settings twice a day. How \"G\" was to wade through
+all that was not divulged.
+
+(S3 Even with the use of the best possible menus, Desch\'s Bombes seemed
+to demand great manpower investments for the production of timely
+intelligence. The navy\'s commitment to becoming a partner in Ultra is
+underscored by the
+
+
+
+
+
+acceptance of the consequences of Desch\'s most optimistic menu
+scenario. After consulting with OP-20-G\'s Enigma expert, Lieutenant
+Ely, Desch held out some hope that \"G\" would eventually be able to
+provide menus that would cut each machine\'s running time to three hours
+and the number of its stop-rewind sequences to less than 700 per run,
+per machine. That meant that \"G\'s\" experts would need to test some
+40,000 prints each day.106
+
+\^-The Americans were desperate. They accepted the Bombe program despite
+Desch\'s estimates. They were willing to invest millions in hardware and
+more in manpower for a system that was very inefficient. Despite
+Desch\'s estimates of how long the Bombes would take to produce so few
+results, his report on the design of the American Bombe was quickly
+approved.107
+
+\(U) The Cousins Will Have Their Way\...to A Degree
+
+\(U) Although they questioned the ability of \"G\" and its engineers to
+build a significant number of Bombes and to devise the menus needed for
+them, the British had no choice but to take \"G\" seriously and to make
+the best of the situation. They quickly dispatched another cryptologic
+delegation to the United States.
+
+(0//0I) Accepting what seemed to be the inevitable, GC&CS agreed to help
+the Americans. But they continued to argue that European intelligence
+should be left to them. The British explained more of their methods of
+avoiding the need to run all the Bombe\'s wheel combinations and orders
+to test a message. They dropped hints that \"G\" could expect a steady
+flow of valuable cribs and solutions.
+
+4S//B¥) The British seemed to be even more generous when they agreed to
+a new arrangement in the Pacific. But they gave up very little and
+gained much by allowing OP-20-G to run the cryptanalytic and intercept
+operations in the area.
+
+(S//Sr) In exchange for Britain closing down some minor centers and
+allowing the Americans to direct the codebreakers in Australia, the
+American Navy promised to send, if practical, all raw and processed
+information about the Pacific to the British. Given how few resources
+Britain had in the region, it gained more than it relinquished.
+
+t&ffST) The Americans offered even more. They volunteered to provide
+GC&CS with copies of \"G\'s\" newest RAM devices and to train its
+technicians in their use.108
+
+(S//&I) In contrast, the Americans obtained much less than they hoped
+for in the Atlantic. It was agreed that the British would accede \"to
+U.S. desires with regard to work on the German submarine and naval
+problem,\" but Britain, in effect, would be \"the coordinating head in
+the Atlantic theater as the U.S. will be in the Pacific.\"
+
+(S//S+) The previous pledge to give \"G\" advice on analytical machinery
+was reaffirmed, and it was agreed \"in principle\" that Britain would
+collaborate with \"G\" and send needed cribs, menus, and intercepts as
+long as the security of Ultra was not endangered.109
+
+(S//S\*) In response to Britain\'s bowing-out in the Pacific, to its
+providing more knowledge of Bombe techniques, and to its obvious
+determination to keep control of the European Ultra, the Americans
+tentatively agreed to build only one hundred Bombes.\"0
+
+(S3 One hundred in this case meant a total of 100 four-wheel Enigma
+analogs, in contrast to the Desch plan to have 100 racks with three
+Bombes each.
+
+(TS//6I) They also agreed to keep their Bombe design very fluid so they
+could respond to emergencies. \"G\'s\" technicians were also made aware
+they might be asked to play a backup role for GC&CS. Like the rest of
+Britain\'s military,
+
+
+
+
+TOP QCCRCTOOOMINTORCL TO U3A, AU3, GAM, QDR AND NZU/Xt
+
+GC&CS began to think it could depend upon America\'s industrial
+capabilities. In late 1942 there were indications it might be forced to.
+\"Doc\" Keen\'s factories were stretched beyond their limits. America
+would be needed to handle cryptanalytic machine emergencies.1\"
+
+\(U) \"G\" seemed ready to accept that role. It also did not reject
+Britain\'s suggestion that all Ultra-based naval actions be coordinated
+ones. There certainly was no hesitation when GC&CS asked the navy for a
+firm pledge to do everything needed to make Ultra America\'s most
+guarded secret.11\"
+
+\(U) The October 1942 negotiations did lead to Britain giving \"M\" a
+somewhat greater operational role, or at least preparing them for one.
+GC&CS\'s representatives set \"M\'s\" men to using hand methods on
+various German systems and gave them more instructions on how to prepare
+menus (setups) for the Bombes.\"3 During the next few months more and
+more technical details about Ultra flowed to the United States, and more
+ofEngstrom\'s bright young men in\"M\" traveled to England to work at
+GC&CS. But the British retained the power to decide what information
+would and would not leave Bletchley Park.114
+
+\(U) A Long Apprenticeship
+
+(TS//SI) A year after the October 1942 agreement, at the end of 1943,
+\"G\" remained an appendage to Britain\'s European Ultra. In November
+Howard Engstrom traveled to England to hear something quite like a
+lecture about \"M\" wasting valuable resources by running the Bombes on
+very weak American-devised menus. He had to agree to a return to using
+British cribs and menus. It was not until much later in 1944, after
+\"M\" had enough good intercepts, and after its cryptanalysts had honed
+their menuing skills, that \"M\" was granted effective independence
+concerning the Atlantic U-boat problem.\"5
+
+\(U) It took a long time for \"G\'s\* men to gain the necessary skills
+and to build an effective antiEnigma organization. There was progress,
+but it came slowly. In early 1943 American cryptanalysts were applying
+GC&CS paper and tabulating machine techniques to crack some German
+messages intercepted by the British.
+
+(TS//SI) But most of the first half of 1943 was a long practice session
+for the Americans. Using GC&CS-supplied keys, they deciphered and
+analyzed the large American backlog of intercepted Atlantic traffic.
+Then GC&CS forwarded new messages and their keys.
+
+■£T0//3fi To aid the deciphering process, the navy\'s men in Washington
+built anew electromechanical device, the M8. The M8 was not an
+analytical machine, but soon after its appearance in October 1942 it
+became an invaluable tool for \"G\'s\" analysts. More refined models
+began to appear in spring 1943. The M8s were reworked versions of the
+Americans\' own automatic wheelbased encryption machine, the ECM. The
+navy yard\'s engineers added a plugboard, Enigma wheels and Letterwriter
+equipment to turn the ECM into an automatic and relatively high-speed
+\"translation\" machine. Once the wheels and plugboard were set, the
+\"stories\" from the Bombes could be rapidly tested, or entire messages
+could be deciphered at rates up to 600 letters per minute. A few months
+later the M9, another simple Enigma analog, appeared. The M9 was a very
+sparse combination of wheels and plugboard that was extremely useful
+once the Bombes were in operation. An M9 was later placed near every set
+of Bombes, allowing their operators to make immediate checks of
+printouts and to locate missing Enigma plugboard settings.\"6
+
+CTS//6D But much of the American Ultra effort of 1942 and 1943 proceeded
+without the help of automation. Enormous human resources were put into a
+paper version of a bombe: a 1,000,000-page catalog that could be used to
+
+
+
+
+
+drag a short crib through wheel settings to find possible Enigma
+keys.\"7
+
+\(U) In late 1942 Alan Turing began a series of visits to America telling
+\"M\" more about Ultra and the construction efforts on the latest
+British Bombe.\"8 The two nations\' intelligence services and the two
+Bombe projects became closer as 1942 ended. But Desch\'s Bombe was an
+American product.\"9
+
+■6S) By the time he received adequate information about Wynn-William\'s
+work and that of \"Doc\" Keen on his four-wheel \"Mammoth\" Bombe, Desch
+had his design relatively fixed.120 He was convinced that the automatic
+rewind feature was essential, and he did not wish to halt his work while
+the British proved that all \"hit\" circuit tests could be done without
+rewinding the wheels. He was convinced that his steel shafts would be
+more reliable than belt drives and that menu setting should be done with
+a set of switches rather than clusters of hand-inserted Jones plugs.
+
+\(U) Desch and his NCR men and the young engineers in John Howard\'s
+\"M\" group took the very heavy responsibility of creating a unique
+machine and a path-breaking production line to defeat the U-boats.121
+
+\(U) Desch Takes Charge
+
+\(U) As soon as his general design was approved in September 1942, Desch
+began to refine his ideas and looked forward to immediately building a
+prototype.122 At the same time, the old engineering group from MIT was
+ordered to put the other OP-20-G machine projects on hold until the
+critical Bombes were ready. Financing was not a problem, and the second
+American Bombe project, which atone point would employ over 1,000
+manufacturing workers, received the highest priorities for personnel and
+material. The Bombe project had its own building in Dayton with armed
+Marines and spe
+
+cial secret rooms to manufacture Bombes.
+
+and use the
+
+\(U) Wenger Gets His Organization
+
+\(U) The Bombe was so important that the Bureau of Ships had to grant all
+the wishes of Wenger, Engstrom, and Desch. OP-20-G was able to convince
+the Bureau to create a new administrative organization for all the
+high-speed machine projects: the Naval Computing Machine Laboratory
+(NCML) at Dayton, Ohio. Informal terms the Bureau\'s NCML was the boss
+of the Dayton work, but by early 1943 it was really a support
+organization for OP-20-G\'s group of engineers and scientists.
+
+\(U) The \"M\" group was also gaining power. The country\'s best
+mathematicians, physicists, and engineers were brought into OP-20-GM.
+That allowed Engstrom to have a self-contained machine development group
+that easily challenged the Bureau\'s technical authority. Of importance
+to the nature of the postwar RAM program, the \"M\" engineers were
+integrated with the NCR workforce. That gave the machine designers the
+freedom to merge research and production and, combined with the virtual
+takeover of NCR, it allowed Wenger a constant interaction with and power
+over the manufacturing process.
+
+\(U) Of Tires and Transmissions and a Disappearing Laboratory
+
+\(U) Such freedom and the massive resources the navy was willing to pour
+into Desch\'s project were not enough to sustain the hopes of September
+and October 1942, however. At the opening of 1943 a prototype of his
+Bombe had not been assembled, and there were serious questions about the
+practicality of the components that had been constructed.123 The
+rejection of the plan for an electronic machine and the reversion to the
+electromechanical technology of the British Bombes had not led to the
+easy solutions \"G\" had
+
+
+
+
+expected. The Bombe and Rapid Machine projects were in trouble again.
+
+(0//SI) Joseph Desch\'s first designs had called for a Bombe that was a
+close analog of the Enigma, but it was to be a very, very fast one.
+There were to be more than twenty sets of four wheels each in a Bombe.
+Each of the four wheels was to be of the same size and was to be
+constructed out of typical materials of the era. The Bombe\'s
+commutators were to be made of either hard rubber or Bakelite, standard
+insulated housings of the 1940s.
+
+\(U) Inserted within the inner face of those wheels were rather large
+copper contact bars. Joe Desch knew he would have to make them of
+special lengths and shapes to prevent spurious electrical contacts from
+being registered as \"hits.\"
+
+(S//SI) The fastest of the four wheels was to spin around more than
+sixty times a second. That rate of speed seemed essential. And also
+essential was the complex gearing that would be required to pace the
+movement of the slower commutators. The gearing requirements included
+the difficult-to-machine-and-maintain Geneva gears and a stepping
+control system that reminded one experienced engineer of the complexity
+of the recently invented automatic transmissions for automobiles.124
+
+(G//0I) Although a challenge, the group at NCR had few doubts about
+creating the Bombe. September\'s optimism about such mechanical and
+electrical parts did not last long, however. The first serious
+disappointment came quite soon. It was found that the commutators could
+not tolerate such high speeds. The fast wheels were blowing apart. The
+problem could not be overcome, Desch concluded, so he significantly
+altered the design of the Bombe.
+
+(S//SI) By December he envisioned a machine that would have two small
+\"fast\" wheels. The smaller wheels, he hoped, would rotate at
+
+least at 1,800 rpm without disintegrating. Soon he had to admit to other
+problems. He warned Engstrom that the commutators might not be
+interchangeable from Bombe to Bombe. Production difficulties might cause
+something worse. The commutators, Desch said, might have to be
+permanently attached on each spindle.125
+
+(TS//SI) The decision to create a Bombe with two fast wheels created
+near panic in Washington. Since any of the Enigma wheels might be
+assigned the \"fast\" position, each of the eight known Enigma
+commutators would have to be cloned by two, not one Bombe commutator.
+Howard Engstrom let Desch know in the strongest terms that he
+disapproved of the twowheel design. It would create a logistics
+nightmare, wrote Engstrom. More than 40,000 or 50,000 ofthe expensive
+commutators would have to be immediately stockpiled and made available
+for use. If the Germans altered the wiring on their wheels or added new
+ones, no manufacturer could respond quickly enough to produce the new
+wheels.126
+
+\(U) Desch promised that he would do his best to make the wheels
+interchangeable from Bombe to Bombe, but he could not guarantee that he
+could produce a Bombe of any significant speed without the dual fast
+wheel feature.
+
+CT0//0E) Then a very great gamble was made. Washington declared that a
+solution be found. The American Bombe would have only one size wheel!
+Desch and his men had their orders, but no solutions. They began an
+intensive search. Their reward was disappointment. Prototype after
+prototype kept disintegrating when put at the high-speed position even
+when the revolutions per minute were reduced to less than half than
+originally planned.
+
+■£T\$//SI)-The answer eluded everyone. It was not until some ofthe young
+officers stationed at NCR realized the similarities between the
+commutator\'s problems and those of automobile tires
+
+
+
+
+
+that there was a glimpse of hope. How were tires able to hold together
+during auto races? The answer seemed to lie in a new product, rayon. The
+officers learned that webs constructed from it were being used to
+reinforce new types of rubber tires.
+
+(TQ//3I) There were visits to local tire companies and some tests. The
+situation appeared hopeful, but no one was sure that the experiments
+could be translated into a mass production system for the
+commutators.127
+
+£TS//GF)- Because they had no choice, Desch\'s team went ahead with the
+rest of the Bombe project while they waited for word about the
+commutators. As they did, they confronted another problem whose solution
+was also tied to the automobile industry.
+
+fflS//Sfl The gearing system for the Bombe proved more complex and
+temperamental than expected. No one seemed able to correctly align the
+components. Finally, the more senior engineers asked some of the younger
+men in Dayton if they had any experiences with gearboxes. One, whose
+engineer father had worked for Tom Edison, had some hands-on experience
+with the new automatic transmissions. When he examined the Bombes, he
+saw much that related to his previous experience. He volunteered to try
+to solve the gear assembly problems.128
+
+(TS//SI) There was another important problem with the Bombes that almost
+halted development. Desch had rejected the idea for a fully electronic
+bombe, but had no alternative other than to rely upon electronics for
+many parts of his 1942 device.
+
+(TS//SI) Desch\'s September design suggested a need for perhaps as many
+as 1,500 tubes in relatively complex circuits. The fast diagonal board
+to test for stecker settings might call for over
+
+1,000 tubes. Given the size of tubes of the early 1940s and the heat
+they generated, an alternative to off-the-shelf technology had to be
+found. Desch\'s past experience led him to believe that small
+multipurpose tubes might be created. He made some attempts to refine his
+previous designs, but his many other responsibilities pulled him away
+from the needed solution. He had to have help. Fortunately, the NCR
+project had such high priority and such vast resources that one of the
+nation\'s leading tube experts could be summoned to Ohio and allowed to
+order everything he needed to create an advanced laboratory. His work
+proved successful, and he was able to deliver the specifications to
+manufacturers for the special tube. It was a tiny four-in-one tube that
+became the basis for the ultra-fast diagonal board. It would be produced
+in carload lots, and it reduced the number of separate tubes in the
+Bombes to fewer than 500.129
+
+\(U) While the \"G\" group waited for the solutions to the commutator,
+gearing, and tube problems, they faced a very chilling possibility. For
+a time, some in \"M\" worried that their opportunity had been lost
+because GC&CS was able to reenter the Atlantic U-boat system at the
+beginning of 1943 without the use of any four-wheel Bombes. The reentry
+came through the capture of documents from a U-boat and the discovery of
+some very sloppy procedures on the Shark network. As a consequence, the
+British were able to read the four-wheel Enigma messages using their old
+Bombes and hand techniques.
+
+\(U) But the British and the Americans soon realized how temporary the
+new solution was. As the spring U-boat offensive opened, the Germans
+changed some of their codes and tightened up their procedures so that
+the Allies were again shut out ofthe submarine systems. They remained
+blind for a frightening ten days during what became the worst month in
+the history ofthe battle ofthe Atlantic
+
+
+
+
+\(U) Samng the American Bombe
+
+\(U) At least three months before that ghastly March 1943 U-boat
+slaughter, OP-20-G realized that Desch\'s machine was in serious
+trouble. Pressure was put on the staff at NCR to work overtime. Joe
+Desch was told to drop his many other electronics projects for the NDRC,
+Aberdeen, and the army. And the navy went over the head of the new
+president of NCR and wrote directly to Colonel Deeds to make sure that
+NCR gave the Bombe project all it needed. Under prodding from the Chief
+of Naval Operations, Deeds quickly ordered Dayton to devote less time to
+its other and more profitable war work and give the Bombe all of its
+attention.130
+
+(T8//SI3The first design for the pilot model of the Bombe was submitted
+in January. Joe Desch and John Howard responded to British suggestions
+and incorporated them in a second design even as they rushed to
+construct the first prototype. But the men in Dayton were not keeping
+pace with the war.131 As the great Atlantic battle began in March, all
+that had emerged from some seven months of work were two wheezy
+prototype machines.
+
+CES//Sff Their commutator racks sat on sawhorses, and their other
+components were scattered around the workroom, connected by scores of
+wires that were soaked with the oil that flowed out of their drive
+shafts\' housings. Their commutators continued their obstinacy, and the
+crew of engineers endured repetitions of lowering the fast wheels\'
+\"rpm,\" then having to dodge their fragments as they splintered. No one
+was sure that the two models, Adam and Eve, would prove themselves and
+serve as test beds for the vital production machines. Nonetheless,
+Washington decided it could wait no longer and in early April Desch
+committed to a final design for the production version of the American
+Bombe although he was not sure that it would work.132
+
+\(U) There was progress at Dayton during April and May, but no machines!
+The group at NCR could not even tempt the two Bombe prototypes to run
+for more than a few inadequate minutes. Fortunately, escort carriers,
+airborne radar, a central command center for subhunting (the Tenth
+Fleet), and changes in the once vulnerable Allied convoy codes began to
+bring the Atiantic under control. Enigma cracking played its part, but
+not through the promised American technological wonders, the Bombes.
+
+\(U) A Bombe Too Lale
+
+\(U) Order was restored in the Atiantic before the first American Bombe
+was even put to its tests. The problems in the Atlantic and the coming
+European offensives called for another readjustment in the rules for
+cooperation in the intelligence field. The BRUSA agreement made the
+United States Army a partner in the Ultra Secret, but a very junior one.
+OP-20-G and the United States Army again agreed to focus on the Japanese
+problems and to allow GC&CS to determine what the Americans would do or
+would not do against the Enigma and Fish systems.
+
+\(U) As the mid-May 1943 negotiations came to a close, Joseph Wenger
+remained unsure of OP-20-G\'s future. Even if \"G\" was too late to be
+the savior of the Atiantic, there was still much to do to counter the
+U-boats. The German Army, Air Force, rocket development team, and police
+agencies showed signs of changing over to four-wheel Enigmas. And, in
+the systems continuing to use the three-wheel machines, anticipated
+alterations in procedures and in the use of their plugboards threatened
+another round of crises. If the American Bombes could be made to work,
+they still might play a significant role.
+
+\(U) In late May Wenger ordered Desch to allow the two temperamental
+prototypes to be used on messages sent from Washington. The results were
+to be forwarded to the British as
+
+
+
+
+
+examples of American abilities.133 Howard Engstrom, in charge of the new
+Enigma message work, felt defeated when Adam and Eve refused to run for
+more than a few hours without spurting oil or developing incurable cases
+of faulty electrical contacts.134
+
+\(U) A Program Based on Another Technological Bet
+
+\(U) Adam and Eve continued their tantrums as June approached,135 and the
+production model was yet to be assembled. The tension mounted when it
+was learned that as Dayton again faltered, Britain completed its first
+four-wheel Bombe, put its first tape and electronic Robinson to use, and
+began the construction of the advanced electronic COLOSSUS.136
+
+\(U) Adam and Eve, the prototypes, were in too much trouble and were too
+vital to working out critical technical problems to be used by the
+cryptanalysts in Washington. Desch\'s crew and Howard\'s NCML engineers
+put in longer hours using Adam and Eve to unravel the problems with the
+parts for the production machines. The commutators were reworked and the
+drive-mechanisms altered.137 By mid-June there were hopes that all the
+problems had been conquered.
+
+\(U) However, the production crew had still not released the first two
+copies ofthe final model, Cain and Abel. Desch pushed his people harder,
+and the NCR factory began to assemble components at an even faster pace.
+They could only hope the parts would function when put together in the
+Bombe.
+
+\(U) July 26: a Day of Defeat
+
+\(U) It took Joe Desch another month to send the first two production
+models to the test floor.138 Then he was able to have thirteen more
+ofthe new Bombes assembled by the last week of July, but none would
+work!139 July 26,1943, was a critical day in the history ofOP-20-G and
+the
+
+NCML. At the very last minute, Desch made a discovery that revived hope.
+Running the Bombe\'s Bakelite code wheels at extreme speeds was again
+causing invisible distortions leading to false electrical contacts.
+Desch predicted that careful storage, handling, and refurbishing would
+solve the problem.140 Apparently, Desch had replaced the small fast
+wheel on the first prototypes with ones the same size as the others to
+please Engstrom. Again, his judgment was trusted. The wheels were
+reworked and production was resumed based on his hope that the
+last-minute modifications would provide a permanent cure.
+
+\(U) A Victory, a Bit Too Late
+
+\(U) Despite all the false starts, delays and problems, Desch built one
+ofthe most complex machines in the world. The 1943 Dayton Bombe was a
+seven-foot-high, eight-foot-long, two-footwide and 5,000-pound marvel.
+It housed sixteen four-wheel sets of Enigma analogs and the Welchman
+diagonal board. Its sixty-four doubleEnigma wheel commutators each
+contained 104 contact points, which had to be perfectly aligned when
+they touched the copper and silver sensing brushes. Such alignment and
+synchronization were difficult to achieve, especially for the fast
+wheel. The achievement was more remarkable because Desch was able to
+keep his promise of making the commutators interchangeable.
+
+\(U) There had been some compromises in order to convince the machine to
+work. It was much slower than hoped for. Fewer than 2,000 revolutions a
+minute had to be accepted because even the reinforced commutators could
+not stand up to higher speed. And running the Bombe\'s main shaft even
+at the lower \"rpm\" without creating the sparks and short circuits that
+ruined a test continued to be a problem.
+
+(TS//SI) It was quite embarrassing to have had to install a conduit
+system under the machine to catch the oil that was sprayed on the main
+shaft to keep it from overheating. And the engineers
+
+
+
+
+did not like the idea of having to pour a quart or so of oil into the
+machines every day.141
+
+(TS//8I) There had been some other compromises. The NCR devices did not
+incorporate a means of producing irregular stepping of the slower
+wheels, and the summer 1943 Bombes were not the compact three complete
+units-perframe devices Desch had sketched in the previous year. Trying
+to balance the engineering demands with cryptologic power had led to the
+Bombes being composed of sixteen, not twenty, units, and having only one
+Bombe per frame.
+
+(TS//0I) Sixteen \"Enigmas,\" one diagonal board, and fewer testing
+circuits made the American Bombes much less discriminating than the new
+British ones (thirty-six Enigmas and two boards); but Desch\'s Bombes
+were much more reliable and needed remarkably little maintenance once
+they were broken in.1\*2
+
+(T9//0I) Although Desch\'s model was based on the logic, parallel
+architecture, and hardware
+
+of the British Bombe, his machine was an original. The truly distinctive
+part of Desch\'s machine was its electronics.
+
+(TS//SI) He did not rely upon the designs of the new Keen Bombe, the
+Mammoth, nor did he copy Wynn-Williams\' ideas.143
+
+(TS//6I) Although Wynn-Williams\' partially electronic machine, the
+Cobra, was more sophisticated in some ways than Desch\'s, Desch\'s was
+more effective. Wynn-Williams\' device printed solutions on the fly, but
+it proved somewhat unreliable. Desch\'s Bombe also proved more
+trustworthy than Keen\'s latest electromechanical one.144
+
+(T6//83 Desch was forced to bow to some other technological limits since
+his Bombes contained sixteen not twenty-four (or, like the British
+machines, over thirty) Enigma analogs. Each of the sixteen units was
+housed in a separate rack, which took up as much space as the
+three-perrack configuration that had been the goal in September 1942.
+
+::: {style="width: 9.88235294117647%;"}
+:::
+
+::: {style="width: 19.137254901960784%;"}
+:::
+
+(TG//SI) Boifoe
+
+(TS//SI) Although the American Bombes did their jobs, they could not use
+long and discriminating cribs of more than sixteen letters, as could the
+British devices. Desch had balanced his understanding of the power of
+short cribs against the mechanical difficulties of driving a large
+number of commutators.U5
+
+(TS//SI) The information about cribs and menus that had been revealed
+after October 1942 also helped Desch decide against attempting to
+incorporate a helpful but challenging feature; automatic slow-wheel
+turnover. Desch did not build a means of kick
+
+
+
+
+ing the slower wheels to a new position relative to its mates after a
+faster wheel had completed a full revolution. Relying upon the
+probabilities that hits could be discovered before the fast wheel
+reached the point where the next wheel should be pushed ahead one or
+more letters, hand-setting of displacements during the commutator setup,
+and the use of a two-part menu allowed the Bombe design to remain
+manageable.1\*6
+
+(T8//BI) However, this meant that when \"hoppity\" menus (fast-wheel
+turnover positions known) were run, the Bombe operators had to stop the
+machines, then reset wheel positions by hand and restart the Bombe.147
+
+\(U) Ignorant No More
+
+\(U) However, with the help of his electronic memory system and the
+maturation oPG\'s\" Enigma cryptanalytic skills, Desch came very close
+to achieving all the hopes for the American Bombe.
+
+(TS//SI) Because of his engineering skills and the use of strong menus,
+the NCR Bombe took twenty, not fifty, nor the worst case, 380 minutes,
+for a run. A major reason was that the British cryptanalysts (and later
+\"G\'s\" experts) were able to supply menus that produced on the average
+five- or so prints or \"stories\" per run -not 40,000.\*-\* The menus
+eliminated so many of the possibilities that the Bombes stopped,
+rewound, and restarted very infrequently. That saved significant amounts
+of time.
+
+6RB/SI) In terms of raw speed, Desch\'s 1943 machine was 200 times
+faster than the Polish Bomba, at least twenty times faster than the
+Turing Bombe, and at least thirty percent faster than Britain\'s 1943
+four-wheel Bombe.149 His machine was able to run either three-or
+fourwheel tests.
+
+(TO//OI) As important for the success of the NCR Bombes were the menus
+for them.
+
+Unfortunately, it took the Americans many, many additional months before
+they learned how to consistently supply \"strong\" menus. Fortunately,
+by late summer 1943 the British were willing to wire cribs and other
+Bombe instructions directly to \"G\'s\" Washington headquarters. They
+forwarded them as soon as they located the reencodements and other
+German procedural errors that were allowing them into the Shark
+system.150
+
+\(U) The Bombes at Work
+
+\(U) Desch\'s manufacturing techniques gained the respect of the once
+skeptical British. By midNovember Washington had over fifty bombes in
+operation and thirty more on site, 151 The American navy finally began
+to be a truly productive Ultra member. By the end of the year, the first
+contract was completed,lsa and Engstrom began to turn his crews to other
+technical and cryptanalytic problems.
+
+\(U) Although the second American Bombe project, from the first
+investigations to the last delivery, took almost a year longer than
+expected, Desch and OP-20-G received applause, not criticism, in late
+1943.153 Asa result of Dayton\'s achievement, the British found it
+impossible to continue on with a condescending attitude. The Americans
+soon became the guardians of the Uboat work, and Britain felt confident
+enough to concentrate on the Fish system and German army traffic.154
+From mid-1943 to the end of the war, M4 was open to America and
+Britain.155
+
+\(U) But the American Bombes were born a bit too late. By the time the
+Washington center received its machines, the four-wheel U-boat traffic
+was light.
+
+(TS//8fj Or at least the British thought so. They complained that the
+Americans were running their precious Bombes against low-priority
+
+messages and were using menus that were highly unlikely to produce a
+break. They more than suggested that Engstrom should agree to a true
+
+
+Pagt 111
+
+
+
+\"sharing\" of Bombe resources. They wanted the American navy to run
+important German air force and army problems and to help with the
+\"European\" part of the war.156
+
+(Tfl//(g\> Productive work was found for the more than one hundred
+American machines. The navy\'s men soon began the analysis of other
+German Enigma systems. Although somewhat worried about breaching the
+agreement with Friedman\'s American army group, OP-20-G took on much
+German three-wheel air force work.157
+
+Q£8d By autumn 1944,60 percent of the navy\'s Bombe time was devoted to
+German air force and army problems as presented by the British.158
+OP-20-G contributed more to the non-naval work. After rejecting a
+British plea to quickly construct another fifty Bombes and complaining
+that England had not contributed enough to the fourwheel effort, NCR
+built another two dozen Bombes. The new machines were somewhat more
+sophisticated than the first version.159 Britain did place more and more
+responsibility for fourwheel bombes on the Americans, even announcing at
+one point that Keen would return to building three-wheel machines. The
+second series of American Bombes had a \"double input\" feature that
+eliminated more false hits.
+
+\(U) In addition to constructing the new Bombes, NCR built a series of
+attachments for them and the older machines. As well, they put into use
+other devices needed to automate the final steps in identifying Enigma
+keys.
+
+(TS//SD An Enigma attack was aimed at discovering seven things about an
+Enigma setup:
+
+1\. Rotor wiring
+
+2\. Reflector plugging
+
+3\. Stecker setting
+
+4\. Rotor order
+
+5\. Window setting (starting point)
+
+6\. Ring or core setting
+
+7\. Notch pattern (turnovers)
+
+160
+
+(TS//SIJ- Given a strong crib of about sixteen letters, knowledge of the
+rotor wiring, a correct guess as to the reflector\'s plugging and a
+large number of Bombes, analysts could expect to get back some very good
+indications of the stecker setting, the rotor order, and some indirect
+help on the window setting, the ring setting, and the notch pattern. The
+Bombe was a relatively strong and quick means for a solution. But it
+needed some help.
+
+\(U) More to It Than the Bombe
+
+\(U) The Bombe was a powerful anti-Enigma tool, but by itself could not
+yield all that needed to be known about Enigma settings. On the other
+hand, it was, in some contexts, an example of overkill. When several
+elements of an Enigma setting were already known, other machines were
+much more efficient.
+
+161
+
+(3S-) For example, Hypo, the microfilm machine that had been constructed
+so that a pure statistical attack could be mounted against the Enigma,
+was called into service as a \"locator.\"
+
+(3S//SF) When the Bombes had done their jobs and the rotor order and
+wiring, the stecker, and the Uncle Walter were known, Hypo was used to
+find the window setting through a letter frequency test.162 Hypo helped
+in certain tough cases, but it took a great deal of time. Developing its
+film took forty minutes, and a \"three-wheel\" Hypo test took seventy
+minutes. And Hypo demanded humidity- and light-controlled rooms.163
+
+(C//8T) The navy group at NCR found a faster way to handle such tasks.
+They built electrical attachments for the Bombes. These \"Grenades\"
+were large panels containing pluggable switch banks, which were used to
+control the Bombes. Their most frequent applications called for only a
+few of the sixteen banks on a Bombe and ran very
+
+
+
+
+TOP SECRFT/fCOMIMT//REL TO UGA, AUG, OAN, ODR AMD HZU/X1
+
+quickly. In most instances a Grenade run took fifty seconds.164
+
+(T0//0I) There were many varieties of Grenades. One of the firsts was
+for the window settings when the other Enigma crypto-variables were
+known. Mrs. Driscoll had outlined the logic for the first American
+Grenade to John Howard a month before the Bombe project had been
+approved in September 1942. He implemented those ideas in the technology
+of the Bombes as well as in the film machines.165
+
+CES//S1) The Driscoll-Howard Standard Grenades appeared as soon as the
+Bombes came into operation. They were a great help because they reduced
+the effort needed to identify the window settings for succeeding
+messages once the Bombes had found the daily key. With the known daily
+key, all that was needed was a short four- or five-letter crib.
+
+(TS//SI) The usefulness of the Standard Grenades was increased when
+\"G\" discovered how to put them to exploiting German errors such as
+selecting wheel orders in a \"Cilly\" or nonrandom way. The Standard was
+also helpful in discovering why certain messages would not yield to the
+regular Bombe attack. The Grenades became a major way of exploring such
+\"dud\" messages.166 The Standard became a necessity at \"G,\" and one
+was built into each of the second, 1944, models of the Bombes.167
+
+(TS//SI) Once \"G\'s\" men had the opportunity, they began to build a
+series of additional Grenades; each provided an efficient solution to a
+particular Enigma problem, and each extended the power of the Bombes.
+
+CTO//0I) The Parallel Grenade allowed four short cribs to be used
+simultaneously to find the window settings. The Drag Grenade went
+further. It tested the four cribs, position by position, against a
+sixteen-letter cipher text. Its sister, the Polygrenade, was more
+powerful. It dragged the
+
+crib twenty-six positions at a time. The simpler Jones Dudbuster
+imitated the large paper catalogs by dragging a common word such as
+\"eins\" through the text
+
+168
+
+QfOf/OlfThe Sliding Grenades expanded the Bombe\'s power by handling
+those Enigmas with rotating reflector wheels. The Pluggable-Series
+Grenade was quite clever; it found the wheel order and ring setting for
+traffic produced using a double indicator.169
+
+(T0//0I) The most impressive of the Grenades was the Universal
+Plugboard. It was so flexible that it was used to explore many different
+ideas. Its main operational use was to try up to twenty-six cribs over
+thirteen letters - quite an imaginative use of plugs and wires.
+
+(TS//SI) Some of the Grenades were asked to solve more complex problems.
+To do so they used all of a Bombe or two Bombes lashed together. The
+Query found settings from the indicators on the messages. The Cilly
+automated the exploitation of nonrandom selection of part of a message
+setting.170
+
+(TS//SI) Electronic devices were also used to make the Bombes more
+effective. Tube circuits were added to the first (N530) Bombes to
+compensate for weak menus that were producing too many stops. That
+Self-Detector was a set of the special four-in-one tubes attached to the
+original diagonal board. It suppressed stops that did not have a
+particular diagonal board connection: a letter connected to itself, that
+is, unsteckered. Statistical analyses had shown that it was very
+unlikely that a stop without such a connection would lead to the
+unraveling of an Enigma key.171
+
+(T6//0I) The electronic Squelcher incorporated a more general test to
+eliminate stops unlikely to produce key. It was a substitute for the
+original electronic amplifier system in the N530 Bombes. It was
+conceived when the worries about weak menus were intense. Once the
+Americans learned
+
+TOP BECnET/ZGOMINT/mCL TO UCA, AUG, CAM, ODR AND HZL//X1
+
+
+
+
+the tricks of menu building, they decided that only a few of their old
+Bombes needed to have the Squelchers.m
+
+\(U) The success of Grenades and Squelcher circuits were only two of the
+indicators that Engstrom\'s group was beginning to overcome the chaos of
+1942 and early 1943, By the fall of 1943 things were going much, much
+better for Wenger\'s dreams for a permanent RAM program. In addition to
+the Bombes, OP-20-G finally began to receive the Gray-NCR and the
+Eastman machines. The first of the new Bush Comparators was put into
+operation in September. The new Comparator had a somewhat rocky career,
+however. When it arrived in Washington, it had several flaws, including
+the incompatibility of its major components; incorrect specifications
+had been sent to the contractors. It also proved to be much slower than
+desired. But the complaints about the machine\'s failings were turned to
+\"M\'s\" advantage. The critics were assured that placing the next
+developments in the hands of the OP-20GNCML group would prevent such
+mistakes.173 The failings ofEastman-Kodak\'s devices were also used as
+arguments for an expansion of \"G\'s\" own research and development.174
+All in all, by January 1944, OP-20-G\'s RAM group seemed vindicated and
+ready to return to the extension of the microfilm and digital electronic
+technologies. Some hoped there would be time to search for a
+general-purpose cryptanalytic machine, one that went beyond the Bush
+Comparator.
+
+Notes
+
+1\. (U) NSA Bombe File, U.S. Navy 0P-20-G/0P20-2, Memo to Station X,
+\"Decision regarding future E policy,\" app. May 1942.
+
+2\. (U) Gordon Welchman, The Hut Six Story (New York: McGraw-Hill, 1982),
+51.
+
+3.CFS7YM) On the Enigma, (TS//SI) NSA CCH Series XII Z, (S12OO8) Navy
+Dept., Office of Chief of Naval Operations, DNC (OP-20-G), RIP 425,
+\"The American Attack on the German Naval Ciphers,\" October 1944.
+\[sic\].
+
+4\. CE8//6fl NSA AHA 17580, Telford Taylor to Clarke and Corderman,
+\"Early E. History,\" 10.
+
+5\. (15//S1) NSA CCH Series XII Z, LeRoy H. Wheafley, \"Cryptanalytic
+Machines in NSA\" 30 May 1953, and various years. {TS/f&Q. NSA CCH
+\*\'P\" Collection Box CC067, RIP 608, CITS Paper TS-10/E6, \"Enigma
+Series Vol. 6, Duenna,\" CNC-OP-20, January 1946.
+
+6.fm NSA CCH Series IV.7.20, A P. Mahon, \"The History of Hut Eight,
+1939-1945,\" 12. (S) NSA AHA ACC 35701, \"German Communications,\" 11
+October 1943.
+
+7\. (U) Jean Stengers, \"La guerre des messages codes, 1930---1945\"
+LHisforie,3i(i98i): 19-31. Cipher A. Deavours, and Louis Kruh, Machine
+Cryptography and Modern Cryptanalysis (Dedham, Mass.: Artech House,
+1985), 117.
+
+8.TSWWA AHA ACC 35701, \"German Communications,\" 11 October 1943.
+
+9.CTS//SI) Andrew Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983), 175. Thomas Parrish, The Ultra Americans; The United
+States\' Role in Breaking the Nazi Code (New York: Stein & Day, 1987),
+49. Cipher A. Deavours, and Louis Kruh, Machine Cryptography and Modern
+Cryptanalysis (Dedham, Mass.: Artech House, 1985), 117. W NSA CCH Series
+IV.7.20, A P, Mahon, \"The History of Hut Eight, 1939-1945-\" (TS//S1)
+NSA CCH Series XII Z, GCCS, \"OP-20-G Contribution.\"
+
+10\. (U) Wladyslaw Kozaczuk, Enigma (Frederick, Md.: University
+Publications of America, 1984). Jean Stengers, \"Enigma, the French, the
+Poles and the British, 1931-1940,\" in Christopher Andrew and David
+Dilks (ed.), The Missing Dimension (London, 1984). Andrew Hodges, Alan
+Turing: The Enigma (New York: Simon and Schuster, 1983), 170-175
+
+n\. (TS//8I) NSA AHA 17580, Telford Taylor to Clarke and Corderman,
+\"Early E. History.\"
+
+12\. (D) Andrew Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983), 176. Some of the Scandinavian nations may have had
+sporadic successes against Enigma and Fish, which they shared with
+Britain. But the true burden had to be carried by the British.
+Cryptologia, 12 (1988): 39\> review ofW. M. Carlgren, Svensk
+Underrattelsetjanst 193945, (Stockholm, 1985).
+
+
+TOP SFrPFTf/CQMIMTf/REL TO UGA, AUE, OAK, ODR AMD HZUIX1
+
+
+
+13\. {¥&) NSA CCH Series IV.7.20, A. P. Mahon, \"The History of Hut
+Eight, 1939-1945-\"
+
+14\. (U) Alan Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983). A.G. Denniston, \"The Government Code and Cypher School
+between the Wars,\" Intelligence and National Security J (1986): 48-69.
+Christopher Andrew, Her Majesty\'s Secret Service: The Making of the
+British Intelligence Community (New York: Penguin, 1987).
+
+15\. (U) Martin Campbell-Kelly, IC L:A Business and Technical History
+(Oxford: Clarendon Press, 1989), 118. Gordon Welchman, The Hut Six
+Story: Breaking the Enigma Codes (New York: McGraw-Hill, 1982), 295.
+Cipher A. Deavours and Louis Kruh, Machine Cryptography and Modern
+Cryptanalysis (Dedham, Mass.: Artech House, 1985), 119,124.
+
+16\. (U) David Kahn, Seizing the Enigma (Boston: Houghton Mifflin, 1991),
+141. Andrew Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983), 233. At one point Turing may have considered building a
+film machine for the method rather than using punched overlay sheets. It
+would have speeded the search or \"coincidences\" as did Bush\'s
+machine. But note that for Banburismus to be effective, captures of
+tables of some of the Enigma settings were vital. In 1938, the British
+used another statistical test called SAGA It also appears to be the kind
+of approach used by Mrs. Driscoll in America.
+
+17\. fFS.) NSA CCH Series IV.7.20, A P. Mahon, \"The History of Hut
+Eight,\" 1939-1945-\"
+
+18\. (Y§) Scritching looked for contradictions produced by assumption,
+concerning the settings of a cipher machine. It reduced the number of
+possibilities that have to be examined. CHS\#SI) CCH Series XII Z,
+\"Army-Navy, Descriptive Dictionary ofCryptologic Terms,\" ASA February,
+1947.
+
+19\. (W//SD NSA AHA ACC 13657, \"G.C. & C.S. Naval S1GINT. Vol. Ill,
+German Cryptographic Systems and Their Solution.\"
+
+20\. (W//SI) NSA AHA ACC 13657, \"G.C. & C.S. Naval SIGINT. Vol. Ill,
+German Cryptographic Systems and Their Solution.\"
+
+21\. CFSrVSI) NSA AHA ACC 13657, \"G.C. & C.S. Naval SIGINT. Vol. Ill,
+German Cryptographic Svstems and Their Solution.\"
+
+22\. (¥S) On other statistical methods, T\^Si\^NSA CCH Series IV, 7.20, A
+P. Mahon, \"The History of Hut Eight, 1939-1945.\"
+
+23\. (\*FS) Avery readable and complete description of the British Bombe
+is found in NSA CCH Series XII Z, \"The General Cryptanalytic Branch.\"
+
+24\. (¥9-) NSA CCH Series IV.7.20, A P. Mahon, \"The History of Hut
+Eight, 1939-1945 ■\"
+
+25\. (\*S) NSA CCH Series IV.7.20, A P. Mahon, \"The History of Hut
+Eight, 1939-1945,\" 28.
+
+26\. (¥S//£L) Andrew Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983), 176. Gordon Welchman, The Hut Six Story: Breaking the
+Enigma Codes (New York: McGraw-Hill, 1982), 295. TrS7yStL NSA AHA ACC
+13657, \"G.C. & C.S. Naval SIGINT. Vol. Ill, German Cryptographic
+Systems and Their Solution.\"
+
+27\. (U) Such commutator systems had been used in electrical timing
+instruments, but Keen did trulycreative work.
+
+28\. CTO//0D NSA AHA ACC 13657, \"G.C. & C.S. Naval SIGINT. Vol. Ill,
+German Cryptographic Systems and Their Solution.\"
+
+29\. (¥S/SlQ Martin Campbell-Kelly, IC L:A Business and Technical History
+(Oxford, Clarendon Press, 1989), ll9.\"tW//SI) NSA AHA ACC 13657, \"G.C.
+& C.S. Naval SIGINT. Vol. Ill, German Cryptographic Systems and Their
+Solution.\"
+
+30\. (U) There are some different interpretations in Bradley F.Smith\'s,
+The Codebreaker\'s War: The Ultra-Magic-Deals (Novato: Presidio Press,
+1993). Because of my evidence I remain convinced, for example, that the
+Americans took the lead in their Bombe program and that they intended to
+produce more than 300 machines. See Smith, 247. 26. F. H. Hinsley,
+British Intelligence in the Second World War, Volume II (New York:
+Cambridge University Press, 1981), 747.
+
+31\. (U) Jurgen Rohwer, The Critical Convoy Battle of March 1943 (London:
+Ian Allan, 1977), 240. Nigel West, GCHQ, the Secret Wireless War,
+1900-86 (London: Weidenfeld and Nicolson, 1986), 201, 210. F. H.
+Hinsley, British Intelligence in the Second World War, vol. Ill, Part I,
+(1984), 52.
+
+32\. (S) NSA CCH Series XII Z, Robert L, Benson, \"The Origin ofU.S.
+British Communications: Intelligence Cooperation (1940-41),\" NSA
+Cryptologic
+
+
+
+
+
+Spectrum, 4 (Spring 1944): 5-8. (S) NSA CCH Series II Z, \"History of
+GET (TUNNY) Research.\"
+
+33- (U) NARA RG457, SRH-361, \"History of the Signal Security Agency,
+Volume Two, The General Cryptanalytic Problems,\" 017. Louis Kruh,
+\"BritishAmerican Cryptanalytic Cooperation and an Unprecedented
+Admission by Winston Churchill,\" Cryptologia, 13(1989): 123-134- Nigel
+West, GCHQ, 201. F. H. Hinsley, British Intelligence in the Second World
+War, Vol. 1 (London: Her Majesty\'s Stationery Office, 1979), 155- NSA
+RG457, SRH-197, \"U. S.Navy Communications Intelligence, Organization,
+Liaison and Collaboration, 1941-45.\" But both Britain and the Dutch
+provided the Americans with intelligence and cryptanalytic help on
+Japanese systems earlier than previously thought. See Rear Admiral Edwin
+T. Layton, And I Was There: Pearl Harbor and Midway; Breaking the
+Secrets (New York: William Morrow, 1985), 206. John W. M, Chapman,
+\"Pearl Harbor: The Anglo-Australian Dimension,\" Intelligence and
+National Security I( 1989), 451-481. James Rusbridger and Eric Nave,
+Betrayal at Pearl Harbor (New York: Summit Books, 1991).
+
+34\. (U) NARA RG457, SRH-141, \"Papers from the Personal Files of Alfred
+McCormick, Part 2, March 4, 1944,\" \"Memorandum for General Bissel,
+Army-Navy Agreement Regarding Ultra.\" NARA RG457, SRH 152, \"Historical
+Review of OP-20-G.
+
+35\. \"{Si NSA CCH Series XII Z, Robert L. Benson, \"The Origin ofU.S.
+British Communications Intelligence Cooperation (1940-41),\" NSA
+Cryptologic Spectrum 4 (Spring 1944), 5-8.
+
+36\. TTSffSI) Lauranee Safford, \"Rhapsody in Purple,\" by Linda
+P.Tucker, Cryptologia, 6(1981), 193-229, and 346-367. James Rusbridger
+and Eric Nave, Betrayal at Pearl Harbor (New York: Summit Books, 1991).
+NSASRH-391, \"U.S.CTS\#S1XNSACCH Series XII Z, \"Washington E Traffic,
+Notes on Correspondence\" circa February 1942.
+
+37\. (U) David Kahn, Seizing the Enigma (Boston: Houghton-Mifflin, 1991),
+235-6. NARA RG457, SRH145, \"Collection of Memoranda on Operations of
+SIS Intercept Activities and Dissemination 1942-1945,\" \"Report of the
+Technical Mission to England\" April 11, 1941, 002-013. Greg Mellen
+(ed.), \"Rhapsody in Purple: A New History of Pearl Harbor byDundas P.
+
+Tucker,\" Cryptologia,6 (1981), 193-228. More balanced views are in Rear
+Admiral Edwin T. Layton, And I Was There: Pearl Harbor and Midway:
+Breaking the Secrets (New York: William Morrow, 1985) and Edward J.Drea,
+MacArthur\'s Ultra (University of Kansas Press, 1992). The Americans did
+not give everything to the British, however. NARA RG298, Box 39,
+Memorandum ofR. W.Sylvester toL. Terman, April 11,1942, tells Terman not
+to disclose any cryptological work to the British. And the Americans
+also kept their very important SIGCUM enciphering machine from the
+British during much of the war. See NARA RG457, RMA003, May 19,1944,
+Memorandum for Assistant Chief of Staff, G-2 from Office of the Chief
+Signal Officer.
+
+38\. (U) NARA RG457, SRH-27O, \"Army Navy FBI COMINT Agreements of 1942\"
+by Robert L. Benson, and the very useful SRH-005, \"Use of CX/MSS
+Ultra.\"
+
+39\. \$) NSA CCH Series TVV 10.1, \"Report of the Technical Mission to
+England,\" 11-4-1941.
+
+40\. (U) NARA RG457, SRH-361, \"History of the Signal Security Agency,
+Volume Two, The General Cryptanalytic Problems,\" and SRH-145,
+\"Collection of Memoranda on Operations of SIS Intercept Activities and
+Dissemination 1942-1945,\" \'Report of the Technical Mission to
+England\' April 11,1941, 002-013. TTSfm NSA CCH Series XII Z, (S12OO8)
+Navy Dept., Office of Chief of Naval Operations, DNC (OP-20-G), RIP 425,
+\"The American Attack on the German Naval Ciphers,\" October 1944-
+\[sfc\]\*CTS\^ NSA CCH R Collection, Box CCO 66, OP-20-G-A, \"American
+Cryptanalysis of German Naval Systems,\" 7 July 1944.
+
+4i.f8iLaurance Safford, \"Rhapsody in Purple,\" by Dundas P.Tucker,
+Cryptologia,6(1981), 193-229, and 346-367. NARA, RG457, SRH-361,
+\"History of the Signal Security Agency,\" 259, 261. There is some
+reason to believe that Britain did pass on the ways to crack the simpler
+1940 German air force systems. NSA RAM File, \"Report to J. N.Wenger,
+Capt. USN, Resume of the Dayton, Ohio Activity During World War II,\"
+and, J.T. Pendergrass, \"Cryptanalytic Use of High-Speed Digital
+Computing Machines,\" Top Oecrot; 1946. \"tS\^ NSA CCH Series IV V 10.1,
+\"Report of the Technical Mission to England,\" 11-4-1941.
+
+42\. fFS\^ NSA AHA ACC 35701 \"History of the Bombe Project,\" 16
+February 1946. \"TS\^ NSA CCH
+
+
+
+
+I UP SECRCT//COMINT//HCL TO USA, AUS, CAM, ODR AMD NZUX1
+
+Series IV V io.i, \"Report of the Technical Mission to England,\"
+11-4-1941. (TS) NSACCH R Collection, Box CCo 66, OP-20-1 to OP-20-GY-A,
+7 July 1944, \"American Cryptanalysis of German Naval Systems.\"
+
+43\. fFS) NSA CCH R Collection, Box CCO 66, OP20-GY-A \"American
+Cryptanalysis of German Naval Systems,\" 7 July 1944.
+
+44\. fTO//01» NSA CCH Series XII Z, \"Washington E Traffic, Notes on
+Correspondence\" circa February 1942. CFS) NSA AHAACC 35701 \"History of
+the Bornbe Project,\" 16 February 1946.\"
+
+45\. (¥&) NSA AHA ACC 35701 \"History of the Bombe Project,\" 16 February
+1946.
+
+46\. (U) David Kahn, Seizing the Enigma (Boston: Houghton-Mifflin, 1991),
+237.
+
+47\. (¥S) NSA ARA ACC 35701 \"History ofthe Bombe Project,\" 16 February
+1946. (TS) NSA CCH Series IV V 10.6, Chief Signal Officer, \"A
+Chronology of the Cooperation Between the SSA and the London Office of
+GCCS,\" 2 June 1946.
+
+48\. (TS\#SD NSA CCH Series XII Z, \"Washington E Traffic, Notes on
+Correspondence\" circa February 1942.
+
+49\. (•§) An invaluable document on British-U. S. Army relationships,
+NARA RG457, SRH-005, \"Use of CX/MSS Ultra,\" and of equal value,
+\"History of 3-US,\" as in John Mendelsohn (ed.), Covert Warfare:
+Intelligence, Counterintelligence & Military Deception During the World
+War HEra (Garland, 1989). (S) NSA CCH Series XII Z, Wenger toOP-20,
+October 1,1942, \"Collaboration ofU. S.and British radio Intelligence
+organizations on Japanese and German projects.\" Robert L. Benson, A
+History of U. S. Communications Intelligence during World War II: Policy
+and Administration, Center for Cryptologic
+
+History7, NSA 1997
+
+50\. (U) For the complaints by the American army\'s SIS, see NARA RG457,
+SRH-361, \"History ofthe Signal Security Agency\" Vol. II. 249-275.
+
+51\. (TS-) NSA AHA ACC 35701 \"History ofthe Bombe Project,\" 16 February
+1946. (TS) NSA CCH R Collection, Box CCO 66, OP-20-GY-A, \"American
+Cryptanalysis of German Naval Systems,\" 7 July 1944. (S\^NSA CCH series
+XII Z,Redman toOP-20, 2-281942, \"British not cooperating.\"
+
+52\. pPS) NSA AHA ACC 35701 \"History ofthe Bombe Project,\" 16 February
+1946.TTS7V«1\^SA CCH Series XII Z,(Sl2008) Navy Dept., Office of Chief
+of Naval Operations, DNC (OP-20-G), RIP 425, \"The American Attack on
+the German Naval Ciphers,\" October 1944- \[sic\] ffS) NSACCH R
+Collection, Box CCO 66, OP-20-GY-A, \"American Cryptanalysis of German
+Naval Systems,\" 7 July 1944
+
+53\. (3S) NSA CCH Series XII Z, Travis toOP-20G, 13 May 1942 - \"Will
+Send Bombe to you in August or September.\"
+
+54\. CRS\^NSA CCH Series XII Z, Travis toOP-20G, 13 May 1942 - \"Will
+Send Bombe to you in August or September.\"
+
+55- \^SJ Andrew Hodges, Alan Turing: The Enigma (New York: Simon, and
+Schuster, 1983), 191. Laurance Safford, \"Rhapsody in Purple,\" by
+Dundas P. Tucker, Cryptologia, 6 (1982), 216-17. NSA RAM File: OP-20-G
+to GC&CS, July 7,1942; OP20-G to OP-20 September 3,1942; J. N. Wenger to
+OP-20-GM, August 6,1942 \"We wish to construct\...\"; and Wenger to Ely,
+August 5,1942; Engstrom to Meader re Turing visit, January 5,1943. F. H.
+Hinsley, British Intelligence in the Second World War, Vol. 1,56. Joseph
+Eachus, letter to the author, March 24, 1989. \"History of 3-US,\" in
+John Mendelshon (ed.), Covert Warfare (Garland, 1989), 010-012. ffV/SQ
+On the continuing problems, it SIS, OKI) NSA CCH Series IV V10.6, Chief
+Signal Officer, \"AChronology ofthe Cooperation Between the SSA and the
+London Office of GCCS,\" 2 June 1946. On the August protest by\"G,\"
+fES) NSA AHA ACC 35701 \"History ofthe Bombe Project,\" 16 February
+i946ntS)kNSA CCH Series XII Z, Eachus to Wenger, 2 August 1942, \"Full
+Wiring Diagram on Way.\" (SJ NSA CCH Series XII Z, Wenger to Op-20-GM, 6
+August 1942, \"Nature of E machine.\"
+
+56\. (U) The group at Bletchley Park cracked the new four-wheel system by
+December 1942. But the break was not a pure cryptanalytic one. It
+depended upon the capture of documents and the continued failure ofthe
+German system managers to follow basic security procedures. David Kahn,
+Seizing the Enigma (Boston: Houghton-Mifflin, 1991), 111.
+
+57\. (U) Laurance Safford, \"Rhapsody in Purple,\" by Dundas P.Tucker,
+Cryptologia, 6 (1982), 193-229, and 346-367.
+
+
+
+
+58\. (U) Even Britain waited what now seems too long to organize its
+research. Ronald Clark, Tizard (Cambridge: MIT Press, 1965).
+
+59\. (U) The Coast Guard, which had been in charge of decrypting
+rumrunner and other clandestine traffic for years, had as its chief
+cryptanalyst William Friedman\'s wife. The clandestine system the Coast
+Guard attacked must have been very simple compared to the Enigma.
+
+60\. ffS\^Sl) NSA CCH Series XII Z, (S12OO8) Navy Dept, Office of Chief
+of Naval Operations, DNC (OP-20-G), RIP 425, \"The American Attack on
+the German Naval Ciphers,\" October 1944. \[sic\] 51, 53e»).NSA CCH R
+Collection, Box CCO 66, OP20-GY-A, \"American Cryptanalysis of German
+Naval Systems,\" 7 July 1944.
+
+61\. (U) NARA RG457, SRH-306, \"OP-20-G Exploits and Commendations in
+World War II\" 016. NSA RAM File, \"Report to J. M. Wenger, Capt. USN,
+Resume of the Dayton, Ohio Activity During World War II,\" and J. T.
+Pendergrass, \"Cryptanalytic Use of High-Speed Digital Computing
+Machines,\" Top Secret, 1946. fPSl NSA CCH R Collection, Box CCO 66,
+OP20-GY-A \"American Cryptanalysis of German Naval Systems,\" 7 July
+1944.
+
+62\. CTSt\^SI\] NSA AHA ACC 13657, \"G.C. &C.S. Naval SIGINT. Vol. Ill,
+German Cryptographic Systems and Their Solution.\" GC&CS learned of the
+possible introduction of the fourth wheel in May 1941 but did not get
+Wynn-Williams to work until very late in the year. His work proceeded at
+a very slow pace. Doc Keen was not put to work to think about a
+highspeed Bombe for the four-wheel problem until late spring 1942.
+
+63\. PE§i NSA CCH Series XII Z, Hut 6,4 October 1942, \"Electronics for
+Bombe not Working.\"
+
+64\. (U) Andrew Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983), 225-7.
+
+65\. (¥S\#SJ) Keen built several new versions of his original Bombes. The
+new Mammoths and Jumbos handled the standard three-and four-wheel Enigma
+problems, while the Giants, Ogres and Twinns were, like some American
+variants, commutator-based machines for special Enigma variation
+problems. fF6\#£D NSA AHA ACC 13657, \"G.C. &C.S. Naval
+
+SIGINT. Vol. Ill, German Cryptographic Systems and Their Solution.\"
+Cr\^SU NSA AHA ACC 17738, \"E Operations of the GC&CS, list of
+machines,\" 25 February 1945.
+
+66\. TTS) Andrew Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983), 227. (8) NSA CCH Series XII Z,Eachus to Wenger,
+18-91942, \"British four wheel design not progressing.\" \"fSSQ NSA CCH
+Series IV.7.20, A P. Mahon, \'The History of Hut Eight, 1939-1945. CS§)
+NSA CCH Series XIII Z, Hut 6,4 October 1942, \"Electronics for Bombe not
+Working.\" t«8 NSA AHA ACC 35173, CNO, CITS TS49, \"A Posteriori Remarks
+on the Cryptanalytic Aspects of the Bulldozer,\" Navy Dept., Washington,
+September 1946.
+
+67\. (TSt\^SJQ NSA Bombe File, \"It is desired to construct\...\" April
+25,1942, and August 5,1942, Wenger to Ely. PHWSQ NSA CCH Series XII
+Z,(Sl2008) Navy Dept., Office of Chief of Naval Operations, DNC
+(OP20-G), RIP 425, \"The American Attack on the German Naval Ciphers,\"
+October 1944. \[sic\].
+
+68\. (WySTj NSA CCH Series XII Z, (Si2008) Navy Dept., Office of Chief of
+Naval Operations, DNC (OP-20-G), RIP 425, \"The American Attack on the
+German Naval Ciphers,\" October 1944. \[sic\] 51, 53
+
+69\. flES) NSA CCH R Collection, Box CCO 66, OP20-GY-A, \"American
+Cryptanalysis of German Naval Systems,\" 7July 1944- CFSJ NSA AHA 35529,
+Friedman to Corderman, 29 March, 1944, \"Comparison of our \"003\" type
+of \"Bombe\" with the rotary type.
+
+70\. Cm NSA AHA ACC 35701 \"History of the Bombe Project,\" 16 February
+1946. fFSWSI) Navy Dept., Office of Chief of Naval Operations, RIP 607,
+Enigma Series, volume 5., CIT TS-10-E-5, \"Bombe Computations.\" CSSJ
+NSA CCH R Collection, Box CCO 66, OP-20-GY-A, \"American Cryptanalysis
+of German Naval Systems,\" 7 July 1944- (TStV&O NSA CCH P series Box CCO
+67, RIP 607 shows that when \"G\" did finally incorporate a diagonal
+board it looked for hotpoints; the British looked for coldpoints.
+
+71\. fPSi NSA AHA ACC 35701 \"History of the Bombe Project,\" 16 February
+1946. ffS//SI) Navy Dept., Office of Chief of Naval Operations, RIP 607,
+Enigma Series, volume 5., CIT Ts-io-E-5, \"Bombe Computations.\"
+
+
+TOP CECnETOCOMlMTJ/nEL TO UCA, AUG, OAN, ODn AND N2U/X1
+
+
+
+72.TTS7VSi). Navy Dept., Office of Chief of Naval Operations, RIP 607,
+Enigma Series, volume 5-, C1T Ts-io-E-5, \"Bombe Computations.\"
+
+73\. rPW&e-Navy Dept., Office of Chief of Naval Operations, RIP 607,
+Enigma Series, volume 5., CIT Ts-io-E-5, \"Bombe Computations.\" (T0//MJ
+NSA CCH Series XII Z (S12008) Navy Dept., Office of Chief of Naval
+Operations, DNC (OP-20-G), RIP 425, \"The American Attack on the German
+Naval Ciphers,\" October 1944- \[sic\] 51-3- f«0 NSA CCH R Collection,
+Box CCO 66, OP-20-GY-A \"American Cryptanalysis of German Naval
+Systems,\" 7 July 1944.
+
+74\. (U) NSA RAM File, \"Decision Regarding Future E Policy,\" app May
+1942, and \"For GC&CS\" August 5,1942.
+
+75\. (U) NSA RAM File, app. May, 1942, 0P-20-G to Station X, \"Latest
+Thoughts on Electronic Developments.\"
+
+76\. (U) Much of the information on GC&CS\'s actions and intention
+remains in closed archives, and some informed historical guesses have to
+be made. One of those is that GC&CS\'s failure to send requested
+documentation was as much the result of the slow pace of its four-wheel
+Bombe program and a desire to keep face as it was the result of a desire
+to monopolize all the \"E\" work.
+
+77\. CFS) NSA AHA ACC 35701 \"History of the Bombe Project,\" 16 February
+1946, 4.
+
+78\. (SJ Britain sent more assurances to the United States in August, but
+they were too late to stop \"G\" from going ahead with its Bombe
+program, fij) NSA CCH Series XIII Z, Eachus toWenger, 2 August 1942,
+\"Full Wiring Diagram on Way.\" (Si NSA CCH Series XII Z, Wenger
+toOp-20-GM, 6 August 1942, \"Nature of E machine.\"
+
+79- (U) NSA RAM File, OP-20-G to GC&CS, July 7, 1942, \"Eachus &Ely,\"
+and August 5,1942, \"Send Wiring Diagram.\" NARA RG457, SRH-306,
+\"OP-20-G Exploits and Commendations in World War II,\" 23, \"Shark was
+not all.\" Andrew Hodges, Alan Turing: The Enigma (New York: Simon and
+Schuster, 1983), 236. F. H. Hinsley, British Intelligence in the Second
+World War, Volume II (New York: Cambridge University Press, 1981), 55-57
+
+80\. (TS//SQ. The Robinsons were independent creations but were much like
+the Bush comparator
+
+machines. However, they were built to handle the codes used on teletype
+systems, and they were not strict embodiments of the IC method but of
+Turing\'s new Delta method, which searched for statistical biases in the
+distribution of binary values. However, Delta shared much with the IC
+approach. (TS//&O (Laconic, Nocon) NSA CCH Series XII Z, Glenn F.
+Stahly, \"Fifty Years of Mathematical Cryptanalysis,\" (T3//GI NSA CCH
+Series XII Z, H. H, Campaigne, \"Reading TUNNY,\" NSA Technical Journal
+(Fall 1962). TT3//M) NSA CCH Local Archive, \"Army-Navy Descriptive
+Dictionary ofCryptologic Terms,\" Army Security Agency, February 1947.
+
+81\. TTV/\^B\" Letters from Howard Campaigne to Brian Randell circa 1975.
+Thomas H. Flowers, \"The Design of Colossus,\" Annals of the History of
+Computings (July 1983), 224. I.J. Good, \"Early Work on Computers at
+Bletchley,\" Cryptologia 3 (1979), 65-77- (TS77«t) NSA CCH Series XII Z,
+H. H. Campaigne, \"Reading TUNNY,\" NSA Technical Journal (Fall 1962).
+
+82\. (T9//SI). The Robinsons, also called \"bedsteads,\" became more and
+more powerful and rapid. Some models used vacuum tubes, and by the
+war\'s end, one of the Robinsons used four tapes.\'T\^NSA CCH Series XII
+Z,GCHQ, \"Machine Solution of TUNNY Traffic (Robinson),\" 22 August
+1943-TTS7V«\^ NSA CCH Local Archive, \"Army-Navy Descriptive Dictionary
+ofCryptologic Terms,\" Army Security Agency, February 1947.
+
+83\. (U) NSA CCH XIK, S. Snyder, Box, II, B. Randell, \"The Colossus,\"
+June 1976. rTS7VSIl.NSA CCH Series XII Z, \"Theory of Rectangles:
+Photostat of British Paper describing breaking of the TUNNY Machine by
+Means of Rectangles,\" 4 September 1944. ffS//SQ NSA CCH Series XII
+Z,\"Fish Notes,\" December 1944- (TS//SI) NSA CCH Series XII Z,
+\"Colossus, Instructions and procedures used in setting FISH messages on
+the Colossus,\" 14 December 1944.
+
+84\. (T577\<SJ) NSA CCH Series XII Z, \"Colossus, Instructions and
+procedures used in setting FISH messages on the Colossus,\" 14 December
+1944.
+
+85\. (U) Thomas H. Flowers, \"The Design of Colossus,\" Annals of the
+History of Computing 5 (July 1983): 240. Allen W.M. Coombs, \"The Making
+of Colossus\" Annals of the History of Computing 5
+
+
+
+
+
+(1983): 253-259. W.W. Chandler, \"The Installation and Maintenance of
+Colossus,\" Annak of the History of Computing 5 (1983): 260, Andrew
+Hodges, Alan Turing: The Enigma (New York; Simon and Schuster, 1983),
+268, Although their documentation is still classified, there were
+additional electronic machines in GC&CS\'s arsenal by the end of the
+war. Apparently, they went beyond Colossus.
+
+86\. (U) NARA RG457, SRH-349, \"Achievements of the SSA in World War
+II,\" and SRH-361, \"History- of the Signal Security Agency.\"
+
+87\. (U) NSA RAM File, OP-20-G to GC&CS, app. May, 1942, \'Future E
+Policy,\' and Wenger to Ely, August 5,1942.
+
+88\. (U) Ronald Lewin, The American Magic (New York: Farrar, Straus,
+Giroux, 1982), 85. Rear Admiral Edwin T. Layton, etal., And I Was There:
+Pearl Harbor and Midway: Breaking the Secrets (William Morrow & Co.,
+Inc., 1985), 95. W, J. Holmes, DoubleEdged Secrets (Annapolis: Naval
+Institute Press, 1979). One story is that Washington found different
+additives from their JN-25 analyses and thought that Hawaii was far off
+base regarding the recovered code groups.
+
+89\. (U) NSA RAM File, August 5,1942, Wenger to Ely. NSA RAM File, Part
+II of Report to J. N. Wenger, Capt. USN, \"Resume of the Dayton, Ohio
+Activity During World War II.\" Hagley Museum and Library, Accession
+1825, Honeywell v Sperry-Rand, Trial Records, August 19, 1942, Desch to
+Engineering Department, \"Special Switch,\" and September 18, 1942,
+\"Change in Specifications.\"
+
+90\. (U) NSA RAM File, Part II. of Report to J. N. Wenger, Capt. USN,
+\"Resume of the Dayton, Ohio Activity During World War II.\"
+
+91\. (U) A simple electronic American Bombe would have sixty-four fixed
+double wheels calling for at least 7,000 tubes, probably twice that.
+Amplifiers and control electronics would probably have called for
+another 10,000 or so. A universal machine, in which all wheels could be
+automatically set, would have needed close to 100,000 tubes.
+Correspondence with Joseph Eachus. NSA RAM File, Wenger to GC&CS,
+September 4,1942, \"Electronic Device.\"
+
+92\. (U) F. H. Hinsley, Biitish Intelligence in the Second World War,
+Volume III (New York:
+
+Cambridge University Press, 1981), 56. For the independent research
+agreement, interview with Joseph Eachus. The situation with the American
+army may have been even more critical. It was a pure consumer of Ultra
+and much other intelligence during the North African invasion and as
+late as February 1943, it was dependent on GC&CS for German signal
+intelligence. NARA RG457, SRH-364, \"History of the Signal Security
+Agency, Volume One Parts 1 and 2,19391945- A Declaration of
+Independence.\"
+
+93-\"TS)sNSA CCH Series XII Z, Eachus to Wenger, 18-9-1942, \"British
+four-wheel design not progressing.\"
+
+94\. e\^ NSA AHA ACC 35701 \"History of the Bombe Project,\" 16 February
+1946, 4-\*t\*S\^NSA CCH Series XII Z, Engstrom to Desch, September
+231942, \"Your Bombe plan approved.\"
+
+95\. (U) NSA RAM File, September 3,1942, Wenger toOP-20, \"Cryptanalysis
+of the German (Enigma) Machine.\" F. H. Hinsley, British Intelligence in
+the Second World War, Volume II (New York-, Cambridge University Press,
+1981), 57- Hagley Museum and Library, Accession 1825, Honeywell v
+Sperry-Rand, Trial Records, September 18, 1942, Desch to Engineering
+Department. Compare the Americans\' promised production rate with
+Keen\'s output. Martin Campbell-Kelly, IC L:A Business and Technical
+History, (Oxford: Clarendon Press, 1989), 118-119. If the United States
+had built the 350 machines rather than the 100 in the first batch, the
+cost would have been a staggering \$16,000,000 based on the \$45,000 per
+machine for the production run.
+
+96.\^1 NSA CCH, Series XII Z, Joseph Desch to OP-20-G, \"Memo of present
+plans for an electromechanical analytical machine,\" 15 September 1942.
+
+97\. \^ NSA CCH Series XII Z, Report of Dr. Turing, \"Visit to National
+Cash Register Corporation of Dayton, Ohio,\" circa Dec. 1942.
+
+98\. dm NSA CCH Series IV.7.20, A. P. Mahon, \'The History of Hut Eight,
+1939-1945,\" 6& states that the later versions of the British high-speed
+Bombe had fast wheels which moved at 10,000 revolutions per minute. But
+this figure may be a typographical error. Most other sources give a much
+lower rpm for the British four-wheel Bombe. See (Y&) NSA CCH Series XII
+Z, Hut 6, \"Electronics for Bombe not Working,\"
+
+
+TOP SErRFTWCOMHilTOREl TO USA, AUfi, CAM, OBR AHP HZLM1
+
+
+which in late 1942 gives a projected speed of 2,000 rpm. Also see ffSJ
+NSA CCH Series XII Z,Joan Murray, \"A Personal Contribution to the Bombe
+Story,\" NSA Technical Journal, 20 (Fall 1974): 41
+
+99\. CS) NSA CCH, Series XII Z.Joseph Desch to OP-20-G, \"Memo of present
+plans for an electromechanical analytical machine,\" 15 September 1942.
+
+100\. CSi. NSA CCH, Series XII Z, Joseph Desch to OP-20-G, \"Memo of
+present plans for an electromechanical analytical machine,\" 15
+September 1942,
+
+9
+
+101\. fS) A full diagonal board would be a 26 x 26 matrix, which would
+need 676 primary tubes and a score of complementary electronic
+components. CS} NSA CCH, Series XIIZ, Joseph Desch to OP-20-G, \"Memo of
+present plans for an electromechanical analytical machine,\" 15
+September 1942, 9.
+
+102\. CS) NSA CCH, Series XII Z, Joseph Desch to OP-20-G, \"Memo of
+present plans for an electromechanical analytical machine,\" 15
+September 1942,1.
+
+103\. f¥S//&t) Navy Dept., Office of Chief of Naval Operations RIP 607,
+Enigma Series, volume 5, CIT Ts10-E-5, \"Bombe Computations.\"
+
+104\. (ffi/ZSt) NSA CCH Series XII Z, \"Cryptanalytic Report \#2: The
+\"Yellow Machine,\" 5052. (T5//3I) Navy Dept., Office of Chief of Naval
+Operations, RIP 607, Enigma Series, volume 5, CI\'F Ts-io-E-5, \"Bombe
+Computations.\" (TS//S1) NSA AHA 16331, \"6812th Signal Security
+Detachment (PROV) Apo 413 Army,\" 15 June 1945.
+
+105\. GFS-) NSA CCH Series XII Z, Engstrom to Desch, September 23, 1942,
+\"Your Bombe plan approved,\" \$} NSA CCH, Series XII Z, Joseph Desch
+toOP-20-G, \"Memo of present plans for an electromechanical analytical
+machine,\" September 15, 1942, 2.
+
+106\. (TS//SI) The men at \"G\" were not able to intercept and interpret
+strong menus for quite some time, they sent very weak menus to the
+Bombes throughout much of 1942 and 1943, They realized they were
+dependent upon the British for the types of menus that made the Bombes
+useful by having very few \"stories\" produced per run. (fSi NSA AHA ACC
+35701 \"History of the Bombe Project,\" 16 February 1946. ffSZ/SH NSA
+CCH Series XIIZ, GCCS, \"OP-20G Contribution.\" (TW&Q Navy Dept., Office
+of Chief
+
+of Naval Operations, RIP 607, Enigma Series, volume 5., CIT TS-10-E-5,
+\"Bombe Computations.\" TS\^NSA CCH Series XII Z, \"Cryptanalytic Report
+\#2: The Yellow Machine,\" 50-52.
+
+107\. fFS} NSA CCH Series XII Z, Engstrom to Desch, September 23, 1942,
+\"Your Bombe plan approved.\" fS)i NSA CCH, Series XII Z.Joseph Desch
+toOP-20-G, \"Memo of present plans for an electromechanical analytical
+machine,\" September 15, 1942, 2.
+
+108\. tS) NSA CCH, Series XII Z, Memorandum for OP-20-G, \"Collaboration
+ofU. S.and British Radio Intelligence Organizations on Japanese and
+German Projects,\" J. N. Wenger, October 1,1942.
+
+109.1S).NSA CCH, Series XII Z, Memorandum forOP-20-G, \"Collaboration
+ofU. S.and British Radio Intelligence Organizations on Japanese and
+German Projects,\" J. N. Wenger, October 1,1942.
+
+110\. (U) Hagley Museum and Library, Accession 1825, Honeywell v
+Sperry-Rand , Trial Records, September 18, 1942, Desch to Engineering
+Department. F. H. Hinsley, British Intelligence in the Second World War,
+Volume II (New York: Cambridge University Press, 1981), 56. NARA RG457,
+SRH 361, \"History of the Signal Security Agency,\" 274. NSA RAM File:
+OP-20-G to GC&CS July 7,1942; OP-20-G toOP-20 September 3,1942; J.N.
+Wenger toOP-20GM, August 6,1942; Wenger to Ely, August 5,1942; and
+\"Engstrom toMeader re Turing visit,\" January 1, 1943
+
+111\. CSJ NSA CCH, Series XII Z, Memorandum for OP-20-G, \"Collaboration
+ofU. S.and British Radio Intelligence Organizations on Japanese and
+German Projects,\" J. N. Wenger, October 1,1942.
+
+112\. (U) Of course, the Americans did not suspect that Britain had its
+own Russian informant who was telling all to Stalin. Christopher Andrew
+and Oleg Gordievsky, KGB: The Inside Story of Its Foreign Operations
+from Lenin to Gorbachev (New York: Harper Collins, 1990), 304.
+
+113\. (U) NARA RG457, SRH-306, \"0P-20-G Exploits and Commendations in
+World War H,\" 19. F. H. Hinsley, British Intelligence in the Second
+World War, Volume II (New York: Cambridge University Press, 1981), 57.
+Andrew Hodges, Alan Turing: The Enigma (New York: Simon and Schuster,
+1983), 243.
+
+
+
+
+
+tS\^NSA CCH Series XII Z, Wenger to OP-20, October 1,1942,
+\"Collaboration ofU. S.and British radio Intelligence organizations on
+Japanese and German projects.\"
+
+114\. (U) Very useful on the question of the U.S. Army\'s Ultra struggle
+is \"Origins, Functions & Problems of the Special Branch, M.I. S.,\" in
+John Mendelshon (ed.), Covert Warfare: Intelligence, Counterintelligence
+and Military Deception During the World War II Era (Garland, 1989).
+
+115-TTS\^NSA CCH Series IV.7.20, A. P. Mahon, The History of Hut Eight,
+1939-1945,\" 90.
+
+116\. (TS//SI) NSA CCH Series XII Z, (S12008) Navy- Dept., Office of
+Chief of Naval Operations, DNC (OP-20-G), RIP 425, \"The American Attack
+on the German Naval Ciphers,\" October 1944 \[sic\], cites October 1942
+as the date of arrival of the first M8, but other sources claim it
+arrived in spring 1943. On the M9, interview with Philip J. Bochicchio,
+14 September 1994
+
+117\. (J9ffS\$ NSA CCH Series XII Z, (S12008) Navy Dept., Office of Chief
+of Naval Operations, DNC (0P-20-G), RIP 425, \"The American Attack on
+the German Naval Ciphers,\" October 1944. \[sic\] (TStYSI) NSA CCH \"P\"
+Series, Box CCo67, CITS, \"E\" Series, Vol. E-7.
+
+118\. ff//Si). Andrew Hodges, Alan Turing; The Enigma (New York: Simon
+and Schuster, 1983), 236. NSA RAM File, January 5,1943, \"Report on
+Turing Visit to Dayton.\" (S) NSA CCH Series XII Z, Dr. Turing ofG.C.
+&C.S., \"Visit to National Cash Register Corporation,\" December, 1942.
+(TS//Slr)- NSA CCH Series XII Z, OP-20-G \"Memoranda on Bombe and the
+relationship of the U. S. and U. K.,\" circa 1943.
+
+119\. tS) Turing remarked about Desch\'s apparent decision not to use
+some features already planned for the new British four-wheel Bombe. {S}-
+NSA CCH Series XII Z, Report of Dr. Turing, \"Visit to National Cash
+Register Corporation of Dayton, Ohio,\" circa Dec. 1942.
+
+120\. (SJ NSA CCH Series XII Z, Eachus to Wenger, 18 September 1942,
+\"British four wheel design not progressing.\'\" CSi NSA CCH Series XIU
+Z, Report of Dr. Turing, \"Visit to National Cash Register Corporation
+of Dayton, Ohio,\" circa Dec. 1942.
+
+121\. (¥SJ. On British comments besides those of Turing, NSA CCH, shinn
+box, \"Desch.\"
+
+122\. (¥§}. NSA CCH Series XII Z, Engstrom to Desch, September 23, 1942,
+\"Your Bombe plan approved.\"
+
+123\. r8i NSA RAM File,, January 5,1943, \"Report on Turing visit to
+Dayton\"; January 20, Engstrom to Meader, \"Change Bombe Design\"; and
+March 17,1943 Prototypes constructed.. fSJ NSA CCH Series XII Z, Report
+of Dr. Turing, \'Visit to National Cash Register Corporation of Dayton,
+Ohio,\" circa. December 1942. (£) NSA CCH Series XII Z,Dr. Turing
+ofG.C.& C.S. \"Visit to National Cash Register Corporation,\" December
+1942.
+
+124\. tSi On the gearing, interview with Philip J. Bochicchio, 6-14-94.
+
+125\. (SiNSA CCH Series XII Z, Dr. Turing of G.C. & C. S., \"Visit to
+National Cash Register Corporation,\" December 1942.
+
+126\. CTO//0\*) NSA CCH Series XII Z.OP-20-G \"Memoranda on Bombe and the
+relationship of the U.S. and U.K.,\" circa 1943.
+
+127\. (U) Interview with Philip J. Bochicchio, 6-1494.
+
+128\. (U) Interview with Philip J. Bochicchio 6-14
+
+94
+
+129\. (\*FS). Interview with Philip J. Bochicchio, 614-94. NSA, CCH
+Series XII Z,CNO, CITP 88, \"Technical and Theoretical Report of N-530
+BOMBE, Navy Dept., Washington, D.C., September, 1946.
+
+130\. rT\^SQ-NSA RAM File, December 11,1942, Horn to Robinson,
+\"Procurement of Materials for 7892,\" and December 28, 1942, CNO to
+Deeds, \"Help needed on special project at NCR.\" (T9ff&i± NSA CCH
+Series XII Z, OP-20-G \"Memoranda on Bombe and the relationship of the
+U. S. and U. K.,\" circa 1943.
+
+131\. (U) NSA RAM File, January 5,1943, Wenger to Meader, \"Turing
+Visit,\"Andrew Hodges, Alan Turing; The Enigma (New York: Simon and
+Schuster,
+
+1983), 236
+
+132\. T\^S) NSA AHA ACC 35701 \"History of the Bombe Project,\" 16
+February 1946.
+
+133\. (U) NSA NCML Message File, for example, June 4,1943, \"Use most
+Adam-Eve time for real tests.\"
+
+134\. (U) NSA NCML-CSAW Message file, May 24, 1943, \"DC has sent test
+problems for prototypes,\" and
+
+
+
+
+May 29,1943, \"Adam Eve have serious technical problems.\" The first
+British four-wheel Bombe was completed in June 1943. F. H. Hinsley,
+British Intelligence in the Second World War, Volume II (New York:
+Cambridge University Press, 1981), 748.
+
+135\. (U) NSA NCML-CSAW Message File, May 29, \\ 1943, \"Shorts and
+opens,\" and May 31,1943, \"Can use
+
+part of machine only.\"
+
+136\. tra//S9 NSA NCML-CSAW Message File, May 20, 1943,\'Redman Visit,\"
+and May 29, 1943 \"Adam and Eve problems.\" F. H. Hinsley, British
+Intelligence in the Second World War, Volume II (New York: Cambridge
+University Press, 1981), 748. Andrew Hodges, Alan Turing: The Enigma
+(New York: Simon and Schuster, 1983), 267. W. W. Chandler, \"The
+Installation and Maintenance of Colossus,\" Annals of the History of
+Computing 5 (1983): 261. ffSJ On the date of England\'s first fourwheel
+Bombe, ff9//S\*NSA CCH Series XII Z, GCCS, OP-20-G Contribution.
+
+137\. (U) NSA NCML-CSAW Message File, June 14,1943, \"Cain and Abel.\"
+
+138\. (U) The first \"formal\" production model was turned over to the
+navy at Dayton for testing on July 4, 1943, and its first test run was
+on July 23, 1943. Cain and Abel were off the line in the first week of
+July but were not ready for final testing until the last week of the
+month. Another complication was the delayed completion of the new
+building in Washington. Desch did make some minor changes after
+Engstrom\'s request. NSA NCML-CSAW Message File, July 6, 1943, July
+26,1943, and July 23, 1943, \"Status of Bombes.\"
+
+139\. (U) NSA NCML-CSAW Message File, July 26, 1943, Dayton to Washington
+\'Bombes may not work.\'
+
+140\. (U) NSA NCML-CSAW Message File, July 29, 1943, Desch to Engstrom,
+July 29, 1943, \"Fast wheel running too hot, bombe may not work.\"
+
+141\. (U) Interview with Philip J. Bochicchio, 6-1484
+
+142\. (TS) NSA AHA ACC 35173, CNO, CITS TS-49, \"A Posteriori Remarks on
+the Cryptanalytic Aspects of the Bulldozer,\" Navy Dept., Washington,
+September 1946.
+
+143\. (TS.) NSA CCH Series XII Z, Hut 6,4 October 1942, \'Electronics for
+Bombe not Working.\' fSSJNSA
+
+CCH Series XII Z, Engstrom to Desch, September 23, 1942, \"Your Bombe
+plan approved.\"
+
+144\. (IS). NSA CCH Series XII Z, Joan Murray, \"A Personal Contribution
+to the Bombe Story,\" NSA Technical Journal, 20 (Fall 1974): 41
+
+145.4S)-NSA CCH Series XII Z, Joseph Desch, \"Plan for the American
+Bombe,\" September 15, 1942. (TO//OI) NSA CCH Series XII Z (S-2568)
+\"Tentative Brief Descriptions of Cryptanalytic Equipment for Enigma
+Problems,\" Circa 1945.
+
+146\. TT3//0I) NSA CCH Series XII Z (S-2568) \"Tentative Brief
+Descriptions of Cryptanalytic\' Equipment for Enigma Problems,\" Circa
+1945.
+
+147\. (TO//SI) NSA CCH Series XII Z, (S12008) Navy Dept., Office of Chief
+of Naval Operations, DNC (OP-20-G), RIP 425, \"The American Attack on
+the German Naval Ciphers,\" October 1944. \[sic\] tS) NSA CCH Series XII
+Z, \"Cryptanalytic Report \#2: The Yellow Machine,\" 50-52.
+
+148\. (TO//OI) Navy Dept., Office of Chief of Naval Operations, RIP 607,
+Enigma Series, volume 5., CIT Ts-io-E-5, \"Bombe Computations,\" 5-14.
+fS)- NSA, CCH Series XII Z, \"Cryptanalytic Report \#2: The Yellow
+Machine,\" 12, 16. (TQ//OI) NSA AHA 16331, \"6812th Signal Security
+Detachment (PROV ) Apo 413 Army,\" 15 June 1945- l\"S\*l NSA, CCH Series
+IIZ, CNO, C1TP 88, \"Technical and Theoretical Report of N-530 BOMBE,\"
+Navy Dept., Washington, D.C., September 1946.
+
+149- (Si NSA CCH Series XII Z, \"Cryptanalytic Report \#2 The Yellow
+Machine,\" 3,54.
+
+150\. ffS) NSA CCH Series.V.7.20, A. P. Mahon, \"The History of Hut
+Eight, 1939-1945.\"
+
+151\. (U) NSA NCML-CSAW Message File, November 12,1943, \"85 Bombes in
+D.C.\"
+
+152\. (U) The first Bombe contract was terminated on December 1,1943, but
+some of the first models continued to trickle into Washington as late as
+Summer 1944. NSA RAM File, History of OP-20-G /NCML/4e, June, 1944,
+\"n530 bombes.\"
+
+153- (U) NSA NCML-CSAW Message File, November 29,1943, \'Bombe shipment
+from Dayton.\'
+
+154- (U) H. F. Hinsley, et al., British Intelligence in the Second World
+War .Volume II (New York: Cambridge University Press, 1981), 57-8 and
+752.
+
+top oconcT//ooMiNT//ra:L to uca, auc, cam, gbr amd nau/xi
+
+
+
+Andrew Hodges, Alan Turing: The Enigma (New York: Simon and Schuster,
+1983), 262.
+
+155\. (T3//3I) NSA CCH Series XII Z,(Si2008) Navy Dept., Office of Chief
+of Naval Operations, DNC (OP-20-G), RIP 425, \"The American Attack on
+the German Naval Ciphers,\" October 1944, \[sic\] 23.
+
+156\. (T9} NSA CCH Series IV.7.20, A. P. Mahon, The History of Hut Eight,
+1939-1945.\"
+
+157\. (U) H. F. Hinsley, et al., British Intelligence in the Second World
+War, Volume II (New York: Cambridge University Press, 1981), 752. NARA
+RG457, SRH-141, Papers from the Personal Files of Alfred McCormick, Part
+2,\" March 4,1944, \"Memorandum for General Bissel, Army-Navy Agreement
+Regarding Ultra\" Thomas Parrish, Tlie Ultra Americans: The United
+States\' Role in Breaking the Nazi Code (New York: Stein & Day, 1987),
+79NSA RAM File, February 21,1944, W. A, Wright to OP20-G,\"Comparison of
+Army and Navy Enigma Equipment.\"
+
+i58.-f¥SH\<SA CCH R Collection, Box CCO 66, OP20-GY-A, \"American
+Cryptanalysis of German Naval Systems,\" 7 July 1944- (Tfl//CI) NSA AHA
+ACC 13657, \"G.C. &C.S. Naval SIGINT. Vol. Ill, German Cryptographic
+Systems and Their Solution.\"
+
+159\. (Wf NSA AHA ACC 35701 \"History of the Bombe Project,\" 16 February
+1946, 9-TS\^NSA CCH Series XII Z, 21-2-1944, OF-20-G to British
+Admiralty Delegation, \"U.S. Will Increase Efforts.\" (TS//SI) NSA CCH
+Series XII Z, Alexander toLt. Church, 24 March 1944, \"British will
+emphasize building three-wheel bombes.\"
+
+160\. \<TS//S1) NSA CCH Series XII Z, LeRoy H. Wheatley, \"Cryptanalytic
+Machines in NSA,\" 30 May 1953, and various years. (TS//BI) NSA CCH
+Series XII Z, copies of various MAC Outlines, circa 1953,
+
+161\. (U) NSA NCML-CSAW Message File, July 20, 1943, \"New procedure,
+grenade,\" and August 14,1943, \"Progress on grenade.\" The grenades
+were also used on the four-wheel problems when it was thought that one
+of the wheel settings was known.
+
+162\. (TS//SI) NSA CCH Series XII Z, LeRoy H. Wheatley, \"Cryptanalytic
+Machines in NSA,\" 30 May 1953, and various years. FTO//03 NSA CCH
+Series XII Z, copies of various MAC Outlines, circa 1953.
+
+163\. ffS77«\^-NSA CCH Series XII Z(S-2568) \"Tentative Brief
+Descriptions of Cryptanalytic Equipment for Enigma Problems,\" circa
+1945.
+
+164\. (U) NSA NCML-CSAW Message File, July 20, 1943, \"New procedure,
+grenade,\" and August 14, 1943, \"Progress on grenade.\" (€) NSA CCH
+Series XII Z, Descriptions of NSA Early SPDs and Computers, as compiled
+from various NSA sources.
+
+165\. flfl//S3 NSA CCH \"P\" Series, Box CC006, CNO CITS TA-10-E-1,
+Volume i,The Click Process, January 1946. She pointed to the use of the
+message indicators as the \"crib,\" but other cribs could be used by the
+Grenades.
+
+i66.t€i.NSA CCH Series XII Z, Descriptions of NSA Early SPDs and
+Computers, as compiled from various NSA sources.
+
+i67\--(TS//S» NSA CCH Series XII Z, LeRoy H. Wheatley, \"Cryptanalytic
+Machines in NSA\" 30 May 1953, and various years. (TS//SI) NSA CCH
+Series XIT Z, copies of various MAC Outlines, circa 1953.
+
+i68r(T0//ai)-NSA CCH Series XII Z,\'Le.Roy H. Wheadey, \"Cryptanalytic
+Machines in NSA\" 30 May 1953 and various years. {TS7ySJQ.NSA CCH Series
+XII Z, copies of various MAC Outlines, circa 1953.
+
+169\. {€)-NSA CCN Series XII Z, Descriptions of NSA Early SPDs and
+Computers, as compiled from various NSA sources.
+
+l70.-(TD//ei) MSA CC\* Series Xll Z, LeRoy H. Wheatley, \"Cryptanalytic
+Machines in NSA,\" 30 May 1953 and various years.\"TT3//6l).NSA CCH
+Series XII Z, copies of various MAC Outlines, circa 1953.
+
+171\. -&& (S2568) NSA CCH Series XII Z, \"Tentative Brief Description of
+General Analytic Equipment for Enigma Problems,\" 26 March 1945.
+
+172\. £¥« (S2568) NSA CCH Series XII Z, \"Tentative Brief Description of
+General Analytic Equipment for Enigma Problems,\" 26 March 1945- \"A
+Time of Triumph.\"
+
+173\. (U) NSA RAM File, CNO, U.S. Naval Communications, \"Brief
+Descriptions of RAM Equipment,\" Washington, D.C., October 1947. NSA RAM
+File, Report of R I. Meader, Captain USNR to J. H.Wenger, Captain, USN,
+\"14 Days Training Duty, Report of,\" January 21,1949.
+
+
+
+
+
+174\. (U) NSA RAM File, CNO, U, S, Naval Communications, CITP TP-33
+\"Overhaul of Hypo \#1,\" Washington, D.C., June 1945
+
+
+
+
+
+
+
+
