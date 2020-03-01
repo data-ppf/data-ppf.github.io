@@ -14,7 +14,7 @@ high-level blackout was what its critics thought was its inability to
 develop and employ science and high technology. The Cold War was a
 high-tech war, but NSA seemed incapable of achieving what Hooper had
 demanded in the 1930s, the integration of advanced science and
-technology into SIG1NT.2
+technology into SIG1NT. 2
 
 \(U) NSA was almost confined to a very minor role in American
 intelligence. It came even closer to losing much of its independence.
@@ -49,7 +49,7 @@ cryptanalytic defeatism.
 ££&)■ Robertson saved the core of the Agency. He trusted NSA\'s
 \"cryppies\" and asked they be given what was needed for an all-out
 attack on the Soviet ciphers, especially the important Soviet
-\[systems.4
+\[systems. 4
 
 CESt As Canine had planned, the report fit his policies, some of which
 were already being turned into hardware.
@@ -100,8 +100,6 @@ in 1957. By the time the other four Bogarts were delivered,
 Remington-Rand had received almost \$2,500,000 from the Agency, much
 more than originally intended. The money was well spent,
 
-::: {style="width: 77.22461779694237%;"}
-:::
 
 (U//FOUO) Bogart
 
@@ -114,7 +112,7 @@ model, the Bogarts were nigged and ubiquitous, partly because they used
 a valuable innovation. Their technology centered on what many thought
 would become the best alternative to vacuum tubes for the \"logic\" of a
 computer: magnetic cores similar to those appearing in the memories of
-advanced machines of the mid-1950s.8
+advanced machines of the mid-1950s. 8
 
 (S\^-That version of \"solid-state\" technology made the Bogarts very
 dependable. In addition, it allowed a powerful architecture, which led
@@ -136,7 +134,7 @@ most of the Bogart capacity, butl
 
 erated messages received their share of machine
 
-time.10
+time. 10
 
 gES//0I) The Bogarts did much more. With innovative additions, such as
 Meccano and TuneSeek, which sampled analog (audio) inputs and converted
@@ -177,7 +175,7 @@ sometimes-condescending way, it was asserted that an independent
 institution would be attractive to the \"best\" men because it could
 offer amenities barred to a federal agency. There would be competitive
 salaries and a \"campus\" atmosphere and routine; time cards and
-regulated hours would not be required.12
+regulated hours would not be required. 12
 
 (TS//SI) As NSA\'s Scientific Advisory Board\'s membership became more
 academic, the sugges
@@ -207,11 +205,9 @@ military SIGINT groups wanted their freedom; the DoD desired to force
 scientists demanded to take control of research; Congress wanted
 research and development to be
 
-::: {style="width: 37.08349666797334%;"}
-:::
 
 contracted out to the corporations; and the CIA sought to establish its
-own cryptanalytic organizations.16
+own cryptanalytic organizations. 16
 
 (T0//0I) Canine was good at his job, but he could not overcome all the
 threats and challenges. He would have to give some ground to maintain
@@ -246,19 +242,18 @@ branch, a subcommittee led by Mark Clark looked at, if not inside,
 \(U) Ralph Canine
 
 
-TOP OCCRCT/ZGOMINT/mCL UQA, AUG, OAN ODR AND NZU/X1
 
 
 mHbfcLHbl»mHlllllll»W ■\* inn M..nnn\|WHM
 
 NSA To Canine\'s relief, its many recommendations were almost all in
-favor of NSA.18
+favor of NSA. 18
 
 4-¥&) When Clark\'s recommendations were echoed by those of a special
 Executive Office science board under James R. Killian (which had many
 contacts with NSA\'s Science Advisory group), Canine knew that if he had
 attractive programs the president would underwrite a massive
-\"techno-fix\" within the agency.19
+\"techno-fix\" within the agency. 19
 
 ££&) The only danger that Canine saw in the Clark-Killian
 recommendations was the reappearance of the idea that a captive but
@@ -318,11 +313,9 @@ change his attitude. He was aware ofthe UNTVAC and of the work at ERA,
 but it was not until the increased pressures from his own engineers and
 the outbreak ofthe Korean War that he gave per
 
-TOP SEeHETOCOMINTHRCL USA, AU3, CAM QDR AMD NZUfXI
 
 
 
-top (TranEiwcinnmnwi haa, auq, can qdr and nzu/xi
 
 mission to build a full-fledged electronic computer.21 That permission
 came with some important qualifications, however.
@@ -405,7 +398,7 @@ majority of expected customers. IBM decided to make some modifications
 to the design of the well-known TAS machine, however. They included
 magnetic tapes and enhanced I/O processing, but internal calculations
 remained the machine\'s forte. The 701 relied upon CRT-like fast memory
-and a slower magnetic drum.23
+and a slower magnetic drum. 23
 
 \(U) IBM turned away from a design that was suited to NSA. The option to
 use the machine that Ralph Palmer had been working on, the TPM, was
@@ -417,7 +410,7 @@ variable length internal \"words,\" a feature essential to day-to-day
 cryptanalytic methods. It also used a Binary-Coded Decimal (BCD)
 representation of numbers which reduced the effort needed to translate
 characters.24 All in all, his TPM was better for codebreaking work than
-the 701.25
+the 701. 25
 
 \(U) Unfortunately for NSA, there were problems with some of the TPM\'s
 essential elements, such as its tape drives. As a result, the TPM was
@@ -493,7 +486,7 @@ were originally envisioned as special-purpose machines, and the
 experimental Alwac and LPG small computers are excluded, the only
 non-IBM general-purpose machine in the Agency in the early 1960s was an
 old Atlas II. And IBM remained as the vendor for the Agency\'s
-electromechanical machines.28
+electromechanical machines. 28
 
 \(U) A Machine for Us, Perhaps
 
@@ -533,7 +526,7 @@ boards. Supported by mandates to avoid building single-purpose
 computers, those who had grown up within the Agency, especially within
 the SIS, had led the crusades for the late 1940s alternatives: Sled and
 Abner\'s special hardwired features. Those were seen, however, as only a
-first step towards a true cryptoarchitecture.29
+first step towards a true cryptoarchitecture. 29
 
 (TS//SI) Soon after the Abner and Sled projects were under way,
 explorations of great extensions of their special architecture began.
@@ -543,7 +536,6 @@ technical/conceptual leader of Farmer was Ray Bowman, the old SIS hand
 who had been so important to Abner\'s spe
 
 
-TOP OCOnCTOOOMINTOnCL UQA, AU0, DAN ODR AND HZU/X1
 
 
 
@@ -555,7 +547,7 @@ Samuel S. Snyder.
 pleasing to the cryptoproduction groups. In it he outlined his
 architectural and procedural ideas. That first sketch gained wide
 circulation within the Agency.31 It was followed by a series of papers
-that expanded the Farmer ideas.32
+that expanded the Farmer ideas. 32
 
 (TS//SI) Bowman\'s Farmer was to be a large, all-purpose cryptanalytic
 machine. At its center was to be a general-purpose computer that would
@@ -574,7 +566,7 @@ project. A follow-on effort starting in 1961 might lead to some
 construction. Bowman also thought it best that Farmer remain an Agency
 project, with all the design work to be done in-house. Only after the
 architecture had been refined, and when ten to twenty megacycle
-components were available, should outsiders be brought in.33
+components were available, should outsiders be brought in. 33
 
 (TS//SI) Bowman\'s ideas and recommendations were widely circulated.
 Many engineers and cryptanalysts joined his study group. The group
@@ -592,7 +584,7 @@ well as be a super-Sled! \*\*
 
 (TQ//0I) Fortunately for Bowman and his overburdened aides, the report
 stated that this new version of Farmer was not to be turned into
-hardware until the technology to support it was developed.35
+hardware until the technology to support it was developed. 35
 
 (3S} However, in 1955 there was growing pressure to turn ideas into
 machines immediately. That made it difficult for Bowman\'s group to keep
@@ -622,13 +614,11 @@ system, Rob Roy,
 
 WMEmamamBmB inn nun mnnnn win in in
 
-::: {style="width: 37.1764705882353%;"}
-:::
 
 \(U) Rob Boy
 
 was ordered. Built around aBogart, it had five outstations, and was in
-operation by early i960.36
+operation by early i960. 36
 
 Q¥S) There were much, much more ambitious plans for distributed
 processing. In 1955 General Canine was convinced that what the Agency
@@ -642,7 +632,7 @@ enough to be put close to, even on the desks of, codebreakers. Canine
 looked forward to having forty of the new ERA devices within a short
 time. ERA\'s new parent, RemingtonRand, perhaps thought the old navy-ERA
 relationship was about to be reborn. Forty 1103s would cost at least
-\$20,000,000.37
+\$20,000,000. 37
 
 £8) But Remington did not get \$20,000,000. The contract for the new
 1103 did not go to ERA, nor did it lead to the forty machines. After six
@@ -650,7 +640,7 @@ months of searching and negotiations, the Philco Corporation, which
 already had a reputation for manufacturing high-speed transistors,
 became the parent of the Solo project. RemingtonRand/ERA eventually
 gained a small part of the project; it was called on to manufacture the
-core memory for S0I0.38
+core memory for S0I0. 38
 
 £8) Despite Philco\'s advanced technology, Solo\'s development bogged
 down. Cost and schedule overruns led to finger pointing among the
@@ -804,7 +794,7 @@ the new Honeywell-Raytheon combination turn their Datamatic computer
 into a market contender. Snyder feared that even if the NSA research
 office relented, Datamatic would demand to bid on the \"IBM\" work, thus
 delaying any progress for so long that IBM might abandon its generous
-offer.52
+offer. 52
 
 (0//0I) Neither IBM nor NSA\'s R/D group could accept an end to the
 IBM-Farmer alliance. They were supported by Solomon Kullback.53 While he
@@ -818,7 +808,7 @@ than one program at a time, was more than hinted at.
 
 (8//SB The special IBM transistor and memory projects were described
 again, and their role in making the IBM machine perhaps one hundred
-times more powerful than existing computers, was explained.34
+times more powerful than existing computers, was explained. 34
 
 (3S) Sam Snyder\'s group presented new arguments to NSA\'s research
 office, explaining that NSA had frequently subsidized work within pri
@@ -838,7 +828,7 @@ give IBM \$800,000 for eighteen months work on its high-speed core
 memory explorations. As something like insurance for the future of the
 special NSA computer, another \$800,000 was promised to support an IBM
 team which was to design a computer that truly fit Agency needs, one
-following the ideas in the Farmer proposals.56
+following the ideas in the Farmer proposals. 56
 
 \(U) St. Paul in Mohansic
 
@@ -862,7 +852,7 @@ cryptanalytic and production groups requesting reports explaining their
 secret methods and procedures. The reports were shipped to
 
 Mohansic. IBM\'s laboratory soon had a library filled with NSA\'s most
-precious secrets.57
+precious secrets. 57
 
 (3S//S\*) The Plantation area became the Agency\'s computer think tank,
 but this time its powerful figures were not the academic types who had
@@ -880,7 +870,7 @@ through the crypto-procedures to identify common and essential
 cryptanalytic functions. Samuel Sehmitt, a cryptanalyst/statistician,
 and the mathematician George Cramer, who had worked for ERA for some
 years, became invaluable. They gave much advice to the lead IBM
-engineers, Paul S. Herwitz, James Pomerene, and Fred Brooks.59
+engineers, Paul S. Herwitz, James Pomerene, and Fred Brooks. 59
 
 \(U) But IBM\'s computer designers could not just attend to NSA\'s
 advice. The Stretch designers, it turned out, had to please other
@@ -906,7 +896,7 @@ that would allow the company to leap frog Remington-Rand\'s LARC.
 Stretch program was enticing. They convinced the agency to pay IBM
 \$4,300,000 for a super-calculating computer for Los Alamos. Soon, IBM
 had hopes that several other orders would follow for a similar
-machine.60
+machine. 60
 
 \(U) The AEC Stretch became the focus of attention at IBM, and it was not
 long before a machine designed for physicists\' number-crunching had an
@@ -937,7 +927,7 @@ need for a mass data processing capability, the Agency\'s engineers
 argued that NSA should help IBM develop what would become known as the
 Tractor tape system. In response, the Agency gave IBM \$300,000 for
 additional research, hoping the corporation\'s engineers would conquer
-the remaining problems.63
+the remaining problems. 63
 
 (S//S13 If the hopes for Tractor were realized, the NSA Harvest computer
 could become the desired super data processor the Agency needed. The
@@ -953,7 +943,7 @@ manpower and resources and make centralized management possible. Users
 would submit jobs and receive their output on a regular twenty-four hour
 basis.6\* The Agency was very concerned about information management, so
 much so that it held a pathbreaking conference in 1959 that helped
-define the emerging field of database management.65
+define the emerging field of database management. 65
 
 CiS//aij\" The influence of those who saw NSA\'s future in terms of data
 processing reached into IBM\'s secret development laboratory. Their data
@@ -973,11 +963,11 @@ PL. 86-36 EO 3.3(h)(2)
 {S-) That first Harvest Manual accepted the AEC Stretch as the NSA
 system\'s centerpiece, it gave data processing a prominent place, and it
 recommended that implementing many of the architectural ideas of the
-1955 Farmer proposals be deferred if not abandoned.66
+1955 Farmer proposals be deferred if not abandoned. 66
 
 £S) .NSA\'s \"special\" computer had become a sophisticated appendage to
 a Stretch, rather than Stretch being a \"traffic cop\" for a cluster of
-separate special-purpose units linked through a data bus.67
+separate special-purpose units linked through a data bus. 67
 
 (-¥S) The special cryptanalytic portion of Harvest, its attachment, or
 \"bump,\" was to concentrate on a few general cryptanalytic tasks. It
@@ -1000,7 +990,7 @@ very advanced table lookup feature to facilitate language weighting. By
 a clever use of a base address and the characters encountered in a text,
 digraph or other language frequency weights could be referenced and
 applied without having to wait while a unique memory address was
-created.69
+created. 69
 
 £6) Another special memory feature was recommended to help those
 involved with codebreaking rather than cipher work. By simplifying how a
@@ -1023,7 +1013,7 @@ plugboard program that controlled Sled and other special machines.
 Multiprocessing/programming was one. It was thought it would be possible
 to have Stretch performing one or more tasks while the \"attachment\"
 was in operation and that the attachment itself might, as the Farmer
-outline had recommended, perform several jobs concurrently.71
+outline had recommended, perform several jobs concurrently. 71
 
 (G}-Despite the complexity of Harvest and its deviation from the
 original Farmer ideas, NSA\'s in-house evaluation group gave general
@@ -1046,7 +1036,7 @@ And they began to be
 
 
 voiced before the Plantation report had been formally released in
-1957.73
+1957. 73
 
 \(U) Engineering Is Not Science, at Least to
 
@@ -1074,7 +1064,7 @@ direct experience with cryptanalysis and its technology.
 useful. When the Department of Defense, which had become enamored with
 the new applied scientists, pressured AFSA to give science an important
 voice in its work, the old SCAG group was used as a means offending off
-unwanted outside influence.74
+unwanted outside influence. 74
 
 ■£») When NSA was formed and SCAG was turned into the Science Advisory
 Board (SAB), its membership looked much like before. It played a crucial
@@ -1083,7 +1073,7 @@ review.75 As important, the first NSA boards refrained from interfering
 in
 
 Agency affairs. Its members saw their role as one of offering help when
-asked.76
+asked. 76
 
 -\$&) But as the Agency failed to conquer the Soviet problem and as the
 Department of Defense increasingly called on scientists, the board
@@ -1110,7 +1100,7 @@ contacts, experience in designing long-term programs, and a bundle of
 fresh ideas would invigorate the Agency. Asa result, Solomon Kullback,
 who had been the Technical Director of Research and Development since
 1949, was assigned to a second-place slot in the revamped Agency
-research office.79
+research office. 79
 
 \(U) The new research director, Alva B. Clark, seemed the ideal man from
 the ideal background. Anelectrical engineer/scientist, he had pulled
@@ -1120,7 +1110,6 @@ regarded as the premier research facility in the world, Bell
 
 
 
-TOP RFPRFTVfrnMINTV/REl USA, AUS, CAM GBR AND NJU/X1
 
 Laboratories. Bell Labs was unique because it conducted applied as well
 as abstract research, a blend that DoD\'s leaders thought was vital to
@@ -1132,7 +1121,7 @@ and suggested new initiatives.
 however. One of them was his rejection of the proposed use of the Farmer
 project monies to support IBM\'s Stretch efforts. Alva Clark did not get
 to see the results of his decisions: he died just two months after he
-finally signed off on the Plantation and Silo projects.80
+finally signed off on the Plantation and Silo projects. 80
 
 £G}-The Agency employees hoped the next director would not resist a full
 Harvest program and that he would be more willing to follow the advice
@@ -1143,8 +1132,6 @@ of the cryptanalytic old hands on other matters. They lobbied to have an
 and then became central to ERA, and who later had served on the
 Scientific Advisory Board throughout the
 
-::: {style="width: 28.459427675421406%;"}
-:::
 
 \(U) Howard Engstrom
 
@@ -1160,7 +1147,7 @@ more an \"outside\" scientist than had been thought; he remained
 committed to the belief that cryptanalytic problems could be conquered
 through scientific, mathematical research. For him, data processing,
 \"busts,\" and crude statistical methods were expedients that had to be
-replaced, not something on which to base a nation\'s SIGINT future.82
+replaced, not something on which to base a nation\'s SIGINT future. 82
 And he still believed in the possibility of a Soviet Ultra if something
 like \"G\'s\" World War II research branch, which had brought the
 nation\'s brightest and most energetic young academic mathematicians
@@ -1187,7 +1174,7 @@ the fathers of information science, Warren
 
 Weaver and Claude Shannon, and brought in Cold War university managers
 like Jay Forrester and A. G. Hill of MITs Sage Project and Lincoln
-Laboratory.84
+Laboratory. 84
 
 \(U) Forrester and Hill had forged new relationships between
 technology-based schools and the military. At the same time, others were
@@ -1203,14 +1190,14 @@ respectability. He also wanted NSA to support fundamental research in
 fields of interest to SIGINT (and John von Neumann). He constantly
 argued that NSA had to step in and fill the research gap in computer
 technology and logic. He wanted NSA to fund expensive research into
-ultra-high-speed circuitry and computer design.86
+ultra-high-speed circuitry and computer design. 86
 
 (TS//SI) Such recommendations began to be turned into a program after
 the Hoover Commission\'s findings were released. The Hoover committee
 recommended an all-out effort against Russia\'s codes and ciphers and
 wanted it to be a scientifically based one. The commission could not be
 ignored. It and its friends on the SAB were powerful and had the ear of
-the nation\'s leaders.87
+the nation\'s leaders. 87
 
 (TS//ST) The Hoover Commission\'s views fit with the predisposition of
 the research types in the Agency, especially those who had come to NSA
@@ -1279,7 +1266,7 @@ what could be done about the Soviet high-level problem if the Agency
 advisors, including Vannevar Bush. They were supportive of the outside
 high-tech, high-science initiatives within Freehand, and Canine wanted
 to report back to them with aboard-approved plan before they might
-change their minds.93
+change their minds. 93
 
 (T0//0I) NSA\'s Science Board listened to presentations on the
 \"science\" components in the initial Freehand wish list. There was to
@@ -1287,7 +1274,7 @@ be an exploration of the possible contributions of mathematics and the
 probable impact of more and better mathematicians within the Agency.
 There would be an R&D technology program to create computers 1,000 times
 faster than the best of the mid-1950s and an outside parallel
-cryptanalytic effort against the Soviet cipher machines.94
+cryptanalytic effort against the Soviet cipher machines. 94
 
 (TS//0I) There was also something rather sad. The board learned that the
 crypto-technology tables had been turned. No longer was the United
@@ -1302,7 +1289,7 @@ ominous and certainly insulting to the old-timers in the Agency. The DoD
 was withholding its approval for the Holtwick/Sinkov request to vastly
 increase NSA\'s workforce and its stock of computers. The DoD wanted to
 see evidence that NSA\'s staff was making progress before it granted any
-more funds for a \"business as usual\" attack.95
+more funds for a \"business as usual\" attack. 95
 
 (TS//SI) The board shared the DoD\'s views. They favored abstract
 \"outside\" work, not the application ofmore-of-the-same cryptanalysis.
@@ -1325,7 +1312,6 @@ Tproblem.
 received different names, such as \"Project Parallel\" of \"Manhattan,\"
 but the
 
-TOP 8ECWET//COMINT/mCL USA, AUS, CAW OBR AMP HZU/XI P L 86\"36
 
 EO 3.3(h)(2)
 
@@ -1360,7 +1346,7 @@ the responsibility for Freehand in IBM\'s hands.97 There was some
 mention of IBM as a possible site for circuit explorations, but
 McPherson\'s declaration that he thought the 1,000 megacycle goal
 unrealistic and the tensions over the Harvest program caused the Agency
-to look elsewhere.98
+to look elsewhere. 98
 
 \#8) The question of how to run the Freehand technology program was
 especially troublesome. There was much at stake. A repeat of Nomad would
@@ -1373,7 +1359,7 @@ There were discussions of using MITs Lincoln Laboratory, but its head
 and other SAB advisors, including Jay Forrester, indicated the lab would
 not accept the responsibility. Forrester suggested the Agency create a
 new university consortium. But when universities, such as MIT and
-Chicago, were called on, Lightning did not receive a friendly welcome.99
+Chicago, were called on, Lightning did not receive a friendly welcome. 99
 
 \<S) No Lightning center could be created in 1956. The Los Alamos and
 longer term mathematical research projects seemed to have found a home,
@@ -1389,7 +1375,7 @@ range mathematical program. The corporation wanted to have a workforce
 of 200 people. Eighty were to be highly qualified scientific
 researchers, and thirty of them were to be the most eminent of
 America\'s scholars. They\\were to be joined by a cadre from NSA\'s
-research group.100
+research group. 100
 
 £3PS) General Electric\'slplans were attractive, but they were not
 turned into a contract in 1956. Despite Engstrom\'s enthusiasm, the NSA
@@ -1405,12 +1391,10 @@ mandates was to cut military and intelligence budgets. With so little to
 show in terms of results against its prime target,
 
 
-TOP BCCRCTOOOMINTORCL UQA, AUG, OAN ODR AND NZL//X1
 
 P.L. 86-36 EO 3.3(h)(2)
 
 
-TOP 3ECRET//COMINT7/RCL U3A, AUQ, OAN QDR AND NZU/X1
 
 with the Agency\'s super-advocate, Ralph Canine, retiring, and with so
 many threats to take highlevel cryptanalysis out of NSA, 1957 looked
@@ -1427,20 +1411,20 @@ itself should be expanded. The need to hurry was clear.
 (T3//3I) Engstrom eventually devised away to organize the \"1,000
 megacycle\" Lightning program. Because of the way he did it, he pushed
 NSA over a sensitive bureaucratic line in 1957. The Agency became a
-sponsor of basic research within industry.102
+sponsor of basic research within industry. 102
 
 (TS//SI) Lightning was a bold and expensive program, but out of it,
 Engstrom predicted, would come a machine 1,000 times more powerful than
 the current ones. It would be powerful enough to employ even the old
 unsophisticated exhaustivetrial crypto-techniques of the 1940s against
-the Soviet cipher machines.103
+the Soviet cipher machines. 103
 
 (3\$) Ralph Canine had laid much of the political groundwork for
 Lightning. He had turned President Eisenhower into a believer.104 Ike
 lent his name to the project, allowing Engstrom to convince the DoD that
 NSA be given complete control over Lightning. NSA was able to dodge the
 DoD rules that fundamental research be administered by a central
-agency.105
+agency. 105
 
 (\*FS) After a few months of rethinking how to organize the project, in
 June 1957, without waiting for the rest of Freehand to begin, Engstrom
@@ -1452,7 +1436,7 @@ opment of technology. The ambitious architectural and communications
 explorations that were part of the original Lightning plans were put
 off.
 
-(\^ Howard Campaigne was given overall Lightning responsibility.106
+(\^ Howard Campaigne was given overall Lightning responsibility. 106
 Along with many others, he interpreted Lightning as a project aimed at
 the eventual \"development of THE computer\" NSA needed to meet the
 Hoover and Robertson commission\'s demands for results on the highlevel
@@ -1467,7 +1451,7 @@ would be impossible to deliver a machine 100 times more powerful than
 the proposed Harvest, and they were anxious about any hints that
 operational machines would come out of the project by the early or
 mid-1960s. They thought that a 1,000megacycle computer was, at very
-best, a wellintentioned dream.107
+best, a wellintentioned dream. 107
 
 (TS//SI) Making too many promises about an NSA computer would, they
 thought, undermine the Agency\'s credibility. But Lightning began with a
@@ -1475,8 +1459,8 @@ thought, undermine the Agency\'s credibility. But Lightning began with a
 keep control of all aspects of Lightning. That proved impossible,
 however. Engstrom was again unable to create a captive corporation, was
 unable to find a company to supervise the entire project, and was unable
-to hire enough people within NSA to run a tightly controlled program.108
-Lightning had to be parceled out among a number of contractors.109
+to hire enough people within NSA to run a tightly controlled program. 108
+Lightning had to be parceled out among a number of contractors. 109
 
 (TS//3I) But Engstrom devised a strategy to get as much as possible from
 an essentially unsupervised project. He decided to fund a few of the
@@ -1487,7 +1471,6 @@ funds
 
 
 
-TOP OCORCTOOOMINTOrcCL UQA, AUG, OAN ODR AND N2UfX1
 
 would lead to the emergence of technologies by the 1960s. NSA\'s role
 would be confined to financing the intensified research.
@@ -1514,7 +1497,7 @@ it would be built at an undetermined time after the research and
 development phases of Lightning were completed. That made IBM\'s Stretch
 something of a competitor to Lightning. Fortunately for the Harvest
 advocates within the Agency, a Lightning machine was, they thought,
-years away.110
+years away. 110
 
 (TB//8I) But the research phase of the Lightning project was
 progressing. Because the selected companies had already been working on
@@ -1573,7 +1556,7 @@ use in room temperature circuits. The company was already making thin
 film memories to replace magnetic cores. The new memories were 1,000
 times faster than Bogart\'s and much cheaper to make because laying down
 thin film was automated. But Rand\'s circuits were very far from the
-1,000 megacycle goal.116
+1,000 megacycle goal. 116
 
 (jS-)-Sperry-Rand\'s work was continued by the Agency, but the research
 at some other Lightning contractors was terminated within a few years,
@@ -1692,7 +1675,7 @@ the creation of special-purpose computers to handle the torrent of
 to include something that would truly make NSA as much or more of a data
 processing shop than a cryptanalytic agency. Baker wanted NSA to handle
 ELINT, the signals gathered from enemy radar and other electronic
-systems.121
+systems. 121
 
 (TS//SI) Worse for NSA\'s regulars was Baker\'s interpretation of what
 Howard Engstrom was promoting - the \"Los Alamos\" cryptanalytic project
@@ -1738,7 +1721,7 @@ end of 1958, NSA had its think tank, one directly connected to the world
 of the sometimesimpractical academics. Within the Agency it was known as
 The Cryptanalytic Research Division of the Institute for Defense
 Analysis at Princeton University. Outsiders thought it was a
-communications research center within the Institute.123
+communications research center within the Institute. 123
 
 \(U) Dr. Baker\'s Ha{f-an-Institute
 
@@ -1763,7 +1746,7 @@ to abstract research and to anticipating future systems, rather than
 \"attacking solely current problems.\" Although its founders were told
 they would be responsible for advanced work on computer designs and
 software, there was no intention of taking all such responsibilities
-away from NSA\'s various research groups.124
+away from NSA\'s various research groups. 124
 
 (Tfi//SftAnd the work at the CRD got off to a slow start. It took some
 time to obtain rooms and then a separate building. More difficult was
@@ -1784,7 +1767,7 @@ decision to try to keep the Princeton group busy on abstract problems.
 
 
 Materials on real targets were kept from the CRD\'s staff for several
-years.126
+years. 126
 
 £ES//fli) The quiet changes to the Baker panel\'s recommendations about
 IDA were not the only ways the Agency defended itself during the late
@@ -1803,7 +1786,7 @@ Tractor. But a formal agreement to begin Harvest had to wait another
 year, and the major financial commitment to it was delayed yet another
 half year. The delays were caused by more than quibbling over technical
 and financial details. There were substantive objections to IBM\'s
-design and procedures.128
+design and procedures. 128
 
 (3\$) The objections were voiced as early as 1957 when it became clear
 that IBM had decided that the heart ofthe NSA system was to be Stretch,
@@ -1827,7 +1810,7 @@ trusted machine, the IBM 705. When IBM promised that it could build the
 Tractor mass memory system, it seemed sure that Harvest would be as much
 as five or ten years ahead of what the commercial computer market was
 producing. NSA it appeared, was to have its super data-processing
-machine.131
+machine. 131
 
 (S\^ Tractor was appealing. Its design hinted that the Agency might have
 one great memory that would allow the use of advanced data management
@@ -1847,7 +1830,7 @@ sages
 l&) Despite the encouraging news about Tractor, opposition to Harvest
 reemerged in late 1957. One reason for the new protests was the feeling
 that Harvest might undermine lightning, but much was caused by dislike
-ofthe close relationship between IBM and the Agency.133
+ofthe close relationship between IBM and the Agency. 133
 
 (-81 While NSA\'s Harvest team worked on the various contract proposals
 IBM submitted, Howard Engstrom became a major and vocal critic. He made
@@ -1865,7 +1848,7 @@ He thought TBM had a lock on Agency business, and he was very upset by
 IBM\'s insistence that the Agency treat much of Harvest as \"company
 confidential\" information. As important to understanding his opposition
 to Harvest, he felt that the enormous cost of the Harvest would cripple
-other programs, including his creation, Freehand.134
+other programs, including his creation, Freehand. 134
 
 QS) Engstrom wanted an end to the Harvest program or, at least, the
 negotiation of better terms. He took his views to the director\'s
@@ -1873,7 +1856,7 @@ office, countering the pro-IBM arguments of the Agency\'s Harvest team.
 Engstrom was forceful, but the director knew NSA had already invested
 too much in Harvest to allow a real showdown. Lieutenant General Samford
 certainly did not want to be blamed for slowing the delivery of the
-AEC\'s machine by forcing IBM to reconfigure Harvest.135
+AEC\'s machine by forcing IBM to reconfigure Harvest. 135
 
 ££) IBM and the Agency regulars won the day. Engstrom was overruled. And
 the Agency gave in on many Harvest contractual issues. IBM\'s refusal to
@@ -1886,7 +1869,7 @@ Agency had already invested \$1,987,000 in IBM-conducted research and
 design studies; now it committed itself to an additional \$11,400,000
 for the Stretch computer, the Harvest \"bump\" and the Tractor tape
 system. Soon it added another \$3,000,000 for additional high-speed
-memories.136
+memories. 136
 
 (P3 That was not all, however. Within six months IBM returned to the
 Agency with the
@@ -1912,14 +1895,14 @@ programming. As computers increased in power and as users expected more
 from them, software development was taking as much or more time than
 hardware construction, and it was on a path that was making it as costly
 as the machines. Basic Harvest software, the Agency soon learned, was to
-cost more than the original price of Stretch.138
+cost more than the original price of Stretch. 138
 
 0?) Because IBM had not promised to supply much software, just what it
 had developed for and with the AEC group, NSA had to find the monies to
 create a powerful operating system and an applications programming
 language that would make the two types of computers in Harvest easy to
 use. Those were big chores in the late 1950s. The Agency spent more than
-\$4,000,000 on the initial software for Harvest.139
+\$4,000,000 on the initial software for Harvest. 139
 
 (£) It took several years to develop the applications language,
 Transcrypt Qater called Alpha), the HAP assembly program for expert
@@ -1931,7 +1914,7 @@ programmers, and the operating system, HOPS. Pushed to
 
 have them ready for the Harvest machine\'s delivery to NSA they, and the
 first applications, programs, were skeletons to be filled in over
-time.140
+time. 140
 
 \(G) The software was impressive, however. HOPS was one of the first
 sophisticated operating systems. Alpha was also ahead of its time. And
@@ -1943,7 +1926,7 @@ and expected goal for Harvest, multiprogramming. Harvest was unable to
 run more than one program at a time. Other frustrations arose when it
 was realized that Stretch could not run while the \"bump\" was in
 operation and that programming for the \"bump\" could not be turned over
-to nonspecialists.141
+to nonspecialists. 141
 
 \%¥S) While the software project was being organized, Harvest\'s critics
 intensified their protests. Howard Engstrom and SAB members continued to
@@ -1952,7 +1935,7 @@ they were more upset by IBM\'s power to convince the Agency to allow the
 company to go its own way while it was working onNSA\'s problems. The
 stipulation that NSA approve the design changes was not always, perhaps
 rarely, followed. The Agency critics wondered if NSA would get an NSA
-computer, or one that suited the needs of IBM.142
+computer, or one that suited the needs of IBM. 142
 
 £FS) The Harvest situation reached a crisis point in i960. Since
 Harvest\'s beginnings, the SAB had been concerned that IBM would not
@@ -1965,7 +1948,7 @@ stopgap \"transition to Lightning,\" the SAB became suspicious. When it
 learned of the
 
 details of IBM\'s program management, SAB decided to review the
-project.143
+project. 143
 
 Q£Sj One source of SAB\'s concern may have been a young Agency engineer
 assigned to watch over Harvest\'s development in New York. He endangered
@@ -2025,7 +2008,7 @@ the effort that had gone into the quality control system for components.
 difference between initial promises of Harvest\'s speed and what was
 being reported in the late 1950s. He asked them to realize that until
 there had been enough time to develop sophisticated software, Harvest
-could not measure up to its true potential.147
+could not measure up to its true potential. 147
 
 \(U) It was Snyder\'s persuasiveness, combined with the fact that the
 Agency had already invested too much to abandon IBM that led to a
@@ -2039,7 +2022,7 @@ component of Harvest, and hundreds of them were being built.148 Even the
 new NSA electronic communications systems, including CRITTCOM to inform
 the president in emergency situations, were minor investments compared
 to the billions poured into the missile and space programs of the
-era.149
+era. 149
 
 GTS//ST) But there was something else that few knew about that may have
 allowed the Agency to go its own way and continue with Lightning,
@@ -2088,7 +2071,7 @@ had to be. Because the Hairline machines were needed immediately, they
 had to use existing technologies, slow ones. To compensate, the
 designers made imaginative uses of parallelism and multiple memories.
 Even analog circuits were employed to generate ultra-high-speed
-processing from old technologies.132
+processing from old technologies. 132
 
 GES//SB The group turned to IBM to take over some of the detailing.
 There were thoughts of having IBM build all the Hairline machines. But
@@ -2097,7 +2080,7 @@ companies were called in. John Howard, then an executive with Burroughs,
 helped, as did engineers from Sperry-Rand and Magnavox.153 Then, when
 the original plan to have IBM construct the entire series of machines
 was dropped, the other firms were asked to do more than give technical
-advice.154
+advice. 154
 
 (T0//0I) By 1958 it seemed that the NSA was about to reenter the world
 of heroic cryptanalysis. The Agency and its crew needed such a belief
@@ -2118,7 +2101,7 @@ cryptarialytic reconstruction of a
 machine cipher,\" which will make it \"possible to read approximately
 11,000,000 words per month,\" the Department of Defense could not
 resist. When it was informed that the CIA had agreed to help in the
-work, the project was even more attractive.155
+work, the project was even more attractive. 155
 
 (TS//8\*j Hairline had to be made operational immediately. Luckily, NSA
 found a devoted industrial ally to help do that.156 In a sense, it was a
@@ -2155,7 +2138,7 @@ That would allow NSA\'s own engineers to build Farmer machines in-house
 and to do so within months, not years. The Agency engineers achieved
 their goal in the 1960s. Using the CDC circuit as a model, they created
 their CADY cards and were able to build twenty-one very effective SPDs
-with them during the 1960s.157
+with them during the 1960s. 157
 
 (TS/ySi) CDC\'s contributions went far, far beyond CADY. The computers
 they had in mind, what became the CDC 1604 and its grander follow-ons of
@@ -2170,7 +2153,7 @@ teams of hundreds could not achieve? He may have been angered by
 something else: CDC became a favorite of the science-oriented men at NSA
 and a long-term partner of its special-purpose machine group, one which
 demanded and financed the development and use of cutting-edge technology
-and advanced architecture.158
+and advanced architecture. 158
 
 (T3//3I) As in the days of ERA, CDC had its secret rooms where the
 world\'s most advanced computer work was done by engineers with the
@@ -2186,7 +2169,7 @@ cryptanalytic power. Although some cost as much as one half
 
 the as
 
-e price of IBM\'s Stretch, they were twenty times powerful.159
+e price of IBM\'s Stretch, they were twenty times powerful. 159
 
 (¥8) Using one of CDC\'s super-fast generalpurpose computers, such as
 the 1604 or 3600, as the control and I/O for the special-purpose
@@ -2222,7 +2205,7 @@ Itw\|as the attempt to put Lightning\'s research to\|use. l62 Its high
 price brought great returns. Aztek did its particular job 2,400 times
 faster than IBM\'s commercial super
 
-computer of the Stretch.163
+computer of the Stretch. 163
 
 era,
 
@@ -2242,7 +2225,7 @@ an unexpected and major problem. The critical special core memory for
 the machine had proven unworkable, and the Harvest project had almost
 come to a halt in mid-1960. It had taken additional millions and much
 creativity to find a substitute that could reach the speed IBM had
-promised.164
+promised. 164
 
 (TS//SI) Harvest\'s arrival meant that the mid-1950s faith in a
 technological solution could be tested. That faith had put the Agency\'s
@@ -2266,8 +2249,6 @@ limits had been reached. Cryotrons proved stubborn, and thin-film
 technology, though still viable, was facing constraints. The IDA had not
 yet worked a methodological
 
-::: {style="width: 45.254901960784316%;"}
-:::
 
 \(U) Harvest
 
@@ -2589,7 +2570,6 @@ at NSA,\" NSA Technical Journal (Spring 1968): i.m NSA CCH Series XII Z,
 65\. (WSS-NSA AHA ACC 36784, \"Data Storage and Retrieval Symposium,\"
 16-17 April 1959.
 
-TOP OCOnCTOGOMINTOnCL USA, AUG, CAM GBR AND NZL//XI
 
 
 
@@ -3215,7 +3195,6 @@ Brute force searches - 85, 133
 
 Buck, Dudley - 306
 
-Page 328 TOP aCORCTOOOMlNTORCL TO USA, AUS, CAM, GBR AMP NZU/X1
 
 
 
@@ -3272,7 +3251,6 @@ Coleman - 28, 315
 
 Coleridge - 228, 266
 
-TOP SECRiTOCOMIMTOREIi TO USA, AUG, CAM, GBR AMD HZU/X1 Page 329
 
 
 
@@ -3330,7 +3308,6 @@ Denver Research - 275
 
 
 
-TOP OCORrn/OOMINTOnCL TO UQA, AUQ, OAN, ODR AND NZU/X1
 
 Dervish -4, 293, 314, 318, 321
 
@@ -3387,10 +3364,8 @@ Engstrom, Howard - 29, 54, 269, 273, 282, 288, 300-304, 308, 310, 312,
 
 ENIAC - 46, 57, 60,152,192, 213, 234, 236-238, 244-245
 
-TOP SbLKhl/llQMIWIimEL IU USA, AUS, UAN, QBH AMD HZUlAI page 331
 
 
-TOP QCORCT/fOOMIHTf/nCL TO USA, AUG, OAH, ODn AMD HZU/X1
 
 Enigma -3, 4,17, 29, 36, 47, 49, 54\"55, 57, 60, 65, 68-69, 77-79,
 83-95, 97-98, 100-124, 127-128, 131, 135-139, 142-143, 147-148, 150,
@@ -3449,7 +3424,6 @@ Gray-NCR Comparator - 73, 135, 161,189-190
 
 
 
-TOP 3CCRCT//COMINTORCL TO U3A, AUQ, OAN, QDR AND NZU/X1
 
 Green, James -215
 
@@ -3895,7 +3869,6 @@ Sled -4, 213-218, 221-223, 227-228, 233-234, 240, 245, 253, 259, 274,
 
 Slide Run -132-135, 151,153-154, 156, 160-161, 164, 167, 189, 191
 
-Page 340 TOP SFrRFWTIMINT//FFI TO USA, AUS, CAM, GBR AMD NZU/X1
 
 
 

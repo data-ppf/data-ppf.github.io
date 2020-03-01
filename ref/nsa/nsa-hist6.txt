@@ -162,13 +162,13 @@ alternative to the commutators used on the Bombes, the option was soon
 recognized as a significant \"memory\" possibility. It was a primitive
 version of what later came to be called the electrostatic storage tube,
 a television-like device that used a charged spot to hold a \"bit\" of
-information.3
+information. 3
 
 rS} To follow up on the idea, in 1944 \"M\" had begun exploring the
 possibilities of a modified oscilloscope. Its beam would be
 electronically deflected to any one of several hundred spots on its
 face; then small metal patches pasted on the face of its screen could
-sense which \"bits\" were active.4
+sense which \"bits\" were active. 4
 
 09} By November Steinhardt decided that he had learned enough about the
 \"scope\" and other technological possibilities and that he had to begin
@@ -204,11 +204,9 @@ thought of as a square array often horizontal and ten vertical input
 positions. The appropriate output is selected at the intersection ofthe
 input positions. Ifcrossbars were hooked together, they became powerful
 
-TOP OCOnnV/OOMINTOrcCL TO U3A, AUS, &AN, GBW AND WZUiAl
 
 
 
-top ocoranv/ooMiHTy/ng to usa, aus, cam, qbr amo nzu/«i
 
 selectors of electrical pathways. When two crossbars were connected in
 tandem, they could trigger the selection of one out of 10,000 switching
@@ -280,7 +278,6 @@ have to be \"programmed\" by resetting the 100,000 dials.
 need to set the memory\'s values by hand, his superiors hesitated.
 
 
-TOP GEQRETf/OOMlNT//nEL TO UGA, AUG, GAN, GBR AMD MZU/X1
 
 
 
@@ -290,7 +287,7 @@ comparative speed and ease of construction of a resistor memory, the
 eight- to ten-hour wait before a new problem could be attacked was
 reasonable. Given the operating speed of the new Selector, a ten-hour
 setup time still left his machine with a major advantage over any other
-method of additive attack.5
+method of additive attack. 5
 
 (&y Steinhardt\'s crossbar-resistor design included another way of
 avoiding the size and complexity of digital electronics. The
@@ -347,7 +344,7 @@ the chances for an electronic JN25 machine.
 
 \"(S) They recommended another analog solution. They pointed to an
 esoteric \"frequency conversion\" circuit as an alternative to the
-on-off digital designs.7
+on-off digital designs. 7
 
 ■(SH-awrence Steinhardt did his own review of digital possibilities
 before giving the \"frequency conversion\" idea serious consideration.
@@ -356,7 +353,6 @@ He put the electronic matrix report together with his past
 
 
 
-top BECMrrocoMiNTf/na. to uqa, auo, qah, gbr amp mum
 
 experience and weighed the advantages of electronic switching for the JN
 code problem. He did not like the results of his review, but he had to
@@ -392,7 +388,7 @@ unless very special types of tubes with extra long life were developed,
 correctly saw little chance that either long life or suffi
 
 ciently complex multifunction tubes could be developed in time to fight
-the Pacific code war.9
+the Pacific code war. 9
 
 \(U) Into the Beyond and the Past, Rooms of Wires and Disks
 
@@ -464,7 +460,7 @@ through its 1,000 values. Because each magnetic recorder held a few
 densely packed entries, processing would be very speedy. Resetting
 weights would be painless
 
-because the magnetic wires, Noble stated, could be interchanged.12
+because the magnetic wires, Noble stated, could be interchanged. 12
 
 {8} Fortunately, Steinhardt was not forced to immediately choose among
 the many technological alternatives for the Selector. The JN25 problem
@@ -480,7 +476,7 @@ four-digit version, almost a bread-board model. The fourdigit version
 vastly reduced the potential power and speed of the device and made it
 unsuitable for a JN25 attack. But it reduced the number of required
 components. That made the use of the inexpensive and reliable simple
-relays practical.13
+relays practical. 13
 
 \~t9) The search for a high-speed Selector was not ended, however. JN25
 and the intellectual challenge of the Selector problem had captured the
@@ -488,7 +484,7 @@ attention of many atOP-20-G, including Howard Engstrom. He gave the
 green light to two very adventurous projects. Both tried to push
 existing technologies far beyond their limits in an attempt to find the
 high-speed memory and circuitry that an operational Full (five-digit)
-Selector would need.14
+Selector would need. 14
 
 \(U) Walls of Pipes and Tliousands of Dots
 
@@ -532,7 +528,7 @@ NCML in Dayton. Two of \"M\'s\" brightest engineers had been allowed to
 work on a veiy special version of the Selector when they were not busy
 with emergencies. Ralph Palmer, the engineer from IBM who later played a
 critical role in its computer history, led a team that was attempting to
-build a magnetic memory and advanced photooptical Selector.16
+build a magnetic memory and advanced photooptical Selector. 16
 
 (•6} The Palmer-Reid Selector seems a very strange contraption today,
 but in the mid-i940s their prototype was seen by visitors to Dayton as
@@ -575,10 +571,8 @@ possible overlap tests. The amount of the charge on each of the
 condensers would determine how long its particular associat
 
 
-TOP GCOnCTOOOMlNTOREL TO UGA, AUG, QAH, GBR AND HZL//X1
 
 
-TOP 8EeRET«lUMINT//REL III USA, AUb, LAN, U\>K ANU NZUIAI
 
 ed printing head would rest on the teledotos paper in the Selector\'s
 printer. The greater the charge, the longer the print line.
@@ -610,7 +604,7 @@ advanced engineering imagination. Mercury did move away from analog
 calculation, but it was relatively slow, and it continued in the OP-20-G
 tradition of using the least resistant technological combinations.
 However, it was hoped that the machine and the cryptanalytic method it
-embodied would justify building a fully electronic version.18
+embodied would justify building a fully electronic version. 18
 
 (TS//SI) When Mercury first appeared, it was a quite impressive
 seven-foot high by fourteenfoot-long bank of relays that was served by
@@ -651,8 +645,6 @@ group had a value from zero to
 
 
 
-::: {style="width: 76.94117647058823%;"}
-:::
 
 nineteen associated with it. Despite some tricks that reduced the number
 of code values that had to be plugged in t change of w \'ng \< as a
@@ -676,11 +668,11 @@ er could calculate a simple regression equation (Y - a -\>- bx). The
 resulting value, which changed as each card was read, served as a
 benchmark for a test of significance of the accumulated weights. The
 parameters of the equation were usually set to the average weight value
-of accumulated messages.20
+of accumulated messages. 20
 
 CIS//SI) A third set of electronic tubes, called the \"overlap
 counter,\" counted the number of weights sent to the accumulator during
-a run.21
+a run. 21
 
 (TO//31) When the electronic evaluation unit that stood between the
 accumulator, the overlap counter, and the regression unit was activated
@@ -695,13 +687,13 @@ be printed. The machine might also be ordered to automati
 
 
 cally run a new set of cards that had been stacked in back of the first
-deck.22
+deck. 22
 
 t\*!3//0I}- The postwar Mercury, although an ugly kludge, proved useful
 to the navy for almost half a decade. It was used for cipher vs cipher
 attacks and was even coaxed into becoming a version of the old Gee
 Whizzer. It could be made to test for the frequency of digraphs and thus
-give insights into transposition systems.23
+give insights into transposition systems. 23
 
 \(U) The Biggest Snakes of All - The Navy Almost Builds cm Electronic
 Bombe
@@ -732,7 +724,7 @@ in order to read the Jade messages. The task was formidable. In its
 worst moments \"G\" thought it might have to explore as
 
 many as 10,000,000 to 30,000,000 possibilities for each daily \"system\"
-even though its attack was based upon cribbing.24
+even though its attack was based upon cribbing. 24
 
 £B)//Dr) That demanded too much of the tabulators, even of the NC
 machines. So Lawrence Steinhardt was asked to devise a \"Grenade\" for
@@ -770,7 +762,7 @@ other options were explored.
 
 
 \(U) After two very tension-filled days, Steinhardt presented another
-design. It was even more committed to old, trustworthy technology.26
+design. It was even more committed to old, trustworthy technology. 26
 Steinhardt\'s second design was also driven by the need to deliver a
 machine to the eryptanalysts within a few weeks.
 
@@ -843,8 +835,6 @@ through all the posi
 
 \*r-ee\*-AHa-N2tffle
 
-::: {style="width: 73.7749901999216%;"}
-:::
 
 tions of the switches and test for a crib-cipher match in ten minutes.
 It proved so valuable that a second model was built and modifications
@@ -878,13 +868,12 @@ reliability and flexibility over speed. Worse, it was to be centered on
 IBM components. Steinhardt openly declared that photoelectric
 technologies were too temperamental and micro
 
-TOP 0CCRCT//GOM1NTORCL TO UCA, AUG, CAM, GiR AMP UXUOU
 
 
 
 
 film too demanding, at least for a machine that needed many simultaneous
-inputs.29
+inputs. 29
 
 fS} Serpent was to have at least thirty-two input stations. Each would
 read the \"tapes\" made of uncut IBM tabulator card-stock formed into an
@@ -896,7 +885,7 @@ the cryptanalytic problem.
 
 (\$Hn addition to the thiity or more loo-level reading stations, at
 least two more would be available for multitape operations such as done
-on the Comparator.30
+on the Comparator. 30
 
 (S-) A control system was to allow the tapes to be driven synchronously,
 or in any of the Comparator motions (stepping-sliding), or in such a
@@ -939,7 +928,7 @@ payoff.
 
 (S//SI) Steinhardt concluded his report on the proposed Serpent with
 some very prophetic advice: Serpent would be needed for the navy\'s next
-great challenge, the Russian code and cipher systems.311
+great challenge, the Russian code and cipher systems. 311
 
 \(U) Lawrence Steinhardt\'s suggestion for the IBM Serpent was not
 followed through, although he continued to work on it and the design for
@@ -947,10 +936,9 @@ the electromechanical counting machine that became the postwar monster,
 Alcatraz. Importantly, he was returning to the fold of the believers in
 electronics; he had begun work on an all-electronic ciphering machine,
 just as his colleagues were again forced to try to overcome the
-weaknesses of digital electronic components.33
+weaknesses of digital electronic components. 33
 
 
-top cr:oncTOGQMiNT;/ncL to uga, aug, gam, gor and hzu
 
 
 
@@ -974,7 +962,7 @@ electronic version of the Bombe; that would have been an impossible goal
 for the army, the navy, or the British. But the Duenna, the
 Superscritcher, and the Giant machines they constructed for the problem
 were \"the\" electronic cryptanalytic devices of World War II. They went
-far beyond the Comparators or even Rattler.34
+far beyond the Comparators or even Rattler. 34
 
 (•TO//3f) But the electronic solution was a long time coming. The
 Americans did not leap from Joe Desch\'s electromechanical Bombes and
@@ -983,7 +971,7 @@ changes and then the \"reflector\" problem with traditional
 technologies. OP-20-G made several alterations to the original Bombe
 design before it accepted the necessity of the electronic Duenna, and
 the SIS built a huge new relay machine before it started building its
-electronic Scritcher.35
+electronic Scritcher. 35
 
 \(U) OP-20-G\'s changes to the Bombes were evolutionary. The first major
 ones came after the
@@ -994,7 +982,7 @@ opportunity to improve the standard \#530 Bombes. He produced some two
 dozen of the new \# 1530s in 1944. They used :he same logic and
 technology as the 1943 machines, and they ran at the same speed as the
 \#530s, but were mechanically stronger and had additional circuitry to
-eliminate false stops.36
+eliminate false stops. 36
 
 (TS//SI) However, even before Desch made those significant technical
 improvements in the original Bombes, he began constructing the \"Fire
@@ -1046,7 +1034,7 @@ method against Enigma, many argued for a continued search for a \"pure\"
 attack. Some were committed to statistical analysis out of professional
 pride; others cautioned against the danger of depending upon Britain for
 cribs. They warned that if the Germans tightened their security, even
-GC&CS could not supply what the standard Bombes needed.39
+GC&CS could not supply what the standard Bombes needed. 39
 
 £jSjf\$T) In early 1943, a search for what was generically called a
 \"statistical\" solution was begun, but it was a very limited effort.4\"
@@ -1054,7 +1042,7 @@ There was too much else to do to allow anyone within \"G\" to focus on
 an abstract problem. But when there were hints in summer 1944 that the
 Allies might not be able to count on gcod cribs in the future, more
 resources were poured into developing a machine for something very
-radical: a cipher-only attack.41
+radical: a cipher-only attack. 41
 
 (TS//6F) Because at least a prototype machine
 
@@ -1076,7 +1064,7 @@ Bulldozer\'s power to identify probable plain text was significant.
 be built into a crib-free Bombe. Hundreds of hours were put into the
 analysis of German military language. And \"G\'s\" best mathematicians
 spent weeks integrating those findings with probability studies to
-arrive at Bulldozer\'s test for the appearance of plain text.42
+arrive at Bulldozer\'s test for the appearance of plain text. 42
 
 gF&//0I) The method finally embodied in Bulldozer demanded much that was
 new. Bulldozer\'s test began with the entry ofthe intercepted cipher.
@@ -1084,7 +1072,7 @@ Then the machine\'s wheels were spun. At each position, the letters that
 emerged from the wheels were electrically weighted and summed. Next, a
 comparison was made as to whether the square ofthe weighted frequencies
 of each letter summed to equal or exceed a value that was typical of
-good plaintext messages.43
+good plaintext messages. 43
 
 6R3//3flrThe earlier statistical studies had determined that Bulldozer
 needed along crib to be able to differentiate random text from true
@@ -1107,8 +1095,6 @@ Bulldozer Boiribe to iiiiiLify German
 
 plain language
 
-::: {style="width: 67.52941176470588%;"}
-:::
 
 4TQ//3T) Bulldozer called on electronics as well as electromechanics.
 After the cipher had been set on the machine\'s dials, all the letters
@@ -1136,7 +1122,7 @@ other Enigma settings had been discovered.
 G£S//Sf) Full Bombe runs were much more forbidding. Given the special
 assumptions that had to be made about the stecker in a full run,
 Bulldozer might have to make as many as twentysix separate four-hour
-runs to produce a solution.45
+runs to produce a solution. 45
 
 (TS//0I) Although it probably never broke an Enigma system, the
 cryptanalysts were quite impressed with Bulldozer. Its weighted test
@@ -1149,7 +1135,7 @@ cipher machine, the ECM, vulnerable. Bulldozer
 
 
 seemed so able that \"G\" did not tell the British about its powers
-until well after the war.46
+until well after the war. 46
 
 \(U) No Escaping Electronics, Enigma Meets the Cobra
 
@@ -1178,7 +1164,7 @@ ffig//S9 The challenge was daunting, and
 there were some thoughts of not even attempting to conquer the pluggable
 wheel. But when it was learned that the Germans would alter the wheel\'s
 wiring on a ten-day cycle, not every day or with every message, a
-decision was made to face the problem.47
+decision was made to face the problem. 47
 
 (■EfyfSQ The British were the first to attack the new wheel. They did
 the best they could against the German communications subsystems which
@@ -1194,7 +1180,7 @@ menu. That meant that Luftwaffe traffic could no longer provide much
 important tactical information. That traffic had become vital to the
 Allies. With the end of the Uboat war and the retreat of the German army
 into the homeland where messages were carried by cables, air force
-transmissions were a prime source of radio intelligence.48
+transmissions were a prime source of radio intelligence. 48
 
 (T3//3I) A technological solution was required. But in mid-1944 the
 British were tired and stripped of resources; they needed help. Unlike
@@ -1211,7 +1197,7 @@ modification of the commutator Bombes. It was to be called \"Mona.\"
 Mona was to have just one traditional Bombe wheel. The rest of the Bombe
 was to test the huge number of assumptions needed to try to identify the
 reflector wiring and the stecker pluggings. Mona quickly proved itself
-incompetent.50
+incompetent. 50
 
 (3S//SI) More thought went into the method and possible machines. After
 modifying one of the Enigma analogs at \"G\" by adding the \"Cobra,\" an
@@ -1221,18 +1207,13 @@ exploratory tests. Soon, they decided that only a two-wheel test and a
 great deal of electronics could do the
 
 
-■JOB SBCR5TOCOMINT//REI. TO USA, AUS, CAM, GBR AND HZU/X1
 
 
-::: {style="width: 30.733045864366915%;"}
-:::
 
 tTTsscxspownrmt mmA, au&, can, «m mtmtm
 
 \*:\'\\\\\*
 
-::: {style="width: 42.493139945119566%;"}
-:::
 
 (TO//DI) Duama
 
@@ -1244,7 +1225,7 @@ facility.
 a small version of a two-wheel commutator Bombe and a cabinet with over
 3,000 advanced electronic tubes. The first Duenna of November 1944 had
 to be huge and cutting-edge because of the demands of the scritcher
-test; so did its four sisters.51
+test; so did its four sisters. 51
 
 (TS//SI) One of \"G\'s\" bright young mathematicians, Howard Campaigne,
 made important contributions to the logic of scotching. 52 His modified
@@ -1269,7 +1250,6 @@ pattern of the new reflector.
 (TS//SJ-) Duenna\'s job was tough, and it had to be \"smart.\" With the
 crib in place, it made an assumption about the stecker setting of two or
 
-top SEencT/feoMiNTrmeL to usa, aus, can, gbr and nzuiai
 
 
 
@@ -1278,24 +1258,24 @@ three high-frequency letters. Then, with its two imitations of the
 faster \"E\" wheels, its electronics serially tested the plain-crib
 pairs against successive combinations of stecker and reflector
 pluggings. Duenna had several electronic versions of steckers and
-reflectors to perform those tests.54
+reflectors to perform those tests. 54
 
 (TS//GI) A stecker-reflecter check for a given stecker assumption took
 twenty minutes; an average \"run\" took an hour and a half. But the need
 to run different wheel combinations to isolate the fast wheel turnovers
 called for a day\'s work. The complete set of tests needed for difficult
-systems might keep a Duenna busy for two weeks.55
+systems might keep a Duenna busy for two weeks. 55
 
 \"links and tacks\" test was passed, Duenna printed the information
 about its \"hit\" and went onto search through another stecker
 assumption. If the threshold was not met, Duenna skipped the printing
-stage and went on to examine another stecker assumption.56
+stage and went on to examine another stecker assumption. 56
 
 (TI3//31) Although it was a very strange looking combination, Duenna
 became a valuable tool. Even before the first model was completed, the
 navy ordered that several clones of the original be delivered as soon as
 possible. The crew at Dayton wished to build a more elegant machine,
-perhaps with electronic wheels, but they followed orders.57
+perhaps with electronic wheels, but they followed orders. 57
 
 (JS/r\'Sf) Although Duenna had advanced electronics and circuitry, it
 might have taken much longer to do its job if the \"scritcher\" test had
@@ -1343,7 +1323,6 @@ in research and development. The pressure on the STS to deliver a
 machine to help the British, combined with the decision not
 
 
-TOP 3ECRET//COMINT//REL TO USA, AUS, EAN, GBR ANU tUUIXl
 
 
 
@@ -1352,7 +1331,7 @@ the power to require the army to send him a cadre of bright young
 engineers who already had experience in advanced electrical and
 electronic engineering. He very quickly built up a remarkable group,
 many of whom went onto become important figures in the postwar computer
-industry.60
+industry. 60
 
 (TS//SI) Rosen had been notified of the pluggable reflector (Uncle Dick)
 threat in early 1944. While the SIS cryptanalysts were put to work
@@ -1375,7 +1354,7 @@ simpler.64 In several ways, the army\'s relay Autoscritcher was more of
 a throwback than Duenna, and it was slow: \"running time was as much as
 ten to fourteen days, three shifts a day.\" Although it performed
 twenty-five tests a second, a single wheel order test took three and one
-half hours.65
+half hours. 65
 
 £ES//Dij The most incongruous part of the Autoscritcher was its
 \"wheel\" unit which fulfilled the same function as the rack of
@@ -1402,7 +1381,7 @@ checked for diagonalboard type contradictions. Along chain of cribplain
 pairs was used (each with its own rotor pair). An analog threshold test
 made the final decision as to whether a \"hit\" had occurred. That test,
 however, was not as complex as in the Duenna. And an operator had to
-copy the \"hit\" settings by hand.68
+copy the \"hit\" settings by hand. 68
 
 \(U) Engineering l\*ride and Peacetime Priorities
 
@@ -1416,14 +1395,13 @@ be at least one hundred times faster than the Autoscritcher.\" 6\<\*
 CES//SH The \"F\" group was given the go-ahead for such a machine in
 early 1945.
 
-top GEonnv/ooMimv/ncL to uga, auc, oan, gbr and nzu/xi
 
 
 
 
 The machine soon acquired the name \"Superscritcher.\" Its designers
 were thrilled when they realized that it might be as much as 500 times
-faster than its relay predecessor.70
+faster than its relay predecessor. 70
 
 (S//8fr) Designing new circuits was exciting for the young engineers
 assigned to the \"Super\" project. Although the \"Super\" had the same
@@ -1439,7 +1417,7 @@ Cf&ffQifl The electronics in the \"Super\" were not exclusively digital,
 but they were major advances in the state of the art. Over 3,500 tubes
 were mounted in eighteen eight-foot-high bays. A large air conditioning
 system stood by to protect them and the operators. There even was a
-means for printing the settings when a \"hit\" was found.73
+means for printing the settings when a \"hit\" was found. 73
 
 (jTOy/g-f) But the \"Super\" was not operable when Germany surrendered,
 and the Enigma traffic for which it was designed disappeared. There were
@@ -1450,7 +1428,7 @@ a continuation of the prcjec!. Several stubborn electronic problems were
 overcome and the Superscritcher\'s power was turned on in December 1945.
 To the surprise of many, it was used on various problems for the next
 five years. And it did prove itself to be 500 times faster than the
-Autoscritcher.74
+Autoscritcher. 74
 
 \(U) Keeping the Faith; the Return of the Film Machines
 
@@ -1524,7 +1502,7 @@ great deal of repetition of code groups.
 JN37, its superencryption. There were many additives, and they were
 frequently changed. With those changes came blackouts, such as those of
 1944. In the JN37 version that led to so much pain in that year, the
-additive book had 900,000 entries.77
+additive book had 900,000 entries. 77
 
 (TS//6I) \"37\" had yielded, at times, to traditional tabulator methods
 supported by busts, knowledge of indicators, and captured data. As long
@@ -1543,7 +1521,7 @@ much disappointment. For example, he calculated that an Index of
 Coincidence assault with existing equipment would take three years at
 three shifts a day for any type of breakthrough. Quite logically, he
 suggested a search for better methods and high-speed machines. There was
-not much progress.78
+not much progress. 78
 
 CES//3F) Then the cryptanalysts had some good fortune. The discover)\'
 of an active JN37 additive book gave some hope that a practical method
@@ -1566,7 +1544,6 @@ explored, including the dictionary lookup approach of Mercury. But they
 stood little chance of producing results. By late 1944 the Bayesian
 \"statistical crib\" method of
 
-top occri:tooomint//rcl to uqa, auo, OAN, ODR AND NZU/X1
 
 
 
@@ -1598,7 +1575,7 @@ CR3//9I) In early 1943 Eastman had been asked to explore possible
 technologies for the additive problems. \"G\" had requested film-based
 machines for a range of functions. They wanted ones to strip additives,
 match plain text to a code dictionary, test for likelihood, perform
-statistical weighting, and to print code meanings.81
+statistical weighting, and to print code meanings. 81
 
 (T8//SI) Eastman took up the challenge. Ten of the best men in Rochester
 were assigned to its new RAM team. They were given a great many
@@ -1625,7 +1602,7 @@ I, the \"brute force\" matching machine, was made operational. As a
 result, \"G\" was left without much in the way of additive RAM
 machinery. It was not alone. The army also had ideas of a film machine
 for the additive problem, but it gave such a machine low priority before
-1945.82
+1945. 82
 
 (T9//3I) Thus, when reading JN37 became an imperative for the navy,
 there was no hardware in place that seemed able to perform any of the
@@ -1643,7 +1620,7 @@ was declared that an answer had to be found.
 solution. John Howard led the navy group that consulted with the top
 engineers at Eastman and NCR. He told them of the requirements of the
 new \"statistical crib\" attack. Both groups then reviewed the
-technological possibilities.83
+technological possibilities. 83
 
 
 
@@ -1673,7 +1650,7 @@ for nothing. The eight weeks of 3,000,000,000 daily comparisons would
 yield a useful bit of information only if all elements of JN37 besides
 the additives remained stable. If the Japanese made changes besides
 issuing anew additive book every four months, the calculations might
-prove useless.85
+prove useless. 85
 
 \(U) The gamble had to be made. The \"G\" engineers, NCR\'s men, and the
 Eastman group were ordered to look at various technical options and come
@@ -1687,7 +1664,7 @@ shocking. It was
 found that just one run with the electronic digital device would take
 sixteen years. When asked if several copies ofthe device could do the
 job in a reasonable time, the engineers responded that it would be
-impossible just to find the parts needed for enough ofthe machines.86
+impossible just to find the parts needed for enough ofthe machines. 86
 
 (TO//DI) Another possibility was to create a new version ofthe proposed
 Full-Selector machine. Instead ofthe weights being calculated as the
@@ -1716,7 +1693,6 @@ significant differences on many details. An important one was whether
 the \"weights\" were to be represented by different size spots (the NCR
 recommendation) or by degrees of opaqueness.
 
-TOP GCOnCT/ZOOMINTOnCL TO UCA, AUG, GAM, GBR AND NZU/X1
 
 
 
@@ -1725,14 +1701,14 @@ TOP GCOnCT/ZOOMINTOnCL TO UCA, AUG, GAM, GBR AND NZU/X1
 1945 that agreement was reached and the Eastman team\'s approach to what
 became known as \"Amber\" was chosen. That did not allow enough time to
 create an operational machine. Amber was not to appear until the war had
-ended.87
+ended. 87
 
 (T0//0I) Eastman\'s proposed Amber was to be a photoelectric comparator,
 following in the traditions of Icky and Hypo. It had four scanning
 photocells that tested two 70mm repeatedly offset and superimposed films
 against a coincidence threshold. It used the familiar analog circuits
 but with a sophisticated twist: both positive and negative photosensing
-was used.88
+was used. 88
 
 (T8//8I) Amber was to have a. relatively large viewing field so that a
 long string of code could be tested instantly. It was designed to test
@@ -1761,7 +1737,7 @@ Only the changes to the older Icky and Hypo concepts that were
 absolutely necessary were incorporated. Thus, Amber had much of the
 crudeness of the Icky. When Amber\'s films were placed in its Icky-like
 projector, if enough of the code groups had clear \"dots,\" Amber would
-just stop.89
+just stop. 89
 
 (TS//SJ} Amber\'s design was very demanding. It needed controlled
 humidity and correctly monitored ambient lighting. And its film
@@ -1786,7 +1762,7 @@ atypical deck. And each of the different types of JN37 messages needed
 more than a dozen of its own \"probabilities\" films.92 Unfortunately, a
 hopedfor emergency project to create an electronic multiplying machine
 could not be initiated, and \"G\" had to accept the prospect of
-thousands of hours of calculations to prepare for Amber\'s arrival.93
+thousands of hours of calculations to prepare for Amber\'s arrival. 93
 Perhaps it was for the best that Amber was delivered just after the war
 with Japan was concluded.
 
@@ -1801,12 +1777,12 @@ test. It did a simple round-robin test of every message in a group
 against every other 1,000 times faster than the NCR-Gray Comparators.
 But its 800 comparison-a-second rate (the original goal had been 35,000
 a second)94 meant that a typical run for the \"37\" attack might have,
-at the very least, taken twenty-four hours.95
+at the very least, taken twenty-four hours. 95
 
 (TS//SI) Because of Japan\'s defeat, there would be only two Ambers,96
 not the twenty Howard Engstrom had sought earlier in the year. Some
 remodeling was needed in 1947,97 but the Ambers proved useful into the
-1950s.98
+1950s. 98
 
 \(U) Dr. Bush, Your Best Friend Is Really the Army
 
@@ -1817,7 +1793,7 @@ cycle would be necessary before Bush\'s ideas could be turned into the
 powerful and reliable machines Joseph Wenger and Admiral Hooper had
 longed for in the mid-i930s. Although \"G\" added an electronic
 \"rare-event circuit\" to the Gray Comparators and had Icky refurbished,
-it did not return to Eastman or Gray for more machines during the war.99
+it did not return to Eastman or Gray for more machines during the war. 99
 
 (6//SI) By 1944 the lack of orders from the navy led Eastman to consider
 reassigning most of its RAM team, leaving only the Amber group in
@@ -1880,7 +1856,7 @@ importantly, it was made to automatically return to the point on the
 films where a sought-after complex code or cipher pattern was located.
 Furthermore, a new camera allowed it to use the \"bhckcni\"\" test for
 brute-force searches. Later, a rr.:\*re reliable cardto-film converter
-was requested.104
+was requested. 104
 
 \(U) The Great 5202
 
@@ -1904,7 +1880,7 @@ great flexibility in select
 ing the data transmitted to the camera. Creating complementary code
 patterns, for example, was very easy. The camera system went far towards
 solving a major problem of all the older film systems: the great amount
-of time it took to generate the films.106
+of time it took to generate the films. 106
 
 ffSf/S-Q The 5202\'s heart, its reader, was also a technical improvement
 over the previous Eastman RAMs. Optics were improved In combination with
@@ -1929,7 +1905,7 @@ special cryptanalytic test it embodied. The 5202 could demand that no
 contradictions in two fields be found at the same time that ore or more
 \"confirmations\" were located. To dc that, the 5202 contained sensing
 and testing circuits that sought electrical balance among three
-photocell circuits.107
+photocell circuits. 107
 
 £ES/y\$9 Although designed for the German teletypewriter problem, many
 different applications were found for the 5202. It was used as a
@@ -1962,7 +1938,7 @@ the new RAMs perhaps too long given the signs that the Pacific war was
 winding down. To avoid losing their machines, they provided a thorough
 analysis of the role of film computation in SIS\'s future, hoping that
 even if the request for specific machines was rejected, research funding
-would continue.108
+would continue. 108
 
 (S//SI) Emphasizing that it was crucial to keep the RAM group at Eastman
 together, \"F\" asked for enough money to sustain, at the least, a
@@ -2016,7 +1992,6 @@ the primitive stage of development of the tech
 
 
 
-TOP aECRET/ICOMINTORCL TOUQA, AU3, OAN, ODR AMD KZU/X1
 
 nology and the unlikelihood that potentially fast electrostatic memories
 would hold large amounts of information. Useful for insights into memory
@@ -2159,7 +2134,7 @@ TS-20 \"Bulldozer Operating Manual.\"
 35- fFS7/SI) NSA CCH Local Archive, \"Army-Navy Descriptive Dictionary
 ofCryptologic Terms,\" Army Security Agency, February 1947, 131, defines
 scratching as the testing of assumptions by examining its implications
-for 0 jntradictions, eliminating those with contradictions, tht .1
+for 0 jntradictions, eliminating those with contradictions, tht . 1
 \"scoring\" the remainder.
 
 36\. CFS/r&\* NSA CCH Series XII Z, \"Tentative Brief Description of
@@ -2711,5 +2686,4 @@ I.C. Machine,\" 8 June 1945, commented on the army\'s request.
 
 
 
-TOrSECK:ET/\>C.CTTWTMa:f TCTUSA, AUSTC-AMTuuTCAiiLKZG/XT
 

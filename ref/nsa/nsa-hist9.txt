@@ -69,7 +69,6 @@ P.L. 86-36 EO 3.3(h)(2)
 
 
 
-T6P §ECRE\'l/ieUMINI//KbL USA, AUS, IAN QBH AND NZU/X1
 
 \"TflS\^-Asthe Soviets increased their strategic military capabilities,
 the situation became critical. U.S. leaders demanded another Ultra and
@@ -86,7 +85,7 @@ question by the early 1950s. Many came to believe that cryptology had
 improved so much that cryptanalysis was a lost cause. The situation grew
 threatening: NSA was almost confined to performing menial intelligence
 tasks as the Central Intelligence Agency used a new techno-miracle, the
-U2 and its amazing cameras, to physically penetrate Soviet Russia.1
+U2 and its amazing cameras, to physically penetrate Soviet Russia. 1
 
 ing center than a \"cryptanalytic\" center.3 That caused NSA to search
 for high-speed substitutes for the best data processors of the era,
@@ -117,7 +116,7 @@ poised to give a new generation ofthe likes ofVannevar Bush and John von
 Neumann enormous amounts of money and complete power over cryptanalytic
 research and policy. The United States came close to establishing a
 Manhattan Project for the cryptanalysis of Soviet systems, one which was
-to be staffed and led by academics, not professional codebreakers.2
+to be staffed and led by academics, not professional codebreakers. 2
 
 (T0//0I) The intransigence ofthe Soviets\' systems also had consequences
 for computer policy. On one hand, as NSA was forced to rely upon
@@ -189,7 +188,7 @@ midwar America and England began intercepting Soviet radio traffic and
 diplomatic telegraph messages. The end ofthe war saw an increase in the
 attention paid to the Soviets. Great Britain and the United States
 signed the historic BRUSA agreement for SIGINT cooperation and
-intensified their joint work on Soviet and related systems.4
+intensified their joint work on Soviet and related systems. 4
 
 (TS//SI) But the Cold War was so dependent upon intelligence gathering
 that NSA and its allies were forgiven for most ofthe shortfalls. The
@@ -222,8 +221,6 @@ attacked the Russian Longfellowf
 
 ML
 
-::: {style="width: 38.745098039215684%;"}
-:::
 
 TKJ//6\*) There was hone that the greatest prize of all, the\| jnachine,
 might soon be
@@ -255,7 +252,7 @@ devices retrieved from Germany.8 Others were the result of something
 less than pure cryptanalysis; in the 1940s the Soviets had yet to
 perfect their cryptosecurity procedures. But traditional cryptanalysis
 did contribute, and by 1947 exploitation was more the result of machine
-analysis rather than operator errors and procedural weaknesses.9
+analysis rather than operator errors and procedural weaknesses. 9
 
 (TS//8i\> There were more successes. The Americans joined the British
 codebreakers in profitable attacks on a host of Soviet hand ciphers
@@ -273,7 +270,7 @@ for much of their traffic. Somevyhat later, Japan\'s reintroduction of
 the Purple machine to generate one-time pads for its diplomats .proved
 quite useful to America\'s SIGINT monitors. And the nations that
 continued to use the Enigma gave some of Joseph Desch\'s Bombes; ond
-life.11
+life. 11
 
 a productive sec
 
@@ -284,7 +281,7 @@ OP-20-G alone was intercepting more than 1,000,000 Soviet plain-language
 messages a year.; Some of that material was quite valuable because, for
 example, Soviet military production and deployments could be inferred
 from the communications concerning industrial orders and military
-logistics.12
+logistics. 12
 
 (TG//SI) Plaintext analysis contributed much, but cipher breaking was
 the hallmark of \"G\" and the SIS during the first postwar years.
@@ -537,14 +534,14 @@ electronic computer; it gained a prestige contract from the ONR to
 survey all computer logic and technology; it had contracts with the
 atomic energy agencies; it was developing civil air control systems; and
 one of its divisions was designing sanitary trucks for airports. ERA
-even signed an agreement to develop a magnetic drum computer for IBM.21
+even signed an agreement to develop a magnetic drum computer for IBM. 21
 ERA\'s financial guru, John Parker, had to sternly remind all the ERA
 men that \"G\'s\" work was and would remain the company\'s first
 priority.
 
 \(U) Throughout 1948 and 1949 the Bureau of Ships kept up the demands for
 an end to the special relationship between OP-20-G and ERA. The Bureau
-was ready to take further steps.22
+was ready to take further steps. 22
 
 \(U) The pressures compounded the problems ERA faced as its managers
 tried to turn a group of ex-academics and very creative engineers into
@@ -625,7 +622,7 @@ company. Relations with the navy bureaus soured so much that Joseph
 Wenger was unable to arrange for either a ceremony for or a letter of
 special thanks to the ERA engineers who had designed and built the
 astounding Atlas computer. IBM\'s men did receive formal thanks for
-their new work, however.27
+their new work, however. 27
 
 fFS) The reorganization of American SIGINT, leading to the creation of
 the AFSA in 1949, then the NSA in 1952, contributed to the demise of the
@@ -663,7 +660,7 @@ military boards, and his previous contributions to electronics led to
 more civilian accolades. At the same time, he began to act as a
 consultant to several small but important electronics firms.28 He also
 remained in contact with the SIGINT agencies. As late as 1952 he was
-asked to serve on an important NSA advisory panel on communications.29
+asked to serve on an important NSA advisory panel on communications. 29
 
 \(U) Hooper became frightened of big business and discouraged by its
 attitude toward the needs of the military. He felt betrayed by those he
@@ -672,7 +669,6 @@ and the navy and the nation had done so much for.
 
 
 
-top oconcTOooMHm/ncL uoa, auo, uah odr ahd nzu/mi
 
 Hewas especially hurt by the actions of the company that he had helped
 to establish at the end of World War I, RCA
@@ -686,7 +682,7 @@ for avast and centralized postwar federal agency to mimic the NDRC.
 Hooper. Sadly, he received some in return. The navy\'s bureaus managed a
 direct slap at him. In the early 1950s, near the end of his life, he had
 to undergo a demeaning questioning of his integrity because of Ms
-relationship with ERA.30
+relationship with ERA. 30
 
 \(U) In 1947 Hooper\'s ties to ERA\'s operations became direct when he
 was asked to provide the kind of guidance he was giving to several other
@@ -751,13 +747,9 @@ meeting the Soviet cryptanalytic challenge and without solving the
 problem of how to secure science\'s and industry\'s help in rescuing
 American codebreaking.
 
-::: {style="width: 31.76470588235294%;"}
-:::
 
 \(U) Frank Rawlett
 
-::: {style="width: 32.0%;"}
-:::
 
 \(U) Dr. Abraham Sinkov
 
@@ -783,7 +775,7 @@ technologies. That work was a grandfather of microelectronics.
 fFS}The research climate under Stone was so open that the ideas of a
 young Korean War era sailor, Dudley Buck, were financed. AFSA began
 experiments on extremely low temperature and ultrafast \"cryotron\"
-circuits in its laboratories.33
+circuits in its laboratories. 33
 
 (T8//SI5\" Stone supported mathematical as well as technological
 research. As he was ending his reign, there was an attempt to build a
@@ -797,7 +789,7 @@ cutting edge ideas in industry and academia. They were to serve another
 function. A friendly review board with a luminary such as William F.
 Friedman acting as liaison might protect the agency from those who
 thought AFSA should turn the Soviet problem over to an independent and
-\"truly scientific\" organization.35
+\"truly scientific\" organization. 35
 
 
 
@@ -816,13 +808,13 @@ industry were acceptable. The direct link between industry and SIGINT
 provided by SCAG was seen as an invaluable benefit to the agency. Only
 later would questions of conflict of interest arise. That impelled NSA
 to seek more of its advisors, the likes of Claude Shannon and S. S.
-Cairns, from academia.37
+Cairns, from academia. 37
 
 (€) Stone did more than forge abridge to industry and science. He was
 able to secure budgets that gave the agency as much money each year for
 the purchase, rental, or development of computers and other analytic
 equipment as had been spent on all cryptomachines during the first two
-years of World War II.38
+years of World War II. 38
 
 (T8//0I) But Stone\'s years were marked by emergencies and cryptanalytic
 failures. Many of the ideas for advances in cryptanalytic computers had
@@ -873,7 +865,6 @@ comparators had to be created, and quickly.
 of a machine that would be able to search a day\'s worth of Albatross
 
 
-top ocennv/ooMiNT/mEL uca, auo, gan odr ahd mui
 
 
 
@@ -901,7 +892,7 @@ ERA worked some manufacturing miracles. Within a year fifteen Robins
 were running two shifts a day in Washington. That continued for half a
 decade as one million Albatross messages were run against each other.
 The result was tragic, however. Only 138 \"busts\" were located, and
-Albatross remained unexploitable.41
+Albatross remained unexploitable. 41
 
 (T3//3I) The Robins were only the first of a string of 1950s specialized
 comparators fast enough for the job of seeking the weaknesses in the
@@ -960,13 +951,13 @@ EO 3.3(h)(2) P.L. 86-36
 dollars.44 Another small company was called on in the 1950s for an
 ambitious project for a machine for locating and tallying group
 coincidences. An improved Connie that cost more than \$650,000 was built
-by National Union Radio.45
+by National Union Radio. 45
 
 (TQ//QI) Perhaps the most impressive of the new comparators was Duchess,
 another machine that was intended to be part of a long-term program. It
 was designed to tackle additive-pad problems to hopefully point to key
 reuse. It replaced the interim machines Countess, Mistress, and Consort.
-They had been too slow to re-create anew Venona-like triumph.46
+They had been too slow to re-create anew Venona-like triumph. 46
 
 (TS//SI) Completed by IBM in the mid1950s, Duchess contained several
 magnetic drums, helping it to perform as many as 1,000,000 subtractions,
@@ -1010,13 +1001,13 @@ revolution was something for the future.
 \$\*\$■ ERA\'s mathematicians continued their investigations of sorting,
 dispelling worries about losing data when it wandered around during
 sorts, but that was about all that was accomplished in the early stages
-of what came to be called the Nomad Project.49
+of what came to be called the Nomad Project. 49
 
 fS\^-The \"memory\" problem had defeated the first stages of Nomad. In
 1948 file technologies, such as magnetic tapes, appeared to have too
 many problems to be overcome, even for IBM\'s team led by Ralph Palmer.
 Printers to keep up with electronic data machines were also in a distant
-and very expensive future.50
+and very expensive future. 50
 
 •{S} As a result, the early Nomad goal of a data computer 1,000 times
 more powerful than a tabulator or sorter was turned into nothing more
@@ -1029,10 +1020,8 @@ huge magnetic tape system, PIT. It was to hold the equivalent of
 each of which
 
 
-TOP SEITRET//CQMINTOREL UCA, AUG, PAN ODR AND NZUfXI
 
 
-IUP Sbl\'Kbl»U)MINI))NbL USA, AUS, LAN 6BR AWP NZU/XI
 
 would deliver data to the computer\'s processor automatically. In
 addition to the data handling and sorting features, Nomad was to have a
@@ -1052,7 +1041,7 @@ research agreement was made with the NBS and the air force in mid-1949.
 A young navy engineer was sent to the NBS to work on the first stages of
 machine design.52 Not much came of those explorations, however. The
 tapes and their drives continued to be stubborn and the cost of such a
-machine seemed prohibitive.53
+machine seemed prohibitive. 53
 
 \(U) The idea seemed to be laid to a final rest, but in 1950 the crisis
 at AFSA led Earl Stone to agree to find the millions necessary to create
@@ -1079,7 +1068,7 @@ Agency grew exponentially. By 1955 there was a torrent
 of\'noninformation\" flowing into NSA The United States had more than
 2,000 roundthe-clock listening positions that were sending thirty-seven
 TONS of intercept material to NSA each month. In addition, some
-30,000,000 words of intercept were sent by teletype.54
+30,000,000 words of intercept were sent by teletype. 54
 
 (TS//SI) The data overload grew with every year and every Soviet
 challenge. NSA\'s posts were intercepting 2,000,000 messages a month
@@ -1095,7 +1084,7 @@ magnetic tapes per month.
 (T577S£ The other nations of the world were contributing their share.
 China generated 250,000 enciphered messages a year, matching the number
 of coded intercepts from the rest of the world. Plaintext numbers were
-much greater.56
+much greater. 56
 
 \(U) All that data had to be changed into a useful, if not standard,
 format, examined for relevance, sorted and merged, and routed to the
@@ -1108,10 +1097,9 @@ P.L. 86-36 EO 3.3(h)(2)
 
 
 
-IUH bblKbllilUIVIINUmeL USA, AUS, CAW QDR AND HZU/X1
 
 enough people, and electromechanical machinery seemed unable to meet the
-challenge.57
+challenge. 57
 
 \(U) The risky gamble on Nomad seemed inescapable. The system was to cost
 at least as much as six or seven Atlas or Abner computers and would
@@ -1123,7 +1111,7 @@ create new mass memory systems was very attractive.
 
 \(U) The Nomad contract was a great prize, and in some ways more
 important to the computer industry than the massive Sage early-warning
-computer project that IBM was taking on.58
+computer project that IBM was taking on. 58
 
 \(U) If You Can\'t Trust Someone from the Adams Family, Then \...
 
@@ -1143,7 +1131,7 @@ after the Nomad award, the navy gave RemingtonRand/ERA a contract to
 develop a computer using the exciting and revolutionary new transistor
 in place of tubes. That would have a later
 
-impact on NSA\'s computer and communications capabilities.60
+impact on NSA\'s computer and communications capabilities. 60
 
 \(U) The other likely winner of the contract, IBM, apparently did not
 make a serious attempt to take on Nomad. Although very worried by the
@@ -1163,7 +1151,7 @@ laboratory and, in a separate project, to create the Defense Calculator
 (IBM 701) to sell to agencies such as the AEC and NSA All that taxed
 IBM\'s engineering staff and made the company\'s management quite
 worried about wasting men and money on additional speculative
-projects.61
+projects. 61
 
 \(U) Raytheon was not awarded the Nomad contract by simple default,
 however.62 The company had become well known and respected. And it was
@@ -1177,10 +1165,8 @@ was strong enough to allow a waiver of the usual requirement that a
 government agency accept the lowest bid.
 
 
-TOP SCCRCTttCOMIHT/mCL USA, AUS, CAM QBR AMD NZU/X1
 
 
-TOP SEeRCT/ZCOMIHTORCL UCA, AUG, CAM fSBP fthin M7I ffY1
 
 -(Tgr) Raytheon\'s plan was very attractive. It met all the demands of
 the ERA\'s plans. Raytheon\'s machine was to have a large central
@@ -1205,7 +1191,7 @@ of their solution was a proposal to read and write on the tapes in both
 directions. Another was a special laminated tape that could handle
 stress and also serve as part of the tape drives\' essential clutch
 system. The tapes had a layer of mylar, then a layer of metal, then a
-layer of mylar with oxide coating.65
+layer of mylar with oxide coating. 65
 
 (T0//0I) The company promised to use innovative, pulse-position fast
 circuitry and to include a set of instructions tailored toAFSA\'s needs.
@@ -1269,7 +1255,7 @@ problem almost brought the project to a complete halt
 (T6//3f) Naval security discovered that the wife of one of the lead
 Nomad engineers had relatives who were in powerful positions in the
 Chinese Communist Party, and the engineer still had close relatives
-living in China. His clearance was revoked.68
+living in China. His clearance was revoked. 68
 
 (TS//SI) At almost the same time, Raytheon encountered some financial
 problems. That led to a greater role for its accounting department in
@@ -1287,7 +1273,7 @@ report and the discussions among the Agency\'s computer experts led to a
 recommendation that an excuse be found to cancel the contract and bring
 the PIT work to Washington. In mid-1954 it was announced that
 Raytheon\'s Nomad had fallen too far below the technological curve to be
-worthwhile.70
+worthwhile. 70
 
 (T0//0I) A prototype of PIT was shipped to NSA, and a large final check
 was sent to Massachusetts. A later accounting indicated that the
@@ -1441,7 +1427,6 @@ EO 3.3(h)(2) PL. 86-36
 
 
 
-IUH bhtKhH/CUMINMHEL USA, AUS, CAW QDR AND NJL\'/XI
 
 23\. (U) Colin Burke, Information and Secrecy: Vannevar Bush, Ultra and
 the Other Memex (Metuchen, NJ: The Scarecrow Press, 1994).

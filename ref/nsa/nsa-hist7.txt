@@ -37,7 +37,7 @@ Great Britain. A handful of influential men in the intelligence
 community suggested that the ties to Britain\'s ci\^ptanalytic
 organizations be cut. With America\'s policymakers having to depend only
 on \"G\" and the SIS, they reasoned, there would be a decreased chance
-of their allocations being slashed.1
+of their allocations being slashed. 1
 
 fTS/-/-\^) Those beliefs were significant and contributed to the
 rejection of one of the most generous offers Britain ever made to the
@@ -103,7 +103,7 @@ continue the type of research into radio wave propagation that had
 proven so useful to OP-20G\'s interception program. There also seemed
 little hope that corporate programs would lead to the advanced
 demultiplexing equipment that the army and navy so desperately needed to
-tap into the modern transmission systems of their targets.3
+tap into the modern transmission systems of their targets. 3
 
 \(U) The prediction of the future of the federal scientific establishment
 was not comforting. The best forecast seemed one of a return to the lean
@@ -133,7 +133,6 @@ wasn\'t there extends to much more than hardware. The institutional
 structure need
 
 
-TOP SECRiTttCOMINTOREL TO UCA, AUG, PAN, ODR, AND N2LHX1
 
 
 
@@ -208,10 +207,9 @@ of IBM equipment in 1946, for example, still left the agencies
 
 
 
-top MCRETOenMiirnwFi toiisa aii\^ pam rrp AMnM7i/fYi
 
 with 300 machines. That was tens of times more than what was on hand at
-the start of the war.6
+the start of the war. 6
 
 (TS//SI) The SIS was allowed a staff of 1,500, and \"G\" retained some
 700 people - infinitely greater numbers than had been allocated to the
@@ -255,7 +253,7 @@ to life any new hardware. That was almost inescapable. There was much to
 be done and few on the outside willing to do it. There was no
 general-purpose electronic device that was a great advance over Bush\'s
 old Comparator, and even the mundane, such as input and output
-technology, remained at the early levels.9
+technology, remained at the early levels. 9
 
 \(U) More MA GTC: Cryptanalysis Continues as Before
 
@@ -279,7 +277,6 @@ was or seemed about to be conquered. Despite the introduction of more
 sophisticated methods and
 
 
-TOP GCCnETOOOMIMWrcEL TOUGA, AUG, CAM, ODR, AND NZU/X1
 
 
 IUH bECRETOCOMINT/mEL TO USA, AU3, CAM, ODR, AND NZU/X1
@@ -287,7 +284,7 @@ IUH bECRETOCOMINT/mEL TO USA, AU3, CAM, ODR, AND NZU/X1
 machines, some 70 percent of the systems of the minor nations were
 \"readable\" in 1946 and 1947, and over half of those of the three new
 major targets were, to a significant degree, open to the United
-States.10
+States. 10
 
 (TG//SI) With help from the British, some of the most critical and well
 defended of the Soviet codes and ciphers were yielding information.
@@ -296,7 +293,7 @@ against the Germans and Japanese would be repeated against Russia and
 its allies. Progress seemed inescapable. By 1947, for example, engineers
 at the army and navy centers could build relay analogs of some of the
 important Russian cipher devices, just as they had built analogs after
-Japan\'s Purple machine had been penetrated.11
+Japan\'s Purple machine had been penetrated. 11
 
 CES//ST) The systems being entered were important. It appeared that, as
 in World War II, America would be able to gain critical intelligence
@@ -312,7 +309,7 @@ c
 I Although Russia\'s new Hmachine proved stubborn,
 
 there was hope that a persistent search using traditional tools would
-uncover its wiring and its indicator system.13
+uncover its wiring and its indicator system. 13
 
 (G//0I) That image of a consistent SIGINT future shaped the nature of
 the immediate postwar machine development programs at the army\'s and
@@ -326,7 +323,7 @@ including traffic analysis, were left to older machines and methods.
 (TS//6I) Something besides that cryptovision shaped the initial postwar
 plans. It was thought that, unlike the years of the Atlantic U-boat
 crisis, no massive and emergency machine construction program would be
-needed.14
+needed. 14
 
 \(U) A Cryptanalytic Future: Architecture and Ambiguity and Budgets
 
@@ -337,7 +334,7 @@ But all was neither secure nor settled, especially in 1945 when plans
 for both immediate and long-term machine development were being created.
 Although there was an agreement about general target priorities for the
 immediate postwar era, the exact nature of the cryptosystems and
-machines that might be confronted was not predictable.15
+machines that might be confronted was not predictable. 15
 
 £¥&fflsl) Some trends were evident, however.
 
@@ -409,7 +406,7 @@ Enigmas that might be brought back into use. All the devices that had
 been effective against the I I were retained. They were
 
 refurbished and readied to attack diplomatic, civil, and military
-traffic from around the world.20
+traffic from around the world. 20
 
 (TS//SI) The Bombes and the other «E
 
@@ -426,8 +423,6 @@ CE8//8ij The investment needed to conquer\'\" the morel \\ seemed
 reasonable. And success would provide invaluable returns. For example,
 with Germany and\^ Japan defeated, stripped oftheir colonies,\^
 
-::: {style="width: 40.78431372549019%;"}
-:::
 
 ffSffST) The potential rewards from investing in attacks against other
 nations\' Hagelins were even greater. j\^ras \"the\" manufactur
@@ -467,7 +462,7 @@ agreed that despite the about-to-appear second Freak at Arlington Hall,
 the navy needed a universal
 
 counting device for its postwar missions. It would help, they realized,
-in the initial mathematical studies of unbroken systems and machines.23
+in the initial mathematical studies of unbroken systems and machines. 23
 
 6FS//0I) With promises of financing in hand, machine designers were
 consulted about technological options. It was decided that the original
@@ -502,7 +497,6 @@ counters that were fast enough to please the cryptanalysts.
 
 
 
-TOP SECHETJ)eOMINT//HEL TO U3A, AU3, GAM, ODR, AND MZU/XI
 
 EO 3.3(h)(2) P.L. 86-36
 
@@ -524,8 +518,6 @@ than expected. Once in operation, it threw technological tantrums. It
 had problems with its large printer, and the expense of maintaining the
 machine led to Alcatraz\'s very early retirement in 1954-24
 
-::: {style="width: 53.41176470588235%;"}
-:::
 
 P Alcatraz (U) Mrs. O\'Malley\'s Wayward Son
 
@@ -554,7 +546,7 @@ determining if two distributions came from the same \"universe.\" It
 seems commonplace and unsophisticated today, but in the 1940s,
 especially because of the tedious calculations it needed, Chi seemed
 very advanced. It was one of the most sophisticated ways to identify
-cipher alphabets produced by the same key.25
+cipher alphabets produced by the same key. 25
 
 (S//SI) As it was used in cryptanalysis, \"Chi\" was computationally
 demanding. The frequencies of each letter in one cipher text had to be
@@ -563,10 +555,8 @@ the products had to be summed and used in the algorithm which determined
 whether or not the sum was
 
 
-TOP TE\"PETrr\>\"\'tlT\'\":\>cl ™\"™ «i\^V1111 nnn tmHSUm
 
 
-top ocorccTV/ooMihm/rccL to uoa, auo, oan, ODR, AND NZU/X1
 
 likely to have been produced by chance. To isolate probable \"same key\"
 messages called for testing each text against all the others. That meant
@@ -594,7 +584,7 @@ quickly. \"\*
 1947. ERA was expected to produce a machine more powerful than what had
 been developed by the world\'s largest and most advanced computing
 machine company: the IBM 603 electronic calculator, which had been
-introduced in late 1946.27
+introduced in late 1946. 27
 
 (S//SI) Within a year and one-half, the men in St. Paul were able to
 build an electronic \"calculator\" several orders more complex than the
@@ -618,7 +608,6 @@ O\'Malley even
 
 OMalley
 
-top oconrn/ooMiNTtfncL to uoa, auo, cam, opr, amp helotm
 
 
 
@@ -652,7 +641,7 @@ and UNIVAC, based their early electronic offerings on the same
 philosophy of following known architecture and logic. Ring-counter,
 decimal machines were the norm. Binary devices were the challenging
 exceptions that were very slow to appear on the market or even in the
-laboratory.28
+laboratory. 28
 
 («/\#»)■ And for its time, O\'Malley did its calculations quite rapidly.
 It was able to form and sum as many as thirty-five cross products in one
@@ -662,7 +651,7 @@ was limited by its lack of memory and its very slow printer.
 (&//Q¥) O\'Malley proved useful for more than its original limited
 operational job. When O\'Malley was asked to serve the needs of research
 mathematicians, its tubes and relays were persuaded to pretend they
-could, for example, invert matrices.29
+could, for example, invert matrices. 29
 
 (3//GB But all in all, economy and a need to obtain the final equipment
 as soon as possible meant that O\'Malley was a compromise that had a
@@ -709,13 +698,11 @@ tnhp
 
 IUH bhlKblJJlUMINIUKKL 10 USA, AU3, CAM, ODR, AND NZU/XI
 
-::: {style="width: 76.91101528812231%;"}
-:::
 
 \(U) Ifecate
 
 (100,000 trials a second). And Hecate\'s scritchertype capability of
-eliminating branch searches speeded processing enormously.32
+eliminating branch searches speeded processing enormously. 32
 
 (T3//3I) To save construction time, electronics were employed only where
 demands for speed presented no alternative. Hecate might have been even
@@ -759,7 +746,7 @@ hand notation.
 -CTO//0IJ- Each of Hecate\'s offset letter tests took approximately
 three seconds, excluding the time an operator needed to write down the
 hit positions. It took a total of approximately twenty minutes to run a
-500-letter message.33
+500-letter message. 33
 
 (T8//SI) Hecate was reliable and effective, but, like the Bombes, she
 had some serious deficiencies. Because of the nature of her test,
@@ -774,14 +761,10 @@ abandoned nor radically altered.
 
 (TS//6I) OP-20-G had no solution for the
 
-::: {style="width: 39.450980392156865%;"}
-:::
 
 of intelligence. The go-ahead was given for the development of another
 special-purpose device, Warlock.
 
-::: {style="width: 77.72549019607843%;"}
-:::
 
 \<3C//0I- ) Warlock I
 
@@ -795,7 +778,7 @@ special-purpose device, Warlock.
 much so that it took some four years to design and manufacturer 34 jt
 was physically big as well as expensive. It was so large that it had to
 be kept at the ERA factory in Minnesota. Warlock turned St. Paul into
-something of a remote operations center.35
+something of a remote operations center. 35
 
 (rfi3//Sfj Warlock cost more than \$soo,ooo36 because it called on the
 sophisticated cryptanalytictest that the Americans had first used in
@@ -897,7 +880,7 @@ special and unique to the cryptanalytic community
 
 (TS//8B In 1945 and early 1946, both agencies made a commitment to find,
 if possible, their own versions of one great multipurpose cryptanalytic
-engine.42
+engine. 42
 
 \(U) The Illusive Matrix
 
@@ -1010,7 +993,7 @@ the postwar Sled and Goldberg machines: embody each ofthe major
 cryptanalytic functions in separate hardware packages; create a central
 switching mechanism; tie the packages together in any desired
 configuration through the switch; and hook it all to freestanding
-input/output mechanisms.45
+input/output mechanisms. 45
 
 (TS//fli) With a stock ofthe specialized \"boxes,\" the agencies could
 instantly create any desired cryptanalytic engine. The cryptanalysts
@@ -1062,7 +1045,7 @@ equipment.
 
 Only electronics could make the machines fast enough to perform the
 cryptanalytic tests; and for many of those tests, only new I/O devices
-would allow the electronics to work at optimum speeds.46
+would allow the electronics to work at optimum speeds. 46
 
 \(U) Faith without Institutions: Slides, Sleds, and Skates
 
@@ -1096,7 +1079,6 @@ Rosen\'s mid-1945 plea to extend the reach of the tabulator-relay
 combinations at Arlington Hall received a warm reception.
 
 
-TOP OEOnETflOOMINTOnEL TO USA, AUG, CAW, GBR, AND NZL//X1
 
 
 
@@ -1109,14 +1091,14 @@ that at very minimum, Sled would have to perform the cribdragging and
 dictionary lookup functions of the invaluable Slide-Run machines of
 World War II. More ideas were contributed as to what functions should be
 included and, as important, how they could be designed to meet the goal
-of having, when desired, plugboard-programmed parallel processing.48
+of having, when desired, plugboard-programmed parallel processing. 48
 
 (8//SI) The evolving ideas even attracted the cryptanalysts and
 engineers at\"G,\" especially those who had worked with the tabulator
 and NC machines. Already mandated by the government to coordinate as
 much research and development as possible, \"G\" and the SIS agreed they
 should work together on Sled. Each looked forward to having a Sled with
-electronic components within a short time.49
+electronic components within a short time. 49
 
 (T6//SI) However, the program ground to a near halt. Not enough
 resources and equipment remained in the postwar \"F\" section, and a
@@ -1178,7 +1160,7 @@ about such important IBM advances as its 604 electronic multiplier and
 its very hush-hush line of new tabulators. They did more than pass
 information from IBM to the codebreakers; they began to act as advocates
 for SIS and \"G.\"52 They met with IBM management and argued that the
-company would benefit from the Sled research.53
+company would benefit from the Sled research. 53
 
 (TS//SI) But it was not until the summer of 1948 that IBM agreed to take
 on the extensive Sled project.54 Then it was not until that fall that
@@ -1192,12 +1174,12 @@ emerged in 1948 as a rather crude jury-rigged machine.
 
 But it worked and it evolved step by step into the Connie Comparators of
 the 1950s. They never became as flexible as Sled; but they were seen by
-their sponsors as general-purpose comparators.55
+their sponsors as general-purpose comparators. 55
 
 (TS//SI) While the Connie precursor was being constructed, IBM acquired
 a secure building in Vestal, New York, to work on Sled. IBM sent some of
 its best men to help with the project, including a future company
-president, B. O. Evans.56
+president, B. O. Evans. 56
 
 (TS//SI) Unfortunately, just then, long-term goals had to be set aside,
 at least for a time. A cryptoemergency arose. In response, a very
@@ -1208,20 +1190,16 @@ intransigent jsystem.57 After a relatively
 long shakedown cruise, Skate was put to work as a primitive electronic
 version of a numeric-only Slide-Run machine. It was soon followed by a
 more advanced copy, which cost twice as much as the first, over
-\$500,000.58
+\$500,000. 58
 
-::: {style="width: 77.25490196078432%;"}
-:::
 
 
 TS) Sled
 
-TOP 8CCRCTfleOMINT/mEL TO U3A, AUS, CAW, flBR, ANP NZUIX1
 
 P.L. 86-36 EO 3.3(h)(2)
 
 
-TOPocorcnwooMimv/ncL to uoa, auo, oan, odr, and N2u/xi
 
 £B//0frThe Skates were electronic advances, but costly ones in terms of
 dollars and manpower diverted from the Sled ideal. That upset one of the
@@ -1237,7 +1215,7 @@ hardware. As a result, he and his associate Ray Bowman began to apply
 new pressures on the company. Sled was finally born, but that was eight
 years after Leo Rosen had put forward the general outlines of such a
 machine and a year after the SIS and OP-20-G had been merged into the
-new organization, the National Security Agency.59
+new organization, the National Security Agency. 59
 
 (TB//8I) What finally arrived in Washington in the first half of 1953
 were two copies of a custom-made machine whose basic design stood, for
@@ -1319,7 +1297,7 @@ like engineering timing diagrams than the instructions for a digital
 computer.63 Despite that, Sled gained so much loyalty that the first
 ones were cloned in a superfast transistor version by the late 1950s. As
 we will see, a grand elaboration was proposed under the mid-1950s NSA
-Farmer program.64
+Farmer program. 64
 
 \(U) Faith and an Institution; the Chance to
 
@@ -1349,7 +1327,7 @@ OP20-G, but he had to settle for a small group in the SIS that could
 direct and oversee established contractors.66 Wenger sought much more.
 Rejecting the suggestions for ajoint army-navy program, but later being
 forced to accept ajoint board that sought to coordinate programs and
-targets, he began an independent search for a practical solution.67
+targets, he began an independent search for a practical solution. 67
 
 \(U) After some initial failures, things began to fall into place. The
 secretary ofthe navy took great pride in OP-20-G\'s achievements, and
@@ -1360,7 +1338,7 @@ postwar funding seemed more than a possibility.
 
 £TS//gf) Wenger formed anin-house RAM panel to take advantage of that
 and to develop the technical arguments he would need to fend off any
-major threats to his automation program.69
+major threats to his automation program. 69
 
 
 
@@ -1374,7 +1352,7 @@ mistakes as it had during World War II. He hammered at two other points:
 The traditional division between operational and bureau powers would ill
 serve a modern navy, and only a continuation of something like the
 cooperative relations between \"M\" group, NCR, and NCML could save
-naval cryptanalysis.70
+naval cryptanalysis. 70
 
 \(U) He was given assurances that OP-20-G would be allowed its own
 program and was told that navy money would be made available for
@@ -1398,7 +1376,7 @@ for \"G.\" It would be allowed to direct its own work, free from the
 Office ofNaval Research, the Naval Research Laboratory, the naval
 electronics laboratories and, to a very great degree, the Bureau of
 Ships. Although the other navy agencies continued the battle to control
-\"G\'s\" \"turf,\" the naval Rapid Machine program had a future.72
+\"G\'s\" \"turf,\" the naval Rapid Machine program had a future. 72
 
 \(U) In late 1944 Wenger put Howard Engstrom, Ralph Meader, John Howard
 and another of the bright navy engineers, Bill Norris, to work on
@@ -1407,7 +1385,7 @@ permanently link science and innovation to the navy. It was anew version
 of Hooper\'s post-World War I RCA. In 1945 Wenger\'s men recommended
 creating the private, for-profit, National Electronics Laboratory. The
 company was to be staffed by the talented men from OP-20-G and the other
-advanced science agencies in the navy.74
+advanced science agencies in the navy. 74
 
 \(U) Wenger approved the idea, envisioning a firm that would devote
 itself to navy communications problems,75 ranging from mathematical
@@ -1418,7 +1396,7 @@ such as Engstrom and Norris, having an interest in the private company.
 Most ofthe \"M\" engineering team, including Howard, Coombs, and
 Steinhardt agreed to join, but those who had been IBM employees decided
 to return to their old company. Joe Desch and his men also opted to stay
-with their firm, NCR.76
+with their firm, NCR. 76
 
 \(U) Soon, however, everything seemed to be falling apart. America\'s old
 scientific organizations rejected them. Rockefeller Foundation also
@@ -1427,7 +1405,7 @@ found, and the situation became critical. At the end of 1945 Wenger had
 his new research agenda and had promises of contracts, but he had no
 idea of where to find the men to build a full electronic Super Bombe, a
 new version of Mike, his grand \"reconfigurable\" Comparator, or even a
-viable punch for the old Comparators and the Copperheads.77
+viable punch for the old Comparators and the Copperheads. 77
 
 \(U) A savior, at least a minimal version of one, finally appeared and
 turned Wenger\'s failing dream into the new company, Engineering
@@ -1439,7 +1417,6 @@ old friend ofthe navy, John Parker, could not piece together truly ade
 
 EG. 3.3(h)(2) P.L. 86-36
 
-TOP SCeHETOCOMIMTf/WCL TO USA, AUS, CAM, OBR, AMP NZL//XI
 
 quate funding. He could not even locate the new company hear OP-20-G.
 The proposed research arm of \"G\" had to move to Minnesota. \'8 Coming
@@ -1460,10 +1437,8 @@ the ERA contracts and acted as a general liaison with the company.
 Perhaps because of his interaction with the ERA engineers and
 mathematicians, Tordella became one of the future NSA\'s most energetic
 supporters of high technology as well as one of the most influential
-figures in the history of American intelligence gathering.81
+figures in the history of American intelligence gathering. 81
 
-::: {style="width: 27.989023912191296%;"}
-:::
 
 \(U) A Bright Hope for Hooper\'s Dreams
 
@@ -1483,7 +1458,7 @@ to manage his technology program. Joseph Eachus, Howard Campaigne, and
 James T. Pendergrass were topflight young scientists who appreciated the
 role of mathematics and computers in cryptanalysis. They helped Wenger
 set up a board to coordinate the RAM program with the needs of the
-cryptanalysts.83
+cryptanalysts. 83
 
 \(U) Most importantly, ERA was launched on the mission of creating a
 multipurpose cryptana
@@ -1502,8 +1477,6 @@ multipurpose cryptana
 
 
 
-::: {style="width: 76.70588235294117%;"}
-:::
 
 \(U) Golcberg
 
@@ -1580,12 +1553,12 @@ cabinets were very impressive. They contained more than 7,000 tubes
 reflecting the complexity of its digital circuits. Going beyond the
 state ofthe art led Goldberg into trouble. Atone point in its
 construction the majority ofthe tube sockets in the machine had to be
-replaced.92
+replaced. 92
 
 C5S//SR But once in operation, Goldberg was able to perform many
 different cryptanalytic functions through plugboard \"programs.\" That
 helped fulfill some of its designer\'s hopes that it could be a
-\"reconfigurable\" machine.93
+\"reconfigurable\" machine. 93
 
 (0//0I) Goldberg could do anything that Mike or Copperhead or the old
 Comparator had done during the war and much, much more. It could
@@ -1617,7 +1590,7 @@ emergency needs. Besides its contributions to the mechanics and
 electronics of drum memory, Goldberg incorporated a unique way of using
 its drums. They were used as \"buffers.\" To speed processing, while one
 drum was providing data for calculations, the other was loaded with data
-from the tapes.96
+from the tapes. 96
 
 (T3//3I) Although it was late incoming, Goldberg was the
 state-of-the-art \"reconfigurable\" Comparator. Contemporaries thought
@@ -1629,7 +1602,7 @@ worthwhile enough to think of
 
 
 replacing the slow and sometimes troublesome drums with a massive
-electronic memory.97
+electronic memory. 97
 
 (U//FQUO) However, because of its longdelayed and sometimes painful
 delivery, it seemed best not to build any more of the \"G\" designed
@@ -1656,7 +1629,7 @@ army group that had the grandest postwar visions for film RAMs.
 Encouraged by the arrival of its microfilm plus electronic-counter
 machine in late 1944 and the about-to-be-completed 5202 Comparator for
 the Tunny problem, \"F\" wanted to order a whole series of machines from
-Eastman. Each would perform one of the major cryptanalytic functions.100
+Eastman. Each would perform one of the major cryptanalytic functions. 100
 The ideas were attractive because film continued to be a much higher
 volume memory than magnetic devices. Drive speeds did not erase the
 difference. In 1949 microfilm data could be
@@ -1670,7 +1643,7 @@ necessary research and build an upgraded version of the ambitious 5202.
 Shortly after the war it hired several small electronics companies to
 explore all the possibilities. One, Hogan Laboratories, had a promising
 design. A contract was let, and the SIS would have a very advanced film
-Comparator before the end of the decade.102
+Comparator before the end of the decade. 102
 
 (TG//0f7 Those who continued to see the future of OP-20-G in terms of
 microfilm received some funding. With a rather handsome allocation in
@@ -1685,7 +1658,7 @@ exploration of a grand idea for a huge new comparator using large
 photographic plates or drums with as many as 10,000 tiny holes per
 square inch. As the plates could be aligned over each other in one-tenth
 of a second, a light-based machine to attack the new teletype encryption
-machines seemed within reach.104
+machines seemed within reach. 104
 
 \(U) Finally, the Electronic Bombe
 
@@ -1713,7 +1686,6 @@ P.L. 86-36 EO 3.3(h)(2)
 
 tv-i,. 8 6-36 E0 t.at-h) (2)
 
-top 3eeReTOcoMiNT/meL to usa, aus, caw, qbr, and nzuxi
 
 t
 
@@ -1734,7 +1706,7 @@ mechanical analytic machines for the 1
 problem. The small machines built by the inhbuse engineers were also
 given \"softer\" names \\than those used for similar machines of World
 War II. The Stork was one of many helpful devices used directly by the
-cryptanalysts.105
+cryptanalysts. 105
 
 jar
 
@@ -1755,7 +1727,7 @@ cribs were applied to one message of a pair determined to have to been
 produced by the. same key through IC and similar analyses. The derived
 key from the first crib-plain match was applied to the other message.
 Then, to See if true key had been found, the result was looked up in the
-memory, which contained known high-frequency groups.106
+memory, which contained known high-frequency groups. 106
 
 (TS//SI) More thrilling for the machine builders was the chance to at
 last construct a full electronic Bombe. The explorations ofthe
@@ -1777,7 +1749,7 @@ began the Ophis project. Its first goal was another electronic rotor,
 one for an attack on the mysterious Albatross machine. Albatross was
 thought to be like Germany\'s wired-rotor Green Enigma ofWorld War II.
 The SIS and \"G\" hoped that Ophis\' long-term result would be a general
-wiredwheel Bombe that would be more powerful than Hiawatha.108
+wiredwheel Bombe that would be more powerful than Hiawatha. 108
 
 (TS//-6f) There were even greater and more exciting engineering
 challenges. By the time Hiawatha was conceived, both ofthe American
@@ -1898,7 +1870,6 @@ Hecate in
 18\. (TS//0I) On Hecate, (SS} NSA CCH Series XII MPRO, Box 1, \"Machines
 in the Service of
 
-TOP IFrOFTIimmUTIIBPl m MCA ahc n«u \^pD »»n i\|7\| fft
 
 
 EO 3.3(h)(2) P.L. 86-36
@@ -2179,7 +2150,6 @@ USN, \"Resume of the Dayton, Ohio Activity During World War II,\"
 December 21, 1945, CNO toBoShips,
 
 
-TOP aCORCTOOOMINTV/XI
 
 P.L. 86-36 EO 3.3(h)(2)
 
@@ -2275,7 +2245,6 @@ June 3,1946, NCML to ERA, \"have your work approved\"; and July 22,
 Panel Meetings.\" OP-20-G had asked IBM to take on a long-term research
 contract in 1945 and again in 1946, but was refused.
 
-TOP SEC8ETOCQMINT//REL TO UGA, AUG, OAN, ODR, AND NZU/X1
 
 
 
@@ -2400,7 +2369,6 @@ XII Z,file folder, \"Monogram and RAM Panel Reports,\" 1945-1949-
 (TS//SI) NSA CCH Series XII Z, \"Communications Supplementary
 Activities, RAMP Report II,\" 21 December 1948.
 
-TOP oronrn/nn -ninn tomca m.q, rau Mq \^Nn N7\| m Rage 231
 
 
 

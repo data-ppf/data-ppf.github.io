@@ -1,7 +1,6 @@
 It Wasn.t All Magic: The Early Struggle to Automate Cryptanalysis, 1930s-1960s {#it-wasn.t-all-magic-the-early-struggle-to-automate-cryptanalysis-1930s-1960s .center dir="ltr"}
 ==============================================================================
 
-::: {.offset}
 This book was produced in EPUB format by the Internet Archive.
 
 The book pages were scanned and converted to EPUB format automatically.
@@ -28,11 +27,8 @@ texts, audio, moving images, and software as well as archived web pages,
 and provides specialized services for information access for the blind
 and other persons with disabilities.
 
-:::
 
 
-::: {style="width: 11.529411764705882%;"}
-:::
 
 NATIONAL SECURITY AGENCY
 
@@ -49,7 +45,8 @@ has been reviewed under the Mandatory Declassification Review (MDR)
 requirements of Executive Order (E.O.) 13526 and is enclosed. Some
 portions deleted from the document were found to be currently and
 properly classified in accordance with E.O. 13526. The information
-denied meets the criteria for classification as set forth in Section 1.4
+denied meets the criteria for classification as set forth in Section 1. 4
+subparagraphs (c) and (d) and remains classified TOP SECRET and SECRET
 per Section 1.2 of E.O. 13526. The withheld information is exempt from
 automatic declassification in accordance with Section 3.3(b) (2) and (3)
 and (h) (6) of the Executive Order. Section 3.5 (c) of E.O. 13526,
@@ -81,8 +78,6 @@ Declassification Services
 Encl: a/s
 
 
-::: {style="width: 89.14151313210506%;"}
-:::
 
 
 Cover Photos: (U) (clockwise from upper left): Hypo, Vannevar Bush,
@@ -176,7 +171,6 @@ TnP cprpPT/frOMIMTffPFI T? WA, iMfT. ni\'iH, nnn \'\"\" \'■■■ \"\"!
 Page ii
 
 
-TOP 3ECRET//COMINT//RgL TO USA, AUS, CAW, 6BR AND HIUIX1
 
 CONTENTS
 
@@ -303,7 +297,7 @@ Chapter 2 (U) The First Electronic Computer: Perhaps
 
 \(U) RAM Project Seems to Die, Late 1938 44
 
-\(U) A Comparator There May Never Be .45
+\(U) A Comparator There May Never Be . 45
 
 \(U) Big Science Begins to Emerge 45
 
@@ -430,7 +424,6 @@ in Their Special Way 85
 
 
 
-top oconny/ooMiNTOncL to uoa, aug, cam, opp. amp hzujxi
 
 \(U) No Time for Electronic 98
 
@@ -488,7 +481,7 @@ Chapter 5(U) A Search for Other \"Bombes
 
 \(U) The Other Bombe Program 135
 
-\(U) Another Step Back J.35
+\(U) Another Step Back J. 35
 
 \(U) More to It Than the Machine 137
 
@@ -567,7 +560,7 @@ Is Inescapable 177
 
 \(V) Engineering Pride and Peacetime Priorities 183
 
-\(U) Keeping the Faith: the Return of the Film Machines .. .184
+\(U) Keeping the Faith: the Return of the Film Machines .. . 184
 
 \(V) The Revenge of the Codes, Again 184
 
@@ -597,7 +590,7 @@ and Budgets 203
 
 \(U) The Enigma Is Dead (We Think):
 
-.204
+. 204
 
 Long Live the
 
@@ -625,11 +618,11 @@ r.L. ob-ob
 \(U) It\'s a Nice Idea, Dr. von Neuman, But 212
 
 \(U) Faith Without Institutions: Slides, Sleds and Skates .. .214 (U)
-Faith and an Institution: the Chance to Begin an Era . .218
+Faith and an Institution: the Chance to Begin an Era . . 218
 
 \(U) A Bright Hope for Hooper\'s Dream 220
 
-\(U) The Grand Machine of Its Time, the New Comparator . .221
+\(U) The Grand Machine of Its Time, the New Comparator . . 221
 
 \(U) Meanwhile, a Last Chance for Microfilm 223
 
@@ -700,7 +693,7 @@ the Adams Family, Then 278
 
 Chapter 10 (U) A Matter of Faith
 
-\(U) Would Science or an Old Tactician Save the Agency? .. .285
+\(U) Would Science or an Old Tactician Save the Agency? .. . 285
 
 \(U) Rushing \"Bits,\" Not Even \"-Bytes,\" into the Agency 285
 
@@ -851,7 +844,7 @@ chapters of this book. I was fortunate to be brought into the National
 Security Agency as one of the Center for Cryptologic History\'s first
 Scholars in Residence. I was borrowed from my university because I had
 spent a decade working on the history of computers at NSA\'s
-predecessors. I even had the courage to write a book about the subject.1
+predecessors. I even had the courage to write a book about the subject. 1
 
 \(U) That monograph was on the machines, policies, and relationships that
 led to the U.S. Navy\'s cryptanalytic machine (computer) program in
@@ -946,7 +939,7 @@ purchased. The study of the Kgp\" computers seemed so important and fit
 so well with the Agency\'s desire to obtain good
 
 publicity that it was declassified and, in various forms, published in
-the open literature.2
+the open literature. 2
 
 \(U) Mr. Snyder\'s work showed the contributions of NSA to the
 development of computer technology and to the emergence of the American
@@ -1128,10 +1121,8 @@ traffic analysis, plain text, and even clear voice messages. That forced
 the Agency
 
 
-TOP 0CCRCT//COMINT//RCL TO U3A, AUfl, OAK, ODR AND NZUX1
 
 
-top aeeneTOeoMiNTORiiL to uoa, auo, oan, odr and nzl//xi
 
 to become one of the world\'s largest data processors.
 
@@ -1233,8 +1224,6 @@ Cryptologic Organizations,\" Annals of the History of Computing, 2
 Colin Burke December 1994
 
 
-top 3i:cri:t/\<oomint//ri:l to uoa, aus, can, odr and nzu/xi
 
 
-TOP GEGRET//GOMINTOREL TO UCA, AUG, GAN, OBR AND NZU/X1
 

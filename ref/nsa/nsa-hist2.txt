@@ -9,7 +9,7 @@ turning it into useful information for policymakers. The failure to
 predict the attack on Pearl Harbor, for example, was the result of too
 much data. The thousands of intercepted Japanese naval messages could
 not be analyzed with the men and equipment available to Laurance
-Safford\'s OP-20-G.1
+Safford\'s OP-20-G. 1
 
 \(U) Vannevar Bush realized the similarity between the challenges facing
 the cryptanalysts and the ones faced by those who were trying to reform
@@ -32,7 +32,7 @@ partially account for the lost opportunity. But the major factor was
 institutional. Above all else,
 
 the military had not yet placed great faith in the kind of information
-that cryptanalysis or other signals intelligence could provide.3
+that cryptanalysis or other signals intelligence could provide. 3
 
 \(U) The Institutional Context
 
@@ -153,7 +153,7 @@ of a particular device so that engineering could have something
 concrete. He was to submit four reports, each detailing a major
 component of the proposed machine. The commitment to details and the
 year and one-half time limit for delivery of all the reports helped to
-satisfy the bureau\'s demand for a scheduled product.12
+satisfy the bureau\'s demand for a scheduled product. 12
 
 \(U) The Decision to Build a Machine
 
@@ -195,7 +195,7 @@ was reliable enough to convince the bureau to fund a long-term RAM
 project. Furthermore, Bush knew that any machine he created would have
 to outperform OP-20-G\'s tabulators and the special mechanical devices
 l6 that had become so dear to many of its staff. His machine had to be
-much faster than the electromechanical devices.17
+much faster than the electromechanical devices. 17
 
 \(U) There were many advanced cryptanalytic methods for Bush to select
 from. Perhaps unknown to Bush or Wenger, the United States Army\'s
@@ -212,7 +212,7 @@ iaP SECRET/jeOMINT/mEL TO UflA, AU3, OAN, ODR AND NZU/X1
 
 IUH bhLKbl/iOIMINIJIKbL IU UbA, AUt., LAN, bBK and MLU)AI
 
-realized that optical scanning had great potential for cryptology.18
+realized that optical scanning had great potential for cryptology. 18
 Despite such projects, Bush was facing the great challenge of creating
 what was the world\'s first high-speed cryptanalytic machine. Balancing
 all the factors, including his almost unshakable commitment to the three
@@ -251,7 +251,7 @@ by the three or four rotating enciphering wheels or switches. But after
 26 x 26 x26 or more rotations, the wheels returned to their initial
 positions, and the machine began to repeat its letter substitutions.
 That made them technically nonrandom and allowed many nations to use
-Index methods against the simple Enigmas ofthe Spanish Civil War.20
+Index methods against the simple Enigmas ofthe Spanish Civil War. 20
 However, every nation was improving its cipher machines. Additional
 wheels with unique transpositions, varied latches that turned a
 neighboring wheel erratically, and plugboards to further disguise a
@@ -269,7 +269,7 @@ optical machines, were confident that it would take any formal attack
 too long to be of use to an enemy. Given the special defenses built into
 the Enigma, they calculated that it would take any machine so long to
 perform a statistical analysis that by the time a setting was
-identified, its messages would be of no military value.21
+identified, its messages would be of no military value. 21
 
 \(U) When Wenger met with Vannevar Bush in 1937 to decide exactly what
 type of machine to design, his goal was the creation of a device so
@@ -281,7 +281,6 @@ decided to automate the heart ofthe IC method, coincidence counting.
 relative position in two or
 
 
-TOP SiCRET/ZCOMiHTOREL TO UCA, AUG, OAH, ODR AND MZUX1
 
 
 ■mo ccrpc-n/\^MmTi/pci m iiqa aiiq cam rtRP Ann M7I »Y1
@@ -344,7 +343,7 @@ MITs president learned only that secret work was in progress. The men
 who were to build the components and their regular faculty supervisors
 were not told of the navy connection. Once employed, they were
 instructed to be confidential about their work but not told why. They
-would never be informed as to what their components were for.22
+would never be informed as to what their components were for. 22
 
 \(U) Two graduate students received the initial assignments. Jerry
 Jaeger, who had abackground in machine tools and automatic controls, was
@@ -392,7 +391,7 @@ fulfill his existing responsibilities, and he did not arrive at MIT
 until September 1937, leaving only some ten months to become oriented,
 to check and revise the Comparator\'s parts, prepare
 
-reports, and assemble and test the historic machine.23
+reports, and assemble and test the historic machine. 23
 
 \(U) MacDonald\'s ingenuity and his hands-on engineering ability were
 needed on the navy\'s 1930s project, but his role was not a truly
@@ -428,7 +427,6 @@ practical challenges. The state of the technology did not allow elegant
 solutions to the problems of high-speed input, sensing, count
 
 
-TOP SFf.RFT)/cnuiMT»PFi TniiQA fliiQ cam nao aim mti fnri
 
 
 
@@ -455,7 +453,7 @@ with too many words posed a danger to their systems and instructed that
 messages be limited to as few words possible. The very upper limit was
 2,000 characters. Messages of 200 characters were typical, but the need
 to analyze longer ones in a timely way made speed and a large memory
-important goals.27
+important goals. 27
 
 \(U) Combined with Bush\'s desire for a minimal number of electronic
 components, the call for speed created unexpected challenges for the
@@ -468,7 +466,7 @@ of each tape was blank,
 
 thus halving the number of possible comparisons during a am of the tape.
 Because of that, Bush\'s men had to double the originally planned speed
-of the drive to achieve the processing goals.28
+of the drive to achieve the processing goals. 28
 
 \(U) Even without the tape handicap, Bush had to outdo much existing
 technology to achieve his minimum Comparator speed.29 Bush wanted the
@@ -516,7 +514,7 @@ tubes as memory were just that in the mid19305. And no one thought that
 delay lines would ever be able to hold more than a few bits of
 information. In 1937 work was just beginning on magnetic memories, and
 storage of large amounts of data in two or multistate electronic tubes
-or relays was out of the question.33
+or relays was out of the question. 33
 
 \(U) Unfortunately for Bush and Wenger, there had been few advances in
 tape technology since the introduction of modern automatic telegraph
@@ -538,14 +536,14 @@ tests indicated the tape would maintain its structural integrity after
 
 being punched. All those features justified the high cost of the Eastman
 product although it was soon learned that its data capacity would not be
-much more than that of telegraph tape.37
+much more than that of telegraph tape. 37
 
 \(U) The disappointingly low density meant that much effort had to be put
 into the development of a high-speed tape drive, one burdened with some
 very special demands. In addition to the need for ultra-high speeds, the
 tape transport had to pass two tapes in perfect alignment over the
 reading station, then step one tape one character relative to the other
-until all possible comparisons had been run.38
+until all possible comparisons had been run. 38
 
 \(U) The Limits ofMecJianics
 
@@ -558,7 +556,7 @@ to hold the tapes. Pulleys were to maintain the required tension on the
 loops of tape. Driven by a fast electric motor and a system of shafts
 and gears, the tape was guided by both rollers and sprockets.39 The
 entire transport was mounted on tall legs and stood some four feet off
-the ground to ease the chore of changing tapes.40
+the ground to ease the chore of changing tapes. 40
 
 \(U) The tape transport was well designed and was delivered on schedule,
 but it did not reach the speeds Bush desired. At its best moments it ran
@@ -639,7 +637,7 @@ predictable and familiar gas-filled Thyratrons.
 \(U) The choice of architecture for the counters was also driven by the
 need to send the navy at least a feasible design, if not a machine, by
 mid1938. Like the other electronic computer builders ofthe era, the
-young MIT engineer decided to imitate mechanical calculating machines.41
+young MIT engineer decided to imitate mechanical calculating machines. 41
 His counters were decimal, not binary. Although such a design limited
 the range ofthe application of a computer, it was known to work and was
 simpler
@@ -684,7 +682,7 @@ placed on a line (column) of the 70mm tape. But the size and sensitivity
 of holes and photocells, the problems of aligning tapes, and the desire
 to limit the elec
 
-tronics of the machine precluded the use of that coding pattern.43
+tronics of the machine precluded the use of that coding pattern. 43
 Bush\'s special coding scheme demanded a custom-made and very complex
 mechanism.
 
@@ -790,9 +788,8 @@ contained a request for a Comparator for the pro
 
 
 
-TOP SECRCT//COMINT/mEL TO USA, AUS, CAM, (5BW aim NZU/XI
 
-posed major cryptanalytic station at Pearl Harbor.52
+posed major cryptanalytic station at Pearl Harbor. 52
 
 \(U) Spring Is a Time for Love, Not Machinery
 
@@ -843,7 +840,7 @@ the next year experimenting with the wonderful and reliable machine.
 Possibly because they now realized how much a well-schooled optical
 electronics engineer would cost, OP-20-G did not make an effort to hire
 a replacement for the MIT engineer or, as planned earlier in the year,
-to construct at least one more Comparator.59
+to construct at least one more Comparator. 59
 
 \(U) R.AM Project Seems to Die, Late 1938
 
@@ -876,7 +873,7 @@ ominous was the failure of the data entry component, the punch. Even the
 second version of that purely mechanical and supposedly simple mechanism
 could not be made to produce precise tapes. There was little hope of
 basing an entire system of analytical machines around the original Bush
-design if there was not an efficient and reliable data entry device.63
+design if there was not an efficient and reliable data entry device. 63
 In 1940, Safford, who two years before declared the Comparator a
 reliable and useful invention, had to admit the machine never worked and
 that the entire project had not progressed as planned.
@@ -944,7 +941,7 @@ navy\'s future Rapid Machine effort. Atomic scientists were calling for
 electronic control devices, but most important for the history of
 OP-20-G was the hope that radar could be used to automatically control
 antiaircraft weapons. That led to the NDRC\'s involvement in the
-development of electronic fire control computers in the early 1940s.65
+development of electronic fire control computers in the early 1940s. 65
 
 \(U) The exploration of such electronic digital machines was the perfect
 type of work for the NDRC because it centered onunproven and
@@ -963,14 +960,14 @@ by the NDRC. Then Weaver coordinated the work at RCA with wide-ranging
 explorations at Eastman, MIT, Bell, and, to some extent, NCR Of
 significance for the history of OP-20-G\'s machines, IBM was again left
 out ofthe NDRC circle although its centers of electronic research were
-working on quite advanced components and systems.66
+working on quite advanced components and systems. 66
 
 \(U) Because ofthe NDRC\'s stimulus, by the time of America\'s formal
 entry into the war, RCA Eastman, Bell, and MIT had several proposals for
 digital-based fire control systems, ones the NDRC
 
 evaluators thought had great promise. In the spring of 1942, meetings
-were called, and all participants shared their knowledge and designs.67
+were called, and all participants shared their knowledge and designs. 67
 The reports ofthe fire control projects were made available to the
 American technical community, which now included John Howard. He was
 made aware ofthe designs for the most advanced computer components.
@@ -987,7 +984,7 @@ signal converter and RCA\'s fabulous multifunction Computron tube were
 to be continued, as was NCR\'s counting circuit research. Although they
 were viewed as long-term projects, the three efforts were financed for
 only a few more months because the press of other work forced the NDRC
-to abandon them.68
+to abandon them. 68
 
 \(U) The Second Comparator
 
@@ -1043,7 +1040,7 @@ the information from Ultra, the Americans feared a British monopoly over
 Enigma. In addition, in early summer 1940 there were fears that Britain
 would collapse. OP-20-G\'s cryptanalysts worried they would have to
 assume responsibility for Enigma, something for which they were totally
-unprepared.69
+unprepared. 69
 
 \(U) The U-boat threat had already led to British pleas that OP-20-G and
 Naval Intelligence shift their scarce resources to direction-finding and
@@ -1065,7 +1062,7 @@ major changes in its machines required to allow its equipment to perform
 new tests. For example, relays were added to the machines to strip
 superencipherments from the Japanese code and to flag repetitions of
 code groups. By mid-year IBM was asked to do much more and to give
-OP-20-G very special attention.71
+OP-20-G very special attention. 71
 
 \(U) Bush was finally able to circumvent the bureaucracy and go his own
 way, perhaps with ambitions to create a full Rapid Machine center at the
@@ -1080,8 +1077,6 @@ Although the
 
 
 
-::: {style="width: 67.68627450980392%;"}
-:::
 
 \(S) 70mm Comparator
 
@@ -1105,7 +1100,7 @@ of adding in the late 1930s. It allowed the use of a transverse tape to
 find more, complex pattern matches than was possible with
 
 the original system. With the locator, the codebreakers could quickly
-identify which messages held important code or cipher groups.74
+identify which messages held important code or cipher groups. 74
 
 \(S) In the private language of the codebreakers, \"locating\'\' was a
 Brute Force approach to finding possible \"depths.\"
@@ -1114,7 +1109,7 @@ Brute Force approach to finding possible \"depths.\"
 Japanese naval attache cipher machine, but the Comparator\'s newest
 punch also malfunctioned.75 In addition, the machine\'s bad temper
 called for a visit by one of the MIT men, Larry Steinhardt, who had to
-simplify the device to achieve reliability.76
+simplify the device to achieve reliability. 76
 
 \(U) The Search for the Second Comparator
 
@@ -1131,7 +1126,7 @@ cant grant from the NDRC.77 Then, although the NDRC was not supposed to
 be involved in production, Howard awarded a \$25,000 contract to
 National Cash Register\'s electronics laboratory. Joe Desch agreed to
 build as many as thirty copies of the sets of new high-speed counters
-and fast printers needed for the future microfilm Comparators.78
+and fast printers needed for the future microfilm Comparators. 78
 
 (ID In a November 1941 meeting, it was declared that construction was
 ready to begin on the next Comparator. Expecting to see the newest
@@ -1150,7 +1145,7 @@ military information that came from signals intelligence. However,
 England\'s wizards did not have a mathematical solution to the Enigma!
 Without good guesses as to key words in messages and knowledge of the
 inner workings of the Enigma radio networks, Britain could, and would,
-become deaf.79
+become deaf. 79
 
 naval Enigma. However, they made little progress toward what the
 Americans needed, a purely mathematical cryptanalytic solution.
@@ -1164,7 +1159,7 @@ asked to think of ways to automate her \"problem.\" She was determined
 to develop a method more permanent than the ones Britain had chosen.
 Apparently, that called for a machine somewhat different from the
 Comparator. Howard accepted the responsibility, and Driscoll was happy
-with the promises by the young men from MIT.80
+with the promises by the young men from MIT. 80
 
 O Agnes Meyer
 
@@ -1213,7 +1208,7 @@ offerings.
 
 (TD//0I//REL) By spring 1941, the army had its Gee Whizzer working on
 the transposition ciphers of several nations, and the navy was about to
-receive the first of its special IBM Navy Change Machines.82
+receive the first of its special IBM Navy Change Machines. 82
 
 (TS//SI//REL) Logs and Relays Gee Whizzer
 
@@ -1230,7 +1225,7 @@ proved so useful that a series of larger and more sophisticated
 \"Whizzers\" was constructed during the war. The last of the four
 versions had an electronic matrix and was in operation throughout the
 decade. The navy admired the Whizzer so much that it built its own
-version, the Jeep.83
+version, the Jeep. 83
 
 (T0//3I//REL) The Gee Whizzer was born because of a specific problem
 that arose in early 1941. It was the Japanese diplomatic service that
@@ -1246,8 +1241,6 @@ automate what had become a standard approach to mechanically testing for
 meaningful decipherments. His search did not include electronics.
 Rather, he told Leo Rosen to find quick ways to extend the power of
 
-::: {style="width: 40.29792238337907%;"}
-:::
 
 (TS//SI) Gee Whizzer
 
@@ -1255,7 +1248,6 @@ Page SO
 
 
 
-TOP OCCRnV/COMINTOREL TO USA, AU8, CAM, OBR ANP WZU/XI
 
 the IBM machines that were beginning to arrive at his offices in greater
 numbers. Rosen\'s first task was to learn how automatic anagramming
@@ -1327,11 +1319,9 @@ get IBM\'s Tom Watson to agree to help the navy.
 (U//FOUO) An IBM executive immediately came to Washington, listened to
 the ideas of Pete
 
-TOP GCORETOOOMlHTf/nCL TO UCA, AtiS, CAM, GOR AMD H2U/X1
 
 
 
-IUH S&UKblJ/lUIVIINUIKbL I\'O USA, AUS, CAW, QBR diiJ NZL//XI
 
 Deffert and Lou Holland, and gave his blessing to their hopes for
 advances more radical than just attaching relay boxes to standard
@@ -1428,7 +1418,7 @@ innovative mathematical cryptanalytic capability, he argued, other
 signals intelligence resources had to be exploited. Wenger argued that
 codes and ciphers were becoming too complex to crack with available
 techniques, and, as important, an enemy\'s frequent changes of systems
-would always create blackouts at the most critical moments.89
+would always create blackouts at the most critical moments. 89
 
 \(U) Wenger had become America\'s advocate for what became known as
 \"traffic analysis.\" He had spent years studying and developing T/A In
@@ -1464,7 +1454,7 @@ considered essential. The SIS had also begun to appreciate T/A and sent
 its top men to the Canal Zone and Hawaii to establish intercept and
 processing sites. Those investments were inescapable. With America and
 Britain unable to read the most important German systems, T/A was the
-only hope in the West.93
+only hope in the West. 93
 
 \(U) T/A had its limits, however. It could not reveal long-term plans; it
 gave just a picture of immediate intentions. It had other imperfections
@@ -1577,7 +1567,7 @@ the cryptanalysts could not use. Wenger began an attempt to shift power
 back to OP-20-G. A search was begun for experienced engineers to augment
 the \"M\" group. By the end of 1942 OP-20-G had some of the leading men
 in computer electronics. Through formal and informal means, the name
-\"M\" came to mean machinery as well as mathematics.96
+\"M\" came to mean machinery as well as mathematics. 96
 
 \(U) Wenger convinced the bureau to give OP20-G\'s Rapid Machine program
 near autonomy as well as its own facility and workforce. But it took a
@@ -1987,7 +1977,6 @@ Community in Modern America (New York: Knopf, 1978), 296.
 
 
 
-TOP OCOnCTOOOMINT/fnCL TO USA AUS, CAM, fiRP mri N7I HY1
 
 65\. (U) Ronald W. Clark, Timrd (Cambridge: MIT Press, 1965).
 

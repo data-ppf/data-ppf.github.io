@@ -92,14 +92,14 @@ that a pulse-based system, even with the plates, would be too complex.
 Thus, an electric measuring system was built into the IC machine. There
 was no counting, just a recognition that enough light had penetrated to
 the photocell. The analyst would then tally the overlapped dots or find
-their locations within a message.4
+their locations within a message. 4
 
 \(U) Although comparatively simple, the IC machines had deficiencies. It
 was very difficult to coax the data camera to place the dots on the
 plates in perfect alignment; that problem continued throughout the war.
 The IC machines themselves had to be redesigned and reworked during
 1943. Perhaps as many as one half of all the machines were inoperable at
-any one moment.5
+any one moment. 5
 
 \(U) Haste and Conjiision
 
@@ -135,10 +135,9 @@ the ideas for tape drives that Bush and Howard had explored. Rather, two
 large message tapes were wound around a large hydraulically controlled
 drum. As the drum spun at a very high speed, the tapes inched back and
 offset themselves. When the photoelectric detector sensed a \"hit,\" the
-drum slammed to a stop.7
+drum slammed to a stop. 7
 
 
-TOP SEGRETOCQMINTOREl TQ USA, AUS, CAM, GBR AND NZI »X1
 
 
 
@@ -150,7 +149,7 @@ engineers drew up initial plans for a combination of tape readers,
 electronic circuits to strip the additives, and a set of whirling disks
 that were to hold frequently used code groups. An Edgerton flash lamp
 was to help to see if the stripped text groups matched one of the codes
-on the disks.8
+on the disks. 8
 
 (S//SI) The disk contraption was not delivered to the navy, but
 Eastman\'s initial attempt to turn Bush\'s Rapid Document \"Selector\"
@@ -189,7 +188,7 @@ quickly developed, then sent to the analysts who would trace the groups
 and begin their attempt to break the codes.10 There was no ability to
 reproduce the code groups, and there was no ability totally. Those
 features, Howard knew, would ask too much ofthe engineers working under
-pressure - even of Eastman\'s experts.11
+pressure - even of Eastman\'s experts. 11
 
 \(U) The Eastman group put in a great deal of overtime and was able to
 send a machine to Washington in September 1942. RAM-2, or Tessie I, was
@@ -198,13 +197,13 @@ as high. On one end was the drive mechanism for the data microfilms. On
 the other was a huge round canister-like component that housed some
 ofthe electronics and the photographic reproduction equipment. On top
 ofthe canister was a rack of tubes that could not be squeezed into the
-machine\'s frame.12
+machine\'s frame. 12
 
 -\^Although ugly, Tessie raised expectations about the Eastman portion
 ofthe RAM program. A great deal of equipment was ordered to support
 Tessie\'s work. Fifty- and sixty-foot metal developing trays, film
 drying racks, and hundreds of pounds of chemicals began arriving at the
-cramped \"G\" headquarters.13
+cramped \"G\" headquarters. 13
 
 -(&)- Tessie failed, however. In its first runs it missed almost all the
 coincident tetragraphs. When it did find a \"hit,\" it refused to
@@ -214,8 +213,6 @@ produce the record of it on its internal film. The Edgerton
 
 
 
-::: {style="width: 51.84313725490196%;"}
-:::
 
 1943 to replace many of the circuits and to design a new flash system.
 The machine did begin to do a bit of work. It was put to use in an
@@ -236,12 +233,12 @@ dots the Tessie light bank data camera produced spill over onto each
 other, making recognition impossible. That added to the difficulties of
 making the camera light bank behave. Some of the problems with the
 camera were fixed, but it took longer to find a way to compensate for
-the chemistry of the District\'s water supply.14
+the chemistry of the District\'s water supply. 14
 
 -fT8\> One of Tessie\'s weaknesses was very embarrassing for the
 engineers. It missed \"hits\" that were too close together. The special
 warning circuit Howard and his men had devised to solve the problem
-would not behave.15
+would not behave. 15
 
 (SJThroughout fall 1942 Tessie was too unreliable to be used as an
 operational machine. Finally, it was decided to make a major investment
@@ -254,7 +251,7 @@ almost all of January
 simple type of search for \"isomorphs.\" Asa result, the new Tessie used
 only a few ideas from Bush\'s 1930s proposal for a navy \"Symmetrical
 Sequence\" engine. In its new life, it no longer reproduced hit
-locations on film. The flash camera was abandoned in favor of a punch.18
+locations on film. The flash camera was abandoned in favor of a punch. 18
 
 (TS//8I) Codebreakers search for anything that is nonrandom. When they
 can find patterns that are obviously not produced by chance alone, they
@@ -293,7 +290,7 @@ Machine. What emerged from the workshops in early 1944 became known as
 Tessie SS. The reborn Tessie was still a six-byseven-foot monster, but
 it had been stripped of many of its most sophisticated components.
 However, it finally worked, and it saved a great deal of analyst and, as
-important, recoding time.20
+important, recoding time. 20
 
 mechanism like the ones built for the paper tape Comparator. When the
 photocell spotted a repeated letter, it ordered the two tapes to be
@@ -343,7 +340,6 @@ Tessie.512 Icky was a film version of the IC plate machine, and it was
 able to do a primitive analog ICtest, but it just located. It did not
 make copies or count. It had no reproducing cameras and it
 
-TOP GECnET//OOMINT//HEL TO UGA, AU0» OAN, ODR AND HZU/X1
 
 
 
@@ -445,14 +441,14 @@ that a matched column would admit no light. Atwo-of-five character
 
 
 code allowed the use of that reciprocal scheme, but Ick/s scanner could
-also accommodate Bush\'s older one-of-twenty-six pattern.24
+also accommodate Bush\'s older one-of-twenty-six pattern. 24
 
 \(U) A Machine for Mrs. Driscoll\'s Special Problem
 
 \(U) Eastman designed and built another of the very few types of
 microfilm machines used by OP-20-G during the war. The Hypo assignment
 came in a rush, and, like Tessie, it took a year to complete.25 The
-first Hypo was not in operation until October 1943.26
+first Hypo was not in operation until October 1943. 26
 
 \(U) The name, Hypo, came from the \"Hypothetical Machine\" proposal
 drawn up in response to the early requests by Mrs. Driscoll\'s Enigma
@@ -470,7 +466,7 @@ hoped that large files (catalogs) could be constructed showing how each
 combination of enciphering wheels would \"develop\" high frequency
 letters, digraphs, or very common words. This \"catalog\" approach was
 not considered a \"cribbing\" attack; it was seen at the time as a
-statistical method although counting was not required.29
+statistical method although counting was not required. 29
 
 fT0//S9- Constructing catalogs was very laborious. There had to be a
 card for each wheel combination and order, and for each position of the
@@ -504,12 +500,12 @@ high-speed machine meant creating a separate roll of film for each wheel
 combination. One was needed for each combination of the Enigma\'s slow
 and medium wheels and its reflector. Each frame on a film recorded the
 output of high frequency letters for a wheel position. A minimum set of
-the master films was fifty-six, each with over 17,000 frames.33
+the master films was fifty-six, each with over 17,000 frames. 33
 
 £KS//St) The preparation of the message film involved as much
 cryptanalytic persistence as did creating the \"catalog\" films. In one
 of the most common uses of Hypo, ciphertext was partially deciphered by
-pulling out the influence of the presumed stecker and fast wheel.34
+pulling out the influence of the presumed stecker and fast wheel. 34
 Then, the new text was put through a crude Letterwriter tape machine
 that recorded the text as tiny dots on microfilm. After that, an analyst
 had to wait the many minutes while the film was developed,
@@ -521,7 +517,7 @@ IUH bbCKfcll/lUMINIJJKbL IU UbA, AUt\>, LAW, bBK WW NZU/Al
 
 dried, and checked for possible defects. Producing the message film grew
 so burdensome that IBM and Eastman were ordered to cooperate to build a
-very expensive but labor saving card-tofilm camera system for Hypo.35
+very expensive but labor saving card-tofilm camera system for Hypo. 35
 
 \(U) The Americans were so desperate for their own solution to the Enigma
 problem in 1942 that they did not want to admit to the limitations of
@@ -532,7 +528,7 @@ position (window setting) for the Enigma wheels.36 That was all it could
 do, and that was why only two Hypos were built by Eastman during the
 war.37 Although OP-20-G\'s leaders might have envisioned rooms full of
 Hypos, each running a catalog film against a message, they soon came to
-treat the Eastman machine as only an adjunct to the Bombes.38
+treat the Eastman machine as only an adjunct to the Bombes. 38
 
 \(U) Hypo looked and behaved much like Icky. It used two 35mm films. It
 was based on dot cod
@@ -556,8 +552,6 @@ enciphering-wheel positions were identified simply by enough light
 reaching a photocell. When the machine stopped, its operator wrote down
 the location of the hit.
 
-::: {style="width: 47.68627450980392%;"}
-:::
 
 \(U) Hypo was an analog machine designed to locate. It was not coaxed to
 tally until the end of the war. Even then, it remained a very simple
@@ -604,7 +598,7 @@ of the second tape, stopping when a match was sensed.
 between 1943 and 1945.42 They seemed so promising when they were first
 designed that Britain asked for two. Later, its codebreakers decided
 against the machines, and the two were sent to the army\'s men at
-Arlington Hall.43
+Arlington Hall. 43
 
 \(U) The World War II paper tape. Comparator proved an essential tool for
 the jobs that needed tallying, but, unfortunately, the new machines
@@ -616,13 +610,13 @@ speed, eighty-five characters a second.
 the war. Like the original Bush Comparator, the 1943 device printed
 every result, appreciably slowing its performance. To speed it, an
 electronic circuit was added that allowed printing only when a highly
-improbable level of coincidence was computed.44
+improbable level of coincidence was computed. 44
 
 \(U) The task of making a reliable punch was probably turned over to a
 Bass River, Massachusetts, firm. But even an expert private manufacturer
 could not overcome the punch\'s difficulties. The Oano Company had a
 tough time with the design and soon separated itself from the Comparator
-project.45
+project. 45
 
 \(U) By late 1942, the Comparator seemed destined to fail again. There
 was too much for Meader and Howard to keep under control.
@@ -645,9 +639,9 @@ engineers had to spend a great deal more of their valuable time
 
 
 reworking the comparing and counter-printer units. That further delayed
-putting it to use.46
+putting it to use. 46
 
-\(U) The new Comparator did not go into operation until November 1943.47
+\(U) The new Comparator did not go into operation until November 1943. 47
 
 \(U) By then, the relations between Gray and OP-20-G had become quite
 tense. What the navy interpreted as disorganization in New York had much
@@ -746,8 +740,6 @@ tape approach would be best.
 \(U) More than a year was spent searching for a new tape and designing a
 revolutionary punch.
 
-::: {style="width: 48.21638573108585%;"}
-:::
 
 After testing many materials, including aluminum foil, a 70mm opaque
 polystyrene tape was selected. It had the stability needed for very
@@ -808,7 +800,7 @@ various code groups in the message being analyzed. When the message
 group and its frequency matched the composition of a group on the memory
 film, the film\'s entry was recorded by a fastflash system. After the
 run, the new film was developed and sent to an analyst who used the
-information to help decrypt the message.31
+information to help decrypt the message. 31
 
 (TS//SI) After the first lash-up came a series of increasingly complex
 \"Full Selectors.\" By the end of 1942, the first model had been
@@ -818,7 +810,7 @@ Mercury.
 
 (TS//8I) Although the hopes for a huge electronic version were defeated,
 Mercury became a room full of relay racks that performed a sophisticated
-\"weighted dictionary look-up\" test to identify code groups.52
+\"weighted dictionary look-up\" test to identify code groups. 52
 Unfortunately for the navy, Mercury was not working until the summer of
 1945
 
@@ -827,7 +819,7 @@ Unfortunately for the navy, Mercury was not working until the summer of
 \(U) While Wenger worried about the absence offunctioning Rapid Machines,
 those who had advocated the development of older technologies seemed to
 be vindicated. The old timers were in charge of tabulator development,
-and in 1942 they were the ones delivering cryptanalytic results.53
+and in 1942 they were the ones delivering cryptanalytic results. 53
 
 \(U) IBM sent all the tabulators and sorters and collators OP-20-G could
 make room for, and the company began to create a host of very powerful
@@ -841,7 +833,7 @@ jpp cEPBtTiirflyiiiTTinri Tnini mi r,uu i.mj inumu;i))«l
 
 
 
-edin the hundreds, and they used millions of punch cards a week.54
+edin the hundreds, and they used millions of punch cards a week. 54
 
 \(U) Acquiring standard IBM machines was relatively easy. Alone among
 almost all business machine manufacturers, IBM had been permitted to
@@ -872,7 +864,7 @@ proposals for IBM equipment were the Navy Change (NC) machines.
 \(U) The NC machines were more than standard tabs with a few additions
 hung on them. Some of the thirteen types of Navy Change machines came
 close to being special relay computers. Others had special high-speed
-electromechanical accumulators and some had electronic tubes.57
+electromechanical accumulators and some had electronic tubes. 57
 
 \(U) With the outbreak of war, the tabulator group at \"G\" was able to
 expand and to convince IBM to produce specialized equipment. IBM and the
@@ -909,9 +901,8 @@ networks, it took
 
 
 
-■ICJP SKlKEIXtOMINDmftL IU USA, AUS, IAN, GBR WW NZU)AI
 
-weeks to send all but the most vital messages from the Pacific.58
+weeks to send all but the most vital messages from the Pacific. 58
 
 \(U) There are somewhat conflicting stories about the origins of the
 Letterwriter (CXCO) equipment, perhaps because its prehistory was linked
@@ -950,8 +941,6 @@ the typewriters were modified to allow the printing of more
 sophisticated worksheets. Flugboxes were added which allowed complex
 substitutions
 
-::: {style="width: 72.67738141905136%;"}
-:::
 
 
 
@@ -1005,8 +994,6 @@ typewriter. But it was able to perform faster than the tabulators and to
 fulfill functions too complex for the electronic Rapid Machines of the
 era.
 
-::: {style="width: 56.00000000000001%;"}
-:::
 
 
 Pige77
