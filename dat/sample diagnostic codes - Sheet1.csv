@@ -1,0 +1,185 @@
+dx,desc
+30,salmonella gastroenteritis; salmonella enteritis
+31,salmonella septicemia; salmonella septicemia
+32,localized salmonella infections; local salmonella infect*
+320,localized salmonella infections; local salmonella inf nos
+321,localized salmonella infections; salmonella meningitis
+322,localized salmonella infections; salmonella pneumonia
+323,localized salmonella infections; salmonella arthritis
+324,localized salmonella infections; salmonella osteomyelitis
+329,localized salmonella infections; local salmonella inf nec
+38,other specified salmonella infections; salmonella infection nec
+39,salmonella infection;  unspecified
+4,shigellosis; shigellosis*
+40,shigella dysenteriae; shigella dysenteriae
+41,shigella flexneri; shigella flexneri
+42,shigella boydii; shigella boydii
+43,shigella sonnei; shigella sonnei
+48,other specified shigella infections; shigella infection nec
+49,shigellosis;  unspecified
+5,other food poisoning (bacterial); other food poisoning*
+50,staphylococcal food poisoning; staph food poisoning
+51,botulism; botulism
+52,"food poisoning due to clostridium perfringens [c. welchii]; food pois d/t 
+c. perfrin"
+53,food poisoning due to other clostridia; food pois: clostrid nec
+54,food poisoning due to vibrio parahaemolyticus; food pois: v. parahaem
+58,other bacterial food poisoning; bact food poisoning nec*
+581,other bacterial food poisoning; food poisn d/t v. vulnif
+589,other bacterial food poisoning; bact food poisoning nec
+59,food poisoning;  unspecified
+380,streptococcal septicemia; streptococcal septicemia
+3840,septicemia due to other gram-negative organisms; gram-neg septicemia nos
+388,other specified septicemias; septicemia nec
+1940,malignant neoplasm of adrenal gland; malign neopl adrenal
+1946,"malignant neoplasm of aortic body & other paraganglia; mal neo paraganglia 
+nec"
+1981,secondary malignant neoplasm of other urinary organs; sec malig neo urin nec
+1984,"secondary malignant neoplasm of other parts of nervous system; sec malig 
+neo nerve nec"
+1985,secondary malignant neoplasm of bone & bone marrow; secondary malig neo bone
+19889,"secondary malignant neoplasm of other specified sites; secondary malig neo 
+nec"
+2765,volume depletion disorder; hypovolemia
+2798,"other specified disorders involving the immune mechanism; immune mechanism 
+dis nec"
+2848,other specified aplastic anemias; aplastic anemias nec
+2859,anemia;  unspecified
+2866,defibrination syndrome; defibrination syndrome
+2880,agranulocytosis; agranulocytosis
+5953,trigonitis; trigonitis
+5997,hematuria; hematuria
+78559,shock without mention of trauma; shock w/o trauma nec
+7882,retention of urine; retention of urine*
+99662,"infection & inflammatory reaction due to internal prosthetic device; 
+react-oth vasc dev/graft"
+e8589,accidental poisoning by other drugs; acc poisoning-drug nos
+e860,accidental poisoning by alcohol;  not elsewhere classified
+e8600,accidental poisoning by alcohol; acc poisn-alcohol bevrag
+e8601,accidental poisoning by alcohol; acc poison-ethyl alcohol
+e8602,accidental poisoning by alcohol; acc poisn-methyl alcohol
+e8603,accidental poisoning by alcohol; acc poisn-isopropyl alc
+e8604,accidental poisoning by alcohol; acc poison-fusel oil
+e8608,accidental poisoning by alcohol; acc poison-alcohol nec
+e8609,accidental poisoning by alcohol; acc poison-alcohol nos
+e861,accidental poisoning by cleansing and polishing agents;  disinfectants
+e8610,"accidental poisoning by cleansing and polishing agents; acc pois-synth 
+detergent"
+e8611,"accidental poisoning by cleansing and polishing agents; acc poison-soap 
+products"
+e8612,accidental poisoning by cleansing and polishing agents; acc poison-polishes
+e8613,"accidental poisoning by cleansing and polishing agents; acc poison-cleanser 
+nec"
+e8614,"accidental poisoning by cleansing and polishing agents; acc 
+poison-disinfectants"
+e8615,"accidental poisoning by cleansing and polishing agents; acc poison-lead 
+paints"
+e8616,"accidental poisoning by cleansing and polishing agents; acc poison-paints 
+nec"
+e8619,"accidental poisoning by cleansing and polishing agents; acc poison-cleanser 
+nos"
+e862,accidental poisoning by petroleum products;  other solvents and their vapors
+e8620,accidental poisoning by petroleum products; acc poisn-petrol solvent
+e8621,accidental poisoning by petroleum products; acc poisn-petroleum fuel
+e8622,accidental poisoning by petroleum products; acc pois-lubricating oil
+e8623,accidental poisoning by petroleum products; acc pois-petroleum solid
+e8624,accidental poisoning by petroleum products; acc poisn-solvents nec
+e8629,accidental poisoning by petroleum products; acc poisn-solvent nos
+e863,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+pois-agricul agt nec*"
+e8630,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+pois-chlorine pestic"
+e8631,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+pois-phosph pesticid"
+e8632,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+poison-carbamates"
+e8633,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+poisn-mixed pesticid"
+e8634,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+poison-pesticide nec"
+e8635,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+poison-herbicides"
+e8636,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+poison-fungicides"
+e8637,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+poison-rodenticides"
+e8638,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+poison-fumigants"
+e8639,"accidental poisoning by agricultural and horticultural chemical and 
+pharmaceutical preparations other than plant foods and fertilizers; acc 
+pois-agrcult nec/nos"
+e864,accidental poisoning by corrosives and caustics;  not elsewhere classified
+e8640,accidental poisoning by corrosives and caustics; acc pois-corrosiv aromat
+e8641,accidental poisoning by corrosives and caustics; acc poison-acids
+e8642,accidental poisoning by corrosives and caustics; acc poisn-caustic alkali
+e8643,accidental poisoning by corrosives and caustics; acc poison-caustic nec
+e8644,accidental poisoning by corrosives and caustics; acc poison-caustic nos
+E9307,antibiotics; adv eff antineop antbiot
+E9331,primarily systemic agents; adv eff antineoplastic
+V581,maintenance chemotherapy; chemotherapy encounter
+v621,adverse effects of work environment; adverse eff-work environ
+v622,other occupational circumstances or maladjustment; occup circumstances nec
+v623,educational circumstances; educational circumstance
+v624,social maladjustment; social maladjustment
+v625,legal circumstances; legal circumstances
+v626,"refusal of treatment for reasons of religion or conscience; refusal of 
+treatment"
+v628,other psychological or physical stress;  not elsewhere classified
+v6281,other psychological or physical stress; interpersonal probl nec
+v6282,other psychological or physical stress; bereavement
+v6283,other psychological or physical stress; cnsl perp phys/sex abuse
+v6289,other psychological or physical stress; psychological stress nec
+v629,unspecified psychosocial circumstance; psychosocial circum nos
+v63,"unavailability of other medical facilities for care; no med facility for 
+care*"
+v630,"residence remote from hospital or other health care facility; home remote 
+from hospitl"
+v631,medical services in home not available; no medical serv in home
+v632,"person awaiting admission to adequate facility elsewhere; wait adm to oth 
+facility"
+v638,"other specified reasons for unavailability of medical facilities; no med 
+facilities nec"
+v639,"unspecified reason for unavailability of medical facilities; no med 
+facilities nos"
+v64,"persons encountering health services for specific procedures;  not carried 
+out"
+v640,"vaccination not carried out because of contraindication; no 
+vaccin/contraindicat"
+v641,"surgical or other procedure not carried out because of contraindication; no 
+proc/contraindication"
+v642,"surgical or other procedure not carried out because of patient"" s decision; 
+no proc/patient decision"
+v643,procedure not carried out for other reasons; no proc for reasons nec
+v644,procedure not carried out for other reasons; lap surg convert to open
+v65,"other persons seeking consultation without complaint or sickness; other 
+reason for consult*"
+v650,healthy person accompanying sick person; healthy person w sick
+v651,person consulting on behalf of another person; person consult for anoth
+v652,person feigning illness; person feigning illness
+v653,dietary surveillance & counseling; dietary surveil/counsel
+v654,other counseling;  not elsewhere classified
+v6540,other counseling; counseling nos
+v6541,other counseling; exercise counseling
+v6542,other counseling; counslng sbstn use abuse
+v6543,other counseling; counseling injry prevent
+v6544,other counseling; hiv counseling
+v6545,other counseling; consln ot sex trnsmt dis
+v6549,other counseling; other specfd counseling
+v655,"person with feared complaint in whom no diagnosis was made; persn w feared 
+complaint"
+v658,other reasons for seeking consultation; reason for consult nec
+v659,unspecified reason for consultation; reason for consult nos
+v66,convalescence; convalescence*
+v660,convalescence following surgery; surgical convalescence
+v661,convalescence following radiotherapy; radiotherapy convalescen
+v662,convalescence following chemotherapy; chemotherapy convalescen
