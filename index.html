@@ -1,365 +1,118 @@
-<!doctype html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-  <title>data: past, present, and future</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Data: Past, Present, and Future</title>
 
+  <!-- Stylesheets -->
   <link rel="stylesheet" href="stylesheets/styles.css" />
   <link rel="stylesheet" href="stylesheets/github-light.css" />
-  <meta name="viewport" content="width=device-width" />
+
+  <!-- HTML5 Support for Older Browsers -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
+</head>
 
-  <!--GOOG-->
-  <script
-    async
-    src="https://www.googletagmanager.com/gtag/js?id=UA-112049789-1"
-  ></script>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Data: Past, Present, and Future</h1>
+      <p>
+        Course page for Spring 2024-HSAM
+        <a href="https://doc.sis.columbia.edu/#subj/HSAM/UN2901-20241-001/" target="_blank">UN2901</a>
+      </p>
+      <nav>
+        <p><a href="https://github.com/data-ppf/data-ppf.github.io/wiki/Syllabus">Syllabus</a></p>
+        <p><a href="https://github.com/data-ppf/data-ppf.github.io/wiki">Lectures, Labs, and Resources</a></p>
+        <p><a href="https://github.com/data-ppf/data-ppf.github.io/wiki/FAQ">FAQ/HW/Grading</a></p>
+      </nav>
+    </header>
 
+    <section>
+      <h2>The Class</h2>
+      <ul>
+        <li>
+          Open to students in SEAS, CC, GS, and GSAS:
+          <ul>
+            <li>CC/GS: Fulfills one science requirement.</li>
+            <li>SEAS: Counts towards "nontech elective" credit.</li>
+            <li>BC: Satisfies T&D general education requirement.</li>
+            <li>History majors: Counts as a history course.</li>
+          </ul>
+        </li>
+        <li>
+          No prerequisites or programming experience required.
+          <br />
+          Tools: Pre-authored
+          <a href="https://en.wikipedia.org/wiki/Notebook_interface" target="_blank">notebooks</a> via
+          <a href="https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c" target="_blank">Google
+            Colab</a>.
+        </li>
+        <li>
+          Additional information: See the
+          <a href="http://www.columbia.edu/itc/applied/wiggins/ppf.pdf" target="_blank">2016 COI proposal</a>.
+        </li>
+        <li>
+          <a href="https://docs.google.com/presentation/d/17WCetEYvYnKCfRLJ25A1w7AKE1P6HLvntTRI0OSNn-Q/edit"
+            target="_blank">Slides</a> from Day 1 (Jan 12, 2021).
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Find Out More</h2>
+      <ul>
+        <li><a href="http://columbiaspectator.com/news/2016/10/18/new-columbia-class-aims-contextualize-data-history-society" target="_blank">Columbia Spectator (October 2016)</a></li>
+        <li><a href="http://news.columbia.edu/content/Collaboratory-Columbia-to-Embed-Data-Literacy-Throughout-Curriculum" target="_blank">Columbia Record (February 2017)</a></li>
+        <li><a href="http://magazine.columbia.edu/news/spring-2017/collaboratory-courses-demystify-big-data-for-non-specialists" target="_blank">Columbia Magazine (Spring 2017)</a></li>
+        <li><a href="http://datascience.columbia.edu/ethics-data-and-product" target="_blank">Data Science Institute's Voices (December 2017)</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <p><small>Hosted on GitHub Pages</small></p>
+      <script src="javascripts/scale.fix.js"></script>
+    </footer>
+  </div>
+
+  <!-- Analytics Scripts -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112049789-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() {
       dataLayer.push(arguments);
     }
     gtag("js", new Date());
-
     gtag("config", "UA-112049789-1");
   </script>
-  <!--/GOOG-->
 
-  <!--FB-->
-  <!-- Facebook Pixel Code -->
+  <!-- Facebook Pixel -->
   <script>
     !(function (f, b, e, v, n, t, s) {
       if (f.fbq) return;
       n = f.fbq = function () {
-        n.callMethod
-          ? n.callMethod.apply(n, arguments)
-          : n.queue.push(arguments);
+        n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
       };
-      if (!f._fbq) f._fbq = n;
       n.push = n;
-      n.loaded = !0;
+      n.loaded = true;
       n.version = "2.0";
       n.queue = [];
       t = b.createElement(e);
-      t.async = !0;
+      t.async = true;
       t.src = v;
       s = b.getElementsByTagName(e)[0];
       s.parentNode.insertBefore(t, s);
-    })(
-      window,
-      document,
-      "script",
-      "https://connect.facebook.net/en_US/fbevents.js",
-    );
-    fbq("init", "520551528318708", {
-      em: email_var,
-      fn: fname_var,
-      ln: lname_var,
-      ph: pnum_var,
-      ge: gender_var,
-      db: dob_var,
-      ct: city_var,
-      st: state_var,
-      zp: zip_var,
-    });
-    fbq("track", "PageView");
-  </script>
-  <noscript
-    ><img
-      height="1"
-      width="1"
-      style="display: none"
-      src="https://www.facebook.com/tr?id=520551528318708&ev=PageView&noscript=1"
-  /></noscript>
-  <!-- End Facebook Pixel Code -->
-  <!--/FB-->
-
-  <!--FB Biz-->
-  <!-- Facebook Pixel Code -->
-  <script>
-    !(function (f, b, e, v, n, t, s) {
-      if (f.fbq) return;
-      n = f.fbq = function () {
-        n.callMethod
-          ? n.callMethod.apply(n, arguments)
-          : n.queue.push(arguments);
-      };
-      if (!f._fbq) f._fbq = n;
-      n.push = n;
-      n.loaded = !0;
-      n.version = "2.0";
-      n.queue = [];
-      t = b.createElement(e);
-      t.async = !0;
-      t.src = v;
-      s = b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t, s);
-    })(
-      window,
-      document,
-      "script",
-      "https://connect.facebook.net/en_US/fbevents.js",
-    );
-    fbq("init", "132631677534268", {
-      em: var2_email,
-      fn: var2_fname,
-      ln: var2_lname,
-      ph: var2_phone,
-      ge: var2_gender,
-      db: var2_dob,
-      ct: var2_city,
-      st: var2_state,
-      zp: var2_zip,
-    });
-    fbq("track", "PageView");
-  </script>
-  <noscript
-    ><img
-      height="1"
-      width="1"
-      style="display: none"
-      src="https://www.facebook.com/tr?id=132631677534268&ev=PageView&noscript=1"
-  /></noscript>
-  <!-- End Facebook Pixel Code -->
-
-  <!--/FB Biz-->
-
-  <!--FB Biz 2018-12-14T10h57 -->
-  <!-- Facebook Pixel Code -->
-  <script>
-    !(function (f, b, e, v, n, t, s) {
-      if (f.fbq) return;
-      n = f.fbq = function () {
-        n.callMethod
-          ? n.callMethod.apply(n, arguments)
-          : n.queue.push(arguments);
-      };
-      if (!f._fbq) f._fbq = n;
-      n.push = n;
-      n.loaded = !0;
-      n.version = "2.0";
-      n.queue = [];
-      t = b.createElement(e);
-      t.async = !0;
-      t.src = v;
-      s = b.getElementsByTagName(e)[0];
-      s.parentNode.insertBefore(t, s);
-    })(
-      window,
-      document,
-      "script",
-      "https://connect.facebook.net/en_US/fbevents.js",
-    );
-    fbq("init", "216660465928628");
+    })(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
+    fbq("init", "520551528318708");
     fbq("track", "PageView");
   </script>
   <noscript>
-    <img
-      height="1"
-      width="1"
-      src="https://www.facebook.com/tr?id=216660465928628&ev=PageView
-&noscript=1"
-    />
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=520551528318708&ev=PageView&noscript=1" />
   </noscript>
-  <!-- End Facebook Pixel Code -->
-  <!--/FB Biz 2018-12-14T10h57 -->
+</body>
 
-  <!-- end surveillance capitalism -->
-</head>
-<div class="wrapper">
-  <header>
-    <h1>data: past, present, and future</h1>
-    <p>
-      course page for Spring 2024-HSAM
-      <a href="https://doc.sis.columbia.edu/#subj/HSAM/UN2901-20241-001/"
-        >UN2901</a
-      >
-      <!--
-  <a href="http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/HSAM/UN2901-20231-001">UN2901</a>
--->
-    </p>
-
-    <p class="view">
-      <a href="https://github.com/data-ppf/data-ppf.github.io/wiki/Syllabus"
-        >Syllabus</a
-      >
-    </p>
-    <p class="view">
-      <a href="https://github.com/data-ppf/data-ppf.github.io/wiki"
-        >other links: Lectures, Labs, and Resources</a
-      >
-    </p>
-    <p class="view">
-      <a href="https://github.com/data-ppf/data-ppf.github.io/wiki/FAQ"
-        >FAQ/HW/Grading</a
-      >
-    </p>
-  </header>
-  <section>
-    <p>data: past present and future;</p>
-    <ul>
-      <li>
-        professors:
-        <!--a href="http://www.columbia.edu/~mj340/">matt jones</a> -->
-        <a
-          href="https://scienceandsociety.columbia.edu/directory/madisson-whitman"
-          >Madi Whitman</a
-        >
-        &amp;
-        <a href="http://www.columbia.edu/~chw2/">chris wiggins</a>
-      </li>
-      <li>
-        class time: MW 11:40am-12:55pm;
-        <a href="https://www.apam.columbia.edu/map-mudd-building"
-          >303 Seeley W. Mudd Building</a
-        >
-        <!--
-<li>
-Grader Office hours (for Python & coding questions):
-  <ul>
-  <li>
-  Yamini Ananth:
-  Tue 17.00-19.00
-  <br>
-  Mathematics 508
-  <li>
-  Will O'Brien:
-  Wed 18.00-20.00
-  <br>
-  Mathematics 508
-  <li>
-  Fraye Beyene: 
-  Thurs 15.00-17.00
-  <br>
-  Mathematics 508
-  </ul>
-<li>
-TA Office hours (for all other questions), please DM via 
-<a href="http://data-ppf.slack.com">data-ppf.slack.com</a>
-for questions:
-  <ul>
-  <li>
-  James Buckley:
-  Thurs 13.00-14.00
-  <br>
-  Cafe Wallabout (Avery Basement)
-  <li>
-  Jamie Nadal:
-  Thurs 14.30-16.30
-  <br>
-  The New York Basics (1090 Amsterdam Ave & 113th St)
-  </ul>
-</ul>
-</ul>
-</p>
--->
-
-        <h1>
-          <a id="the-class" class="anchor" href="#the-class" aria-hidden="true"
-            ><span aria-hidden="true" class="octicon octicon-link"></span></a
-          >The class
-        </h1>
-
-        <ul>
-          <li>
-            "data: past present and future" is open to students in SEAS, CC, GS,
-            and GSAS.
-          </li>
-          <ul>
-            <li>
-              CC/GS students: The course satisfies one science requirement
-            </li>
-            <li>SEAS students: The counts towards "nontech elective" credit</li>
-            <li>
-              BC students: This course satisfies Barnard's T&D general education
-              requirement.
-            </li>
-            <li>
-              History majors: this course counts as a history course for history
-              major.
-            </li>
-          </ul>
-          <li>
-            although we will code in Python no prerequisites and no programming
-            experience is required (we will be using pre-authored
-            <a href="https://en.wikipedia.org/wiki/Notebook_interface"
-              >notebooks</a
-            >
-            and using Google's
-            <a
-              href="https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c"
-              >Colab</a
-            >; you will not need to install anything).
-          </li>
-          <li>
-            For more information on the course please see the 2016 COI proposal
-            <a href="http://www.columbia.edu/itc/applied/wiggins/ppf.pdf"
-              >here</a
-            >.
-          </li>
-          <li>
-            <a
-              href="https://docs.google.com/presentation/d/17WCetEYvYnKCfRLJ25A1w7AKE1P6HLvntTRI0OSNn-Q/edit"
-              >Slides</a
-            >
-            from Day 1 (Jan 12, 2021)
-          </li>
-        </ul>
-
-        <h1>
-          <a
-            id="find-out-more"
-            class="anchor"
-            href="#find-out-more"
-            aria-hidden="true"
-            ><span aria-hidden="true" class="octicon octicon-link"></span></a
-          >Find out more
-        </h1>
-
-        <ul>
-          <li>
-            Please do read
-            <a
-              href="http://columbiaspectator.com/news/2016/10/18/new-columbia-class-aims-contextualize-data-history-society"
-              >this</a
-            >
-            article in the Columbia Spectator, October 2016.
-          </li>
-          <li>
-            Please do read
-            <a
-              href="http://news.columbia.edu/content/Collaboratory-Columbia-to-Embed-Data-Literacy-Throughout-Curriculum"
-              >this</a
-            >
-            article in the Columbia Record, February 2017.
-          </li>
-          <li>
-            Please do read
-            <a
-              href="http://magazine.columbia.edu/news/spring-2017/collaboratory-courses-demystify-big-data-for-non-specialists"
-              >this</a
-            >
-            article in the Columbia Magazine, Spring 2017.
-          </li>
-          <li>
-            Please do read
-            <a href="http://datascience.columbia.edu/ethics-data-and-product"
-              >this</a
-            >
-            Op-Ed in the Data Science Institute's <i>Voices</i> section,
-            December 2017.
-          </li>
-        </ul>
-
-        <!--
-calendar used to go here
--->
-        <p><small>Hosted on GitHub Pages</small></p>
-        <script src="javascripts/scale.fix.js"></script>
-      </li>
-    </ul>
-  </section>
-</div>
+</html>
